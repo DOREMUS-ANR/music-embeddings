@@ -1,30 +1,30 @@
-D Major
-E Minor
 C sharp Minor
-F Major
-G Major
-E Major
-F sharp Major
+A Major
 E flat Minor
-B Major
-E flat Major
-G Minor
-G flat Major
-B flat Major
-C Minor
-A Minor
-G sharp Minor
-C Major
-B flat Minor
-F Minor
 A flat Major
-A flat Minor
-F sharp Minor
 D flat Major
 D Minor
+D Major
+F sharp Major
+B flat Major
+B flat Minor
+G Minor
+G Major
 D sharp Minor
-A Major
-B Minor
-C flat Major
-A sharp Minor
 C sharp Major
+E Major
+F Minor
+E Minor
+G sharp Minor
+A flat Minor
+F sharp Minor
+C Minor
+B Minor
+G flat Major
+E flat Major
+A sharp Minor
+F Major
+B Major
+C Major
+C flat Major
+A Minor
