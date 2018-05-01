@@ -28,6 +28,7 @@ Considering musical keys as example, line 3 in the [URI file](https://github.com
 |key    | 30             |100| Musical keys (e.g. _C major_) | [Key vocabulary](http://data.doremus.org/vocabulary/key/) |
 |genre | 530 |80| Musical genres (e.g. _symphony_)| 6 vocabularies: [IAML](http://data.doremus.org/vocabulary/iaml/genre/), [Redomi](http://data.doremus.org/vocabulary/redomi/genre/), [Itema3](http://data.doremus.org/vocabulary/itema3/genre/), [Musical Doc of Itema3](http://data.doremus.org/vocabulary/itema3/genre/musdoc/), [Diabolo](http://data.doremus.org/vocabulary/diabolo/genre/), [Rameau](http://data.bnf.fr/ark:/12148/) |
 |mop|3.278|80|Medium of performance (instruments, voices, ensambles)|5 vocabularies:       [MIMO](http://www.mimo-db.eu/InstrumentsKeywords), [IAML](http://data.doremus.org/vocabulary/iaml/mop/), [Redomi](http://data.doremus.org/vocabulary/redomi/mop/), [Itema3](http://data.doremus.org/vocabulary/itema3/mop/),  [Diabolo](http://data.doremus.org/vocabulary/diabolo/mop/)|
+|function    | 96             |100| Artist function (e.g. _composer_, _conductor_) | [Function vocabulary](http://data.doremus.org/vocabulary/function/) |
 |artist|24.423|14|Composers, performers, conductors, groups|SPARQL query to [endpoint](http://data.doremus.org/sparql)|
 |expression|148.177|13|Musical works (i.e. _Moonlight Sonata_, _Bolero_, _Traviata_)|SPARQL query to [endpoint](http://data.doremus.org/sparql)|
 
