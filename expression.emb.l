@@ -1214,7 +1214,7 @@ Sequenza XIII
 Madrigaux
 Concertos
 Quatuor à cordes
-Messe, Si Deus pro Nobis, à huit choeurs	 (Sanctus)
+Messe, Si Deus pro Nobis, à huit choeurs  (Sanctus)
 Canzona à 5
 Quintettes
 Quatuor à cordes
@@ -5039,8 +5039,7 @@ Aspri rimorsi atroci
 Rhapsody in Blue (version jazzband)
 Letabundus
 Mazurka
-King Arthur (version de concert d’après la
-production du Théâtre du Capitole de Toulouse)
+King Arthur (version de concert d’après la production du Théâtre du Capitole de Toulouse)
 D'eissa la razo qu'en soill
 La gazza ladra
 4 Mazurkas
@@ -21638,7 +21637,7 @@ Motets
 Fughetta super Nun komm der Heiden Heiland
 Sinfonia camerata
 Es ist doch meine Nachbarin
-Le rossignol éperdu (extrait) :	Versailles : Le banc songeur
+Le rossignol éperdu (extrait) : Versailles : Le banc songeur
 El guanaco
 Dedans mon petit réduit
 Lakmé (extrait) : Lakmé ton doux regard se voile (Acte II) Air de Nilakantha
@@ -29958,8 +29957,7 @@ La pescatrice
 Form
 Intégrale des quatuors à cordes
 Diablotins
-Pulcinella
-(ballet en 1 acte avec chant)
+Pulcinella (ballet en 1 acte avec chant)
 Freikugeln
 Se canto
 Les Plaisirs de Versailles (extraits)
@@ -37668,7 +37666,7 @@ L'Annonciation
 Fiebre de tango
 With lowly suit
 Motet pour sainte Suzanne
-1488	Erasme prononce ses vœux chez les chanoines de Saint Agustin à Steyn
+1488 Erasme prononce ses vœux chez les chanoines de Saint Agustin à Steyn
 Dimini dolce Maria
 Monsieur le Sénéchal
 Concertos. Violoncelle, orchestre à cordes
@@ -60469,8 +60467,7 @@ Veilles de départ
 Dixit Dominus Domino meo
 Thèmes et paraphrases sur "Pierre et le loup"
 Laure Marie
-Liebeslieder Walzer op.52
-(pour voix et piano à 4 mains)
+Liebeslieder Walzer op.52 (pour voix et piano à 4 mains)
 Aelita, film de Yakov Protazanov, URSS, 1924
 Souvenir de Saint-Petersbourg
 Gluntarne. No 27
@@ -61763,7 +61760,7 @@ L'écho des bois
 In memoriam
 Trouville
 Divertimentos
-1458		Constantinople devient la capitale de l'Empire ottoman (1458). Mehmet II le Conquérant occupe Athènes (1458) et s'empare de toute la Serbie à l'exception de Belgrade (1459).
+1458 Constantinople devient la capitale de l'Empire ottoman (1458). Mehmet II le Conquérant occupe Athènes (1458) et s'empare de toute la Serbie à l'exception de Belgrade (1459).
 Les râteaux
 Etude de concert
 Mass for St Cecilia's Day
@@ -69626,7 +69623,7 @@ Dum complerentur dies Pentecostes
 Benedictus Deus et Pater
 Mazurka op. 56 n°2
 Sonate "à la princesse inconnue"
-David et Jonathas H 490 (extrait) : 	Choeur des triomphants (Acte V) Tutti
+David et Jonathas H 490 (extrait) :  Choeur des triomphants (Acte V) Tutti
 Motets. Voix, basse continue. Op. 12
 Quatuors. Cordes. Do mineur. Op. 51, no 1
 Fleur de lys
@@ -92998,10 +92995,7 @@ Largo de Xerxès
 Odelette
 Salve regina
 Magnificat en Ré Majeur BWV 243
-Peer Gynt, musique de scène Adaptation de concert réalisée par
-François Regnault et Didier Sandre
-à partir de la pièce de théâtre de
-Henrik Ibsen
+Peer Gynt, musique de scène Adaptation de concert réalisée par François Regnault et Didier Sandre à partir de la pièce de théâtre de Henrik Ibsen
 Symphonic variants
 Polka chinoise
 Poème
@@ -103655,10 +103649,7 @@ L'Armida immaginaria. Acte 1, scène 2. Catarina Catarinetta
 Quasi andante
 Marien-Walzer
 Aftonen
-Concerto pour quatre clavecins en fa majeur d'après le Concerto pour quatre violons en fa majeur op. 3 n°7 RV 567 Andante
-Adagio
-Allegro-Adagio
-Allegro
+Concerto pour quatre clavecins en fa majeur d'après le Concerto pour quatre violons en fa majeur op. 3 n°7 RV 567 Andante Adagio Allegro-Adagio Allegro
 Hurricane Come And Gone
 Les misérables
 Le sortilège
@@ -105328,7 +105319,7 @@ Ye choirs of New Jerusalem
 Petite suite
 6 suites
 Immortal Bach
-1487	Le  prince Djem, frère et rival de Bajazet II otage au Vatican
+1487 Le  prince Djem, frère et rival de Bajazet II otage au Vatican
 No-ja-li
 Sonates en trio. Violons (2), basse continue. Sol mineur. HWV 393
 Blaasstuk
@@ -107957,10 +107948,7 @@ Gelobet seist du, Jesu Christ
 Domine Salvum
 Schrödinger's cat
 Ikhoor
-Autumn extrait de "The Seasons"
-Fancy
-Ayre
-Galliard
+Autumn extrait de "The Seasons" Fancy Ayre Galliard
 Verbum supernum
 Concertos. Flûte, orchestre à cordes, basse continue. Sol majeur. No 2
 Concertos. Violon, orchestre. La mineur. Op. 54
@@ -125812,7 +125800,7 @@ Musiche e poesie varie : Livre III (extrait) : Son ruinato
 Viens mon âme
 Concerto pour piano n°2 en fa majeur op. 102
 Scaramouche
-Le rossignol éperdu (extrait) :	Versailles : Hivernale
+Le rossignol éperdu (extrait) : Versailles : Hivernale
 Requiem pour une compositrice
 La montagne qui accouche
 Concerto pour violoncelle
@@ -151491,7 +151479,7 @@ Indianer-Polka
 The pulse-vamp-store II
 Cher souvenir d'un objet plein de charmes
 The first mercy
-Caecilia virgo et martyr H 413 (	Cécile vierge et martyr H 413)
+Caecilia virgo et martyr H 413 ( Cécile vierge et martyr H 413)
 2 sonates
 Mobile
 Sinfonia. Violons (2), alto, violoncelle. Si bémol majeur
@@ -151984,7 +151972,7 @@ Petites chansons sans paroles. La marionnette danse
 Bride's farewell
 4 postludes
 5 à la une
-1469	Naissance à Rotterdam, de Desiderius Erasmus, fils illégitime d’un prêtre et d’une fille de médecin
+1469 Naissance à Rotterdam, de Desiderius Erasmus, fils illégitime d’un prêtre et d’une fille de médecin
 Cri-cri
 The seal of the three laws
 Sonates. 1629. Instruments (4). No 16
@@ -154007,7 +153995,7 @@ To the blackbird
 Exercices faciles
 La Galatea. Acte 2, scène 4. Faretrato arcier
 Le temple de la Gloire. Acte 2, scène 2. Menuets
-1509 Voyage d'Italie en Angleterre, il écrit L’Éloge de la folie, dédié à Thomas 	More, qui prépare son œuvre "UTOPIA".  Henry VIII roi d'Angleterre.
+1509 Voyage d'Italie en Angleterre, il écrit L’Éloge de la folie, dédié à Thomas  More, qui prépare son œuvre "UTOPIA".  Henry VIII roi d'Angleterre.
 Quatuors. Cordes. Op. 9
 Prélude et fugue
 Nuit étoilée
@@ -158989,8 +158977,7 @@ Tétramorphie
 Suite. Piano
 La boîte à joue-joue
 Les plaisirs de Paris
-Allemagne année zéro
-Italie, 1947
+Allemagne année zéro Italie, 1947
 Klage, meine Flöte
 Tre leggiadre ninfe
 Rue République

@@ -1,1301 +1,2140 @@
 Wolfgang Amadeus Mozart
 Franz Liszt
 Joseph Haydn
-Ludwig van Beethoven
 Johannes Brahms
 Robert Schumann
 Antonio Vivaldi
 Roland de Lassus
 Frédéric Chopin
-Johann Sebastian Bach
-Domenico Scarlatti
-Claudio Monteverdi
-Claude Debussy
-Marc Antoine Charpentier
-Georg Philipp Telemann
-Henry Purcell
-Felix Mendelssohn Bartholdy
 Franz Schubert
+Domenico Scarlatti
+Claude Debussy
+Georg Philipp Telemann
+Marc Antoine Charpentier
+Henry Purcell
+Ludwig van Beethoven
+Claudio Monteverdi
 Alessandro Scarlatti
-Camille Saint-Saëns
 Carl Philipp Emanuel Bach
+Camille Saint-Saëns
 Jean Sibelius
-Jean-Philippe Rameau
 Richard Strauss
-Maurice Ravel
 Francis Poulenc
+Jean-Philippe Rameau
+Maurice Ravel
 Gabriel Fauré
 Benjamin Britten
 Charles Koechlin
 Luigi Boccherini
+Johann Sebastian Bach
 Domenico Cimarosa
-François Couperin
+Béla Bartók
 Paul Hindemith
+Felix Mendelssohn Bartholdy
+Hugo Wolf
+François Couperin
 Edvard Grieg
 Erik Satie
 Hector Berlioz
-Hugo Wolf
 Richard Wagner
 Heitor Villa-Lobos
-Béla Bartók
 Luigi Cherubini
 Darius Milhaud
 Karlheinz Stockhausen
-Georg Friedrich Händel
-Giuseppe Verdi
 Charles Gounod
+Giuseppe Verdi
 Henri Sauguet
-Petr Ilʹič Čajkovskij
 Jacques Offenbach
 César Franck
-Jules Massenet
-Pierre Boulez
-Bohuslav Martinů
-Niccolò Paganini
-Charles Ives
-Wolfgang Rihm
-Jean-Baptiste Lully
-Gustav Mahler
-Edward Elgar
-Hanns Eisler
-Luciano Berio
-John Cage
-Olivier Messiaen
-Heinrich Schütz
-George Gershwin
 György Ligeti
-Gaetano Donizetti
-André Campra
-Max Reger
-Georges Bizet
-Carl Maria von Weber
-Tōru Takemitsu
-Paul Agnew
+Jules Massenet
+Bohuslav Martinů
 Johann Strauss
-Anton Webern
-Arvo Pärt
-Enrique Granados
-Anton Bruckner
 Baldassare Galuppi
+Wolfgang Rihm
+Charles Ives
+Niccolò Paganini
+Hanns Eisler
+Edward Elgar
+Pierre Boulez
+John Cage
+Jordi Savall
+Luciano Berio
+Gaetano Donizetti
+Jean-Baptiste Lully
+Olivier Messiaen
+Gustav Mahler
+André Campra
+George Gershwin
+Max Reger
+Carl Maria von Weber
+Igor Stravinsky
+Georges Bizet
+Leoš Janáček
+Arvo Pärt
+Tōru Takemitsu
+Enrique Granados
 Arthur Honegger
 Astor Piazzolla
 André Jolivet
+Anton Webern
+Anton Bruckner
+Claude Arrieu
 Bedřich Smetana
-Jordi Savall
 Elliott Carter
 Franco Donatoni
-Carl Nielsen
-Iannis Xenakis
-Pascal Dusapin
-François-Joseph Gossec
-Bruno Mantovani
-Hans Werner Henze
-Leoš Janáček
-Igor Stravinsky
-William Byrd
-Thomas Crecquillon
-Johann Christian Bach
-Leonard Bernstein
-Aaron Copland
-Claude Arrieu
-Ferruccio Busoni
-Zoltán Kodály
-Ralph Vaughan Williams
-Steve Reich
-Thierry Escaich
-Kurt Weill
-Mauricio Kagel
 William Christie
+Iannis Xenakis
+Georg Friedrich Händel
+Pascal Dusapin
+Hans Werner Henze
+Arnold Schoenberg
+Bruno Mantovani
+Antonín Dvořák
+Petr Ilʹič Čajkovskij
+Johann Christian Bach
+Ferruccio Busoni
+Aaron Copland
+Ralph Vaughan Williams
+Zoltán Kodály
+Leonard Bernstein
+Thierry Escaich
+Mauricio Kagel
+Kurt Weill
 Giacomo Meyerbeer
 William Walton
+Girolamo Frescobaldi
+Steve Reich
 Daniel-François-Esprit Auber
-Arnold Schoenberg
+Heinrich Schütz
 Albert Roussel
-Gioachino Rossini
-Antonín Dvořák
-Matthias Pintscher
-Arcangelo Corelli
 Francesco Durante
+Arcangelo Corelli
 Emmanuel Chabrier
-Alban Berg
+Matthias Pintscher
 Isaac Albéniz
+Alban Berg
+Lisandro Abadie
 Théodore Dubois
-Giovanni Bononcini
+Paul Agnew
+ʾAbiyšay Kohen
 Samuel Barber
-Michael Jarrell
-Dmitri Chostakovitch
 Philip Glass
 Serge Gainsbourg
 Florent Schmitt
 Pierre Henry
-Henri Dutilleux
-ʾAbiyšay Kohen
+Michael Jarrell
+Henry Du Mont
 Georges Aperghis
-François-Xavier Roth
 Ernest Chausson
-Wilhelm Friedemann Bach
 Ottorino Respighi
+Wilhelm Friedemann Bach
 Karol Szymanowski
-John Dowland
 Federico Mompou
-Girolamo Frescobaldi
-Cole Porter
-Dietrich Buxtehude
+Carl Nielsen
+Henri Dutilleux
 Jacques Ibert
-Josquin Des Prés
-Morton Feldman
 Orlando Gibbons
-Magnus Lindberg
 Johann Adolf Hasse
+Morton Feldman
 Louis Vierne
-Betsy Jolas
 Georges Enesco
-Luigi Nono
+François-Joseph Gossec
 Nicolas Bacri
 Salvatore Sciarrino
-Franz Schubert
+Johann Nepomuk Hummel
 Ernest Bloch
-Lisandro Abadie
+Betsy Jolas
+Louis Spohr
+Magnus Lindberg
 Maurice Yvain
-Philippe Hersant
 Erich Wolfgang Korngold
-Sergej Vasilʹevič Rahmaninov
+Philippe Hersant
+Johann Strauss
+William Byrd
 Brice Pauset
-Kaija Saariaho
 Vincenzo Bellini
-Heinz Holliger
-Henry Du Mont
+Thomas Crecquillon
 Éric Tanguy
 Henri Duparc
 Édith Canat de Chizy
-Philippe Manoury
-Aleksandr Konstantinovič Glazunov
-Jan Dismas Zelenka
-Péter Eötvös
-Marin Marais
-Niels Wilhelm Gade
-Michael Nyman
-Giovanni Battista Pergolesi
-André Caplet
-Gérard Pesson
-Georges Brassens
-Tristan Murail
-Hugues Dufourt
-Bernd Alois Zimmermann
-John Williams
-Nina Hagen
-Édouard Lalo
-Pablo de Sarasate
-Giovanni Gabrieli
-Johann Nepomuk Hummel
+Kaija Saariaho
 Manuel de Falla
-Alexander Zemlinsky
-Giacomo Carissimi
-Louis Spohr
-George Benjamin
+Jan Dismas Zelenka
+Marin Marais
+Philippe Manoury
+André Caplet
+Lucile Richardot
+Georges Brassens
+Archie Shepp
+Péter Eötvös
+Bernd Alois Zimmermann
+Tomás Luis de Victoria
+Hugues Dufourt
+Pablo de Sarasate
+John Williams
+Édouard Lalo
+Louis-Nicolas Clérambault
+Gioachino Rossini
+Joaquín Turina
 Gustav Holst
-Johann Strauss
 Nino Rota
-Philippe Hurel
-Harrison Birtwistle
+George Benjamin
 Michaël Lévinas
+Philippe Hurel
 Josef Strauss
 Per Nørgård
-Paul Dessau
+Johann Sebastian Bach
 Jean Cras
 Bob Dylan
-Tom Johnson
+Harrison Birtwistle
 Karol Beffa
+György Kurtág
+Giovanni Bononcini
 Duke Ellington
-Edgard Varèse
-Lucile Richardot
+Christoph Willibald von Gluck
+Marc Mauillon
+Alessandro Stradella
 Bruno Maderna
 François Devienne
-Archie Shepp
-Sergueï Prokofiev
+Jean Françaix
 Gilbert Amy
-Jonathan Harvey
+François-Xavier Roth
 Pēteris Vasks
-Esa-Pekka Salonen
-Tomás Luis de Victoria
-Reynaldo Hahn
+David Grimal
+John Dowland
 Alberto Ginastera
+Jonathan Harvey
+Esa-Pekka Salonen
 Klaus Huber
-Louis-Nicolas Clérambault
-Vincent Scotto
-François Rossé
-Muzio Clementi
-Helmut Lachenmann
-Charles Lecocq
-Michael Tippett
-Jean Wiéner
-Joaquín Turina
-Jacques-Louis Battmann
+Alexandre Scriabine
+Dietrich Buxtehude
+Antonio Soler
+Alexandre Tharaud
+Cole Porter
+Josquin Des Prés
+Gioacchino Rossini
+Michael Praetorius
 François-Bernard Mâche
-Marc-André Dalbavie
-Gérard Grisey
-György Kurtág
-Arthur H
-Guillaume Dufay
-Cristóbal Galán
+Helmut Lachenmann
+Michael Tippett
+Krzysztof Penderecki
+Georges Auric
+Sean Clayton
+Jean Wiéner
 Nicola Porpora
-Claire Diterzi
-Paavo Järvi
+Gérard Grisey
+Dmitri Chostakovitch
+Franz Schubert
 Philippe Leroux
+André-Ernest-Modeste Grétry
+Paul Dessau
+Marc-André Dalbavie
 Max Bruch
-Clément Janequin
-Jörg Widmann
 Brian Ferneyhough
-Ivan Fedele
-Paul Dukas
-Marc Mauillon
+Georg Friedrich Haendel
+Francesco Gasparini
+Luigi Nono
+Sergej Vasilʹevič Rahmaninov
+Jörg Widmann
 Einojuhani Rautavaara
 Alfredo Casella
-Alessandro Stradella
-Richard Rodgers
-Jean Françaix
-Ambroise Thomas
-Eugène Ysaÿe
-Gioacchino Rossini
-Dmitrij Dmitrievič Šostakovič
-Carlo Gesualdo
-David Grimal
+Charles-Valentin Alkan
+Heinz Holliger
+Hans Pfitzner
+Arnaud Marzorati
+Ivan Fedele
+Peter Maxwell Davies
+Aleksandr Konstantinovič Glazunov
+Mel Bonis
 Engelbert Humperdinck
-Alain Louvier
-Orazio Vecchi
-Antoine Dauvergne
-Fritz Kreisler
-Alexandre Scriabine
+Niels Wilhelm Gade
+Eugène Ysaÿe
+Georges Van Parys
+Michael Nyman
 Bernard Cavanna
-Alexandre Tharaud
-Luigi Rossi
-Michael Praetorius
-Pierre de La Rue
-Giacinto Scelsi
-Krzysztof Penderecki
+Hannah Morrison
+Léo Delibes
+Giovanni Battista Pergolesi
+Antoine Dauvergne
+Paul Dukas
+Sébastien de Brossard
+Gérard Pesson
+John Adams
+Clara Schumann
 Lili Boulanger
 André Messager
 Stanisław Moniuszko
-Georges Bachmann
-György Kurtág
-Georges Auric
-Antoine Boësset
-Pietro Mascagni
-Philippe Schoeller
-Thomas Tallis
-Thomas Adès
-Martin Matalon
-Pierre Charvet
-George Crumb
-Franz Schreker
-Jean-Joseph Cassanéa de Mondonville
-Charles-Valentin Alkan
-Hans Pfitzner
-Arnaud Marzorati
-Georg Friedrich Haas
-Urbain Philéas
-Jérôme Naulais
-Renaud-Gabriel Pion
-Gabriel Pierné
-Sigismondo D'India
-John Blow
-Aleksandr Porfirievitch Borodine
-Georges Van Parys
-Luigi Dallapiccola
-Ivan Wyschnegradsky
-Renaud de Vilbac
-Florent Marchet
-Heinrich Ignaz Franz von Biber
-Léo Delibes
-Andrea Gabrieli
-Joseph Martin Kraus
-Maurice Duruflé
-Sébastien de Brossard
-John Adams
-Clara Schumann
-Abdallah Ag Alhousseyni
+Nina Hagen
 Irving Berlin
 Jerome Kern
-Jean-Marie Leclair
+Jean Langlais
 Vincent d' Indy
-Conlon Nancarrow
-Leopold Mozart
-Philippe Boesmans
-Marc Monnet
-Jean-Féry Rebel
-Carl Craig
-Vinko Globokar
-John Zorn
-Nikolaj Andreevič Rimskij-Korsakov
+Tristan Murail
+Jean-Marie Leclair
+Giovanni Gabrieli
+Alexander Zemlinsky
+Joseph Rheinberger
+Orazio Vecchi
+Philippe Schoeller
+Giacomo Carissimi
 Nicholas Angelich
-Carl Orff
-Ivor Gurney
-Giovanni Paisiello
-Miles Davis
+Thomas Adès
+Martin Matalon
 Anthony Girard
-Claude Balbastre
-John Tavener
-Jacques Castérède
-Richard Galliano
-Charles Trenet
-Friedrich Cerha
+Franz Schreker
 Zahia Ziouani
 Thelonious Monk
-Michael Haydn
 Pietro Antonio Locatelli
-Jamie Cullum
 Frank Martin
-Johann Sebastian Bach
-Thomas Fersen
-James MacMillan
-Ibrahim Atchinguil Emoud
-Ferdinand Hérold
-Mauro Giuliani
+George Crumb
+Jan Pieterszoon Sweelinck
+Tom Johnson
+Miles Davis
 Lionel Sow
-Touhami Ag Alhassane
-Johannes Ockeghem
-Georges Bull
-Heinrich Wilhelm Ernst
-Henryk Mikołaj Górecki
 Anne Sofie von Otter
-Samuel Scheidt
 Witold Lutosławski
-Sergej Sergeevič Prokofʹev
-Giovanna Marini
-Tenzin Gönpo
-Herbert Howells
-Étienne-Nicolas Méhul
-Eyadou Ag Leche
-Carl Czerny
-Christoph Willibald von Gluck
+Luigi Dallapiccola
+Ivan Wyschnegradsky
+Samuel Scheidt
 Ernst Krenek
 Giuseppe Sammartini
 Charles-Marie Widor
-Anton Dvorák
-Viktor Ullmann
-Django Reinhardt
-Dieter Schnebel
-Frédéric Durieux
-Hélène de Montgeroult
+Jean-Baptiste Arban
+Jean-Joseph Cassanéa de Mondonville
+Maurice Duruflé
 Jan Ladislav Dussek
-Stanislas Champein
 Arnold Bax
 Gace Brulé
-Francesco Maria Veracini
-Johann Christoph Bach
-John Lennon
 Emmanuel Krivine
 Francesco Cavalli
-Georg Friedrich Haendel
-Gilles Binchois
-Aribert Reimann
-Karl Amadeus Hartmann
-Yann Robin
+Reynaldo Hahn
+Cécile Chaminade
+Vincent Scotto
+François Rossé
 Frank Braley
-Thomas Campion
 Michel Legrand
-Antonio Soler
+Muzio Clementi
+Leopold Mozart
+Vinko Globokar
+Charles Lecocq
 William Lawes
-Giuseppe Tartini
+Jacques-Louis Battmann
 Erkki-Sven Tüür
-Luca Francesconi
 Matthias Brauer
+Edgard Varèse
 Jean-Frédéric Neuburger
 Daniel-Lesur
-Jean Desfontaines
+Carl Orff
+Johann Hermann Schein
+Daniel Barenboim
+Charles Trenet
+Friedrich Cerha
 Jacques Higelin
-Sean Clayton
+Arthur H
+Guillaume Dufay
+Cristóbal Galán
 Marie-Nicole Lemieux
-Myung-Whun Chung
-Christian Sinding
-Paul Arma
+Sergueï Prokofiev
+Claire Diterzi
+Paavo Järvi
 Gaspar Sanz
-Модест Петрович Мусоргский
-Tôn Thất Tiết
 Olivier Greif
-Jacques Arcadelt
-André-Ernest-Modeste Grétry
-Isabelle Soulard
-John Bull
-Alexandros Markeas
-Stefano Gervasoni
-Chucho Valdés
+Heinrich Wilhelm Ernst
+Henryk Mikołaj Górecki
+Clément Janequin
 Christophe
 Gautier Capuçon
 Joseph Canteloube
- Anonyme
-Francesco Gasparini
-Hyacinthe Jadin
-Stephen Sondheim
-Yaʿel Naʿiym
-Bernardo Pasquini
-Amilcare Ponchielli
-Michel Tabachnik
+Déodat de Séverac
+Francisco Guerrero
+Viktor Ullmann
+Dieter Schnebel
+Frédéric Durieux
+Hélène de Montgeroult
 Daniel Harding
 Bernard Herrmann
-Claude Barthélemy
-Marguerite Monnot
+Joaquín Rodrigo
+Richard Rodgers
+Dmitrij Dmitrievič Šostakovič
+Francesco Maria Veracini
+Carlo Gesualdo
+John Lennon
 Thierry Pécou
- Traditionnel
-Pietro Alessandro Guglielmi
-Louis Saguer
-Peter Maxwell Davies
-Mel Bonis
-Herbie Hancock
-Charles-Simon Catel
-Silvestre Revueltas
-Emmanuel Nuñes
-Oliver Knussen
-Henri Tomasi
+Anton Dvorák
+Alain Louvier
 Brigitte Lesne
+Ambroise Thomas
 Joseph Kosma
-Mark Andre
-Josef Suk
-Richard Dubugnon
-Emmerich Kálmán
-Michèle Reverdy
-Fernando Sor
+Fritz Kreisler
+Valery Gergiev
+Django Reinhardt
+Maud Gnidzaz
+Aribert Reimann
+Karl Amadeus Hartmann
 Giovanni Legrenzi
-Michael Daugherty
-Christopher Tye
-Giovanni Pierluigi da Palestrina
-Hannah Morrison
+Tomaso Albinoni
+Jehan Alain
+Luigi Rossi
 Paul Méfano
-Альфред Гарриевич Шнитке
-Henry Cowell
-Kryštof Mařatka
-Angélique Kidjo
-Manuel Rosenthal
-Yan Maresz
-Fausto Romitelli
-Luis de Pablo
-Michel Lambert
-Modeste Moussorgski
-Pablo Casals
+Michael Daugherty
+Pierre de La Rue
+Luca Francesconi
+Giacinto Scelsi
+Carl Loewe
+Yann Robin
 Friedrich Nietzsche
 Arthur Sullivan
 Florentine Mulsant
-Pierre Hantaï
-Cristóbal Halffter
-Jacques Du Phly
-Jean Langlais
+Georges Bachmann
+György Kurtág
 Alain Jean-Marie
-Christoph Willibald Gluck
-Terry Riley
 Xavier Montsalvatge
-Jimi Hendrix
-James Dillon
-Joseph Rheinberger
-Aleksandr Nikolaevič Skrâbin
+Antoine Boësset
+Régis Campo
+Pietro Mascagni
 Yamandu Costa
-Jacques Hotteterre
-Daniel Barenboim
-Isang Yun
-Laurent Cugny
-Jean-Joseph Mouret
+Michel Corrette
+Yaʿel Naʿiym
+Stefano Gervasoni
+Thomas Tallis
+Frederick Delius
 André Boucourechliev
-Paolo Tosti
 Robert Glasper
 Marianne Crebassa
-Thomas Tomkins
-Marcel Khalife
 Leroy Anderson
-Bombino
-Arturo Márquez
-Marcel Mihalovici
-Èdison Vasil´evič Denisov
-David Lang
-Robert Caby
-Carlos Chávez
-Franck Bedrossian
-Francesco Cilea
+Pierre Charvet
 Graciane Finzi
 Louis Andriessen
 Philippe Fénelon
-Alexandre Croisez
-Niccolò Piccinni
-John Field
+Alexandros Markeas
+Amilcare Ponchielli
 Éric Le Sage
 Frédéric Monino
-Andrea Falconieri
-Francesco Landini
 Pierre-Olivier Govin
-John Sheppard
-Михаил Иванович Глинка
-François Giroust
-Jan Pieterszoon Sweelinck
+Urbain Philéas
+Niccolò Castiglioni
+Jérôme Naulais
+Sergueï Rachmaninov
+Renaud-Gabriel Pion
+Anonyme
+Gabriel Pierné
+Sigismondo D'India
 Daniil Trifonov
-Arrigo Boito
 Jean-Henri d' Anglebert
-Rodolphe Berger
-Unsuk Chin
-Lou Reed
-Boris Blacher
-George Onslow
-Roberto Gerhard
-Ludwig Thuille
-Ondrej Adamek
-Othmar Schoeck
+Georg Friedrich Haas
+John Blow
+Herbie Hancock
+Oliver Knussen
+Aleksandr Porfirievitch Borodine
+Peter Warlock
 Antonio Salieri
-Jeff Mills
 Franz Lehár
-Danyèl Waro
-Miriam Allan
-Jean-Baptiste Arban
+Renaud de Vilbac
+Florent Marchet
+Heinrich Ignaz Franz von Biber
+Francisco Mignone
+Eugène Scribe
+Andrea Gabrieli
+Modeste Moussorgski
+Joseph Martin Kraus
 Leif Ove Andsnes
-Anton Stepanovič Arenskij
-Diego Pisador
-Marc'Antonio Ingegneri
 Georg Muffat
-Érik Truffaz
-Leonardo Leo
-Marco-Antonio Perez-Ramirez
-Nacio Herb Brown
-Henri Rabaud
-Dmitri Kourliandski
-Claude Vivier
-Johann Joseph Fux
-Alphonse
-Edouard Chavagnat
-Jean-Philippe Dary
+Silvestre Revueltas
+Richard Dubugnon
+Manuel Rosenthal
+Fausto Romitelli
 John Corigliano
-Toshio Hosokawa
-盾 谭
 Jule Styne
-Georg Benda
-Adriano Banchieri
-François Behr
-Pierre Desvignes
-Cécile Chaminade
-Kenny Barron
-Juliette
-Антон Григорьевич Рубинштейн
+Abdallah Ag Alhousseyni
+Marie Gautrot
+Conlon Nancarrow
+Igor Stravinski
+Philippe Boesmans
+Henry Cowell
 Kenneth Weiss
 Martin Gester
-Pierre Cochereau
 Gustavo Dudamel
+Marc Monnet
 Henri Christiné
+Guillaume Lekeu
 Akira Nishimura
+Carl Craig
 Matthew Locke
-Dan McKinna
-Blas María Colomer
+John Zorn
+Adriano Banchieri
+Nikolaj Andreevič Rimskij-Korsakov
+Benedetto Marcello
+Giacomo Puccini
+Georges Delerue
+Félicien David
+Martha Argerich
+Pierre Cochereau
+Ivor Gurney
+Magic Malik
+Giovanni Paisiello
+Traditionnel
+Justin Clérice
+Michel Philippot
+Claude Balbastre
+John Tavener
+Franck Bedrossian
+Alela Diane
+Jacques Castérède
+Johann Kaspar Kerll
+Richard Galliano
+Nora Gubisch
+Sebastián Durón
+Jean Sébastien Bach
+Michael Haydn
+Jamie Cullum
+Isabelle Aboulker
+Thomas Fersen
+Steve Coleman
+Frans Brüggen
+François Martin
+Christophe Monniot
+James MacMillan
+Pablo Casals
+Jean Rivier
+Laurent Bardainne
+Elsa Barraine
+Ibrahim Atchinguil Emoud
+Ferdinand Hérold
+Mauro Giuliani
+Arrigo Boito
+Touhami Ag Alhassane
+Lou Reed
+Boris Blacher
+Richard Rodney Bennett
+Johannes Ockeghem
+Francesco Mancini
+Yan Maresz
+Debora Waldman
+Georges Bull
+Louis Moreau Gottschalk
+Nguyên Lê
+Ahmed Essyad
+Laurent Voulzy
+Jean-Féry Rebel
+Maurice Jaubert
+Sergej Sergeevič Prokofʹev
+Giovanna Marini
+Bruno Giner
+Tenzin Gönpo
+Marie-Cécile Mazzoni
+Herbert Howells
+Étienne-Nicolas Méhul
+Gian Francesco Malipiero
+Eyadou Ag Leche
+Carl Czerny
+Mario Castelnuovo-Tedesco
+David Krakauer
+Steve Argüelles
+Antoine Hervé
+Gian Carlo Menotti
+William Croft
+Tigran Hamasyan
+Susanna Mälkki
+Franz Danzi
+Marco-Antonio Perez-Ramirez
+Jimi Hendrix
+Claude Vivier
+Ondrej Adamek
+Stanislas Champein
+Gustavo Beytelmann
+Alessandro Piccinini
+Rolf Lislevand
+François Merville
+Paul Meyer
+Barbara Strozzi
+Sophie Cherrier
+Dave Douglas
+Johann Christoph Bach
+Silvius Leopold Weiss
+Skip Sempe
+Joseph Lanner
+Malcolm Arnold
+Gilles Binchois
+Michel Lambert
+Khatia Buniatishvili
+Victor Hugo
+Katia Labèque
+Giorgio Battistelli
+Cherif Mbaw
 Marc-Olivier Dupin
 Jean Barraqué
 Jean-Baptiste Davaux
-Heinrich Isaac
-Hildegarde
-Paul McCartney
-Luis de Milán
-Robert Jones
-Claire Désert
-Laurent Petitgirard
-Georges Delerue
-Adam de La Halle
-Marco Uccellini
-Félicien David
-Martha Argerich
-Magic Malik
-Giaches de Wert
-Jean-Michel Damase
-Jean-Baptiste Forqueray
-Johann Hermann Schein
-Johann Kaspar Kerll
-Jacob Van Eyck
-Thomas Augustine Arne
-Adrien Le Roy
-Egidio Duni
-Ichiro Nodaira
-Nora Gubisch
-Christophe Van Huffel
-Sebastián Durón
-Pascal Zavaro
-Johannes Schöllhorn
-Amina Claudine Myers
-Anthony Caillet
-Joe Louis Walker
-Сергей Иванович Танеев
-Umberto Giordano
-Billy Strayhorn
-Pavel Haas
-Félix Ibarrondo
-John Eccles
-Vincent Youmans
-Steve Coleman
-Frans Brüggen
-Gerald Finzi
-Thierry Machuel
-Rami Khalifé
-François Martin
-Nguyên Lê
-John Coprario
-Ahmed Essyad
-McCoy Tyner
-Olga Neuwirth
-Frédéric Binet
-Laurent Voulzy
-Arthur Lourié
-Maurice Jaubert
-José de Nebra
-Franz Danzi
-Ernö Dohnányi
-Déodat de Séverac
-Francisco Guerrero
-Christoph Thomas Walliser
-David Krakauer
-Juan Crisóstomo de Arriaga
-Steve Argüelles
-Steven Bernstein
-Nico Muhly
-Johann Stamitz
-William Duckworth
-Antoine Hervé
-Gian Carlo Menotti
-Juan Vásquez
-Sory Kandia Kouyaté
-Jean-Baptiste Robin
-Rolf Liebermann
-Mauro Lanza
-Charlie Parker
-William Croft
-Colin Stetson
-Tigran Hamasyan
-Susanna Mälkki
-Jérôme Drû
-Sophie Hunger
-Ignaz Pleyel
-Johann Pachelbel
-Albert Corbin
-Joaquín Rodrigo
+Nacio Herb Brown
+Unsuk Chin
+Jean Guillou
+Thomas Campion
+Henri Rabaud
+Thomas Dunford
+Arturo Márquez
+Anna Reinhold
 Enno Poppe
-Vladimir Cosma
-François Merville
-Antoine Forqueray
-Paul Meyer
-Giacomo Puccini
-Barbara Strozzi
-Stef Kamil Carlens
-Sophie Cherrier
-Dave Douglas
-Igor Stravinski
-Antonio Caldara
-Claudio Santoro
-Guy Ropartz
-Valery Gergiev
-Alexandre Tansman
-Khatia Buniatishvili
-Max Steiner
-Michel Portal
-Maud Gnidzaz
-Victor Hugo
-Robert Aaron
-John Dunstaple
-Katia Labèque
-Gaëtan Roussel
-Giorgio Battistelli
-Niccolò Jommelli
-Jean-Luc Darbellay
-Ermend-Bonnal
-Cherif Mbaw
-Kenneth Hesketh
-Ethel Smyth
-Michel Richard de Lalande
-Guillaume de Machaut
-Woody Guthrie
-John Philip Sousa
-David Linx
-Giovanni Girolamo Kapsperger
-გია ყანჩელი
-Hamam Alkhalaf
-Nicolas Dalayrac
-Johann Jacob Froberger
-Tomaso Albinoni
-Jehan Alain
-Pietro Metastasio
-Carl Heinrich Graun
-Esteban Salas
+Giuseppe Tartini
+Wilhelm Stenhammar
+Thierry Lalo
 Friedrich Hollaender
-Joseph de Boismortier
-Marc Burty
 Christian Tetzlaff
 Suzanne Giraud
-Aleksandr Vasil'evic Mosolov
-Carl Loewe
+William Bolcom
+Claude Ballif
 Nelson Freire
 Jason Moran
-Ernest Reyer
 René Jacobs
-Auguste Bosc
 Henri Joseph Rigel
 Michel Dalberto
-Georges Auvray
-Wayne Standley
-Henri Cramer
-Benedetto Pallavicino
-Friedrich Burgmüller
+Michael Torke
+Jean Desfontaines
+Marius Constant
+Fabrice Moreau
+Zachary Wilder
+Aarre Merikanto
+Agostino Steffani
+Félix Ibarrondo
+Myung-Whun Chung
 Laurent Marfaing
-Pascal Proust
 Franz Krommer
 Christian Lauba
-Henri Pousseur
+Christian Sinding
 Philippe Jordan
-Mulatu Astatke
 Ibrahim Maalouf
-Thomas Lupo
-Régis Campo
-Guillaume Gabriel Nivers
-Sofiâ Asgatovna Gubajdulina
-Rodrigo de Ceballos
-Sinkane
-Jean-Pierre Drouet
-Michel Corrette
-Don Cherry
-Luis Naón
-António Carlos Jobim
-Mieczysław Karłowicz
-Henry Mancini
-Alfredo Barbirolli
+Paul Arma
+Adam Laloum
+Germaine Tailleferre
+Emmanuelle de Negri
+Модест Петрович Мусоргский
+Tôn Thất Tiết
+Philippe Cassard
+Jacques Arcadelt
+Isabelle Soulard
+Ludwig Van Beethoven
+Sophie-Carmen Eckhardt-Gramatté
+Alfonso Ferrabosco
+John Bull
 Lowell Liebermann
-Hélène Grimaud
 Lionel Loueke
-François Narboni
-Francisco Guerrero
-Antonín Dvořák
 Alfred Schnittke
-Marius Carman
 Dario Castello
-George Antheil
-Frederick Delius
 Yefim Bronfman
-Komitas
-Adolphe David
-Agnes Obel
-Édouard Broustet
-Vincent Malone
+Sylvano Bussotti
+Chucho Valdés
+Haïg Sarikouyoumdjian
+Denis Charolles
+Francesco Geminiani
+Frank Bridge
+ Anonyme
+Aubert Lemeland
+William Duckworth
+Marcello Giuliani
+Hyacinthe Jadin
+Enrique Mazzola
+Billy Strayhorn
+Stephen Sondheim
+Rolf Liebermann
+Olivier Juste
+Vincent Youmans
+Sophie Hunger
 Charles Baudelaire
-Henri-Charles Caget
-David Coulter
 Pierre-Laurent Aimard
 Benoît Arnould
-Jean-Jacques Rousseau
 Frédéric Chaslin
 Mikko Franck
 Sophie Agnel
 Brad Mehldau
 Bertrand de Billy
-Georges Bernard
-Niccolò Castiglioni
-Sergueï Rachmaninov
-Jacques Chailley
-Pavel Grigor'evič Česnokov
-Edouard Cazaneuve
-Johann Rosenmüller
-Rokia Traoré
-Rejngol'd Moricevic Glier
-Bent Sørensen
-Marco Stroppa
-Rebecca Saunders
+Michel Tabachnik
+Robert Casadesus
+Sandrine Piau
+Claude Barthélemy
+Marguerite Monnot
+Patrick Muller
+ Traditionnel
+Marcel Landowski
+Hugo Alfvén
+Lounis Ait Menguellet
+Pietro Alessandro Guglielmi
+Louis Saguer
+Charles-Simon Catel
 Salif Keita
-Luca Marenzio
+Emmanuel Nuñes
 Louise Farrenc
-Antonio Sacchini
-Johann Kuhnau
-François Jeanneau
-Jérôme Goldet
-Yann Tiersen
-Matteo Franceschini
-Ryuichi Sakamoto
-Franco Alfano
-Nicolas Martel
+Luis Naón
+Josef Suk
 François Rebel
 Marin Alsop
-Vincent Paulet
 Jonathan Dove
 Nelson Goerner
 Thomas Hengelbrock
+Emmerich Kálmán
 Mark Turner
 Jukka-Pekka Saraste
 Barbara
 Francesco Antonio Bonporti
-Alessandro Striggio
 Jonathan Pontier
+Michèle Reverdy
+Fernando Sor
+Luc Ferrari
+Alan Parker
+Henri Tomasi
+Woody Guthrie
+Émile Bourdon
+Cyril Auvity
+David Linx
+Kamīliyā Ǧubrān
+Hakan Güngör
+Christopher Tye
+Pasquale Cafaro
+Giovanni Pierluigi da Palestrina
+Patrick Lerisset
+Альфред Гарриевич Шнитке
+Thomas Savy
+Stéphanie Leclercq
+Maurice Jarre
+Andy Emler
+Knut Nystedt
+Kryštof Mařatka
+Louis Couperin
+Matteo Franceschini
+Angélique Kidjo
+Ennio Morricone
+Luis de Pablo
+Richard Danielpour
+Sarah Dayan
+Guillaume Becker
+Mark Andre
+Pierre Hantaï
+Patrick Burgan
+Jacques Du Phly
+Arnold Schönberg
+Olivier Baumont
+Piotr Moss
+Cyril Costanzo
+Johann Wolfgang von Goethe
+Cristóbal Halffter
+Jacques Leguerney
+Alain Altinoglu
+Callum Thorpe
+Johannes Weisser
+Simon Rattle
+Nikolaus Harnoncourt
+Amaya Dominguez
+James Dillon
+Franz-Josef Selig
+Xavier de Maistre
+Aleksandr Nikolaevič Skrâbin
+Paul Riveaux
+Charles Villiers Stanford
+Yannick Nézet-Séguin
+Jacques Hotteterre
+Don Cherry
+Paul Verlaine
+Terry Riley
+Ivo Malec
+Ned Rorem
+Mauro Lanza
+Isang Yun
+Henry Mancini
+Aulis Sallinen
+Laurent Cugny
+Andrew Lawrence-King
+Paolo Tosti
+Renaud Capuçon
+Thomas Tomkins
+Marcel Khalife
+Jean Deroyer
+Bombino
+Marcel Mihalovici
+Georg Böhm
+Èdison Vasil´evič Denisov
+David Lang
+Arne Mellnäs
+Michel Jonasz
+Ernesto Lecuona
+Carl Michael Ziehrer
+Vincent Bouchot
+Cyrille Dubois
+Romain Didier
+Robert Caby
+Francesco Cilea
+Giuseppe Gazzaniga
+Guillaume Connesson
+Bernard Haitink
+Thierry Blondeau
+Émile Waldteufel
+Alexandre Croisez
+Niccolò Piccinni
+John Field
+Gérard Cognet
+Elsa Biston
+Andrea Falconieri
+Hervé
+Edmond Audran
+Denis Matsuev
+Francesco Landini
+John Sheppard
+Михаил Иванович Глинка
+François Giroust
+Pierre Pauthier
+Carlos de Seixas
+Jean-Baptiste Dumora
+Leonidas Kavakos
+John Rutter
+Jean-Pierre Drouet
+HK Gruber
+Felice Romani
+Laurent de Wilde
+Bent Sørensen
+Rodolphe Berger
+Maurice Emmanuel
+Marco Stroppa
+Albert William Ketèlbey
+Mieczyslaw Weinberg
+George Onslow
+John Dowland
+Roberto Gerhard
+Carlos Chávez
+António Carlos Jobim
+Nicholas Scott
+Ludwig Thuille
+Patrice Caratini
+Rebecca Saunders
+Carl Friedrich Abel
+Denis Badault
+Christian Lahondes
+Othmar Schoeck
+Renato Dolcini
+François Bayle
+Joel Soupiron
+Jeff Mills
+Jean-Philippe Viret
+Pascal Berne
+Ludovic Halévy
+Danyèl Waro
+Leopold Godowsky
+Miriam Allan
+Paul-Alexandre Dubois
+Cyril Becue
+Emile Parisien
+Jake Heggie
+Pierre Hamon
+Pierre Boragno
+Milton Babbitt
+Anton Stepanovič Arenskij
+Diego Pisador
+Michel Mandel
+Franz Berwald
+Marc'Antonio Ingegneri
+Érik Truffaz
+Leonardo Leo
+Carlos Guastavino
+Arne Nordheim
+Erwin Schulhoff
+Otto Nicolai
+Vijay Ghate
+Mhairi Lawson
+David Popper
+Bernard Labadie
+Topi Lehtipuu
+Louis Aubert
+Matteo Bellotto
+Jean-Louis Agobet
+Johann Joseph Fux
+Felix Mendelssohn
+Alphonse
+Edouard Chavagnat
+Jean-Philippe Dary
+Daniela Skorka
+Anton Diabelli
+Toshio Hosokawa
+盾 谭
+Léon Boëllmann
+Guillaume Roy
+William Billings
+Orazio Benevoli
+Georg Benda
+Toivo Kuula
+Jean-Claude Mullet
+François Behr
+Pierre Desvignes
+Míkīs Theodōrákīs
+Kenny Barron
+Joshua Redman
+Christian Gerhaher
+Julien Loutelier
+Juliette
+Giuseppe Maria Cambini
+Jacques Lenot
+Karen Vourc'h
+Антон Григорьевич Рубинштейн
+Oscar Strasnoy
+Pierre de Bréville
+Julian Anderson
+George Perle
+Jerry Goldsmith
+Julien Clerc
+Claudio Abbado
+Charles Chaynes
+Lucilla Galeazzi
+Julien Leroy
+Leonardo García Alarcón
+Sofi Jeannin
+Dan McKinna
+Blas María Colomer
+Colin Davis
+Wayne Shorter
+Jean-Yves Bosseur
+Gaspar Cassadó
+Heinrich Isaac
+Hildegarde
+Nadia Boulanger
+Gabriela Montero
+Paul McCartney
+Andrew Staples
+Jean-Charles Diéval
+Roger Norrington
+Andreas Scholl
+Jean-Yves Thibaudet
+David Zinman
+Luis de Milán
+Edward Perraud
+Nikolaï Andréiévitch Rimski-Korsakov
+Robert Jones
+Joseph Ascher
+Claire Désert
+Riccardo Minasi
+Jonas Kaufmann
+Ernst Theodor Amadeus Hoffmann
+François Vercken
+Emilie Renard
+Laurent Petitgirard
+Adam de La Halle
+Wilhem Latchoumia
+Marco Uccellini
+Franz Doppler
+Antoine Guerber
+Johann Georg Albrechtsberger
+Carlos Roqué Alsina
+Victor Massé
+Jean-Michel Damase
+Marco Enrico Bossi
+Jean-Baptiste Forqueray
+Luis Fernando Pérez
+Jacob Van Eyck
+Thomas Augustine Arne
+Marcel Bozonnet
+Adrien Le Roy
+Egidio Duni
+Francesco Maria Piave
+John Taylor Ward
+Ichiro Nodaira
+Peter Cornelius
+Christophe Van Huffel
+Pierre-Max Dubois
+Ferdinand Ries
+Domenico Zipoli
+Johannes Schöllhorn
+Amina Claudine Myers
+Anthony Caillet
+Joe Louis Walker
+Jean-Pierre Collard
+Сергей Иванович Танеев
+Colin Matthews
+Lou Harrison
+Christopher Hogwood
+Evan Parker
+Frederic Rzewski
+Alain Souchon
+Umberto Giordano
+Atsushi Sakaï
+Enrique Morente
+Harold Arlen
+Roberto Alagna
+Theobald Boehm
+Francesco Filidei
+Dmitri Kourliandski
+Dave Holland
+Pavel Haas
+Massimo Moscardo
+John Eccles
+Matthias Goerne
+Raffi Kevorkian
+Patrice Héral
+Sandrine Brechot
+Graham Fitkin
+Miklós Rózsa
+Marc Minkowski
+Didier Pateau
+Dominique Vellard
+Julie Fuchs
+Louis Ganne
+Jean-Baptiste Stuck
+Pascal Zavaro
+Gerald Finzi
+Alexander Goehr
+Thierry Machuel
+Rami Khalifé
+Jean-Christophe Rosaz
+Benedetta Mazzucato
+Lorenzo Da Ponte
+Jérôme Combier
+Ermanno Wolf-Ferrari
+Andrew Lloyd Webber
+Baptiste Trotignon
+Rolande Falcinelli
+John Harbison
+Louis-Noël Belaubre
+Roger Quilter
+John Coprario
+Olga Neuwirth
+Walter Donaldson
+Dietrich Buxtehude
+Frédéric Binet
+Michel Berger
+Maurice Ohana
+Franck Agulhon
+Arthur Lourié
+Andreas Jaffré
+Reinhard Keiser
+Heinrich Heine
+José de Nebra
+Ernö Dohnányi
+Christoph Thomas Walliser
+Christophe Dal Sasso
+Juan Crisóstomo de Arriaga
+Christoph Prégardien
+Derya Turkan
+Steven Bernstein
+Harry Warren
+Nico Muhly
+Christoph Graupner
+Jean-Luc Ho
+Johann Stamitz
+Don Kent
+Ferdinando Carulli
+Christoph Willibald Gluck
+Eric Legnini
+Ton Koopman
+Dorsaf Hamdani
+McCoy Tyner
+José Luis Campana
+Eustache Du Caurroy
+Juan Vásquez
+Sory Kandia Kouyaté
+Leo Zeitlin
+Christophe Marguet
+Juraj Valcuha
+Ed Harcourt
+Petr Eben
+Tami Troman
+Johannes Maria Staud
+Charlie Parker
+Fernando Obradors
+Marco Momi
+William Boyce
+Colin Stetson
+Olivier Benoit
+Reynaldo Hahn
+Bertolt Brecht
+Jérôme Drû
+Gaguik Mouradian
+Ignaz Pleyel
+Johann Pachelbel
+Etienne Pipard
+Benoît Gégout
+Albert Corbin
+Jean-Benoît Tétû
+Giovanni Bottesini
+Augusta Holmès
+Vladimir Cosma
+Pauline Viardot
+Pierre-Alexandre Monsigny
+Antoine Forqueray
+Vlastimil Holek
+Giacomo Puccini
+Sylvain Rifflet
+Stef Kamil Carlens
+Django Bates
+Jean-Luc Manca
+Carl Reinecke
+Gary Valente
+Pablo Bruna
+Carl Friedrich Zelter
+Johann Christoph Friedrich Bach
+Josef Kluson
+Stéphane Blet
+Antonio Caldara
+Claudio Santoro
+Guy Ropartz
+Alexandre Tansman
+Théodore de Bèze
+Pierre Vellones
+Charles Borel-Clerc
+Max Steiner
+Michel Portal
+Alain Duchemin
+Robert Aaron
+Wilhelm Peterson-Berger
+John Dunstaple
+Gaëtan Roussel
+Antoine Tamestit
+Niccolò Jommelli
+Lang Lang
+Jean-Luc Darbellay
+Hans Abrahamsen
+Sylvain Romano
+Joseph Jongen
+Ruperto Chapí
+Philippe Quinault
+Ermend-Bonnal
+Apostolo Zeno
+Plamena Mangova
+Kenneth Hesketh
+Ethel Smyth
+Michel Richard de Lalande
+Guillaume de Machaut
+Johann Georg Pisendel
+Franz Waxman
+Stéphane Grappelli
+Claude Joseph Rouget de Lisle
+John Kander
+Luciana Mancini
+Frank Loesser
+Petr Prause
+Jean-Baptiste Robin
+Frank Zappa
+Eliahu Inbal
+John Philip Sousa
+Susumu Yoshida
+Nick Drake
+Giovanni Girolamo Kapsperger
+გია ყანჩელი
+Hamam Alkhalaf
+Daniele Gatti
+Nicolas Dalayrac
+Piotr Ilyitch Tchaïkovski
+Johann Jacob Froberger
+Pietro Metastasio
+Carl Heinrich Graun
+Esteban Salas
+Pierre Le Bourgeois
+Pavel Hula
+Jean Schwarz
+Dan Tepfer
+Joseph de Boismortier
+Leonard Cohen
+Marc Burty
+Denis Raisin-Dadre
+Albéric Magnard
+Juan Cabanilles
+Erik Bergman
+Mikhail Pletnev
+Christian Leblé
+Aleksandr Vasil'evic Mosolov
+Juan Hidalgo
+Gilbert Bécaud
+Bernarda Fink
+Franck Krawczyk
+Jean Absil
+Ernest Reyer
+Thiệ̣n Đạo Nguyễn
+Louis Gallet
+André Fleury
+Meral Azizoglu
+George Shearing
+Auguste Bosc
+Didier Levallet
+Edgar Moreau
+Georges Auvray
+Serge Rachmaninov
+Philippe Gille
+Louis-Claude Daquin
+Eric Whitacre
+Giorgio Federico Ghedini
+Nicola Conforto
+Géraldine Laurent
+Wayne Standley
+Johann David Heinichen
+Kenneth Leighton
+Alan Hovhaness
+Menahem Pressler
+Henri Cramer
+Benedetto Pallavicino
+Miguel Henry
+Karl Goldmark
+Giuseppe Martucci
+Friedrich Burgmüller
+François Kieffer
+Nicolas Repac
+Pascal Proust
+Alfred Spirli
+Renaud Gagneux
+Henri Pousseur
+Loïc Rio
+Mulatu Astatke
+Thomas Lupo
+Alain Bancquart
+Guillaume Gabriel Nivers
+Sofiâ Asgatovna Gubajdulina
+Rodrigo de Ceballos
+Sinkane
+Philippe Gouttenoire
+Jeremy Ovenden
+Bob Marley
+Fats Waller
+Karl Jenkins
+Claude Nougaro
+Vladimir Ashkenazy
+Johnny Mercer
+Léo Ferré
+Osvaldo Golijov
+Keiko Abe
+Pedro António Avondano
+Valeriy Sokolov
+Ian Honeyman
+Mieczysław Karłowicz
+Eric Zeisl
+Yungchen Lhamo
+Laurent Fracchia
+Alfredo Barbirolli
+William Shakespeare
+Hélène Grimaud
+Stéphanie d' Oustrac
+Ture Rangström
+François Narboni
+Francisco Guerrero
+Hugo Distler
+Paul Dupin
+Pascal Bertin
+Antonín Dvořák
+Daniel Zalay
+Claude Pascal
+Igor Markevitch
+Tugan Sokhiev
+Guillaume Boni
+Marius Carman
+Elodie Soulard
+Jacques Bondon
+Harry Christophers
+Giuseppe Giordani
+Juan de Araujo
+Bruno Fontaine
+Paul Agnew
+Komitas
+Adolphe David
+Agnes Obel
+Édouard Broustet
+Dimitri Psonis
+Alexander von Zemlinsky
+Vincent Malone
+Henri-Charles Caget
+David Coulter
+Rickie Lee Jones
+Rachid Brahim-Djelloul
+Jean-Jacques Rousseau
+Samuel Capricornus
+Manu Codjia
+Alessandro Melani
+Véronique Sanson
+Françoise Atlan
+Louis Marchand
+Boris Berezovsky
+Elise Chauvin
+Simon-Joseph Pellegrin
+Jesús Guridi
+Bruno Ducol
+Sven-Erik Bäck
+William Schuman
+Xavier Phillips
+Pascal Ducourtioux
+Étienne Meyer
+Yann Ollivo
+Henri-Montan Berton
+Roberto Fonseca
+Claude Lenners
+Giaches de Wert
+Arthur Bliss
+Cyril Garac
+Georges Bernard
+Jacques Chailley
+Pavel Grigor'evič Česnokov
+Edouard Cazaneuve
+Loïc Duros
+Johann Rosenmüller
+Rokia Traoré
+Billy Hart
+Rejngol'd Moricevic Glier
+Magdalena Kožená
+Jean-Claude Gengembre
+Elliott Sharp
+Florent Boffard
+Lalo Schifrin
+Jacques Dutronc
+Michel Polnareff
+Philippe Jaroussky
+François Castang
+Maurice Delage
+Jean-Michel Jarre
+Ilse Weber
+Bertrand Chamayou
+Lera Auerbach
+Valentin Silvestrov
+Thomas Hampson
+Arthur Benjamin
+Vincent-Raphaël Carinola
+Carlos Puebla
+Joni Mitchell
+Dré Pallemaerts
+Louis Chedid
+Heinrich Albert
+Christophe Morin
+Paul Le Flem
+Luca Marenzio
+Sonny Troupé
+Armand-Louis Couperin
+Antonio Sacchini
+Bruce Mather
+Johann Kuhnau
+François Jeanneau
+Luigi Illica
+Jérôme Goldet
+Yann Tiersen
+Alina Ibragimova
+Claude Egea
+Chaya Czernowin
+Ryuichi Sakamoto
+Franco Alfano
+Jean-Marie Machado
+Nicolas Martel
+George Antheil
+Vincent Paulet
+Tibor Harsányi
+Jan Lisiecki
+Jean-Benjamin de La Borde
+Hélène Delavault
+Aristide Bruant
+Yoshihisa Taira
+Robert Stolz
+Pierre-Octave Ferroud
+Alessandro Striggio
 Alexandre Pierre François Boëly
 Boguslaw Schaeffer
-Peter Warlock
 Denise Roger
 Neil Hannon
-Francisco Mignone
-Eugène Scribe
 Melchior Franck
 Jacob Obrecht
 Daniel Meier
 James Blake
 Wolfgang Fortner
 Aleksandr Afanas'evic Spendiarov
-Andy Emler
-Knut Nystedt
+Dimitri Scapolan
+Jean-François Marmontel
+Jean-Philippe Martignoni
+Abdullah Ibrahim
 Gaspare Spontini
+Alan Gilbert
+Nicola Francesco Haym
+Emmanuel Pahud
+Kurt Masur
 Kyriakos Kalaitzidis
 Greg Cohen
-Louis Couperin
+Pierre-André Fautrier
+Earle Brown
+Peter Dickinson
+Hector Crémieux
+Vincent Ségal
+Michel Fokine
 Marc Ribot
-Ennio Morricone
 Eddy Louiss
+Béatrice Trichet
+Guillaume Lasceux
+Reinoud Van Mechelen
+David Diamond
+Ivan Jevtić
+Oskar Morawetz
 Rafaël Aceves
 Federico Moreno Torroba
+Werner Egk
+Pierre Roullier
 Liam Farrell
+Daniel Zimmermann
+Claude Le Jeune
 Rodion Konstantinovič Ŝedrin
+Jeanne Demessieux
+Georg Christoph Wagenseil
 Анатолий Константинович Лядов
+Johann Friedrich Reichardt
+John Wilbye
+Ravīndranātha Ṭhākura
+رابع درياسة
 Zdenĕk Fibich
 Ludwig Senfl
 Dominique Lemaître
-Marie Gautrot
 Claude Le Jeune
+Vincent Villetard
 Max Méreaux
+Adrien Gazza
 Giacomo Antonio Perti
-Johannes Weisser
+Andrés Segovia
+Heiner Goebbels
+Hervé Niquet
+Robert Johnson
 Murcof
-Simon Rattle
-Nikolaus Harnoncourt
-HK Gruber
+Grażyna Bacewicz
+Angélique Mauillon
+Serge Prokofiev
+Serge Nigg
+Walter Piston
+Jean Barrière
+Irving Mills
+Emilie Simon
+Nikolaï Rimski-Korsakov
+Lars Erik Larsson
+Jacques Brel
+David Gardner
+Marie-Claude Chappuis
 Berthold Goldschmidt
-Amaya Dominguez
+Catherine Simonpietri
+François Piolino
+Jean-Jacques Beauvarlet-Charpentier
+Colin Greenwood
+Manfred Honeck
 Aymeric Westrich
+Jean-Claude Eloy
+Vannina Santoni
+Marko Nikodijevic
+Laurent Coq
 Rodolphe Burger
+Ernesto De Curtis
+Miriam Gideon
+Olivier Schneebeli
 Jean-François Zygel
-Julian Anderson
+Mikhaïl Ivanovitch Glinka
+Morton Gould
 Olivier Penard
-Guillaume Lekeu
-George Perle
-Jerry Goldsmith
+Maria-Joao Pires
+Andrey Boreyko
+Patti Smith
+Jean Roger-Ducasse
 Jacques de La Presle
+Federico Chueca
+Robert Burns
 Marianne Faithfull
-Franz-Josef Selig
 Josef Rheinberger
 Marcel Delannoy
 Antonio Rosetti
-Xavier de Maistre
-Sándor Veress
-Benedetto Marcello
+Blandine Rannou
+Frédéric Stochl
+Arnaud Moral
 Charles-Hubert Gervais
 Maurice Ohana
 Thomas Morley
 Johann von Herbeck
 Peter Philips
+Luciano Acocella
 Eugène Anthiome
-Giacomo Puccini
+Pierre Bornard
 Théodore Akimenko
 Dimitry Lèvidis
 Jean-Philippe Valette
-Justin Clérice
 Fanny Hensel
+Désiré Émile Inghelbrecht
 Цезарь Антонович Кюи
 Jos Van Immerseel
 Ahmed Kudsî Erguner
 Nils Frahm
-Arne Mellnäs
-Michel Jonasz
+Johann Michael Bach
 Sigmund Romberg
-Ernesto Lecuona
+Gérard Marais
+Leif Segerstam
 Laurent Dalleau
 Philippe Sarde
-Carl Michael Ziehrer
 Louis-Joseph Francoeur
-Vincent Bouchot
-Cyrille Dubois
-Romain Didier
+Detlef Roth
+Georg Druschetzky
 Bartłomiej Pękiel
 Leo Brouwer
+José Ramón Encinar
+Miloslav Kabeláč
+Laurent Garnier
+Jérémie Dufort
+Jean-Louis Florentz
 Pierre Gautier
-Michel Philippot
+Andris Nelsons
+Gottlieb Muffat
+Jérôme Guicherd
 Nikolaj Karlovič Metner
+Christina Pluhar
+Oskar Merikanto
+Louis Durey
+Antoine Houdar de La Motte
 Pascal Rophé
+Charles Dancla
+Pierre Schaeffer
+Gustave Doret
+Daniel Yvinec
 Martin Peerson
 Francois Collin de Blamont
+Jean-François Le Sueur
 William Cornysh
-Alela Diane
+Marc-André Hamelin
 Gherardello da Firenze
+Siegfried Wagner
+Laurent Fraîche
+Nathalie Manfrino
+Vadim Repin
 Alfred Bruneau
+Jeanne Added
+Sándor Veress
 Marcel Dupré
-Sergueï Vassilievitch Rachmaninov
+Michel Gacic
 Milij Alekseevič Balakirev
 Moisej Samuilovič Vajnberg
 Antoni Torrandell
 Willem De Fesch
-Kamīliyā Ǧubrān
-Isabelle Aboulker
-Orazio Benevoli
-Christophe Monniot
+Georges Balanchine
 Clarisse Bourdeney
-Jean Rivier
-Laurent Bardainne
 Marcelle de Manziarly
-Elsa Barraine
 Stepper
+Georges Boeuf
+Mathilde Étienne
+Stéphane Baunach
+Carlo Goldoni
+Vasily Petrenko
+Charles-Simon Favart
 Alexandre Desplat
 André Previn
-Jean-Baptiste Dumora
-Leonidas Kavakos
-John Rutter
+Frank Churchill
+Girolamo Arrigo
+Salvatore Cammarano
+Michel Fugain
 Rufus Wainwright
+Charles Aznavour
+Frédérick Martin
+María Eugenia Boix
+Ivan Bellocq
+Francis Cabrel
+Georges Cziffra
+Ashot Sarkissjan
+Gérard Garcin
+Antonio Cesti
 David Del Tredici
-Gunther Schuller
-Laurent de Wilde
+Claude Gervaise
+Frédérique Cambreling
 Pancrace Royer
+Alkis Zapoglou
+Nicolas Godin
 Bettina Kee
 Olivier Daviaud
-Albert William Ketèlbey
-Mieczyslaw Weinberg
-Richard Rodney Bennett
+Oliver Schneller
+Henry Barraud
 Jean Richafort
 Neil Young
+Josef Mysliveček
+Molière
 Maurizio Pollini
 Fabrizio Bosso
-Francesco Mancini
-Patrice Caratini
+Bart Coen
+Christophe Mangou
+Vítězslav Novák
+András Fejer
+Diégo Innocenzi
+Gregorio Allegri
 Cheikh Lô
-Jacques Charpentier
+Claude Bolling
 Aaron Jay Kernis
-Denis Badault
-Debora Waldman
+Yan Levionnois
+Pierre de Ronsard
+Gaëtan Biron
+Ambrose Akinmusire
+Kyriakos Petras
+Émile Jaques-Dalcroze
+Bárbara Kusa
+Tomás de Torrejón y Velasco
+Guillaume de Machaut
+Catherine Delaunay
 Abdallah Aglamida
+Hubert Giraud
+Simon Grant
 Jean-François Dandrieu
-Szymon Laks
+Ariel Ramirez
+Hell Michael
+Jean Richepin
 Billy Martin
-Louis Moreau Gottschalk
-Piotr Ilitch Tchaikovski
+Arthur Schwartz
+Miguel Zenon
+Marco Horvat
 Éric Sammut
+Chico Buarque
 Achille Decombes
-Walter Donaldson
-Maurice Ohana
-Clément Doucet
+Luigi Denza
+Bernard Foccroulle
+Gérard Caussé
+Anne-Lise Gastaldi
+Dai Fujikura
+Pablo Cueco
+Anna Dego
+Stephen Milling
+Simon Steen-Andersen
+Alexandre Piquion
+Franz Ignaz Beck
+Pierre Bachelet
+René Leibowitz
+Christophe Bertrand
 Wolfgang Mitterer
+Tadd Dameron
 Matic
-Bruno Giner
+Jean-Michel Bernot
+Xavier Lévêque
 Jean-Jacques Werner
 Alexandre Guilmant
 Giovanni Carlo Maria Clari
-Gian Francesco Malipiero
 Eduard Tubin
 Alan Hampton
 Carlos Patiño
+Philippe Pierlot
 John Purcell
-Mario Castelnuovo-Tedesco
 Stuart Staples
 Giovanni Bassano
 Giulio Caccini
+Gabriel Le Magadure
+Daniel Danielis
 George Rochberg
-Arne Nordheim
 Aureliano Cattaneo
-Erwin Schulhoff
 Laura Mvula
-Otto Nicolai
+Wilhelm Killmayer
+Rachel Redmond
 Oumou Sangaré
 Alain Bashung
-Vijay Ghate
+David Fray
+Daniel Balavoine
 Said Ag Ayad
 Adrian Willaert
+Joseph Joachim
+Myung-Whun Chung
+Raphaël Merlin
 Claude-Henry Joubert
+Markus Werba
 Jacques Revaux
-Mhairi Lawson
-Antoine Bonnet
+Pierre Colombet
+Manu Chao
+Jean-Efflam Bavouzet
+Thomas Morell
+Gunther Schuller
 Elaga Ag Hamid
+David Bowie
+Vladimir Balshin
+Fidel Fourneyron
+Milosz Magin
+Tristan Klingsor
+Clément Saunier
+Yutaka Sado
 John Ward
-David Popper
+Franz Lachner
+Claudio Cavina
+Igor Naidin
+Christian Thielemann
 John Lydon
-Bernard Labadie
-Topi Lehtipuu
 Johann Ludwig Krebs
+Roland Brival
+Eric-Maria Couturier
 Jacobus Gallus
-Louis Aubert
+Mathieu Herzog
 Scott Joplin
+Làszló Dubrovay
 Gideon Klein
-Matteo Bellotto
-Jean-Louis Agobet
-Gustavo Beytelmann
-Alessandro Piccinini
+Antonio Bertali
+Georges Hüe
+Gabriel Jackson
+Pietro Pariati
+Marc Coppey
+Maurizio Baglini
+Marc Garvenes
+Jean Tubery
 Roger Calmel
-Rolf Lislevand
+Phuong-Mai Tran
+Bernard Legac
 Aram Khatchatourian
 Francis Coiteux
+Paul Malinowski
+Stéphane Foulon
 Jacques-Albert Anschütz
-Silvius Leopold Weiss
 Alessandro Grandi
-Skip Sempe
-Arnold Schönberg
 Marcial del Adalid
-Joseph Lanner
-Malcolm Arnold
 Fromental Halévy
 Claudin de Sermisy
+Julien Bourdais
 Mathieu Boogaerts
 Victor Buot
 Jenő Hubay
+Albert Willemetz
+Louis Rodde
+Benjamin de La Fuente
 Vincenzo Ciampi
-Colin Davis
-Wayne Shorter
+Charles Bordes
+Arnaud Thorette
+Irvine Arditti
+Luca Marenzio
+Céline Frisch
 Victor Pessoa
-Frederic Rzewski
-Jean-Yves Bosseur
-Gaspar Cassadó
+Dominique Boutel
+Gabriel Dupont
+Dédé Saint-Prix
+Nicolas de Grigny
+Paul Agricole Genin
+Paul Claudel
+Dagmar Sasková
+John Coltrane
+Alexandre Duhamel
+Maxime Le Forestier
+Gaetano Rossi
+Paloma Kouider
+Michael Mantler
+Patrizia Bovi
+Kevin Seddiki
+Antoine Bonnet
+Sylvain Bardiau
+Christophe Looten
+Pierre Strauch
+Roger Redgate
 Iván Fischer
-Jean Guillou
-Nadia Boulanger
+Alexander Brott
+Pierre Willer
+Charles Avison
+Johann Mattheson
+Henri Cliquet-Pleyel
+Emmanuel Vistorky
+William Byrd
 Sébastien Vichard
-Gabriela Montero
-Andrew Staples
+Luc Bertin-Hugault
+Paolo Damiani
 Sophia Domancich
+Albin de La Simone
 Thomas Roussel
+Thomas Hobbs
+Alessandro Kramer
+Thomas Zehetmair
+Miguel Da Silva
+Jean-Lou Descamps
 Magno Souza
-Roger Norrington
-Andreas Scholl
-Jean-Yves Thibaudet
-David Zinman
-Thomas Dunford
+Giovanni Battista Vitali
+Fayçal Karoui
+Charles Dutoit
+Aram Khatchaturian
+Matthias Mahler
+Gilles Durot
+Katarina Livljanic
+Vittorio Rieti
 Romuald Brunet
+Amandine Grevoz
 Aloys Claussmann
 Giaches de Wert
-Anna Reinhold
-Wilhelm Stenhammar
-Thierry Lalo
+Sergueï Vassilievitch Rachmaninov
+Paul Misraki
+Claude François
+Sarah Murcia
+Szymon Laks
+Bryce Dessner
+Biagio Marini
 Howard Skempton
-Leonard Cohen
+Teodorico Pedrini
+Amadeo Vives
+François-Nicolas Geslot
+Maria Grazia Schiavo
+Dimitri Chostakovitch
+Jean-Nicolas Bouilly
+Keren Ann
 Dynam-Victor Fumet
+Béatrice Muthelet
 Tom Menig
 Joe Lovano
+John Weldon
 John Ireland
-William Bolcom
+Agnès Cathou
 Gabriel Allier
-Claude Ballif
-Franck Krawczyk
-George Shearing
+Gaëlle Arquez
+Roberta Mameli
+Clément Doucet
+Vernon Duke
 Jayme Alem
 Henri d' Aubel
-William Christopher Handy
-Michael Torke
+Hèctor Parra
+Rebecca Ockenden
+Francesco Petrarca
+Gilles Delebarre
+Carl Ruggles
+Didier Lockwood
 Antoine Reicha
 Gavin Bryars
-Marius Constant
 Jean Bernard
 Louis Antoine Dornel
-Fabrice Moreau
+Adrien Roch
 Charles Tournemire
+Boubacar Traore
 Eric Porto
+Sae-Jung Kim
 Maurizio Cazzati
 Jean-Philippe Bec
-Colin Matthews
+Giovanni Picchi
+Günter Bialas
+Granville Bantock
 Pedro de Cristo
-Lou Harrison
-Zachary Wilder
-Christopher Hogwood
-Evan Parker
+David Fenech
 Michel Lambert
-Aarre Merikanto
+Peire Vidal
+Michel Massot
+Harry Freedman
 André Telman
-Claude Joseph Rouget de Lisle
-Alain Souchon
 Naji Hakim
 Eugène Besançon
 Lawrence Foster
 Denis Colin
-Atsushi Sakaï
-Enrique Morente
+Chick Corea
+Emmanuelle Cordoliani
+Pierre-Charles Roy
+Werner Güra
+Mariana Flores
 Maki Ishii
+Azio Corghi
 Emmanuelle Ophèle
-Harold Arlen
-Walter Frye
-Roberto Alagna
-Theobald Boehm
+Marie Bournisien
+Mario Brunello
+Noëlle Geny
+Svetlin Roussev
+Philippe Forget
+Habib Koité
+Julia Fischer
+Jean Ferrat
 Johann Adam Reincken
-Francesco Filidei
-Agostino Steffani
+Brian Eno
+Hermann Bemberg
+Martin Helmchen
+Pascal Contet
+Anne Queffélec
 Lionel Belmondo
-Dave Holland
-Hanspeter Kyburz
+Katherine Watson
 Emmanuel Assati
 Johannes Schenck
+Michael Tilson-Thomas
+Manuel Cardoso
 Moritz von Oswald
-Massimo Moscardo
+Philippe Aïche
 Selim Palmgren
  Johann Sebastian Bach
-Matthias Goerne
+Giovanni Antonini
+Alexandra Soumm
+Carmen Linares
+Tanja Tetzlaff
+Malcolm Martineau
+Akané Sakaï
 Eduardo Hubert
+Denis Levaillant
 Mickaël Talpot
+Joseph von Eichendorff
+Michel Godard
+Théophile Gautier
+Fabián Schofrin
+Hugo von Hofmannsthal
 Sandy Nida
 Charlotte Danhier
+Robert Moran
+Jean-Claude Wolff
+Joëlle Léandre
+Kurt Atterberg
+Samuel Wesley
+Giovanni Sgambati
+Joseph Swensen
 Ramesh Meena
+Louise de Vilmorin
 Femi Kuti
-Adam Laloum
-Germaine Tailleferre
 Nicolas Bernier
 Robert Marcy
-Emmanuelle de Negri
 Giovanni Battista Bassani
 Thomas Weelkes
-Philippe Cassard
+Matthieu Donarier
 Percy Grainger
+Catherine Prin Le Gall
+Cécile Bracq
 Gregory Porter
 Giovanni Paolo Colonna
 Waed Bou Hassoun
 Johann Baptist Vanhal
 Ismail Hakki Demircioglu
-Sophie-Carmen Eckhardt-Gramatté
-Alfonso Ferrabosco
+Célia Dufour
 Erkan Ogur
 Dmitrij Borisovič Kabalevskij
 Roger Boutry
 Jean Coulthard
-Sylvano Bussotti
+Benoît Gaspard
 Bojan Z
 Melchor Robledo
+David Sauzay
 Antony Holborne
-Haïg Sarikouyoumdjian
-Denis Charolles
+Jean-Pierre Zing
+Francesco Turrisi
 Nicolas Simon
 Francis Lopez
-Francesco Geminiani
 Daniel Darc
 Tarquinio Merula
-Frank Bridge
-Míkīs Theodōrákīs
+Moritz Eggert
 Beat Furrer
+Anthony Pateras
+Michel Alibo
 Johann Joachim Quantz
-Christophe Dal Sasso
-Christoph Prégardien
+Jean-François Novelli
+Geirr Tveitt
+Henri Tournier
 Robert Planquette
-Harry Warren
 Jacques Gallot
-Aubert Lemeland
-Don Kent
+Alberto Nepomuceno
+Friedrich von Schiller
+Allain Gaussin
+Valéry Aubertin
+Cyrille Lehn
+Józef Świder
 Bill Frisell
 Denis Barbier
-Marcello Giuliani
-Stéphane Grappelli
+Marcel Pérès
+Gottfried Heinrich Stölzel
 Richard Goode
+Joseph Achron
 Ingvar Lidholm
 Nicolas Lebègue
 Michael Kiwanuka
+Ellen Taaffe Zwilich
+Pelham Humfrey
 Ladislav Kupkovič
+Victor Julien-Laferrière
+Bernard Aymable Dupuy
+Hieronymus Praetorius
+Ignaz Holzbauer
+Jean-Bernard Pommier
+Michel Laplénie
+Hernando Franco
+Sergej Krylov
+Albert Vanloo
+Fuminori Tanada
 Élisabeth Jacquet de La Guerre
-Enrique Mazzola
+Wilhelm Kempff
+Kassé Mady Diabaté
 Harold Bozi
+Stephen Betteridge
+Mari Eriksmoen
+Walter Frye
 Heinrich Marschner
-Juraj Valcuha
+Olga Neuwirth
+Christian Wolff
+Ernst Toch
+Virgilio Mazzocchi
+Pascal Bodin
 Paavo Heininen
-Ed Harcourt
+Jonathan Finlayson
+Jean-Paul Fouchécourt
+Tomás Marco
+Carol Robinson
+Johann Gottfried Walther
+Philippe Herreweghe
 Jacques Pillois
-Johannes Maria Staud
-Fernando Obradors
-Marco Momi
+Bojan Zulfikarpasic
+Yovan Markovitch
 Kerfala Kante
+Alexandre Martin
+Leó Weiner
+Monica Pustilnik
 Josef Antonín Štěpán
-Cristofano Malvezzi
+Sarah Nemtanu
+Pierre Papadiamandis
+Giovanna Marini
 Guiraut Riquier
+Joseph Wölfl
+Manuel García
 Joseph Ruiz Samaniego
-Bertolt Brecht
+Garth Knox
 Steve Swallow
-Olivier Juste
 Robert White
 Grégory Privat
+Jean-Christophe Vervoitte
+Thomas Newman
 John Jenkins
 Francisco de Peñalosa
 Zaf Zapha
 Sainte-Colombe
 Mateo Romero
 Adhemar Decq
-Robert Casadesus
+Marcello Vitale
 Heinrich Scheidemann
-Sandrine Piau
+Paul Lay
+Philippe Petit (Radio France)
 William Alwyn
 Claude Goudimel
+Bernardo Pasquini
 Johann Friedrich Fasch
-Patrick Muller
-Marcel Landowski
-Hugo Alfvén
 Antoine de Févin
 Vagn Holmboe
 Gioacchino Cocchi
-Lounis Ait Menguellet
+Philippe Cabon
 Lucien Guérinel
 Jimmy Van Heusen
-Carlos Puebla
-Joni Mitchell
-Jacob Druckman
+Anton Reicha
+Juan Tizol
+András Schiff
+Anthony Burgess
+Franco Fagioli
+Driss El Maloumi
+Salvo Vitale
+Carlos Salzedo
+Michèle Losier
+Alphonse de Lamartine
+Sébastien Daucé
+Anita Mitterer
+Conrad Beck
+Giya Kancheli
+Barry Douglas
+Claire-Mélanie Sinnhuber
 José Padilla
-Chaya Czernowin
-Julián Aguirre
+Christophe Coin
+David Alagna
+Philippe Lefebvre
    
-Aristide Bruant
+Fabien Mary
+Francesca Verunelli
+Marc Labonnette
+Nicolas Racot de Grandval
+Vittorio Monti
+Alain Goraguer
+Michel Colombier
+Isabel Mundry
 Louis Couperin
 Ernest Brunet
-Ramón Lazkano
-Luc Ferrari
+Eduard Künneke
+Lucia Ronchetti
+William Christopher Handy
+Benedict Mason
+Pablo Luna
+Gérard Lesne
+Dominique Della Maria
+Simon Bainbridge
+Hervé Dubreuil
+Kristjan Järvi
+Étienne Tréfeu
+Catulle Mendès
+Jean-Étienne Langianni
+Luc-Marie Aguera
+Yves Baudry
+Didier Petit
+Denis Fournier
 Peter Solo
-Fats Waller
 Laurence Equilbey
+Rainer Maria Rilke
+Barthold Heinrich Brockes
 Mariam Doumbia
 Hubert Garavel
+Giuseppe Giacosa
+Gustave Samazeuilh
 Andy Sheppard
-Johann Georg Pisendel
+Bertrand Dubedout
+Patrizia Ciofi
+Luigi Arditi
+Florence Malgoire
+Gaetano Latilla
 Aldo Clementi
-Franz Waxman
+Temistocle Solera
 Christoph Eschenbach
+Georges-Léonce Guinot
+George Whitefield Chadwick
+Alfredo Bernardini
+Jean-Christophe Jacques
+Édouard Commette
+Friedrich Hölderlin
 Battista Guarini
-John Kander
-Alan Parker
-Luciana Mancini
+Marius Petipa
+Oswald Sallaberger
+Éric Groleau
+Thierry Lancino
 Hans Zender
-Frank Loesser
+Guillaume Sutre
+Édouard Blau
 Douglas Boyd
-Petr Prause
 Jules Bertain
 Johann Michael Nicolai
-Émile Bourdon
+Jan Blockx
+René Koering
+Victorien Sardou
+Antonio Abete
 Lubomyr Melnyk
 Hans Krása
 Conradin Kreutzer
-Frank Zappa
+Lorin Maazel
+Daniel Kawka
 Sigismund Neukomm
-Cyril Auvity
 Francesco Corteccia
-Eliahu Inbal
+Glenn Gould
+François Benoist
+Charles-Auguste de Bériot
+Octavio López
 Baaba Maal
+Pierre-Joseph Bernard
 Lilya Zilberstein
+Hanspeter Kyburz
 Viktoria Mullova
+Alonso Lobo
+Albert Doyen
+Julia Sarr
 Jacobus Clemens non Papa
+Olivier Mellano
+Judith Bingham
 Ernesto Halffter
-Susumu Yoshida
-Hakan Güngör
+Jean Huré
+Jan Zach
+Martin Luther
+Eugénie Warnier
+Kenny Garrett
 Agathe Backer-Grøndahl
+Mauro Gargano
+Cristofano Malvezzi
+Paul Taffanel
 Johann Gottlieb Graun
-Valentin Silvestrov
-Pasquale Cafaro
-Nick Drake
+Friedrich Gernsheim
+Mathieu Romano
+Jean-Marc Fessard
+Vic Moan
+Benoît de Mesmay
 Curtis Harding
+Lise de La Salle
+Wayne Dockery
 Denis Leloup
+Armand Silvestre
+Ruben Aharonian
 Jack DeJohnette
+Julien Quentin
 Émile Bernard
-Pierre Jodlowski
 Kengo Saito
 Carl Chesneau
 Philippe Bellenot
 Andreas Lagerström
+Jean-Louis Deloncle
 Francisco Tárrega
+André Villéger
 Alexander Tcherepnin
 Paul Ladmirault
-Thomas Savy
+Michel Marre
+Didier Benetti
 Chassol
-Stéphanie Leclercq
+Olivier Beurotte
+Raul Paz
 Pietro Carlo Guglielmi
 David Robertson
 Anton Spetze
 Joan Guinjoan
 Cameron Ralston
 Jacotin
-Maurice Jarre
-Richard Danielpour
-Sarah Dayan
-Guillaume Becker
+Laure Jung-Lancrey
+Thomas Enhco
 Guillaume Bouzignac
+Lima Juan Sebastian
 Earl Harvin
 Ignacy Jan Paderewski
 Bernard de Ventadour
@@ -1303,139 +2142,180 @@ Paul Chabeaux
 Dmitrij Stepanovič Bortnânskij
 Mario Faivre
 Franz Anton Hoffmeister
+Marie Lepeintre
+Quito Gato
 Rued Langgaard
+Céline Parfenoff
 Nicole Lachartre
 François-Adrien Boïeldieu
 Leonhard Lechner
 Ervín Schulhoff
 Jérôme Comte
 Giovanni Felice Sances
-Patrick Burgan
 Johann Simon Mayr
 Francisco Alonso
 Money Mark
 Marc-Antoine Désaugiers
 Robert de Visée
 Pierre Wissmer
+Bauer Martin
 Leopold Schefer
 Harry Somers
 Thomas John-Lambert
 Max d' Ollone
 August Halm
-Olivier Baumont
-Piotr Moss
-Cyril Costanzo
 Germain Desbonnet
 Thierry Lechauve
 Andrew Nice
-Johann Wolfgang von Goethe
 Chip Crawford
+Patrick Artero
 Juan del Encina
 Johann Heinrich Schmelzer
-Jacques Leguerney
-Alain Altinoglu
-Callum Thorpe
-Philippe Gouttenoire
+Thierry Deleruyelle
+Fernand de La Tombelle
 Luis de Narváez
+Renaud François
 Guillaume Costeley
+Olli Mustonen
 Bernardo Sabadini
-Jeremy Ovenden
 Charles Wuorinen
 Marius Cairanne
+Frédéric Favarel
+Pierre Louÿs
+Florian Laconi
+Alain Huteau
+Allan Clayton
 Friedrich Kuhlau
-Bob Marley
+Romain Lenoir
+Nikolai Demidenko
+Boris Schmidt
 Jean-Pierre Pommier
-Paul Riveaux
-Ravīndranātha Ṭhākura
-Karl Jenkins
+Mary Lou Williams
+Pierre-François Dufour
+Gil Shaham
+Patrice Fouillaud
+Giovanni Antonio Terzi
+Pierre Jansen
 Bruce Brubaker
-Charles Villiers Stanford
 Jean-Jacques Goldman
-رابع درياسة
+Simon Trpčeski
+Gualtiero Dazzi
+Jean-Marc Phillips-Varjabédian
+Hans Jörg Mammel
+Urs Leimgruber
+Hae Sun Kang
+Stéphane Delplace
+Eamonn Dougan
 Gregor Mayrhofer
-Yannick Nézet-Séguin
+Toshi Ichiyanagi
+Tadeusz Baird
+Domenico Lalli
 Camille
 Henri Collet
-Claude Nougaro
-Vladimir Ashkenazy
+Yaron Herman
+Philippe Legris
 Friedrich Wilhelm Rust
+Geza Hosszu-Legocky
+Federico García Lorca
 Pepe Habichuela
-Johnny Mercer
+Nicolas-François Guillard
+James Weeks
 Jacopo Peri
-Paul Verlaine
-Léo Ferré
+Philippe Girard
+Daniel Blumenthal
+Louis Noël Bestion de Camboulas
+René Gerber
+Paul Bowles
+Robert Fayrfax
+Riccardo Chailly
 Johannes Ciconia
-Osvaldo Golijov
-Keiko Abe
+August Kühnel
+Francisco de Lacerda
 Noël Brusa
-Valeriy Sokolov
-Ian Honeyman
-Wiltold Lutoslawski
+Hanno Müller-Brachmann
+Frank Markowitsch
+Louis de Cahusac
 Johann Strauss
+Pierre-Adrien Charpy
 Xavier de Lignerolles
 Antonio de Cabezón
-Ivo Malec
-Ned Rorem
+Albert Samain
 Flavio Boltro
+Jack Body
+Yves Duteil
 Raphaël Pichon
+Nathanaël Gouin
+Carlo Farina
+Pascale Criton
+František Xaver Brixi
+Julien Joubert
 Gaspar Fernandes
-Eric Zeisl
+Micheline Coulombe Saint-Marcoux
+Sergei Lomovsky
+Sainkho Namtchylak
+Abdellah Lasri
+Courtney Pine
+Yi Chen
 Kirk Lightsey
-Yungchen Lhamo
+Matthew Barley
+Bernard Lavilliers
+Jean-Francois Bonnel
+Francis Miroglio
 Kubix
+Mikhail Petrenko
+Giovanni Battista Degli Antoni
 Michael Gielen
 Emilie Simon
-Rinaldo Alessandrini
+Thomas Quasthoff
+Pierre Jodlowski
 M.C. Màlama
 Folquet de Marseille
-Aulis Sallinen
-Andrew Lawrence-King
 Leevi Madetoja
-Renaud Capuçon
+Doron David Sherwin
 Charles Hubert Hastings Parry
 Joan Cererols
 Lionel Rogg
 Georg Prenner
 Georges Migot
-Jean Deroyer
 Jalen N'Gonda
 Dimitri Tchesnokov
-Georg Böhm
 Enguerrand-Friedrich Lühl
+Jean-Joseph Mouret
 Louis de Caix d'Hervelois
 Biagio Marini
 Bellerofonte Castaldi
 Alexis Taylor
 Wolfgang Carl Briegel
+Gerold Huber
+Claire Lefilliatre
+Mourad Benhammou
+Sébastien Boisseau
 Aleksandr Sergeevič Dargomyžskij
 Valentin Vasil'evič Sil'vestrov
-Giuseppe Gazzaniga
 Charles Chaulieu
 Henri Chollet
-Guillaume Connesson
 Ferdinando Paër
-Bernard Haitink
 James Vincent McMorrow
-Thierry Blondeau
+Emmanuelle Haïm
 Alfonso Fontanelli
 Carlo Francesco Pollarolo
 Tobias Hume
 Joseph-Hector Fiocco
 Henry Lawes
-Émile Waldteufel
 Bernard Parmegiani
  Compositeurs anonymes
 Robert Johnson
+Yoni Zelnik
+Nadège Antonini
 Christopher Hill
 Poul Ruders
+Jessica Foucher
 Pierre de Manchicourt
-Elsa Biston
 Theobaldo di Gatti
 Hamiet Bluiett
-Hervé
+Christophe Michou
 Fred Wesley
-Edmond Audran
-Denis Matsuev
+Philippe Milanta
 Jacques Rebotier
 Giles Farnaby
 Jens Mc Manama
@@ -1443,80 +2323,152 @@ Nicolas Gombert
 Geminiano Giacomelli
 Pierre Angot
 Alexander Utendal
-Carlos de Seixas
+Francesco Provenzale
+Dong-Hyek Lim
+Richard Egarr
 Pascale Jakubowski
+Giovanni Sollima
+Nicolas Martynciow
 Philippe le Chancelier
+Bernardo Murillo
+Harry Crowl
 Michal Kaňka
+Christophe Mali
 Mahmoud Ahmed
-Billy Hart
 Giovanni De Macque
+Yves Saelens
+Piers Faccini
+Gil Evans
+Edwige Parat
+Frank Wedekind
+Julius Benedict
 Joe Zawinul
-Nikolaï Andréiévitch Rimski-Korsakov
+Jean-François Zygel
+Marcello Fera
 Tyler George Minetti
+Jean-François Lombard
 Brett Dean
 Paul Barbot
-Frank Churchill
+Franck Vigroux
+Yanowski
 Dag Wirén
+Philippe Chamouard
 Fazil Say
-Irving Mills
-Magdalena Kožená
-Jean-Claude Gengembre
+Alexandre Duval
+Olivier Bellamy
+Dénes Várjon
 René Zosso
 Antón García Abril
 Tim Hill
-Elliott Sharp
+David Chalmin
+Petrus Abaelardus
+Howard Arman
+Jon Appleton
+Nicolas Courjal
+Angelo Anelli
+Christopher Rouse
+Kalevi Aho
 David Gaillard
 Herbert Blomstedt
 Henri de Saint-Georges
+Grigoraş Dinicu
 Moussa Albade Kildjate
+Johann Philipp Kirnberger
 Wilhelm Grosz
 János Bihari
+eRikm
 Lingling Yu
-Florent Boffard
+Nathalie Gaudefroy
 Étienne Ozi
+Marie Lenormand
+Gustave Nadaud
 Nicola Tescari
-Lalo Schifrin
-Jacques Dutronc
+Xiaoyong Chen
 Pierre-Jean de Béranger
-Felice Romani
 Francisco Gonzalez
-Michel Polnareff
+Michael Schade
 Rone
-Maurice Emmanuel
+Anatol Vieru
+Friedrich Rückert
+François-Henri Houbart
+Anselm Hüttenbrenner
 Florent Jodelet
 Henri Verdun
-Philippe Jaroussky
-François Castang
+Earl Wild
+Aurel Stroe
+Thierry Balasse
+Julián Aguirre
+Martín Oro
+Howard Dietz
+La Monte Young
+Ruggero Leoncavallo
+Luís Tinoco
+Franz Xaver Murschhauser
+Emmanuel Séjourné
 Laurie Anderson
+Sean Shepherd
+Alain Féron
+Friedrich Witt
+François Roberday
+Evelyn Glennie
+Renaud
+Louis Anseaume
 Aldo Romano
-Oliver Schneller
+Eugène Cormon
+Tedi Papavrami
 Enrico Rava
+Hidéki Nagano
+Miroslav Srnka
+Laurent Dehors
+Adolf Busch
 Gustave Charpentier
-John Dowland
+Michel Édelin
+Alejandro Petrasso
+Anders Hillborg
+Raynald Arseneault
+Wiltold Lutoslawski
+Ottavio Rinuccini
 Sébastien Glas
 Pierre Baillot
+Saténik Khourdoïan
 Stefano Bollani
-Maurice Delage
 Marguerite Balutet
-Nicholas Scott
+Loïc Félix
 Alain Savouret
+James Conlon
+Marc Desmons
 Lucien Durosoir
-Jean-Michel Jarre
-Ilse Weber
-Bertrand Chamayou
+Narcis Bonet
+Marc Ducret
+Ralf Gothóni
+Sandrine Bonnaire
+Stéphane Payen
+Burton Lane
 Arthur Vincent Lourié
-Lera Auerbach
+Simone Kermes
+Pierre-Yves Macé
+Christian Immler
+Serge Goubioud
 Lea Desandre
-Thomas Hampson
 Pascal Amoyel
+Anna Marly
 Horace Silver
-Carl Friedrich Abel
+Guillaume Coppola
+Boris Pokora
+Mogens Christensen
 Anna Clyne
-Edward Heyman
+Rinaldo Alessandrini
+Giuseppe Petrosellini
 François Dufaut
-Arthur Benjamin
-Vincent-Raphaël Carinola
+Alain Buet
+Juha Uusitalo
+Walter Braunfels
+Anna Bonitatibus
+Shi-Yeon Sung
 Thierry De Mey
+Olivier Koundouno
+Ludwig Minkus
+Olivier Leroux
 Gemra Ram
 Thomas de Pourquery
 Yrjö Kilpinen
@@ -1528,179 +2480,240 @@ Ferdinand Beyer
 Florian Leopold Gassmann
 Johann Melchior Molter
 Gérard Hilpipre
+Michael Behringer
 Étienne Moulinié
 Johann Heinrich Schmelzer
-Renato Dolcini
 Oswald von Wolkenstein
 Matthew E. White
 Adolphe Adam
-John Coolidge Adams
 Cristóbal de Morales
-François Bayle
 Michel de La Barre
 Giuseppe Farinelli
-Jean-Philippe Viret
-Pascal Berne
-Ludovic Halévy
+Sophia Domancich
 Clément Lebrun
 Tolia Nikiprowetzky
 Nicolas Vallet
 Lucía Martín-Cartón
 José de Cor-de-Lass
 Rodolphe Kreutzer
-Leopold Godowsky
 Mahesha Ram
+Josko Caleta
 Prabhu Ram
+Jay Gottlieb
 Peter Von Poehl
 Marta Kurtag
-Emile Parisien
+Martin Mellinger
+Piotr Ilitch Tchaikovski
 Émile Goué
-Jake Heggie
 Pierre-Yves Level
-Pierre Hamon
-Pierre Boragno
-Milton Babbitt
+Bernard Le Gac
 Louis Benoit
 Václav Jan Tomášek
-Michel Mandel
 Raphaël Chassin
 Yassen Vodenitcharov
 Knudåge Riisager
 Bhage Khan
-Franz Berwald
 Domenico Mazzocchi
 Jean-Louis Martinet
-Carlos Guastavino
+Ronaldo Lopes
 Francesco da Milano
 Franz von Suppé
+François Raulin
 Ernest Bucalossi
 Davide Perrone
 Matthias Weckmann
 Hedwige Chrétien
 John Greaves
-Daniela Skorka
-Anton Diabelli
+Donatienne Michel-Dansac
+Leonardo Teruggi
 Alfredo Piatti
 Jean-Louis Petit
 Theodor Wiesengrund Adorno
 Jean-Marc Singier
+Don Vappie
 Alonso Mudarra
-Léon Boëllmann
-Guillaume Roy
+Geoffroy Buffière
 Francisco Correa de Araujo
 Octave Crémieux
-William Billings
+Sébastien Texier
+Gilles Blanchard
 Luigi Mancia
 Carl Stamitz
-Claudio Abbado
-Toivo Kuula
 Eduardo Sánchez de Fuentes
 Carlo Vistoli
+Benjamin Thuau
 Balthasar Resinarius
 Bernard de Vienne
+Bakary Sangaré
+Ramón Lazkano
 Henri Cellot
 Zein l' Abdin
-Heiner Goebbels
 Emils Darzins
+Frédéric Gastard
 Luigi Caruso
-Robert Johnson
+James McVinnie
+Laura Claycomb
 Josef Bohuslav Foerster
 Loreto Vittori
+Salvatore Adamo
 Francesco Santa Croce
-Joshua Redman
+Alexandre Authelain
 Emanuel Adriaenssen
-Christian Gerhaher
+Michael Gordon
+Robert Desnos
+Jan Talich
 Márta Sebestyén
+Vittorio Grigòlo
+Wystan Hugh Auden
+Sly Stone
+Andrea Hill
+Jacques Mauduit
+Sophie Karthäuser
+Frank Peter Zimmermann
+Sophie Lacaze
 Mike Armoogum
 Daniel Lanois
-Julien Loutelier
 Shabaka Hutchings
+Philip Pickett
+Prabhu Edouard
+Imke David
+Sabine Goetz
 Nikolaj Âkovlevič Mâskovskij
+Ayako Tanaka
 François Corneloup
+Prosper Mérimée
 Stefano Landi
-Giuseppe Maria Cambini
-Jacques Brel
-Jacques Lenot
-Marie-Claude Chappuis
-Karen Vourc'h
-Catherine Simonpietri
+David Lefort
+Marianne Svasek
+Franz Welser-Möst
+Hans-Peter Hofmann
+David Neerman
+Steve Dugardin
+Niels Viggo Bentzon
+Gérard Condé
+Ernst Bacon
+Gottfried van Swieten
 Lars Edlund
-François Piolino
+Jascha Heifetz
 Giuseppe Palomba
+Francisco Canaro
 Amos Hoffman
-Oscar Strasnoy
+Alain Chamfort
+Robert de Flers
 Guillemette Laurens
-Luigi Denza
-Manfred Honeck
+Safir Behloul
+Charles Wood
+Paul Bazelaire
+Nelson Gomez
+Jean Racine
+Noël Akchoté
+Jean-Charles Richard
+Hans-Christoph Rademann
 Christiane Karg
-Pierre de Bréville
 Robert Morton
-Marko Nikodijevic
+Louis-Albert Bourgault-Ducoudray
 Matthieu Lécroart
-Salim Dada
+Christian Fennesz
+Théodore de Banville
+Pierre Danican Philidor
+Yvan Charbit
 Demis Visvikis
-Marc Blitzstein
+Esperanza Fernandez
+Christian Hamouy
+Mariss Jansons
+Emanuel Schikaneder
 Johan Halvorsen
+Pierre Bartholomée
 Antonín Reichenauer
+Dagmar Pecková
+Maurice Béjart
+Ariana Savall
 Charles Chaplin
+Varduhi Yeritsyan
 Francesco Feo
-Olivier Schneebeli
+Viktor Kalabis
+Adrienne Clostre
+George Butterworth
 Benjamin Alard
 Laurent Robin
+Mireille Delunsch
 Gabriel Mena
 Alexander Agricola
+Emmanuel Hondré
+Eric Löhrer
+Matthieu Leroy
 Samuel Sebastian Wesley
-Andrey Boreyko
+Silvio Stampiglia
+Glenn Branca
+Jan Vogler
+Nikola Damjanovic
+Barry Guy
 Élie Miriam Delaborde
-Johann Christoph Pezel
+Ernest John Moeran
+Stéphane Kerecki
 Goffredo Petrassi
+Odile Auboin
+Joseph Méry
 Olivier Calmel
+Michele Carafa
+Cécile Achille
+José Evangelista
 Cornelius Canis
 Johann Gottlieb Naumann
-Julien Clerc
+Frank Woeste
+Pierre Monteil
+Luc Le Masne
+Stephen Storace
+Ibrahim Ferrer
+Lucas Ruiz de Ribayaz
+John Blow
+Charles Jennens
+Hanspeter Kyburz
 Léo Pouget
+Giovanni Battista Martini
+Carlo Gesualdo
+Josh Dolgin
 Karl Rasheed-Abel
-Federico Chueca
+Francesco Barsanti
 Johan Wagenaar
+Guillaume Apollinaire
+Xavier Charles
 Moraíto
+Bertrand Chamayou
+Markus Flaig
 Tomatito
-Charles Chaynes
-Blandine Rannou
+David Plantier
+David Enhco
+Milivoj Rilov
 Emilio Pujol
-Lucilla Galeazzi
+Philippe Béziat
+Joseph Cornwell
+Julien Touery
+Панчо Хараланов Владигеров
 Sigismond Thalberg
-Frédéric Stochl
-Julien Leroy
 Laurent Boutonnat
 Julien Philéas
+Patrick Denecker
 Michael Obst
-Leonardo García Alarcón
 Gervais-François Couperin
 Mark-Anthony Turnage
-Edward Perraud
+Robert King
 Henri Loche
-Joseph Ascher
-Riccardo Minasi
-Jonas Kaufmann
-Ernst Theodor Amadeus Hoffmann
-François Vercken
+Anne Montaron
 Michel de Montéclair
-Emilie Renard
-Wilhem Latchoumia
 Salamone Rossi
 Noël Gallon
 Leopold Kozeluch
-Franz Doppler
+Sergi Casademunt
 François-André Philidor
-Antoine Guerber
 Narcís Casanoves Bertrán
 Nathalie Stutzmann
 Albert Clément
 Marie-Josèphe Jude
 Joseph Boulogne Saint-Georges
-Johann Georg Albrechtsberger
+Philippe Malidin
+Xavier Puertas
 Michel Carré
-Carlos Roqué Alsina
 Ted Poor
 Fabrice Martinez
 Matteo Noris
@@ -1708,11 +2721,11 @@ Rosemary Standley
 R. P. Cramer
 Carlos Manuel Miyares Hernandez
 Johann Martin Dömming
-Victor Massé
+Srecko Damjanovic
 John McCabe
-Marco Enrico Bossi
 Jacques Champion de Chambonnières
 Andrew Bird
+Nedyalko Nedyalkov
 William Vincent Wallace
 Akio Yashiro
 Luigi Bordese
@@ -1720,501 +2733,675 @@ Felice Giardini
 Gail Ann Dorsey
 Oscar Comettant
 Heino Eller
-Luis Fernando Pérez
 Georges Aubry
-Marcel Bozonnet
-Francesco Maria Piave
+Frédéric Borey
+Claire Levasseur
 Moolood
-John Taylor Ward
 Yvison Pessoa
 Camillo Sivori
+Henri Texier
+John Coolidge Adams
 David Murray
-Peter Cornelius
+François-Frédéric Guy
+Nino Pavlenichvili
 Gaucelm Faidit
 Carlo Cecere
 Henri Desmarets
 Luzzasco Luzzaschi
-Pierre-Max Dubois
-Ferdinand Ries
-Pedro António Avondano
-Domenico Zipoli
+Benjamin Perru
 Amy Beach
 Antonio Ruiz-Pipó
 Meredith Monk
 Thomas Ravenscroft
 Aleksandr Tihonovič Grečaninov
+Louis Sclavis
 Pierre Codini
+Alissa Zoubritski
 Gilbert Humbert
+Phuong-Maï Tran
 Sergej Mihajlovic Lâpunov
+Fernando Guimarães
 Franz Benda
+Lidwine Caron
 Giuseppe Aldrovandini
 Louis James Alfred Lefébure-Wely
 Joao Baptista Pires
-Patrice Héral
 Guillaume Morlaye
-Graham Fitkin
 Camargo Guarnieri
-Miklós Rózsa
-Marc Minkowski
 José de Vaquedano
-Didier Pateau
+Norberto Broggini
 Michel Blavet
 Valentino Fioravanti
+Ivan Charbit
 Nicolas Desvois
 Pedro de Escobar
 Agustín Barrios
+Geoffroy Jourdain
 Amélie Gautier
+Françoise Cordey
 Jules Courtois
 Maud Chabanis
 Stephen Foster
-Dietrich Buxtehude
 Giovanni Benedetto Platti
+Tam De Villiers
 Savin Balonchard
 Pietro Paolo Bencini
-Dominique Vellard
 Hans Leo Hassler
-Julie Fuchs
 Henryk Wieniawski
 Léopold Dauphin
 Karl Ditters von Dittersdorf
-Louis Ganne
-Jean-Baptiste Stuck
 James Arben
 Charles Tomlison Griffes
 Achille Monté
-Alexander Goehr
 Cipriano de Rore
+Pedro Estevan
 Diego Llorente y Sola
 Joao Carlos Coutinho
-Jean-Christophe Rosaz
-Benedetta Mazzucato
-Lorenzo Da Ponte
-Jérôme Combier
+Anne Le Bozec
+Philippe Petit
 Rupert Ignaz Mayr
-Ermanno Wolf-Ferrari
-Andrew Lloyd Webber
 Claudio Merulo
 Terri Lyne Carrington
 Itamar Doari
+Paul Van Nevel
+Eric Villenfin
 Wilhelm Kienzl
 Blondel de Nesle
 Giovanni-Battista Viotti
-Baptiste Trotignon
 Ernest Alder
+Solage
+Faiz Ali Faiz
 Nicolas Gombert
+Eriks Esenvalds
 Emilio de' Cavalieri
 David Boulter
 Francisco Asenjo Barbieri
-Hubert Giraud
-Simon Grant
+Raquel Andueza
+Camille Du Locle
+Wallace Roney
+Johann Mayrhofer
+Jean Martinon
 Louis Théodore Gouvy
 Maurillo De Oliveira
-Rolande Falcinelli
-Ariel Ramirez
-John Harbison
+Anders Koppel
 Ivan Lukačić
+Jean Dousteyssier
+Giovanni Maria Ruggieri
+Richard Barrett
 Amjad Ali Khan
-Louis-Noël Belaubre
-Jean Richepin
+Delphine Galou
+Josef Reicha
+Lakshminarayana Subramaniam
+Peter Schickele
 Jean Mouton
 Jean-Guihen Queyras
-Roger Quilter
-Arthur Schwartz
-Miguel Zenon
+Jean de La Fontaine
+Thomas Jennefelt
+Petra Lang
+Yeree Suh
+Timothy Travers-Brown
+Rodrigo Calveyra
+Don Byron
+François Rossé
+Francesco Spinacino
+Pierre Villette
+Antonio Bazzini
+Benjamin Moussay
 Marcellus Puhlmann
+Alexander Schneider
+Maurice Ordonneau
+Guillaume Aldebert
 Lisa Batiashvili
 Olivier Latry
+Ed Lyon
 James Carter
-Marco Horvat
+Roland-Manuel
 Giovanni Battista Sammartini
+Chantal Nouvelot
+Benoît Mernier
+Kasper Toeplitz
+Dimitrie Cantemir
+Frédéric Vaysse-Knitter
+Coralie Fayolle
+Theodor Berger
 Gaston Litaize
 Léon Conor
+Maurice Greene
 Giovanni Battista Grazioli
-Chico Buarque
+Guillaume Andrieux
 Marc'Antonio Pasqualini
+Thomas Sauvage
 Aurélien Delage
 Warner Poland
-Bernard Foccroulle
-Gérard Caussé
+Gisèle Barreau
+Sam Walton
 Jean Kluger
-Anne-Lise Gastaldi
+Jean-Adam Guilain
+Stephen Kovacevich
 Costin Miereanu
-Dai Fujikura
+Benedetto Pamphili
+Jean-Claude Vanden Eynden
+Antonio Salvi
+Akira Miyoshi
+Karen Cargill
+Salim Dada
+Georges Moustaki
 Tristan Patrice Challulau
-Pablo Cueco
+François Bazola
+Bohuslav Matej Cernohorsky
+Mathieu Alvado
+Irina de Baghy
+François Corneloup
+Cesare Sterbini
+Sébastien Llado
 Antonello Salis
+Cécile Maisonhaute
+Vincent Peirani
 Caetano Veloso
 Elisa Bosch
-Jeff Moore
+Frédéric Borsarello
+Laurent Laberdesque
 Dianne Reeves
+Giacinto Scelsi
+Anu Komsi
 Elisabeth Leonskaja
 John Weinzweig
+Nicolas Baldeyrou
+Lukas Hagen
 Andreas Hammerschmidt
-Michel Berger
+Emil Spányi
 Jacques Mahieux
-Franck Agulhon
+Waltraud Meier
+Tarquinio Merula
+Sara Mingardo
+Julien Chauvin
 Giuseppe Torelli
+Eduardo Toldrá
 Pavel Josef Vejvanovsky
+Jon Leifs
+Maurice Carême
+Diego Ortiz
 Eyvind Alnaes
-Stephen Milling
 Daniel Vangarde
 Jerry Herman
-Simon Steen-Andersen
-Dizzy Gillespie
+Roger Raspail
+Ambi Subramaniam
 Hariprasad Chaurasia
-Alexandre Piquion
 Éric Breton
+Charles-Marie Leconte de Lisle
+Joselito
+Delphine Baudet
 Victor Young
+Lyda Chen-Argerich
+Nicolas Chevereau
+Nicolas Chalvin
 Gaspar van Weerbeke
-Reinhard Keiser
-Heinrich Heine
+André Patrick
+Giovanni Verrando
+Shuya Xu
+Karl Jannuska
+Frédéric Pineau
+Janos Komives
+John Dryden
 Jeanne Cherhal
 Firminus Caron
-Franz Ignaz Beck
-Pierre Bachelet
+Buster Williams
+Luca Guglielmi
+Sylvain Kassap
+Qigang Chen
 Sergey Khachatryan
 Adrian Williams
+Emilio Pomárico
+Fred Wesley
+Julian Steckel
 Antonio Sartorio
-René Leibowitz
+Håvard Gimse
+Giuliano D'Angiolini
+Georges Dandelot
+Zygmunt Krauze
 Dietrich Henschel
-Carl Ruggles
-Christophe Bertrand
+Marc Barrard
+Faye Newton
+Imogen Cooper
+Jean-Jacques Di Tucci
 Benjamin François
-Tadd Dameron
+William Albright
+Jesús Villa-Rojo
+David Tricou
 Paul Dedieu
+Carlo Pepoli
 Gottfried August Homilius
+Elisa Humanes
+Gustave Vaëz
 Alexander Hawkins
 Johan Helmich Roman
 Gramoun Sello
 Melvin Van Peebles
-Derya Turkan
 Chuck Berry
-Christoph Graupner
+Maria Grever
+Yurdal Tokcan
 Rômulo Gomes
-Jean-Luc Ho
+Samuel Beckett
 Aldemaro Romero
 Antoine Tisné
 Reginaldo Vargas
+Mischa Spoliansky
+Pierre Thilloy
+Alice Sara Ott
+Gérard Buquet
+Charles Dumont
+Jonny Greenwood
 Georges Brun
-Ferdinando Carulli
 Denis Schuler
-Eric Legnini
 Vicente Martín y Soler
-Ton Koopman
-Dorsaf Hamdani
+Kristian Bezuidenhout
+Boby Lapointe
 Carlos Cesar
+Katarina Dalayman
 Philippe Gaubert
-José Luis Campana
-Eustache Du Caurroy
+James Price Johnson
 Norbert Burgmüller
+Sidney Bechet
+Leo Robin
+Jaakko Mäntyjärvi
 Ib Norholm
-Leo Zeitlin
 Giuseppe Sarti
-Christophe Marguet
+Hans Rott
+Boris Vian
 Stéphane Gassot
 André Colomb
+Didier Sandre
+Sébastien Huel
+Fahrettin Yarkin
 Stephane Belmondo
+Michiru Oshima
+Alfred de Vigny
 Zād Multaqā
-Petr Eben
+Yevgeny Sudbin
+Murat Salim Tokac
+Hans Erich Apostel
 Emmanuel Ducreux
-Tami Troman
+Jean-Claude Casadesus
+Clytus Gottwald
 Evencio Castellanos
 Manuel Blasco de Nebra
 Jobst vom Brandt
 Jean de Lescurel
+Michel Béroff
 Fred Sauer
-William Boyce
-Olivier Benoit
+Kate Royal
+David Hudry
 Leoš Janácek
-Reynaldo Hahn
+Alexandre Dumas
+Kevin Greenlaw
+Juan Arañés
+Edgar Allan Poe
+Jukka Tiensuu
 Pascal Charpentier
+Mark Barden
+Blessings Nkomo
 Marcio Mallard
 Narcisse Bousquet
-Thomas Newman
 Michael Ryan
-Gaguik Mouradian
 Francis Bayer
 Reid Anderson
+Marko Rogosic
 Guillaume Blaise
 Albert Chandelier
 Kristina Koropecki
 Bertran de Born
 Jan z Lublina
-Giovanni Bottesini
-Augusta Holmès
 Ildebrando Pizzetti
+Allison Ascrizzi
 François Francoeur
 Roland Dyens
-Pauline Viardot
 Sandor Bertha
-Pierre-Alexandre Monsigny
+Nicolas Dacunha
+Stéphane Poitevin
 Vasilij Sergeevič Kalinnikov
+Cédric Chatelus
 Albert Arnaud
 Eric Coates
+Emiliano Gonzalez-Toro
 Henry
-Vlastimil Holek
+Sergey Saprytchev
 Saïd Ghezli
 Leonard King
 Julien Lourau
  Christophe
 Franz Xaver Richter
 André-Frédéric Eler
-Sylvain Rifflet
+Francesco Bearzatti
 Francesco Foggia
 SoCalled
 Mino Cinelu
 Frédéric Brisson
 Youssou Ndour
 Mathilde von Kralik
-Django Bates
 Galina Ivanovna Ustvol'skaâ
-Jean-Luc Manca
-Carl Reinecke
+Vusa Mkhaya Ndlovu
+Lionel Desmeules
 Jacopo da Bologna
 Bachar Mar-Khalifé
 Gottfried Finger
 Christian Le Délézir
 Sigfrid Karg-Elert
 Camenae monasterii Sancti Georgii Herciniae Silvae
-Gary Valente
-Pablo Bruna
-Carl Friedrich Zelter
+Nicolas Genest
 Jules Barbier
 Andreas Romberg
 Giovanni Andrea Fioroni
 Jules de Calonne
 Barbara Pentland
 Djamel Hamiteche
+Dumisani Moyo
 François-Auguste Gevaert
-Johann Christoph Friedrich Bach
 Louis Barincou
-Josef Kluson
+Lorentz Duftschmid
 Gerard Gibbs
 Robin McKelle
-Stéphane Blet
+Vivica Genaux
 Jean-Louis Aubert
-Théodore de Bèze
 Guy Sacre
-Pierre Vellones
 Henri Busser
-Charles Borel-Clerc
+Gray Sargent
+Henri Gorohouna
+Francesca Boncompagni
 Giovanni Croce
 Oscar de la Cinna
 Achemi Bellali
+Lee Musiker
 Raoul Chassain de La Plasse
 Neil Fraser
+Edouard Wamejo
 Manuel María Ponce
 Gabriel Baille
-Wilhelm Peterson-Berger
 Melchior Neusidler
 Arnold von Bruck
-Antoine Tamestit
 Ahmed Adnan Saygun
 Lucien Haudebert
+Els Janssens-Vanmunster
 Cyril Constanzo
-Lang Lang
+Myriam Rignol
+Franck Russo
+Tony Duster Bennett
 Maurice Decourcelle
 Bonifazio Graziani
 Étienne Rolin
-Hans Abrahamsen
-Sylvain Romano
-Joseph Jongen
-Ruperto Chapí
+Marshall Wood
+Ferran Savall
 Joonas Kokkonen
 Lukas Foss
-Philippe Quinault
 Isaac de Camondo
+Jean-Guihen Queyras
 A. Blancheteau
 Saverio Mercadante
 Christophe Ballard
+Louis Moutin
 Benedictus Appenzeller
 Nicola Fago
-Apostolo Zeno
-Plamena Mangova
+Jean-Philip Ihnomadra
 Edmond Antréassian
 Pascal Collasse
 Henry Vieuxtemps
 James Spaulding
+Christophe Goudin
+Alban Darche
+Harold Jones
+Maciej Pikulski
+Alice Dona
+John Casken
 Claire-Mélanie Sinnhuber
-Pierre Le Bourgeois
 Auguste Coédès
+François Ripoche
+Alain Meunier
+Johannes Mannov
+Vittorio Gui
 Krzysztof Meyer
 Oliver Lake
-Anton Reicha
+Mathias Lecomte
+Henry Madin
 Gottfried von Einem
-Paul Misraki
+Filippo Azzaiolo
+Jean Galbert de Campistron
 Auguste Baucourt
 פאול בן חיים
+Marcel Proust
+André Gide
 Casey Benjamin
-Claude François
+Katalin Karolyi
 Ruggero Leoncavallo
+Boris Yoffe
+Alexander Vedernikov
 Marielle Labèque
 Romero Lubambo
-Sarah Murcia
+Alain Fourchotte
 Christopher Robson
+Eric Bougnon
+René Char
 Riccardo Zandonai
-Bryce Dessner
+Patrick Marie Aubert
+Charles Strouse
 Paolo Fresu
 Félix Godefroid
-Biagio Marini
+Jaufré Rudel
 Georges Hugon
-Pavel Hula
+Matthieu Chédid
+Alexander Toradze
+Joseph Sonnleithner
+Hans Ulrich Lehmann
 Nicolas Clérambault
 Peter Heise
-Jean Schwarz
+Antonio Bartolomeo Bruni
+Jean-Luc Cappozzo
 Charles Bradley
 Francesco Grassi
+Edward Gardner
+Jacques Aubert
 Henri Hardouin
 Isabelle Faust
 Jeremiah Ingalls
-Teodorico Pedrini
+Sophie Daneman
+Marie-Christine Barrault
+Michel Zbar
+Matthieu Stefanelli
+Agustin Lara
+Émile Deschamps
 Etienne David
+Thierry Escaich
+Carl Heinrich Graun
 Victor Herbert
 Juan Carlos Castro Rojas
 Joseph Marx
 Florence Malgoire
-Amadeo Vives
+Manfred Trojahn
 Thomas-Daniel Schlee
-François-Nicolas Geslot
+Richard Dering
 Assitan Dembélé
-Dan Tepfer
-Maria Grazia Schiavo
-Franz Xaver Süssmayr
+Horacio Salgán
+Francesco Scarlatti
+Laurence Saltiel
+Henk Badings
+Kenneth Tarver
+Isabelle Fraisse
+Nitin Sawhney
+Patrick Bruel
+Karel Goeyvaerts
 Soile Isokoski
 Henry Février
+Marie-Elisabeth Hecker
+Marduk Serrano López
+Sally Matthews
+Eric Raffard
 Lucien Delormel
-Denis Raisin-Dadre
-Keren Ann
-Albéric Magnard
+Esteban Benzecry
+John Butcher
+Thomas Dausgaard
+Sebastián de Albero
+Juan Sancho
+Jean-Philippe Scali
 Giovanni Mirabassi
-Juan Cabanilles
 Umakant Gundecha
-Béatrice Muthelet
+Henri Salvador
+Leo Fall
+Evgeni Bozhanov
+Francesco Corti
 Jaquemin de Senleches
-Erik Bergman
+Zied Gharsa
+John Jacob Niles
 Éric Pénicaud
 Shai Maestro
+Stefan George
+Manfred Niehaus
+Bernardo Storace
 Tony Boutté
-John Weldon
 Myriam Rignol
-Mikhail Pletnev
+Tareq Nazmi
+Aki Saulière
+Maurice Maeterlinck
 Catherine Bott
 Hugo Leichtentritt
-Christian Leblé
 Françoise Pollet
+Willy Burkhard
+Quentin Hindley
 Olivier Miconi
+Joao Fernandes
 Bruno Rossignol
 Michel Bléger
-Juan Hidalgo
-Gilbert Bécaud
+Claude Georgel
+Stéphane Mallarmé
+Gregory Privat
+František Xaver Dušek
+Louis Drouet
 Peter Lieberson
+Leone Sinigaglia
 Jan Van der Roost
-Bernarda Fink
+Percy Aldridge Grainger
 William Blank
 Éric Villevière
-Vittorio Monti
+Julia Wolfe
+Johan Farjot
+Bertrand Chuberre
+Olivier Dartevelle
+Ellen Corver
 Joachim Raff
-Gaëlle Arquez
+Dizzy Gillespie
+François Lis
+Laurent Wagschal
+Julien Szulman
+Mikael Edlund
+Félix Leclerc
+Oscar Bianchi
 Jennifer Larmore
 Hilding Rosenberg
+Peter Bruun
 Elliot Madore
+William Corkine
 Raphaël Cendo
 Bernard Coquet
-Jean Absil
 Nicola LeFanu
-Thiệ̣n Đạo Nguyễn
 Carolyn Sampson
 Aarich Jespers
-Roberta Mameli
+Jonathan Brown
+Micha Lescot
+Dove Attia
+Olivier Kaspar
+Magali Léger
 Adolf Fredrik Lindblad
-Louis Gallet
-André Fleury
-Meral Azizoglu
-Vernon Duke
+Mikalojus Konstantinas Čiurlionis
+Jean-Louis-Ignace de La Serre
+Miklós Perényi
+Andrea Maffei
+Evgeni Koroliov
+Giovanni Salvatore
+Philippe Courbois
+George Antheil
 Philippe Bernhard
 Jonathan Nott
+Arthur Rimbaud
+Ole Bull
+Clara Coutouly
 Mogens Pedersøn
 Eduard Strauss
+Louis François Dauprat
+Anaïk Morel
+Bruno Schorp
 Gaston Anglade
-Hèctor Parra
 Johann Schobert
 Giovanni Battista Buonamente
+Christophe Marchand
+Juliette Roumailhac
+Romain Descharmes
 Steven Stucky
 Viktor Sergeevič Kalinnikov
 Onésime Coquelet
-Rebecca Ockenden
+Friedrich Wilhelm Zachow
 Pierre Gaveaux
-Didier Levallet
-Edgar Moreau
-Gilles Delebarre
+Moslem Rahal
+Edward Heyman
+Josep Plá
+Eduardo Di Capua
+Fabio Bonizzoni
+Mario Laginha
 Katerina Papadopoulou
+Nikolaus Lenau
 Karol Rathaus
-Didier Lockwood
 Lazaro Rivero Alarcon
+Jouni Kaipainen
 William Sheller
 William Grant Still
 Elise Caron
-Philippe Gille
-Alexander von Zemlinsky
-Louis-Claude Daquin
 Ferenc Farkas
-Eric Whitacre
 Flor Peeters
-Giorgio Federico Ghedini
-Nicola Conforto
-Géraldine Laurent
 Jeanne Blancard
 Edmund Rubbra
 Thea Musgrave
 Gioseffo Zarlino
-Johann David Heinichen
 John Knowles Paine
 John Taverner
-Kenneth Leighton
-Alan Hovhaness
-Menahem Pressler
-Paul-Alexandre Dubois
+Yoann Loustalot
 Mikołaj Zieleński
-Miguel Henry
-Karl Goldmark
+Mohamed Briouel
+Juanjo Mena
 Kristjan Järvi
 Bartolomeo Tromboncino
-Giuseppe Martucci
 Henri Meilhac
 Jean Papineau-Couture
+Alphonse Cemin
 Carl van Berghe
-François Kieffer
-Nicolas Repac
 Michèle Bernard
 Désiré Berniaux
+Vincent Leterme
 Manuel Blancafort
-Alfred Spirli
+Helmut Deutsch
 Margaret Ruthven Lang
-Renaud Gagneux
+Thibaut Maillard
+Isabelle Olivier
+Jean-Paul Angexetine
+Alexandre James
 Bo Nilsson
-Loïc Rio
+Jérôme Correas
 Nada Strancar
+Clotilde Thomas
+Pierrick Pedron
 Firoze Khan Manganiar
 M. T. Célestini
-Alain Bancquart
 Sébastien Le Camus
 Aleksandr Andreevic Arhangel'skij
 Edward MacDowell
 Eugénie Bardin-Royer
+Samy Thiebault
 Charles Carmignac
 Francisco Courcelle
 André Cardinal Destouches
 Fartein Valen
-William Shakespeare
 José Antonio de Donostia
 Franz Schmidt
 Josef Friedrich Doppelbauer
 Erkki Gustav Melartin
 Guilhem Parguel
 Antoine Duhamel
-Stéphanie d' Oustrac
 Antonio Moreno y Lucena
-Ture Rangström
 Francesca Boncompagni
 Benjamin Godard
 Diego Ortiz
@@ -2222,24 +3409,21 @@ Ghislain Paillard
 Bartolomé de Selma y Salaverde
 Giacomo Gotifredo Ferrari
 Vincent Talpaert
-Hugo Distler
-Paul Dupin
 Diogenio Bigaglia
 Aimé Le Borne
+Guillaume Le Dû
 Hussein al-Bechari
-Pascal Bertin
 Marcel Trémois
 Ethan Iverson
-Claude Pascal
 Arthur Gillette
 Félix Chaudoir
 Franz Tunder
+Sophie Koch
+Sébastien Royer
 Federigo Fiorillo
-Igor Markevitch
-Tugan Sokhiev
 Francisque Chassaigne
-Guillaume Boni
 Raphaël Beretta
+Jean-Marc Aymes
 Stephan Zimmerli
 Pascal Renou
 Samuel Thiebaut
@@ -2247,1017 +3431,1349 @@ Miklós Maros
 Gilles Martin
 Kate St John
 Rodolfo Halffter
-Georges Balanchine
-Elodie Soulard
+Andrei Korobeinikov
 Louis Jadin
 Giovanni Battista Fontana
 Trinidad Huerta
-Jacques Bondon
 Guillaume Magne
 Léon Delafosse
 Thomas Bramerie
+Marc Richard
 Dimi Mint Abba
 Ephrem Podgaits
 Paul Courtois
 Remy Bousseau
 Dreiser Durruthy Bombalé
 Yaroldy Abreu Robles
-Harry Christophers
+Nikolas Anadolis
 Jacques-Marie Beauvarlet-Charpentier
 Ange-Marie Auzende
+Pascale Boquet
 Alberto Hemsi
 Leonello Capodaglio
-Giuseppe Giordani
+Dan Grigore
+Eric Séva
 Alois Hába
 Attilio Ariosti
-Juan de Araujo
 John Playford
-Bruno Fontaine
 Nick Blacka
 Carson P. Cooman
 Johann Ernst Eberlin
+Gérard Siracusa
+Anne-Marie Lablaude
 Henri Cieutat
+Roger Vignoles
 Nicolas Bogue
 Howard Gott
+Pascal Rophé
+Eric Lancien
 Pierre Certon
 Noël Lee
 Friedrich von Flotow
 Alexis Faucomprez
 Régis Famelart
 Antonio Lotti
+Christophe Lavergne
 Bechara El-Khoury
 Clermont Pépin
 Joseph Delafosse
 Thomas E. Bauer
+Julia Deit-Ferrand
+Fabrice Devienne
 Alain Jomy
 Annick Chartreux
 Chiel Meijering
-Rickie Lee Jones
-Rachid Brahim-Djelloul
+Leonard Slatkin
+Marie Beaudoux
 Chris Illingworth
+Hanna Marti
 Guillaume Frédéric Almayrac
 Sébastien Giniaux
 Lucy Wilkins
+David Prez
 רון ידידיה
+Eric Barret
 Tony Allen
-Samuel Capricornus
 Nikolaj Obuhov
 B. Beer
+Bérangère Sardin
 Christian Cappelen
+Jean-Francois Delmas
 Jeanne Danglas
-Manu Codjia
-Alessandro Melani
+Julien Deniaux
 Charles Bochsa
 Arnaud Fradin
+Pacôme Sadek
 Raphaël Séguinier
-Véronique Sanson
 Dominique Philippeau
 Michael Finnissy
-Françoise Atlan
+Damien Guillon
+Modest Petrovitch Moussorgski
 Francine Aubin
+Julie Garraud
+Philippe Merscher
 Turlogh Carolan
-Louis Marchand
 Robert Spriggs
+Anne Seigneur
+Gidon Kremer
 Gusztav Varga
-Boris Berezovsky
-Elise Chauvin
-Simon-Joseph Pellegrin
+Charlotte Thoreau La Salle
 Christophe Guichard
 Seun Kuti
-Jesús Guridi
 Rob Turner
 Anonyme du Codex Faenza
-Bruno Ducol
-Sven-Erik Bäck
+Ana Arnaz
 Thomas Cédric
 Johann Caspar Ferdinand Fischer
-William Schuman
+Charles Spencer
+Anne Delafosse-Quentin
 Raimon de Miraval
 Giovanni Giorgi
-Xavier Phillips
-Pascal Ducourtioux
-Étienne Meyer
-Yann Ollivo
+Vesselina Kasarova
+Simon Spang-Hanssen
+Nadine Pierre
+Giovanni Bellucci
+Paloma Gutiérrez
+Pierre de Bethmann
 Panwar Koshal Kumar
-Henri-Montan Berton
+Nikolaï Lugansky
 Giovanni Priuli
 Veljo Tormis
 Jean-Pierre Leguay
-Roberto Fonseca
+Gilberto Pereyra
 Virgil Thomson
+Franck Tortiller
 Nicolas Payen
-Claude Lenners
 Toby Pazner
 Calina De La Mar
 Angelo Dal Vesco
-Arthur Bliss
 Alessandro de Marchi
-Cyril Garac
+Nicolas Dautricourt
 Leonhard Paminger
 Farhod Davletov
 Paul de Wailly
+Elodie Poirier
+Igor Tchetuev
+Vincent David
+Alan Woodbridge
+Henrik Ibsen
 Joan Pau Pujol
+Fernand Le Borne
+Pascal Gallois
+Wolfram Von Eschenbach
+Lionel Belmondo
+Edward Estlin Cummings
 Peter Ruzicka
+Annie Labussière
+Olivier Doise
+Peter Csaba
 Prosper Désiré Camus
+Andrea Quinn
 Bernhard Lang
 Jean Japart
+Béatrice Martin
 Lawrence Clais
+Kevin Volans
+Laurent Césard
 Charles Nuitter
+Sandro Gorli
+Jacopo Melani
+Andreas Staier
+Jacinto Guerrero
 Fanny Mendelssohn
+Luca Dordolo
 Gabriella Martellacci
-Dré Pallemaerts
 Rolf Wallin
-Juan Tizol
+Jean-Baptiste Devillers
+Giovanni Maria Pagliardi
 Pedro Bacán
-András Schiff
+Franc-Nohain
 Joan Magrané Figuera
+Erich Höbarth
+Wolfgang Ablinger-Sperrhacke
 Sylvain Marchal
-Louis Chedid
+Alexandre Giordan
+Holger Drachmann
 Arthur Oldham
-Heinrich Albert
+Veronika Hagen
 Francis Kleynjans
-Christophe Morin
-Paul Le Flem
-Anthony Burgess
-Franco Fagioli
+Joshua Bell
+Jeff Cohen
+Mireille
+Leo Samama
+James Joyce
+Clemens Hagen
 Florent Motsch
+Philippe Macé
+Leo Stein
+Abdou Driassa
 Adolphe de Leuven
+Giuseppe Tartini
+Evelino Pidò
+Franck Ferrari
+Kazuki Yamada
+Lars Vogt
+Akiko Suwanai
 Philippe de Monte
 Luigi De Donato
-Salvo Vitale
-John Coltrane
+Jean-Baptiste de Bousset
+Mathias Vidal
+Laurent César
+Montserrat Figueras
 Vytautas Miškinis
-Carlos Salzedo
-Michèle Losier
-Sonny Troupé
-Armand-Louis Couperin
+Émilien Pacini
+Jean-Claude Vannier
 Hanna Bayodi
 Rover
+Guillaume Bourgogne
 Marco Bussi
 Javier Alvarez
-Alphonse de Lamartine
-Bruce Mather
+Roman Burdenko
+Airelle Besson
+Helmut Walcha
 Dave Brubeck
 Peter Cavallo
-Anita Mitterer
-Conrad Beck
-Giya Kancheli
+Ludovic Tézier
+David Kadouch
 Johann Schop
+Philippe Desriaux
 Georges Pfeiffer
+Henri Tomasi
 Jimmy McHugh
+Henri Michaux
 Alessio Tosi
 Alberto Allegrezza
-Barry Douglas
-Claire-Mélanie Sinnhuber
+Patrice Mestral
+Vincenzo Davico
+Nam-June Paik
 Patrick Lemaître
-Luigi Illica
+Jules Moinaux
+Alain Moene
 Leonardo Balada
+Jerôme Voisin
 Yves Prin
-Sulkhan Tsintsadze
+Sharman Plesner
 Markus Stenz
+Nils Lindberg
 Michelangelo Rossi
-Alina Ibragimova
+Hanna Schygulla
+Daniel Behle
 Vaclav Nelhybel
+Jean-Paul Dréau
+Guy Béart
+Alain Buet
 André Chpelitch
-Claude Egea
-Christophe Coin
+Jacques Demierre
+Eric Surmenian
 Kurt Schwitters
+Marianne Beate Kielland
+Joseph Horovitz
+Pierre Jodlowski
+Jean-Pierre Jullian
+Alphons Czibulka
+Hans Gefors
+Anne Philidor
 Kate Combault
 Lee Fields
 Paolo Antognetti
-Jean-Marie Machado
-Gareth Glyn
+Jeff Moore
+Mark Elder
+Anna Vinnitskaya
+Andrei Abramenkov
+Susanne Leitz-Lorey
+Andrea Bischof
+Céline Ricci
+Paul Dombrecht
 Jeff Ballard
-David Alagna
-Philippe Lefebvre
-Joaquin Rodrigo
+Josh Roseman
+Julien Hervé
+Pierre Passereau
+Jean Binet
+Olivier Schmitt
+Raphaël Sévère
+Ferdinand Lemaire
 Nicolas Chédeville
-Tibor Harsányi
-Francesca Verunelli
-Marc Labonnette
-Jan Lisiecki
-Jean-Benjamin de La Borde
+Giovanni Battista Guarini
+Florent Pujuila
+Jacques Prévert
+Kim Borg
 Carlos Mena
+Elfrida Andrée
+Eric Crozier
 Johann Peter Pixis
-Nicolas Racot de Grandval
+Gerhild Romberger
+Otto Klemperer
+Pablo Neruda
 Amel Brahim-Djelloul
 Michel-Jean Sedaine
 Xenia Meijer
 Bradley Webb
-Hélène Delavault
-Alain Goraguer
 Nicola Fiorenza
+Jean-François Heisser
+Christina Landshamer
 Sonia Prina
-Michel Colombier
+Gabriel Benlolo
 Борис Алекандрович Чайковский
+Brigitte Vinson
 York Höller
+Peter Dijkstra
+Sylvain Glevarec
+Salvador Bacarisse
+Fabrice-Marin Caietain
+Guisella Massa
 Antonio Martin y Coll
-Isabel Mundry
+Gotthold Ephraim Lessing
+Wilhelm Müller
 Alexandre Artus
 Jean Lhéritier
+Bruno Bonhoure
 George Fiala
 Hoagy Carmichael
-Eduard Künneke
-Yoshihisa Taira
-Lucia Ronchetti
-Robert Stolz
+Eve Risser
+Santtu-Matias Rouvali
 Jacques François Gallay
 Benjamin Attahir
 Arthur Hartmann
-Pierre-Octave Ferroud
+Johann Christian Heinrich Rinck
+Christoph Bernhard
 Emmanuel de Fonscolombe
+Marc Kowalczyk
+Stephen Gould
   Arthur H
 Jean-Claude Risset
+Paul Morand
 Jack Pinter
 Stepán Rak
+Helmut Eder
+Nicola Vaccai
 Gaston Aubert
+Giuseppe Adami
 Thomas Richards
+Anton Heiller
+Jacques Bona
 Jasser Haj Youssef
 Agustín Prunell-Friend
+Frédéric Kalkbrenner
+Zool Fleischer
 Jean-Pierre Lang
 Friedhelm Döhl
+Ernest Blum
 Rory Simmons
+Celso Machado
  Temps de confrontations
 Louis Balleron
-Benedict Mason
-Pablo Luna
+Hans-Jürgen von Bose
+Jean-Pierre Derrien
+Oskar Fried
 Geraldine Walther
-Gérard Lesne
 1165?-1236? Gautier de Dargies
 Steve Davislim
+Renata Pokupic
 Eugène Bozza
+Pierre Attaingnant
 Natalia Zagorinskaya
 Paul Damance
+François Moutin
 Nikolaï Andreevitch Roslavets
+Enrico Macias
+Jean-Pierre Arnaud
+Daron Hagen
+Antal Doráti
+Pere Olivé Aymerich
 Mathias Lévy
+Joji Yuasa
+Paul Wamo
 Clemens Hör
 Leopold Hofmann
 Isabella Leonarda
 Benedictus Ducis
+Jean Luc Fillon
 Jean-Frédéric Edelmann
+Evgeni Kissin
+Shorter Wayne
 Chris Dave
 Émile Camys
 Byron Wallen
 Bright Sheng
 Richard Olatunde Baker
-Jean-François Marmontel
 Andrzej Panufnik
+Don Byron
 Andrea Stefano Fioré
-Jean-Philippe Martignoni
  Einstürzende Neubauten
-Abdullah Ibrahim
 Michel Decoust
 Rob Burger
 Lucien Garban
-Alan Gilbert
 Xavier Desandre-Navarre
-Nicola Francesco Haym
 Derrik Hodge
-Emmanuel Pahud
 Wolfgang Plagge
-Kurt Masur
 Clément Marot
 Robert Turner
 Simon Buret
 James Whitbourn
+Vanessa Wagner
 Danny Keane
 Vincent Lübeck
-Earle Brown
+Daniel Casimir
 Guy Remaud
-Peter Dickinson
-Hector Crémieux
-Vincent Segal
-Michel Fokine
+Mathieu Leroux
+Geoffroy Couteau
+Isabelle Saint-Yves
 Giovanni Paolo Paladino
 Moritz Moszkowski
+Karine Deshayes
 Ferdinand Louis Bénech
 Boris Ivanovič Tiŝenko
 Vincent Persichetti
+Dominique Lobet
 Fred Pallem
 Harald Saeverud
 Ferdinand de Croze
+Elisabeth Caumont
 Bruce Cherbit
 Bonaventura Furlanetto
-Guillaume Lasceux
+Jean-Michel Berrette
 Ibrahim Zakaria
-Mikhaïl Ivanovitch Glinka
 Olivier Coursier
-Reinoud Van Mechelen
-David Diamond
 Guy d' Arlande
+Antonin Gerbal
+Sophie Raynaud
 Johan Svendsen
 Fritz Busser
-Ivan Jevtić
-Oskar Morawetz
 Iona Thomas
 Joey Baron
 Emile-Robert Blanchet
 Henri Chivot
 Pierre Doury
 Henri Texier
-Werner Egk
+Henri Meilhac
+Jean Luc Ponthieux
 Alfred Duru
 Germán A. Beigbeder
 Nicola Antonio Zingarelli
-Pierre Roullier
+Emmanuel Christien
+Bruno Angelini
 Thibaud
 Auguste Franchomme
 Léonce de Saint-Martin
-Daniel Zimmermann
-Claude Le Jeune
+Arnaud Vallin
 Ton de Leeuw
-Jeanne Demessieux
 Paul Lacombe
 Marc Bleuse
-Georg Christoph Wagenseil
 Sudha Ragunathan
+Michal Partyka
 Subramanian Sabesa Iyer
 Leo Abrahams
  Éloge de la Folie
-Johann Friedrich Reichardt
-John Wilbye
 Guy Lacour
 Jindřich Feld
+Pavel Borkovec
 Émile Bonnamy
 Frédéric Barbier
+André Manoukian
+Peter Ablinger
 Dominique Mahut
-Andrés Segovia
+huseyin Yaya
+Albert Recasens
 Marcel Degouy
+Alexander Melnikov
 Peirol
-Hervé Niquet
-Grażyna Bacewicz
+Gerardo Di Giusto
+Gilles Maney
 Havergal Brian
 Charles Balayer
 Atto Melani
-Angélique Mauillon
+Mohamed Lassoued
 Agata Zubel
+William Seward Burroughs
 Domenico Alberti
+Kushal Das
 Paul Bernard
+Jacques Duphly
 Nicolaus Bruhns
 Nicolas Gaudart
 Máximo Diego Pujol
 Richard Sumarte
-Serge Nigg
 Antoine Busnois
-Walter Piston
 Alice Botté
-Jean Barrière
 Giraut de Bornelh
 Max Richter
+Fabrice Lambert
 Petrus Wilhelmi de Grudencz
-Emilie Simon
+Allen Ginsberg
 Alexander Rosenblatt
+Eddie Cooley
+Eric Dolphy
 Thomas Simpson
-Nikolaï Rimski-Korsakov
+Karel Berman
 A. Baudouin
-Lars Erik Larsson
+John Densmore
 Vincenzo Capirola
 Marcel Godard
-David Gardner
 John Johnson
 Scott Colley
 Howard Hanson
  AaRON
-Jean-Jacques Beauvarlet-Charpentier
+Robin Blaze
+Jaromir Weinberger
 Éric Lebrun
-Jean-Nicolas Bouilly
+Mohamed Arabi Gharnati
 Christopher Board
 Monty Alexander
-Colin Greenwood
+Serge Hureau
 Éric Fischer
 Edouard Fouré Caul-Futy
-Jean-Claude Eloy
+John Barry
 Peter Sculthorpe
-Vannina Santoni
+Arnulf Herrmann
+Mutallip Mahmad
+François Tissot
+Mustafa Amri
 Auguste Delacroix
 Bud Powell
-Luís Tinoco
-Laurent Coq
+Yann Dubost
 Adrien-François Servais
+Liza Lim
+Noriko Baba
 Chris Upton
+Casimir Delavigne
 Lounis Aït Menguellet
-Ernesto De Curtis
+Heinrich Bach
+Pierre Perchaud
 Franco Casavola
-Miriam Gideon
 Thomas Stoltzer
 Fulbert de Chartres
 Ferdinand de Lassus
 Noah Creshevsky
 Javier Busto
 Jules Demersseman
-Morton Gould
+Amir Huseyin
 André Souplet
+Bruce Springsteen
+Claudia Solal
 Karine Texier
-Maria-Joao Pires
+Olivier Temime
+Vincent Michel
 Johann Philipp Krieger
-Patti Smith
 Georges Marie Vellaye
 Benjamin Lebeau
+Carlo Sigmund Taube
 Michael Villiers
-Jean Roger-Ducasse
-Ibrahim Ferrer
+Donald Kontomanou
+Nicola Vicentino
 Alexander Voormolen
+Tom Waits
+Fabien Waksman
 Jean Baptiste Clément
 Christine Payeux
+Benny Goodman
 Stefan Wolpe
 René Maillard
+Driss Berrada
+Stéphane Thouvenin
 Jyoti Bharti Goswami
 Zerkalo
-Robert Burns
 Tom Skinner
 Carla Pallone
 Pierre Israël-Meyer
+Giovanni Mirabassi
 Caroline Chelu
 Qigang Chen
 Matteo Salvatore
+Keith Richards
+Andy Warhol
 Jean-Baptiste Savarit
-Francesco Petrarca
+Joséphine Baker
 Nicolas Certenais
 Sundar Nagarajan
+Pierre Dupont
 Andreas Hakenberger
+Jérôme Dahan
+Franck Vaillant
+Fernand Bernadi
 Adriano Celentano
 Sean Thompson
 José Pablo Moncayo
 Arnaud Dieterlen
+Amália Rodrigues
 Akira Ifukube
+Nicolas Mondon
+Armand Amar
 Kassia
-Désiré Émile Inghelbrecht
 Maxime Delpierre
+Maxim Dassonneville
+Fabien Marcoz
+Ottavio Dantone
+Ophélie Gaillard
+Frédéric Changenet
 Victor Sicard
+Michal Kanka
 Bénigne de Bacilly
 Egon Wellesz
+Jerry Edwards
 Jean-François Tapray
 Chastelain de Couci
+Augustin Viard
+David Gaillard
 Hermann von Salzburg
 Etienne Bonhomme
+Anne Paceo
 Georges Sporck
 Kaushiki Chakraborty
+Soizic Noël
 Davitt Moroney
-Johann Michael Bach
 Johannes Martini
 John Beckwith
 Jamshied Sharifi
+Peter Bruun
 Rudolf Kelterborn
-Gérard Marais
 André Prévost
 Xavier Darasse
-Leif Segerstam
 Pietro-Antonio Cesti
 Christopher Owens
 Louis Mayeur
+Thomas Bramerie
+Joseph Iékawé
 Fosforito
+Henri Gope-Iwate
+Tabea Zimmermann
 Giovanni Battista Cedronio
+Laurence Equilbey
 Santiago de Murcia
-Detlef Roth
-Georg Druschetzky
-José Ramón Encinar
+Jean-Claude Acquaviva
+Alexandre Desplat
 Loyset Compère
-Miloslav Kabeláč
 Serge Dafreville
 Tekla Bądarzewska
-Laurent Garnier
-Jérémie Dufort
-Jean-Louis Florentz
+Hugo Lippi
+Jean-Sébastien Simonoviez
 Antoine Brumel
 Mehardeen Khan Langa
-Andris Nelsons
-Gottlieb Muffat
-Jérôme Guicherd
+Flannan Obé
 Giovanni Battista Draghi
 Sophie Boucheron
+Renaud Guieu
+Pierre de Trégomain
 Francesco Tristano
-Oskar Merikanto
-Louis Durey
+Nicholas Milne
+Gregory Moon Henderson
 Gazi khan Barana
+Louis Upane
 Tomás Bretón
-Antoine Houdar de La Motte
 Roman Haubenstock-Ramati
-Charles Dancla
+Dimitri Bouclier
+Rosina Hmae
 Pierre Attaignant
-Pierre Schaeffer
-Gustave Doret
+Philippe Bernhard
 Frédéric Unterfinger
-Daniel Yvinec
+Stjepan Franetovic
 Giselher Klebe
+Isabelle Limousin
 David Moritz Michael
-Jean-François Le Sueur
+Jean-Claude Xenie
 Jean-François Pauléat
 David Aknin
 Fred Belhomme
+Alain Joubert
+Lisa Simone
 Michel Farinel
 Stephen Heller
+Philippe Thibaud
 Humberto Candiolo
 Mateo Flecha
 Herman Hollanders
 Ernest Cury
 Frédéric Boscovitz
 Benoît-Joseph Marsollier des Vivetières
-Marc-André Hamelin
-Siegfried Wagner
+Denis Kozhukhin
 Celestino Vila de Forns
-Laurent Fraîche
 Charles Cuvillier
-Nathalie Manfrino
-Vadim Repin
 Gast Waltzing
-Jeanne Added
+Denis Leloup
 Anthony Braxton
 Nikolaos Skalkottas
 Philippe Durand
 Eugène de Planard
+Bennie Simms
 Fredrik Pacius
+David Mayoral
 Thierry Lancino
-Georges Boeuf
+Laurent Belissen
+Vladimir Fortin
+Anna Netrebko
+Andréanne Paquin
+Daunik Lazro
+Giovanni Battista Bovicelli
 Waed Bouhassoun
 Armand Arone
 Doina Rotaru
-Mathilde Étienne
 Jean Maillard
+Émile Zola
+Raymond Vaillant
 Max Cilla
+Evaristo Felice Dall'Abaco
 Roger Dumas
 Jessica Lauren
-Carlo Goldoni
+Pierre Véron
 Alessandro Rolla
-Giovanni Sollima
 Nicolas Le Vavasseur
-Nicolas Martynciow
-Vasily Petrenko
+Karol Kurpiński
+Marius Casadesus
+Johannes Eccard
 Jean-Baptiste Loeillet
+Petr Strizek
 Jack Yglesias
-Bernardo Murillo
+Roger Matton
 Alfredo Catalani
+Stéphan Caracci
+Arnaud Dumond
+Ralph Benatzky
 James Douglas
 Armando Ghidoni
 Kadri Alper Uzkur
-Charles-Simon Favart
+Sara Ruiz
+Pierre Petit
 Serge Adam
-Yves Saelens
-Gil Evans
+Tanguy Le Corno
+William Blake
 Joachim Andersen
+Pierre Corneille
+Magdalena Anna Hofmann
 Pete Shelley
+Denis Comtet
 Petros Papageorgiou
 José Creus
+Antoine François Prévost
 Olivier Saladin
-Jay Schwartz
+Avner Dorman
+Norman Dello Joio
+Marc Buronfosse
+Terry Riley
+Wilfred Owen
+Albert Alain
+Stanko Horvat
+Cecilie Ore
 Jake Ferguson
+Giulio Strozzi
+Nicolas Testé
 John Stanley
 Jules Cohen
-Franck Vigroux
+Babani Koné
+Eduard Mörike
+Tan Dun
+Michel Dimitri Calvocoressi
+Pär Lindgren
+Pascal Obispo
 Domenico Gallo
-Girolamo Arrigo
 Elvis Costello
 Gilles Silvestrini
 André Isoir
-Salvatore Cammarano
+Jonathan Biss
+Vincent Artaud
+François Meïmoun
+Jakub Hrůša
 Oli Rockberger
 Dionne Douglas
 Dezède
 Jacques Devogel
+Pierre Cogen
 Patrick Marcland
 Lupus Hellinck
-Michel Fugain
+Charles Dollé
+Jérôme Ducros
 Gaston Dargy
+Cengiz Tanç
+Jürg Baur
 Marie-Hélène Fournier
+André Amellér
 Violet Archer
 Donald Grantham
 Fernando Lopes Graça
 Michel Musseau
-Charles Aznavour
 Joey Waronker
-Olivier Bellamy
+Maria Joao
 Thomas Damett
-Frédérick Martin
 Pasquale Anfossi
+Till Fellner
+Gaelle Mechaly
 Christoph Ernst Friedrich Weyse
 Alfred Baland
 Dominique Billaud
-David Chalmin
+Leon Fleisher
+Étienne Daho
 Rane Moore
 Drosos Koutsokostas
+Robert Russell Bennett
+Josef Wenzig
+Tatiana Probst
+Fabien Hyon
 Georgios Vletsis
+Jean-Louis Adam
 Baden Powell
-María Eugenia Boix
-Ivan Bellocq
-Francis Cabrel
+Jérôme Noetinger
+Antonio Bibalo
+Inger Dam-Jensen
+Maria Bayo
+Maria Christina Cleary
+Sándor Balassa
+John Chowning
 Antoine de Bertrand
-Grigoraş Dinicu
-Georges Cziffra
+Eliška Krásnohorská
 Angelo Cunio
+Cali
 Jeffrey Ryan
+Urmas Sisask
+Stephen Hough
 Francesco Gnecco
 Jennifer Charles
+Johann Bernhard Bach
 Bernhard Romberg
+Konstantin Wolff
 Charisis Chatzigogos
-Ashot Sarkissjan
+Christian Felix Weisse
+Sébastien Martel
 Nigel Godrich
-Gérard Garcin
+Jacob Druckman
+Rémi Fox
+Fred Frith
+Florent Jodelet
 Bora Uymaz
-Antonio Cesti
+Edward Dusinberre
+Rémi Ploton
+Alphons Diepenbrock
+Jasser Haj Youssef
+Vladimir Horowitz
+Antonio Ghislanzoni
 Daniel Purcell
+Sacha Guitry
 Manuel Machado
 Adrien Baille
+Gerald Barry
+Armand Lunel
+Michel Pelay
+Ingo Metzmacher
+Alma Mahler
+Antonio Maria Abbatini
 Rémy Poulakis
-Nathalie Gaudefroy
+Tim Rice
+Jaan-Eik Tulve
+Alfred de Musset
+Edouard Ferlet
+Rodion Chtchedrine
+William Butler Yeats
 Jorge Luis Prats
-Marie Lenormand
+Nicolas Vérin
+Luciana Elizondo
 Derya Türkan
-Gustave Nadaud
+Frédéric Kahn
 Paul Panayotopoulos
 Lenny Kaye
-Vladimír Sommer
+Tzvi Avni
+Karoly Schranz
 Jimmy Greene
 Ricardo Castro
+Axel Dörner
 Raphaël Fumet
 Jean Cocteau
+René Bernier
+Sulkhan Tsintsadze
 Giovanni da Cascia
+François-Augustin Paradis de Moncrif
 Raimbaut de Vaqueiras
+Sigurd Lie
+Giuseppe Matteo Alberti
+Pierre Antoine Badaroux
+Catherine Cournot
 Francesca Caccini
+Gabriel Garrido
 Julien-François Zbinden
+Bram Van Camp
 Olaf Boelsen
-Claude Gervaise
-Frédérique Cambreling
+Dubravko Detoni
+Enrico Golisciani
+Koen Dieltiens
 François Morel
+Alfred Bachelet
 Evolène Kiener
+August von Kotzebue
+Éric Vinceno
+Bechara El-Khoury
+Georg Christoph Biller
 Pedro Bermúdez
 Pablo Sorozábal
+Jean Boyer
 James Wood
-Martín Oro
+Jan Klusák
+William Brade
+Tomás Gubitsch
+Chen Reiss
 John Kapler
-Howard Dietz
-La Monte Young
+Pierre-Martin Juban
+Gilles Vigneault
 Ion Marin
+Farinelli
 Jean-Marc Morin
+Vincenzo Tommasini
 ʾIytamar Gwlan
-Alkis Zapoglou
-Nicolas Godin
+Joe Dassin
+Jules Prével
+Hans Christian Andersen
+Paul Valéry
+Philippe Sellam
+William Herschel
+Géraldine Walther
 Colin Laurent
-Sean Shepherd
+Shahid Fareed
+Wolfram Brandl
+Giani Caserotto
 Sarah Laulan
-Friedrich Witt
+Bengt Forsberg
+Fabien Lévy
+Ruggero Raimondi
+Frantisek Soucek
+Gareth Glyn
 Benjamin Hulett
 Bastien Stil
+Henri de Régnier
+Muzio Clementi
 Jean-Claude Vannier
+Johannes Boris Borowski
+Lepo Sumera
+Georges-Elie Octors
+Giovanni Gabrieli
+Gérard Manset
 Eden Ladin
 William Shield
+Joël Allouche
+Ross Harris
 Henri Boncourt
-Tedi Papavrami
+Jef Gilson
+Mayra Caridad Valdés
+Joaquin Rodrigo
 Domenico Ferrari
 Giovanni Rovetta
 Jörg Pfeil
+Simon Goubert
+William Busnach
 Alain Crépin
 Avi Lebovich
-Miroslav Srnka
 Armando Gentilucci
+Daniel Johannsen
 Elias Karambatzakis
-Henry Barraud
+Aldo Brizzi
+Hugues Primard
+Sofia Goubaïdoulina
+Caroline Marçot
+Meredith Willson
+Kevin Manent-Navratil
 Stefano di Battista
 Léon Bach
+André Hellé
 Adrian Owusu
 Kumiko Tanaka
+Newell Chase
 Yves Carlin
 André Gailhard
+Santiago de Murcia
+Alan Ewing
+Simon Tailleu
+Tigran Mansurian
 Henock Temesgen
 Jan Krtitel Dolar
-Loïc Félix
 Juan Hidalgo
+Aphex Twin
 Robert Ballard
-Josef Mysliveček
 Troy Miller
 Ollie Parfitt
 Max Pinchard
+Rosciglione Michel
 Edward Cuthbert Bairstow
 Didier Renouvin
-Molière
+John Scofield
+René Brancour
 Radoslaw Szulc
-Marc Desmons
 Jo Kondo
 Alphonse Duvernoy
 Luis Venegas de Henestrosa
+Joël Grip
+Isabelle Cals
 Nicolau de Figueiredo
-Bart Coen
-Christophe Mangou
+Silvio Rodriguez
+Walt Whitman
+Olga Pudova
+Noël Hazebroucq
+Dante Alighieri
+Eric Bellocq
+Sully Prudhomme
+Kaspar Förster
 Thomas Apostolopoulos
+Giacomo Francesco Bussani
 Raphaël Pidoux
 Franz Van Avermaete
-Stéphane Payen
 László Lajtha
 Karen Malka
 Phillipa Lopez
+Eva Zaïcik
+Václav Luks
+Richard A. Whiting
 Tom Hodges
 Emil Tabakov
-Vítězslav Novák
-András Fejer
 Maria Farantouri
+Francis Dhomont
 Aleksandr Dmitrievič Kastalʹskij
-Burton Lane
-Diégo Innocenzi
+Abdelkader Chaou
+Judith Weir
 Nuria Rial
 Jorge Rossy
-Gregorio Allegri
+Ilse Eerens
+Aurélien Carsalade
+Sunhae Im
 Giovanni Francesco Anerio
+Sarah Ridy
+Blaise Cendrars
 Napoléon Coste
 Antoine Francisque
+Christian Helmer
 Nathaniel Tesemma
+Ludwig Uhland
+Jean-Sébastien Bou
 Sven-David Sandström
-Claude Bolling
+Miriam Allan
 Carlo Francesco Cesarini
-Yan Levionnois
-Pierre de Ronsard
+Éric Toulis
+Frédéric Delestré
+Natanaël Berg
 Joël-François Durand
 Mikhaïl Rudy
-Gaëtan Biron
+Thomas Lacôte
+Meta
 Riad Niazi
-Ambrose Akinmusire
+Battista Guarini Giovanni
 Léopold Bagnat
 Fabrizio Dentice
 Jean Rondeau
+Marcus Miller
 Pierre Gaviniès
-Kyriakos Petras
-Anna Marly
+Antonio Placer
+Gilles Naturel
+Bernard Santacruz
 Malcolm Catto
 Baby N'Sola
+Stanislas de Barbeyrac
+Marek Janowski
+Francesco Piemontesi
 Pratip Banerjee
 Jean Gilles
+Elmer Bernstein
+Violaine Cochard
 Rebecca Clarke
-Émile Jaques-Dalcroze
-James Mobberley
-Manuel de Falla
-Walter Braunfels
-Bárbara Kusa
+Carl Rosier
+Vincent Courtois
+Kirill Karabits
 José Marín
-Anna Bonitatibus
+Maurice Bouchor
+Joanna Bruzdowicz
+Bruno Coquatrix
 Andreas Haefliger
+Henry Desmarest
 Robert Ravarin
+Caterino Mazzolà
+Olivier Marcaud
 Marcel Tournier
-Tomás de Torrejón y Velasco
+Teofilo Chantre
 Johnny Osbourne
+Adolphe Blanc
+Daniel Huck
 Julien Omé
-Guillaume de Machaut
-Catherine Delaunay
+Veronika Djoeva
+Périne Menguy
+Jules Bordier
+Julian Scriabine
+Petr Holman
+Fabien Gabel
 André-Joseph Exaudet
+Raymond Daveluy
 Samuel Adler
-Gabriel Le Magadure
-Daniel Danielis
+Hans Wijers
 Martin Gamet
 Marion Rampal
+Franck Chevalier
 R. Murray Schafer
 Paul Marinier
 Kamasi Washington
 Antoine Danchet
 Alondra de la Parra
 Kannan Sadagopan
+Yun Peng Zhao
 Jean Mein
 Pierre Guédron
 Daniel Beja
-Wilhelm Killmayer
-Gil Shaham
+Médéric Collignon
 Paul Balleron
 Hyacinthe Klosé
-Rachel Redmond
 Jean-Baptiste Dugué
 Dilbarjan Bekturdieva
 Martyn Jacques
 Juan García de Salazar
-David Fray
+Charles Le Gargasson
 Maurice Bagot
+Donald Bentvelsen
 Thérèse Brenet
 Francesco Conti
-Daniel Balavoine
 Carlo d' Ordonez
 Pierre Rode
 Fred Dantas
-Joseph Joachim
+Peter De Groot
 Gordon Jacob
 Keren Ann Zeidel
-Raphaël Merlin
 Philippe de Vitry
-Markus Werba
 Jean Arthez
 Domenico Gabrielli
 Franz Anton Dimler
 Scott Firth
+Vincent Dumestre
 Michel Hanon
+Leonardo Montana
 Craig Phillips
 Sonya Yoncheva
 Joël Simon
+Pierre Morlet
+Lars Vogt
 Frères Billema
-Pierre Colombet
+Philippe Soirat
+Vincenzo Capezzuto
 Cristoforo Caresana
 Paul Wranitzky
 Philippe Verdelot
 Robert Planel
-Manu Chao
-Sébastien Texier
-Jean-Efflam Bavouzet
-Thomas Morell
 Paolo Lorenzani
 Benjamin Trokan
 Thomas Brenneck
 Emile Albert
 Antonio-Ferreira de Abreu
-David Bowie
 Jehan Titelouze
-Vladimir Balshin
+Pascal Besnard
+Elias Benito-Arranz
+Dmitri Jurowski
 Everson Pessoa
 Urbán de Vargas
+Renée Fleming
 Jean-Pantaléon Leclerc
 David Tibet
 Francesco de Layolle
-Fidel Fourneyron
+François Laizeau
+Jon Etxabe-Arzuaga
+Sean Jones
+Jean-Claude Pennetier
 Léopold Danty
+Alexander Kniazev
 Evaristo Felice Dall' Abaco
-Milosz Magin
 Jason Colby
 Pierre Bouillon
 Giuseppe Foppa
-Tristan Klingsor
-Clément Saunier
-Yutaka Sado
+Sean Reickman
+Ariel Rychter
 Severo De Luca
 Giovanni Pacini
-Franz Lachner
 Jean-Pierre Bourtayre
+Abdessalam Amri
 Thibault Frisoni
 Gaetano Brunetti
+Laurent Dublanchet
 Bastien Gsell
-Claudio Cavina
+Vassilena Serafimova
 Eugène Dédé
 Takashi Yoshimatsu
+Pau Marcos Vicens
 Giovanni Battista Costanzi
 C. Aboilard
-Igor Naidin
+Joachim Kühn
 Don Bryant
 Aleksandr Aronovič Knajfel´
-Christian Thielemann
+Jan Van Elsacker
 Bonifazio Asioli
 Guy Morançon
+Richard Schmoucler
 Carlo Caproli
 Kevin Raczka
 André Riotte
 Lazar Nikolov
 Nicolas Saboly
 Christian Cannabich
-Roland Brival
+Blaise Chevallier
+Philippe Sly
+Victor Sicard
 Youcef Bounas
-Eric-Maria Couturier
 Patrice Sciortino
 Hélène Collin
+Jacques Charpentier
 Robert Parsons
 Michael Buckley
 Sebastian Rochford
+Rémi Dumoulin
 John Wilson
-Mathieu Herzog
+Jean-Baptiste Etchepareborde
 Antonio Bernardi
 Marie Bonnand
-Làszló Dubrovay
+Philippe Petit
 Lu Edmonds
 Antonio Brioschi
 Ajay Rathore
 Jacob Silver
+Marie Barenton
 Uuno Klami
-Antonio Bertali
-Georges Hüe
+Manon Houssin
+Li ma dou
 Per N”rgård
 Paul Cressonnois
 Yvonne Desportes
 Charles Quef
 Joseph Reveyron
-Gabriel Jackson
 Friedrich Gulda
 Kellylee Evans
+François Dumont
 Esprit Philippe Chédeville
-Pietro Pariati
 Charles-Édouard Platel
-Marc Coppey
 A. Adam-Laussel
-Maurizio Baglini
 Badal Roy
+Rodolfo Richter
 Albericus Mazak
 René Potrat
-Albert Willemetz
-Louis Rodde
 Nathan Blum
 Manuel Correa
-Benjamin de La Fuente
+François Joubert-Caillet
 Patrizia Nasini
 Dimitri Tiomkin
 Jahmal Nichols
+Jemusse Khenesse Tembo
 Costanzo Festa
+Raphaël Pidoux
 Wilhelm Keller
 Makoto Sakurada
 Frédéric
-Charles Bordes
-Arnaud Thorette
-Irvine Arditti
+Jose Ramon Cabrera
+Albertino Francisco Calima
+Jesus Fernandez Baena
 Guy Reibel
-Luca Marenzio
 Raphaël Fays
 Ignaz Moscheles
+Karamat Ali Asad
 Leonel Power
 Sebastián Aguilera de Heredia
-Céline Frisch
 Jah9
-Dominique Boutel
-Gabriel Dupont
-Dédé Saint-Prix
-Nicolas de Grigny
-Paul Agricole Genin
+Ralf Ehlers
 Sandra Nkaké
 Bengt Hambraeus
 César Geoffray
-Paul Claudel
+Baptiste Dubreuil
 Leonide Massine
-Charles Amirkhanian
+Lucas Fels
 R. Bassal
 Robin Pecknold
 Alain Weber
 Paschal de L'Estocart
 A. Cramer
 Joseph Bazin
+François-Xavier Roth
 Didier Levallet
+Michael Felberbaum
 Alberto Posadas
-Dagmar Sasková
+Gustavo Gargiulo
+Alain Piet
+Pierre Pitzl
+Laurence Brisset
 David Jude Jolicoeur
+Ageet Zweistra
 Georges Bomier
 Émile Lelouch
 Carles Baguer
-Alexandre Duhamel
+Daniel Sepec
 Richard Céré
-Maxime Le Forestier
+Véronique Bourin
 Greg Leisz
-Gaetano Rossi
+Olivier Coiffet
+Anil Bhosle
 Francesca Breschi
 Skanda Subramanian Sundararajan
 Domenico Fischietti
+Dominique Fournier
 José Siqueira
-Paloma Kouider
 Antoine Bonnet
-Michael Mantler
+Aldo Romano
+Marie Noëlle Maerten
 Yungchen Lhamo
-Patrizia Bovi
-Kevin Seddiki
+Sébastien Texier
+Daniel Hope
 Hans Gál
 Adrien Politi
 Emmanuel Clerc
 Cyrillus Kreek
+Loïc Dequidt
 Marianne von Martínez
 Nitai Hershkovits
+Jan Philip Schulze
+Joachim Oroseman
 Jean Guyot de Châtelet
-Sylvain Bardiau
 Pierre Robert
-Christophe Looten
+Luigi Rossi
+Julien Eil
+Claude Giron
 S. Canaguier
 Roger de Beaumercy
 René Bader
-Pierre Strauch
 Jean-Baptiste-Joseph Tolbecque
-Roger Redgate
+Antoine Pierlot
+Frans Petter Eldh
 Irénée Bergé
 Antonio Maria Bononcini
 Johann Ludwig Bach
 Léon Chic
 Edouard Brunel
+Charlie Parker
 Leonardo Vinci
 Omer Avital
-Alexander Brott
 Domenico Massenzio
 Lucien Charpentier
+Ali Shahbaz
 Kelvin Mercer
-Charles Avison
+Fabien Cherrier
 Pierre-Gabriel Gardel
 André Crémer
+Martin Surot
 Simon Mayer
 Henri Dallier
 Mahmudjon Tojibaev
-Johann Mattheson
-Henri Cliquet-Pleyel
-Emmanuel Vistorky
+Ernesto Fossa Chilembwe
+David Chevallier
+Ivan Grinberg
 André Gedalge
-William Byrd
+Victor Aragon
 Michel Aatz
+Julien Bouclier
+Jérôme Lejeune
 Nicholas Ludford
 Sixt Dietrich
-Luc Bertin-Hugault
-Paolo Damiani
 Michel Redolfi
 Ernest Ranglin
-Albin de La Simone
+Jacques Henry
 Tivon Pennicott
 Margaret Rizza
-Thomas Hobbs
 Ferenc Erkel
 Claudio Prieto
+Juliette Perret
 Younghi Pagh-Paan
 Peter Garland
-Alessandro Kramer
-Thomas Zehetmair
-Miguel Da Silva
+Marc Busnel
+Nicolas Larmignat
+Benoît Delbecq
+Bruno Le Levreur
+Christian Brière
+Samissone Alone Ntuissa
 Ludovico Viadana
+Giovanni Girolamo Kapsberger
 Riachao
-Jean-Lou Descamps
 Carlo Graziani
 Abdel Rahman El Shafey
-Giovanni Battista Vitali
+Polina Pasztircsak
 Tālivaldis Ķeniņš
 Ennemond Gaultier
  Wild Beasts
@@ -3265,66 +4781,77 @@ Eric Echampard
 Henri Bresles
 Alfred Desenclos
 Alberto Bruni-Tedeschi
+Stivine Wititnesse Gunduze
 Alexandre Rydin
 Alain Krotenberg
-Fayçal Karoui
 Raman Ramakrishnan
 Benjamin Rippert
 Harald Genzmer
 Franck Tortiller
-Charles Dutoit
-Aram Khatchaturian
+Aziz Alami-Chentoufi
 Matteo da Perugia
 Daniel Tosi
+Marcos Loureiro de Sa
 Pierre Ancelin
 Bernhard Henrik Crusell
+Antonin-Tri Hoang
 Bernard Andrès
 Emanuel Harrold
-Matthias Mahler
+Lina Marcela Lopez
 Laurent Brack
+Jean-Michel Pilc
 Éric Fischer
-Gilles Durot
+Julia Griffin
 Giovanni Bertati
 Ke Xuan
 Roberto Sierra
 Flavio Carlo Lanciani
+Iurie Morar
 Atton
-Vittorio Rieti
-Boubacar Traore
+Graham Johnson
+Christophe (Musique) Laborde
+Bruno Philippe
 Michael Jablonka
-Sae-Jung Kim
 Emanuel Harold
+Leïla Olivesi
+Edna Stern
 Babil Calvete
 Ralphe Armstrong
+Rémi Delangle
 Julien Pondé
 Mamani Keita
-Giovanni Picchi
+Gabriel Diaz Cuesta
+Philippe Bianconi
 Raydar Ellis
 Daniel Roth
-Günter Bialas
-Granville Bantock
+Julien Soro
 Carlo Antonio Marino
 Manuel Rodrigues Coelho
 Brigadier Jerry
+Aurore Tillac
 Raoul Moretti
+Lucile Perret
+Timothy Leigh Evans
 Carlos Perez Nolazco
-David Fenech
 D. D. Jackson
 Georges Cuvelard
+Guillaume Olry
 Dudley Buck
 Craig Harris
-Peire Vidal
+Cécile Roubin
 David Laborier
 Lennox Berkeley
-Michel Massot
+Guillaume Latour
 Jules Bentz
 Joaquin Silva-Diaz
+Tim Scott Whiteley
 Johann Christoph Pepusch
-Harry Freedman
 René Both
+Ramon Lopez
 Jean-Baptiste Loeillet
 Hélène Labarrière
 Marie-Thérèse Bonhomme
+Risto Joost
 Wolfgang Puschnig
 Lennart Hedwall
 Daniel Dor
@@ -3333,95 +4860,93 @@ Alexis de Castillon
 Ray Lema
 Didier Barbelivien
 Joseph Bayer
-Chick Corea
+Alain de Rijckere
 Darryl Hall
 Henry Cohen
 Éric Noyer
 Robert Helps
 Steve Pringle
+Claude Barthélemy
 Elodie Visnelda
-Emmanuelle Cordoliani
+Jean-Claude Casadesus
+Fazil Say
 Matthieu Michel
+Erwin Aros
 Paul Vidal
 Thomas Wilbrandt
+Philippe Bredin
 Nicola Matteis
 Jacques Dallin
 Fernand Halphen
 Aaron James
 Alex Bonfanti
-Pierre-Charles Roy
-Werner Güra
 Yaroldi Abreu
 Yosuke Sato
 Nelson Malléus
 Pérotin
 Andres S. Cruz Lazo
-Mariana Flores
 Allen Watsky
-Azio Corghi
 Sri Naga Siva Venkata Subbaraya Phal Parupalli
 François Dieupart
 Alessio Riccio
 Ray Anderson
-Marie Bournisien
+Karine Jean-Baptiste
+Konrad Junghänel
 Francis Popy
-Mario Brunello
 Janine Jansen
+Jean-Louis Pommier
 Jean-Pierre Leroy
+Stéphanie de Failly
 Léon Daguerre
-Noëlle Geny
 Edgar Berthomieux
 Marguerite Casalonga
 Girolamo Crescentini
-Svetlin Roussev
 Scott Bomar
 Helmut Rogl
 Ivo de Vento
+Béatrice Rana
 Sophie Michel
-Philippe Forget
 Ricky Ford
 Lewis Wright
-Habib Koité
+Nicole Mitchell
 Gace Brulé
 Marco da Gagliano
-Julia Fischer
 Azzolino Bernardino Della Ciaia
-Jean Ferrat
+Stefan Berghammer
 Fortunato Chelleri
 Carl Bohm
 Gustave Dauvin
 David Lampel
 Charles Baliveau
-Brian Eno
 Marie-Antoinette
 Albert Huybrechts
 Roger Vuataz
-Hermann Bemberg
 Hamilton Harty
-Martin Helmchen
 Alex Coke
+Matthieu Bertaud
 Auguste Couture
+Marielle Labèque
 Sergei Bortkiewicz
-Pascal Contet
 Julie Campiche
 Michael Sarin
 Carmen Bradford
-Katherine Watson
 Pierre Arezzo
 Georges Daguerre
+Sabine Lutzenberger
 Sukanya Ramgopal
 Odette Gartenlaub
 Louis Blasini
-Michael Tilson-Thomas
-Manuel Cardoso
+Christine Wodrascka
 Jose Luis Trina Hernandez
+Dorothea Jacob
 Steve McCraven
-Philippe Aïche
+Caroline Bardot
 Larissa Latour
 Henri Dumas
 Luigi Gatti
 Francisco Guerau
 Freddie Hendrix
+Witte-Maria Weber
 Javier Francisco Dominguez Alonso
 Jaron Lanier
 Lazaro de Jesus Dominguez
@@ -3429,466 +4954,686 @@ Ton Bruynèl
 Bobby Bradford
 Jacob Gade
 Claire Vazart
+Michaela Riener
 Jules Buisson
-Giovanni Antonini
 Merle
-Alexandra Soumm
-Carmen Linares
 Graham Godfrey
-Tanja Tetzlaff
 Thierry Pallesco
 Hugh Ragin
 André Bon
 Johan Peter Emilius Hartmann
 Pierre Durand
 Charles Dandry
-Malcolm Martineau
+Claire Lagarde
 Art Davis
-Akané Sakaï
 Claude Lefebvre
+Achim Schulz
 Eric Chambouleyron
+Jean-Pascal Post
 Christopher Simpson
 Jerome Harris
 Auguste Bardot
 Giovanni Paolo Cima
+François Leleux
 Regina Carter
 Béatrice Warcollier
-Denis Levaillant
 Aditi Jain
-Joseph von Eichendorff
 Omri Mor
 Celina Gonzalez
+Luca Bonvini
  Hot Chip
-Michel Godard
 Ravi Best
-Théophile Gautier
-Fabián Schofrin
 Louise Anna Duggan
 G. J. de Bullet
 P. Philippe
 Pierre-Alain Jaffrennou
-Hugo von Hofmannsthal
 Srikanth Venkataraman
-Robert Moran
-Jean-Claude Wolff
-Joëlle Léandre
-Kurt Atterberg
 Ben Wendel
 Marco Facoli
-Samuel Wesley
+Matthew Vine
+John Neal Axelrod
+Marie Pouchelon
 James Newton
-Giovanni Sgambati
-Joseph Swensen
-Louise de Vilmorin
+Pauline Bartissol
+Margaux Blanchard
+Tom Philips
 Jean-Baptiste Cardonne
 Marco Cara
+Thierry Biscary
+Jean-Antoine de Baïf
 Pedro Miguel Marqués y Garcia
 Vito Zuraj
-Moritz Eggert
-Anthony Pateras
-Michel Alibo
-Jean-François Novelli
+Giuseppe Rabboni
+Veronika Egger
+Charles Ferré
+James Gaffigan
+Bruce Fox-Lefriche
+Alexeï Volodine
+Amable Massis
+John Alden Carpenter
+Enrique Fernández Arbós
+Vincent d'Indy
+Alain Billard
+Jérôme Varnier
+Vincent Lê Quang
+Marie-Ange Todorovitch
 Roger Sessions
+Albert Dietrich
+Alexandre Mossolov
+Ernest Martínez Izquierdo
+Andris Poga
+Ferdinando Fontana
+Christian-Pierre La Marca
 Eugène Mona
+George Perlman
 Christophe Frionnet
-Geirr Tveitt
-Henri Tournier
+Louise Bertin
+Tasse
+Marie-Violaine Cadoret
+Roger Steptoe
+Marco Spotti
 Colin Roche
+Christa Schoenfeldinger
 Richard Rijnvos
+Sadao Bekku
 Dendenny Mouna Mint
 Marcin Mielczewski
-Maria Grever
+Giuseppe Torelli
+Vivien Villani
+Vincent Limouzin
+Christopher Lowrey
+Marc Copland
 Veli-Matti Puumala
 Rajko Maksimovic
-Alberto Nepomuceno
-Friedrich von Schiller
+Johnny Mandel
+Emil Nikolaus Rezniček
 Jean-Pierre Guézec
-Samuel Beckett
+Carolin Widmann
 Kenny Wollesen
 Karl Wright
-Allain Gaussin
+Colette
+Klaus Ib Jørgensen
 Désiré Dondeyne
+Jay Schwartz
+Thomas Henning
+Robert Beaser
 Wladimir Vogel
+Lucia Recio
 Joseph Bonnet
+Eugène Ionesco
+Didier Aschour
 Lee Konitz
 Marc Moulin
+Leonardo De Lorenzo
+Jean-Yves Daniel-Lesur
+Nicolas Crosse
+Marij Kogoj
+Ingram Marshall
+Lorenz Hart
+Monty Alexander
+Milana Chernyavska
+Léon-Paul Fargue
 Guillaume Connesson
 Yvon Bourrel
+Hans Christian Lumbye
+Johann Nepomuk David
 La Fiancée
-Mischa Spoliansky
-Pierre Thilloy
-Alice Sara Ott
 Evan Perri
-Gérard Buquet
-Valéry Aubertin
+Ketil Bjørnstad
 Jean-Baptiste Bréval
 Richie Havens
 Fabien Cali
-Cyrille Lehn
-Charles Dumont
-Jonny Greenwood
+Stevan Stojanović Mokranjac
+Myrtille Hetzel
+Castil-Blaze
+Arnaud Desvignes
+Charles Collé
 El Negri
 Domenico Paradies
 Hassan Shakur
+August Wilhelm von Schlegel
+Michel Butor
 Peter R. Hallock
 L.-L. Delahaye
-Józef Świder
 Srul Irving Glick
+Amin Maalouf
+Yves Simon
+Fernando Periquet
 A. Caro
 Feliks Mihajlovič Blumenfelʹd
 Henri Reber
+Patrice Balter
+Arturo Colautti
 Roland Romanelli
+Nahum Tate
+Claire Marie Le Guay
 Wayne Escoffery
 Jean-Claude Tavernier
 Antonio Di Donato
+Charles Cuvillier
 Michel Mériot
 Robert Pascal
 Tommaso Carapella
-Josh Levine
+Landon Ronald
+Richard Dubelski
+Conlon Nancarrow
+Myfanwy Piper
 Marie Jaëll
+Nicolas Peyrac
 Кара Абульфаз оглы Караев
-Marcel Pérès
-Gottfried Heinrich Stölzel
-Kristian Bezuidenhout
+Laurent Lefèvre
+Sébastien Jarrousse
+Xavier Garcia
 Leila Josefowicz
-Boby Lapointe
+Jacques Pichard
+Beñat Achiary
+Michel El Malem
 Sandrine Buendia
-Petrus Abaelardus
+Mitchell Parish
+Clemens Brentano
+Abdelmajid Bekkas
 Simone Coya
-Joseph Achron
+Charles Workman
+Christian Eymery
+Tommaso Antonio Vitali
+Luc Bondy
 Tomás Garbizu
+William Bergsma
 Cyril Scott
 Juan Carreras
 Juan Carmona
 Drwr ʾEliymelek Payyler
 Francisco de la Torre
-Katarina Dalayman
+Simon Wall
 Brigitte Engerer
+Nathan Chizzali
+Stéphane Belmondo
+Bruno Bettinelli
+Eugène Morand
 Antoine Renard
+Mirtha Pozzi
+Edwin Crossley Mercer
 Jean-Christophe Cholet
+Pierre Iodice
 Allonymous
 Sekouba Diabaté Bambino
 Johann David Hermann
-Ellen Taaffe Zwilich
+Aurelie Tropez
+Johann Paul Aegidius Martini
+Guerassim Voronkov
+Isabel Charisius
+Sébastien d' Herin
+Lorenzo Soulès
 Maria Koval
-Pelham Humfrey
+Johann Ulrich von König
+Chester Kallman
+Sergio Tiempo
 Kelsey Jones
 Monty
-Lü Wencheng
+Carmine Emanuele Cella
+Olli Kortekangas
+Thomas Larcher
 Christophe Battaglia
-Victor Julien-Laferrière
+Matthias Claudius
 Bob Chilcott
-Bernard Aymable Dupuy
+Michel Sardou
+Silvio Gabardi
+Klaus Egge
 Boris Leonidovič Pasternak
-James Price Johnson
+Christophe Rousset
+Timur Martynov
 Andrea Leone Tottola
 Edouard Senny
+Philippe Grauvogel
+Edu Lobo
 François Paris
 Jules Danbé
-Clarice Assad
 Александр Александрович Алябьев
+Isabelle Druet
 Florian Carré
-Hieronymus Praetorius
+Lewis Carroll
+Mara Dobresco
+Eduardo Egüez
+August Klughardt
+Antonio Lotti
 Tony Scherr
+Gottfried Reiche
 Elway Bevin
+Daniel Humair
+Pascal Zavaro
+Colin Currie
+Pierre Cholley
 Ron Ford
 Georgij Èduardovič Konûs
+Ghédalia Tazartès
+Jules Renard
+Gunnar Ekelöf
+Stephanos Thomopoulos
 Simon Boissezon
-Ignaz Holzbauer
+Henrik Wieniawski
+Felix Weingartner
+Albert Dupuis
 Henri Cain
-Sidney Bechet
+Diogo Dias Melgas
 Éric Ledeuil
 Michel Emer
 Carlos Farinas
-Jean-Bernard Pommier
 Dmitrij Dianov
-Michel Laplénie
-Hernando Franco
-Sergej Krylov
+Vladimír Sommer
+Frederic Devreese
 Manolis Kalomiris
-Albert Vanloo
-Fuminori Tanada
+Paul Bourget
 Detlev Glanert
+Jean-Benoît Culot
+Adolf Misek
 Christopher Gibbons
 Manoel Dias de Oliveira
+Étienne Roda-Gil
+Paul Robinson
+Zbigniew Preisner
+Tony Aubin
 Hubert Léonard
 Torquato Tasso
+François Borne
 Nicolás Agulló
 Einar Englund
 Célanie Carissan
+Alfred Grünfeld
 Lan Shui
-Wilhelm Kempff
 Philippe Rogier
+Georg Friedrich Treitschke
 Llorens Barcelo Vives
-Kassé Mady Diabaté
-Leo Robin
+Yoritsune Matsudaira
+Robert Volkmann
+August Heinrich von Weyrauch
+Garrick Ohlsson
 Claudio Gabriele
+José Ardevol
 Stefon Harris
 Francisco Valls
+Georg Trakl
+Arthur Oldham
 Antal Szalai
 Erland von Koch
+Sebastián de Yradier
 Jean-Rémy Guédon
 Amadou Bagayoko
+Benoît Chapon
 Ida Gotkovsky
-Jaakko Mäntyjärvi
+Antje Weithaas
+Amaury Coeytaux
+Paul Viardot
+Michel-Richard Delalande
+Horia Andreescu
 Paul Péron
+Giuseppe Porsile
 Alain Kan
-Stephen Betteridge
-Mari Eriksmoen
+Enrique Santos Discépolo
+Véronique Wilmart
+Giovanni Ruffini
+Frédéric Duvernoy
+Thomas de Pierrefeu
+Francisco Luque
 Gilles Borel
+Julia Borchert
+Frédéric Caton
+Hernando de Cabezón
 Chrétien de Troyes
 Leslie Bricusse
 Nicolò Isouard
+Carlo Innocenzo Frugoni
 Kemoko Condé
-Hans Rott
+Samuel Dushkin
+Stefano Donaudy
 Daniel Dugenne
+Emmanuel Armaing
+Alessandro Solbiati
 Michelle De Young
 Louis Bertignac
-Boris Vian
+Lucien Niverd
+Fabián Panisello
+Joseph Gregor
+Kristina Hammarström
+Elam Rotem
+Marisol Montalvo
 Jeanne Alombert
 Andrae Murchison
 José Mauricio Nunes Garcia
+Emmanuel Jacques
 Benoît Corboz
+Paul Rogers
 John Marsh
+Louis Lortie
+Jacques Berrocal
   Musiques traditionnelles
 Hugh Coltman
 Vladimir Jurowski
+Ricarda Merbeth
 Mme de Lignière-Parmentier
 Henri Herz
 Isaac de Benserade
-Pedro Elias Gutiérrez
 Sergej Mihajlovič Lifarʹ
+Guillaume Faugues
 Andy Bassford
-Olga Neuwirth
-Christian Wolff
-Ernst Toch
-Virgilio Mazzocchi
 René Vierne
-Michiru Oshima
 Pete Rock
-Jonathan Finlayson
+Antoine Lederlin
+Stany David Lasry
 Anna Thorvaldsdottir
-Alfred de Vigny
+Arnault Cuisinier
 Rasul Saddik
+Antonio de Santa Cruz
+Hélène Guilmette
 Amy Socé
+Marie Langlet
 André Philidor
 Rajery
 Knut Håkanson
+Nurlanbek Nyshanov
+Serge Pey
 Richard Moult
+René Fauchois
 Samuel Andreyev
 Raymond Vincy
+Bruno Capelle
 Johann Wilhelm Hertel
-Hans Erich Apostel
-Jean-Paul Fouchécourt
+Piero Coppola
+Georg Poplutz
+José de Cañizares
+Pedro Guerrero
 Suk-Hi Kang
+Alain Bashung
+René Bottlang
+Masakazu Natsuda
 Feyrouze Mint Seymali
+Jérôme Hilaire
+Anthony Holborne
+Renato Simoni
+Irwin Bazelon
 Randall Thompson
+Wayne Marshall
+Charles Boone
 Klod Kiavue
 Emmanuel Comboul
+Albert Zabel
+Pierre Menu
 Antonio Moya Casado
+Maria Zaharia
 Mariam Koné
 Richard Ayres
-Tomás Marco
 Jason Brown
-Carol Robinson
+Ursula Mühlberger
+Christine Groult
+Jean-Yves Lacombe
 Doug Hammond
-Johann Gottfried Walther
 Aṙno Harowt̕yowni Babaǰanyan
+Christian Eloy
 Johannes Regis
-Jean-Claude Casadesus
 Aurélien Dumont
 Carla Bley
-Philippe Herreweghe
-Clytus Gottwald
+Claire Merlet
+Jean-Pierre Zinc
+Raphaël Pichon
+Valentino Bucchi
 Rihards Dubra
 Elsa Boublil
+Théophile de Viau
+Barre Philips
+Simon Halsey
 Adam Falckenhagen
+Jean-Claude Naudé
 William Mundy
+Christian Lété
+Eugène Adenis
+Gábor Bretz
+Dick Annegarn
 Leon Michels
 Mohammed Ahmed Ould Fall
 Леонид Десятников
+Catherine Hunold
+Antonio Caldara
+Ronald Van Spaendonck
+Georges Hartmann
 Pierre Vassiliu
 Jacques Veneruso
+Emmanuel Nunes
 Alberto Colla
 Robert Bernard
+Jean Sourisse
+Anis Fliss
+Valerius Otto
 Jamie McDermott
+Michel (Père) Carré
+Alberto Posadas
 Michaela Selinger
-Michel Béroff
-Bojan Zulfikarpasic
+Daniel Schnyder
 Charles Owens
+Serge Saitta
 Frederick Loewe
+Alisa Weilerstein
+Martin-Pierre Marsick
 Pierre de Blois
 Сергей Михайлович Эйзенштейн
 Paul Bades
-Yovan Markovitch
 Carlo Boccadoro
+Johann Gottfried von Herder
+Cedric Santens
 Bronislaw Kaper
 Leon Duncan
-Leó Weiner
-Kate Royal
-Sarah Nemtanu
+Lev Zhurbin
+Franc̜ois de Paule Bretonneau
+Christianne Stotijn
+Luis Barcelos
+Anthony Plog
 Lucien Bernot
 Jean-Pierre Grau
-Pierre Papadiamandis
-David Hudry
+Jean Moréas
+Filippo Gragnani
+Dora Pejačević
 Aminata Dante
+Éric Huchet
 Juan Manuel de la Puente
 A. F. de Cordoba
+Grzegorz Nowak
 Mamadou Diakité
 Saramba Kouyaté
+Karel Svenk
+Detlev von Liliencron
 Joseph Palmer
-Giovanna Marini
+Jérôme Etcheberry
 Venance Fortunat
+Barbara Sukowa
+Karl-Birger Blomdahl
 Mathias Rüegg
 Antonio Robledo
+Leonardo Vinci
 William Comina
 Mario Canonge
+Pierre des Molins
+James Judd
+Mario Davidovsky
+Claire Lamquet
 Victorin Joncières
-Alexandre Dumas
-Kevin Greenlaw
+Luca Lombardo
+Djaisan Taouss
 James Carter
+Arthur Freed
+Grimace
 Andrew Cyrille
-Juan Arañés
+Henriette Puig-Roget
+Simon Leduc
+Céline Bonacina
 Constant Lambert
 Nina Senk
 Robert Ballard
 Antonio Lauro
 Sterling Morrison
-Joseph Wölfl
-Edgar Allan Poe
-Jukka Tiensuu
+Marco Armiliato
+Lennox Berkeley
 Anton Filtz
-Manuel García
+Cécile Mac Lorin-Salvant
 Émile Cousin
 Olivier Chassain
+Anne-Guersande Ledoux
 Paul Bernard
+Jean-Jacques Birgé
+Steven Sametz
 Johann Friedrich Doles
 Antonio Capuzzi
-Garth Knox
+Hilda Paredes
+Patrick Ascione
 Wizlav von Rügen
+Johann Gabriel Seidl
 Giovanni Giacomo Gastoldi
+Sun Ra
 Miguel López
+Tapio Tuomela
+Rodolphe Bruneau-Boulmier
+Jean-Miguel Aristizabal
+Henning Kraggerud
+Robert de Bonnières
+Nathalie Darche
 Henri-Paul Constant
-Mark Barden
+James Mobberley
 François Salque
 Robert Fuchs
+Ludwig Rellstab
+Marie Kalinine
+François Thuillier
 George E. Lewis
-Consuelo Velázquez
 Jean-Nicolas Geoffroy
+Hans Eklund
+Alain Trudel
+Miguel de Cervantes
+Juan de Urrede
+Pietro Raimondi
+Henri Bertini
 Lanfia Diabaté
 Mouloud Adeba Ould
-Панчо Хараланов Владигеров
-Jean-Christophe Vervoitte
+Sylvaine Helary
+Andrzej Koszewski
+Benjamin Bernheim
 Andrew Norman
+Maria Riccarda Wesseling
 Vincent Mason
+Victor Kissine
+Georg Hamann
 Martin Mayer
+Jonathan Cohen
+Sarah Connolly
 Emile Artaud
+Didier Ithursarry
+Gustave Bret
 Geri Allen
 Jonathan Bell
 Francis Lai
-Dominique Della Maria
+Abraham Goldfaden
+Gilles Arbona
+Claire Lagarde-Dumay
 Gaspare Gabellone
+Sandro Zerafa
 Juan del Vado
 Benet Julià
 Wiebke Lehmkuhl
 Damien Cornelis
+Philippe Baudoin
 Auguste Bertin
-Simon Bainbridge
 Karim Coulibaly
+Joseph Filippi
+Claude Bellagamba
 Cécile P. Simon
 Pierre Tabart
 Joël Soichez
 Arnaud Leroy
 Barkat Khan Manghaniyar
-Kristjan Järvi
+François Chesnel
+Ceccè Acquaviva
 Philippe Di Betta
 Tarik O'Regan
 Louis Caumel
+Claire Sirjacobs
 André Mauban
-Étienne Tréfeu
 Joachim Havard de La Montagne
+Guillaume Nouaux
+Tahar Boukhlifa
 Lazaro Cantillo Ocanto
+Richard Dehmel
 Josef Gung'l
 Eugenio Maria Fagiani
 Ricardo Araújo
-Catulle Mendès
 Francisco Valdes Velarde
 Arthur Hnatek
-Jean-Étienne Langianni
-Luc-Marie Aguera
-Didier Petit
+Michel Tabachnik
+DMITRI Baevsky
 Nate Wood
+René Pape
 André Ze Jam Afane
-Denis Fournier
 Vincent Aubert
 Ernest Becucci
 Joshua Fineberg
 Étienne de Jouy
 Robert Fleming
-Rainer Maria Rilke
-Barthold Heinrich Brockes
 Alexis Ciesla
-Giuseppe Giacosa
-Gustave Samazeuilh
 Georg-Friedrich Fuchs
  musique lithurgique orthodoxe
 Bernard Zielinski
 Jérémy Garcia
+Françoise (Piano) Ferrand
+Francois-Philippe Barbolosi
 André Barde
 Nanja Breedijk
 Patrice Quinn
 Jean-Paul Holstein
 Julien Alour
-Bertrand Dubedout
-Patrizia Ciofi
-Luigi Arditi
-Florence Malgoire
+Alexandre Sergueïevitch Pouchkine
+Thomas Grimmonprez
 Ron Miles
-Gaetano Latilla
 Richard Genée
 Augusto R. A. de Caldas
 Hafid Zouaoui
+Joce Mienniel
 Henri Casadesus
+Cédric Piromalli
 Lazaro Ros Callado
+Jean Philippe Wurtz
+Vincent Lafont
 Leonid Alekseevič Polovinkin
 Sir John Eliot Gardiner
 Mamadou Diabaté
 Eugène Chabas
-Temistocle Solera
+Maxime Vuillamier
 Anton Franz Josef Eberl
-Aram Illich Khatchaturian
 José Jimenez
-Georges-Léonce Guinot
 Pedro Pena
-George Whitefield Chadwick
+Maria Mosconi
 Charles-André Conforto
-Alfredo Bernardini
+Jean-Michel Cauquy
+Manuel de Grange
 Émile Nerini
-Jean-Christophe Jacques
+Jean-Luc Geronimi
 Wlodek Gulgowski
 Carlos H. Veerhoff
 Djany
+Pierre-Yves Hodique
+Morgan Jourdain
 Régis Boullard
-Édouard Commette
-Friedrich Hölderlin
 Steven Leblanc
+Jaël Azzaretti
 Lajos Bárdos
 Giovanni Battista Casali
  Blackfire
 Sheldon Bernard
-Marius Petipa
 Kamran Ince
+Arie Van Beek
 Reinaldo Melián Alvarez
 Ari Barroso
 Hervé Druelle
 Mauléon Jernidier Carno
-Oswald Sallaberger
 J. B. de Carrères
 Elysée-Jacques Caudevelle
 Misja Fitzgerald Michel
 Armand Charbonnier
 Jules Cazenaud
-Éric Groleau
 Nobuo Uematsu
 Tim Berne
 Lorenzo Perosi
@@ -3897,65 +5642,72 @@ Maurice Lee
 Ernest Guiraud
 Ilmari Hannikainen
 Emmeline Darolle
+Jean Sicurani
 F. J. Calabuig
 Martti Pokela
 Joachim Van den Hove
-Thierry Lancino
 Giuseppe Carcani
+Emmanuel Curt
 Hamid Drake
 Benoît Wéry
 Albert de Cristofaro
+Joshua Cheatham
+Anne Larlee
 Ansoumane Kanté
 Léopold-Bastien Desormery
+Guillaume Orti
 Cornelius Burgh
 Otto Olsson
 Giovanni Antonio Rigatti
 Pedro Albéniz
-Guillaume Sutre
 Folke Rabe
-Édouard Blau
+Etienne Ziemniak
+Steven Isserlis
+Mondher Ouafi
+Alexandre Borodine
 Pierre-Marie Humeau
 John Christopher Smith
 Juan Gutiérrez de Padilla
 Max Deutsch
-Jan Blockx
 Enzo Carniel
  Other Lives
+Jerome Casalonga
+Claire Désert
+Jérôme Pinget
+Romain Pilon
 Giovanni Lorenzo Lulier
-René Koering
-Victorien Sardou
+Mark Brooks
+Adèle Jayle
 José Serrano
 Christelle Marsole
-Antonio Abete
 Issa Koné
+Paul Giansily
 Kémo Kouyaté
 Jean-Michel Ferran
 Adolphe Vogel
 Pierre Cognet
 Ida Chapelle
-Lorin Maazel
 Johann Kaspar Mertz
-Daniel Kawka
 René de Castéra
+Olivier Fichet
 Feiruz Khan Manghaniyar
-Glenn Gould
 Lazaro Vladimir Enrique Silveira
 Emile Broulhiet
 Pammi Bai
-François Benoist
-Charles-Auguste de Bériot
+Thierry Olle
 Lee "Scratch" Perry
 Lassana Aliou Diabaté
 Marie-Joseph de Chénier
 Mama Sissoko
+Marie France Arakelian
 Jean-René Combes-Damiens
 Alain Billard
 Julius Fučik
-Octavio López
 Zach Miskin
 Jacques Lejeune
 Ian Venables
 Thierry Mechler
+Jean-Pierre Lanfranchi
 Ruth Crawford Seeger
 Gabriel Garzón-Montano
 Michel Deneuve
@@ -3968,48 +5720,41 @@ Djessou Mory Kanté
 Tatiana Jubert
 Marcos António Portugal
 Domenico Gilardoni
-Pierre-Joseph Bernard
 Antonio El Porras
+Dufour Celia
 José Pablo Ocana
-Alonso Lobo
+Max-Emmanuel Cencic
 Robert Courteille
+Antoine Polin
 Dendenny Louleid Ould
 Alexandre Piccinni
 Sam Newsome
 Ricardo Ferreira de Carvalho
-Percy Aldridge Grainger
 Dubuisson
 Michel Chion
 Vincente Fritis
 Jean Antiga
 Jean Sichler
-Albert Doyen
+Amel Brahim-Djelloul
 Roland Petit
-Michel Pignolet de Montéclair
 Filip Spetze
 Steve Martland
+Julien Cigana
 Georges Brice
-Julia Sarr
 Peter Erasmus Lange-Müller
-Olivier Mellano
-Judith Bingham
 Cecilia Mirta Ocanto Gonzale
-Jean Huré
 Alexander Martinez Arencibia
-Jan Zach
 Santiago de Masarnau
 Yuri Temirkanov
 Dave King
 Pierre Vachon
 Gazi Khan Barna
 Joaquín Cassadó
-Martin Luther
 Michael Rissler
 Michel Lysight
 Jean-François Basteau
-Eugénie Warnier
-Kenny Garrett
 Antonin Servière
+Michel Perez
 Billy Drummond
 Auguste Collmann
 Philipp Dulichius
@@ -4017,40 +5762,42 @@ Maria del Carmen Argudin Marti
 Nicolas Séjan
 Fanny Chevé
 Fritz Bennicke Hart
-Paul Taffanel
+André Hodeir
 Richard Housset
 Henry D.
+Elodie Fonnard
 Johann Walter
 François-Benoît Hoffman
 Guy Printemps
+Geoffroy de Masure
 Julian Wachner
+Vincent Le Texier
 Terje Rypdal
-Friedrich Gernsheim
+Slim Jaziri
 Kurt Rosenwinkel
 Juan de Durango
 Mario Savioni
-Mathieu Romano
 Anwar Khan Manghaniyar
-Jean-Marc Fessard
-Vic Moan
 Charles-François-Alexandre-Victor Pollet
-Benoît de Mesmay
 Xin Liu
+Martin Delafosse
+Jozef Dumoulin
 Marc Franklin
 Jean-Dominique Pasquet
+Christian Zacharias
 Elias Parish-Alvars
+Bruno Nouvion
 Jean-Marc Reyno
 Antonin Aulagnier
 D. Giuseppe Demagistris
 Benet Casablancas
-Lise de La Salle
 Jonathan Rubin
 Albert Fasce
-Wayne Dockery
 Marc Lys
 Pinson Chanselle
 John Edwards
 Jean Chardavoine
+Itamar Golan
 Rogelio Ruiz Gonzalez
 Anton Strandberg
 Jason "Jaytram" Trammell
@@ -4058,132 +5805,146 @@ André David
 Tommaso Giordani
 Philippe Courras
 Vincent Emmanuel
-Armand Silvestre
 Yi Xu
 Céline Cheynut
 Igor Pichon
+Pierre Métastase
 Johann Jakob Froberger
-Ruben Aharonian
-Julien Quentin
+William Carrothers
 Franck Dentresangle
 Stéphane Guillaume
 Ghewar Khan Manghaniyar
 Joseph Archainbaud
 Alain Mitéran
-Thierry Deleruyelle
+Gilbert Audin
 A. Cousin
 Phil Abraham
-Fernand de La Tombelle
+Vladimir Bukac
 Thomas Ford
 Jacques Berthier
 Phillip Ramey
 Ernest Gillet
-Renaud François
+Guillaume Dufay
 Николай Капустин
 Maurice Vander
 Omar Pupo Sanchez
 Marie de Cournand
-Olli Mustonen
+Pierre Vavasseur
 Francis Thomé
 Michel Joseph Gebauer
+Paul Lewis
+Marcus Hoffmann
+Jules Barbier
+Bernard Lagnel
 Pierre Drevet
-Frédéric Favarel
 Johann Valentin Rathgeber
-Pierre Louÿs
 Carl Tausig
 Rudolph de Lassus
 Dominique di Piazza
+Johan Renard
 Daniel Sauvage
 Jose Luis Gomez Navas
 Natacha Figaro
 Pedro Calderón de la Barca
 Amang G. Shaker
-Florian Laconi
 Narayanan Muraleekrishnan Pazhangapparambilvadakkemana
 Toskano Jeanniard
 Areni Agbabian
-Alain Huteau
-Allan Clayton
+François Fournet
+Wolfgang Reisinger
 Sylvain Gontard
 Gautier de Châtillon
 Letizia Calandra
+Amihai Grosz
 Udo Kasemets
 Adolphe Jaime
-Nikolai Demidenko
+Lionel Bringuier
 Albert Lortzing
 Thierry Huillet
 Bastien Lefèvre
-Mary Lou Williams
+Peter Phillips
 Gautier de Coincy
-Pierre-François Dufour
 Charles de Courcelles
 Ernest MacMillan
+Angela Hewitt
 Giovanni Maria Trabaci
 Rolando Salgado Palacio
+Charles Amirkhanian
 Antony Bernier
-Patrice Fouillaud
+Mark Sanders
 Jonathan Lam
 Laurent Cuniot
+Laurent Lefrançois
+Dorothée Goll
 Jesus de Monasterio
 Viktor Arkad′evič Belyj
 Emmanuelle Monier
 Lisa Hannigan
-Giovanni Antonio Terzi
 Léo Daniderff
-Pierre Jansen
+Berg Edwin
+Victor Laugier
 Quirino Colombani
 Kaouding Cissokho
+David Harrington
 Orlando Antomarchi Hernandez
 Maude Valerie White
-Simon Trpčeski
 Pierre Hasquenoph
  Breton
-Gualtiero Dazzi
-Jean-Marc Phillips-Varjabédian
 Elenna Canlas
 Sarath Amarasingam
-Hans Jörg Mammel
-Urs Leimgruber
 Moses Pergament
-Hae-Sun Kang
+John Sherba
+Florian Frère
+Anne Bozec
 John Gay
+Giovanni Pierluigi Da Palestrina
 Michael Montgomary
 Paul Constantinescu
-Stéphane Delplace
-Eamonn Dougan
+Pierre Maingourd
 Jacques-Marie Boutet de Monvel
 Howard Blake
 Bernardo Lopez Isaac
+Nicolas Montier
+Michel Gassic
 Liebman
 Roland Merlinc
+Jean-Paul Céléa
 Frédéric Bentayoux
+Sabine Devieilhe
 Carson P. Cooman
 Frédéric Serrano
 Johann Baptist Cramer
-Toshi Ichiyanagi
+Laure Yung-Lancrey
 André-Daniel Meylan
-Tadeusz Baird
+Enzo Mucci
 Nabil Taleb
+Walter Nussbaum
+Jamixel Bereau
 Conon de Béthune
 Alessandro Appignani
-Domenico Lalli
+Francisco Correa de Arauxo
 Federico Bufaletti
  Traditionnelle 
+Julie Saury
 Antonio Brunelli
+Janine Jansen
 Jules Apté
 Pierre-Jean Darles
 Joe Restivo
+Bruno Rousselet
 Jonathan Cohen
 Alina Piechowska-Pascal
 Chiara Skerath
+Bunky Green
 Ofer Ben-Amots
 Denis Gaultier
 Émile Decombes
+Joyce Di Donato
 Philippe Rouaire
 Neena Prasad
 Nasr-eddine Regani
+Yves Rousseau
 Pierre Sandrin
-Yaron Herman
 Joan Ambrosio Dalza
 Franghiz Ali-Zadeh
 Abdelmadjid Mekki
@@ -4193,151 +5954,158 @@ Louis Cahuzac
 Gasparo Casati
 Jean-Claude Sillamy
 Kirk Smothers
-Philippe Legris
 Daniel Teruggi
 Ramon Fernando Garay y Alvarez
-Geza Hosszu-Legocky
 Manu Hagmann
-Federico García Lorca
 Richard Allison
-Nicolas-François Guillard
+Caroline Cren
 Howard Chamberlain
-James Weeks
 Pamela Decker
 Maïlys de Villoutreys
 Raymond Gallois Montbrun
-Philippe Girard
 Jachet de Mantoue
-Daniel Blumenthal
 Tamezô Narita
 Thomas Selle
 Raymond Guiot
 Henri-Pierre Juguet
+Benjamin Alard
 Pascal Jugy
 Ikram Matanov
+Tony Rabeson
 Satheesan Paliyam Parambil Madhavan
 Adèle Bonnaud
 Robert Fienga
 Jean-Philippe Ichard
 Victor Cogniet
 Giuseppe Valentini
-Louis Noël Bestion de Camboulas
-René Gerber
 Samuel Favre
 Joaquín Nin
 Matthieu Coulon
 Karl the Voice
+Marie Grout
 Marie-Thérèse Amirian
 Jean Legoupil
 Omed Sh. M. Ismail
-Paul Bowles
+Karolos Zouganelis
 George Walker
 Paul André
 Jeanne Bergey
-Robert Fayrfax
 Cosimo Bottegari
-Riccardo Chailly
 Calogero
+Jean-Christophe Vilain
+Olivier Dupré
 Raoul Bardac
 Marisa Rezende
+Hélène Collerette
+Jean-Olivier Bacquet
 Ezra Laderman
 Bruno Letort
 Lianscheng Chen
-August Kühnel
-Francisco de Lacerda
+Benjamin Henocq
+Jacques Schneck
 Gabriel Grovlez
-Hanno Müller-Brachmann
 Archie Turner
+Christoph Eschenbach
 Louis-Gabriel Guillemain
 Julien Quirin
 Mustafa R. Shekho
-Frank Markowitsch
 E. Clérambault
+Yulianna Avdeeva
 Baba Salah
 Caroline Bernamont
-Louis de Cahusac
+Gary Hoffman
+Laurent Bômont
+Dennis Russell Davies
 Nicolas Rajao
 Jean Brus
+Marc-Michel Le Bevillon
 Hotinet Barra
-Pierre-Adrien Charpy
 Juan de Triana
 André Coedès-Mongin
 Madhavan Nampoothiri Cheerakattu Parameswaran
 Leopoldo de Villati
-Albert Samain
+Nima Sarkechik
 Matthieu Ouaki
-Jack Body
+Sophie Pattey
 Dave Mason
 Mauro Cardi
 Stéphane Huchard
 Amanda Khiri
 Francisco Escudero
-Yves Duteil
+Christine Schäfer
 Dominique Jayles
 Emile Bouillon
+Ugo Di Giovanni
 Maurice-Jean-Henry Cabasse
+Hilary Hahn
 Ornette Coleman
 Gabriel Fonsega Gonzalez
 Denis Joly
-Nathanaël Gouin
  Iko
 Nicolaus Adam Strungk
 Philippe Nadaud
 Daniel Börtz
-Carlo Farina
 Pierre-Richard Deshays
 H. Bonnand
+Gilles Rancitelli
+Jeffrey Zeigler
 Louise Contenet de Sapincourt
 Leo Michielsen
+Cristian Mandeal
 Rodrigo Riera
+Rogerio Caetano de Almeida
+Olivier Sens
 Jacques Peillon
 Jacquet de Berchem
 Siegfried Garibaldi Kallenberg
+Jonas Vitaud
+Pierre Guicquero
 Gabriello Puliti
+Roger Turner
 Jim Couturier
 Couder
+Guy Giuliano
 Basidi Keita
 Bo Holten
-Pascale Criton
-František Xaver Brixi
+Benjamin Estienne
 André Chini
 Antonio Barili
 Guillaume de Chastillon
-Julien Joubert
+Steve Potts
+Anthony Millet
 Ira Coleman
-Micheline Coulombe Saint-Marcoux
+David Zobel
 Jakob Blumenthal
+Olivier Wyrwas
 Zuzell Maria Rodriguez
-Sergei Lomovsky
-Sainkho Namtchylak
+Xan Errotabehere
 Johanna Brault
-Abdellah Lasri
 Rebwar A. Husein
 Paolo de Angelis
-Courtney Pine
-Yi Chen
 Philippe Sagnier
 Gustave Biloir
+Gérard Gervois
 Denis Dufour
 Olivier Costa
 Giovanni Maria Bononcini
-Matthew Barley
+Hank Dutt
 Alima Touré
-Bernard Lavilliers
  Mondkopf
 Clément Broutin
 Daniel Steibelt
-Francis Miroglio
-Mikhail Petrenko
+Reinhard Goebel
+Luc Isenmann
 Sherzad M. Husein
+Noriko Inoué
 Ronald Bruner
 Vladislav Alekseyevich Shoot
 Luis Amado Barosso Hierrezuelo
 Eskil Hemberg
 Chris Tordini
+Lisandro Nesis
 Jawdat Sh. Ali
 Antonio Austin
-Giovanni Battista Degli Antoni
+Lisa Batiashvili
 Adolphe Buisson
 Krishnakumar Thrikkur Madom Anatharaman
 Alexandre Spengler
@@ -4352,7 +6120,9 @@ Fadimata Walett Oumar
 Édith Lejet
 Joshua Redman
 Henri Chatau
+Pierre Drevet
 Zrar B. Khatir
+Manuel de Falla
 Fernand Bodé
 Celedonio Romero
 Jacques Erdos
@@ -4362,81 +6132,105 @@ Amina Saïd
 Yael Miller
 Marc Copland
 Octave-Angel Batifort
+Jérémie Rhorer
 Carlo Zuccari
 A. Battley
 P. Bermalty
 Philippe Sellam
 Gian Domenico Del Giovane
 Jacques Veyrier
-Thomas Quasthoff
 Francis Pilkington
 Christine Schornsheim
-Francesco Provenzale
+Léon Berben
 Dominique Charpagne
-Dong-Hyek Lim
+Elie Duris
 Jacques Schwarz-Bart
-Richard Egarr
 Aymé Kunc
 Dikran Tchouhadjian
 Sten Melin
+Ganbold Muukhai
+Cédric Tiberghien
 Adolphe Botte
 Francesco Petrini
 Walter Buczynski
+Cédric Jullion
 Stefan Niculescu
 Eduardo H. de Anduaga
+Cécile Brossard
 A. d' Aguilar
 Bernard Fort
+Franck Nicolas
 François Berthet
+Olivier Zanot
 Ricardo Castillo
  L'Europe de l'humanisme et de la renaissance
 Juan José Castro
+François Gallix
+Adina Aaron
+Ana Quintans
 Thomas Robinson
-Harry Crowl
 Henry Chanteclair
 Corine Kiefe
 Armando José Fernandes
-Christophe Mali
 Fridrich Bruk
 Dominique Phinot
+François-René de Chateaubriand
 Nikolaj Nikolaevič Čerepnin
 Jean-Luc Rimey-Meille
 Francesco Corbetta
 Julien Delfaud
 Murali Kannappa
 Mulatu Astatqé
+Stéphane Mercier
+Agathe Girard
 Bruno Lescarret
-Piers Faccini
 Félix Moreau
 Émile Paladilhe
 Nick Movshon
+Tomeka Reid
 François Constantz
-Edwige Parat
 Louis Chevrier
-Frank Wedekind
-Julius Benedict
 Ruth Teklemariam Gebremeski
+Julia Kociuban
+Stéphanie Corre
+Jasmine Eudeline
 Mansour Seck
 Lorenzo Ferrero
 Thomas-Louis Bourgeois
 Hans Neusidler
+Daniel Raclot
 Francisco Garro
 Eugene Goossens
 Matthew Welch
+Rudi Fernandez-Cardenas
+Thierry Lhiver
+Tami Troman
 Jeff Mills / Thomas Roussel
 Corinna Niemeyer
 Sheik Meera Saheb
 Joan Brudieu
 Patrice Pertuit
+Bart Maris
 Artus Aux-Cousteaux
+Pierre Christophe
 Gabriel Bataille
 João Lourenço Rebelo
+Eric Schneider
 Anasi Sheebwana
+GASPARD Benoit
 Richard Phillips
+Ray Charles
 Jean Darquier
+Viktoria Mullova
+Otis Blackwell
 André Bled
 Johann Wilhelm Wilms
+Mayeul Girard
 Arnaud Fayette-Mikano 
+René Clair
+Mario Venzago
 Leonhard von Call
+Baptiste Boiron
 Zbigniew Bargielski
 Johann Schelle
 Joaquín María Nín-Culmell
@@ -4445,9 +6239,10 @@ Alexander Abreu
 David Unger
 Johannes Tinctoris
 Oscar Straus
-Philippe Chamouard
+Nicolas Moreaux
 Auguste Bazille
 Juan Francés de Iribarren
+Buddy Holly
 Ganesan Anayampatti Subbier
 Hanna Paulsberg
 Sankar Manickam
@@ -4457,52 +6252,54 @@ Georgy Dmitriyev
 Domenico Natale Sarri
 Candido Fabre
 Jules Daniel
-Alexandre Duval
 Georges Charton
+Mathieu Franot
+Anwar Osman
 Pierre Baubet-Gony
+Dorothee Mields
+Bodin Pascal
 Jean Debrière
 Firmin Bernicat
 Louis Cramer
 Prince Paul
 Gaspard Le Roux
-Dénes Várjon
+Thomas Tallis
 Ernani Braga
+Reynaldo Anselmi
 Govindarajan Rajamannar
-Howard Arman
 Alejandro Viñao
 Fernande Beauvois
+Andreas Fischer
 Floris Vermeulen
 Brehima "Benogo" Diakite
-Jon Appleton
-Nicolas Courjal
-Angelo Anelli
 Santos Quijano
-Christopher Rouse
 Eugene Zádor
 David Gwilt
 Louis-François-Joseph Patouart
 Geoffrey Bush
 Scott Wheeler
 Carl Andreas Göpfert
-Kalevi Aho
 Giulio Regondi
 Philippe Mion
-Luca Marenzio
+Nat Adderley Jr
+Jean-Luc Redureau
 G. Becker
 Victor Calmbacher
 Henri Buré
+Pierre Cao
+Florence Limon
 Juan Domingo Vidal
 Alma Mahler-Werfel
+Jacques Lanzmann
+Maximiliano Banos
 Robert Casa
 Luis Hernandez Reyes
 Marie-Louise Caussinus
 Enríquez de Valderrábano
-Johann Philipp Kirnberger
 Leo Ornstein
 Jake Lipiec
 Grasella Luigi Bonefeni
 Simone Féjard
-eRikm
 Ûrij Markovič Bucko
 Guy-Claude Luypaerts
 Alphonse Barbot
@@ -4510,78 +6307,77 @@ Jean-Philippe Nataf
 Djaffar Ait Menguellet
 Sébastien Decalonne
 Bénabar
+Lucie Déroian
 Paco Cortès
 Paul Hofhaimer
+Frédéric Pasqua
+Alon Goldstein
 Adalbert Gyrowetz
 Daniel Speer
 Bonaventura Rubino
 Carlo Franchi
 Morten Lauridsen
-Xiaoyong Chen
 Célestine Blancard
+Lucie Girard
+Dmitri Slobodeniouk
 Abdoulaye Fofana
 Carl Filtsch
 Gustave Bley
+Julien Doumenc
 Władysław Żeleński
-Michael Schade
 Günter Raphael
 Theodor Kirchner
+Thurston Dart
 German Velazco
 Andy C. Jenkins
+Anne-Marie Lasla
 Louis Fuzelier
-Anatol Vieru
-Friedrich Rückert
+Glenn Miller
+Samuel Hällkvist
 Lionel Cazaux
-François-Henri Houbart
-Anselm Hüttenbrenner
 Elizabeth Delacour-Bonnamour
-Earl Wild
 Katharina Rosenberger
-Aurel Stroe
 Samuel Yirga
-Thierry Balasse
 Louise Bauer
 Bombay Jayashri Ramnath
 Mikey Jones
 René Chauvet
-Ruggero Leoncavallo
 Emmanuel Bergère
 Sebastiano Nasolini
 Leo Sowerby
 Alain Vérité
-Franz Xaver Murschhauser
 Roland Vincent
 Eugène Gigout
-Emmanuel Séjourné
+Sylvain Dangoise
 Perig Herbert
+Ayumi Mori
 Rafael Mejias
 Charles Mouton
 Zeritu
 Srikrishnamurari Vadakkencheri
 Georges Favre
-Alain Féron
 Alfred "Pee Wee" Ellis
 Jacques Hétu
-François Roberday
-Evelyn Glennie
+Solenne Païdassi
+David El Malek
+Séverine Ballon
 Martín de Villanueva
 Ryan Porter
-Renaud
 Girolamo Cavazzoni
-Louis Anseaume
 Sheik Kale Eshabimahaboob Sheikmahaboob Subhani
+Ivan Gelugne
 Filippo Capocci
 Albert Bertelin
+Thibault Renou
 Czeslaw Marek
-Eugène Cormon
+Guillermo Anzorena
 Vsevolod Zaderackij
-Hidéki Nagano
+Fritz Kreisler
 Aly Wagué
-Laurent Dehors
 William Onyeabor
 Domenico Benigni
 Guy Miaille
-Adolf Busch
+Chicuelo
 Healey Willan
 Kirubel Tesfaye
 Gustave Cornisset
@@ -4592,76 +6388,95 @@ Catello Carpentieri
 Sicong Ma
 Wilhelm Furtwängler
 Alessandro Maria Antonio Frizeri
+Olivier-Romain Garcia
 Marco Marazzoli
-Michel Édelin
-Alejandro Petrasso
 Sylvain Cartigny
-Anders Hillborg
-Raynald Arseneault
 Raphaël Terreau
+Ahat Tohti
 Olivier Alain
 Jean-Baptiste Lemoyne
-Ottavio Rinuccini
+Thibault Noally
+Habib Yammine
 Manuel Silveria
 Horacio Vaggione
 Abraham Mosley
 Lambert De Sayve
+Barbara Walker
 Emil Sjögren
+Marianne Tilquin
 Philipp Heinrich Erlebach
-Saténik Khourdoïan
+Tim Buckley
+Mojca Erdmann
 Antoine Banès
 Thibault Paillier
 Brandon Coleman
+Marion Ralincourt
 Benedetto Ferrari
 JP. Nataf
+Kristof Hiriart
 Rajagopal Doraiswamy
 Jacques Boyvin
 George Dyson
+Bobby McFerrin
 Ludovico Einaudi
 Régis Carrouge
-James Conlon
 Stéphane Montigny
 Thierry Muller
 Johann Benjamin Gross
+Amir Imer
 Manuel Martinez-Sobral
 Jérôme Arrighi
 Joseph Delaforêt
 John Danyel
+Roland Hayrabedian
 Boris Kochno
-Narcis Bonet
-Marc Ducret
+Everett Sangoma
+Big Bill Broonzy
 Juan Cabrera Almeida
 Violaine Cochard
+Lukas Geniusas
+Eric Prost
 Francesco Tristano Schlimé
 Stephen Paulus
-Sandrine Bonnaire
 Mauricio Sotelo
+Sébastien Marq
+Ganzorig Nergui
 Jesus Jimenez
 Antonio Zacara da Teramo
 David Perez
-John Blow
+Paavo Järvi
 Francesco Silvani
 Ndidi Onukwulu
 Omar Sosa
 Jean-Baptiste Krumpholtz
+Patigül Rehman
 François Constanzt
+Ira Gershwin
+Peggy Lee
 Brisa Roché
+Alain Aubin
+Rod Stewart
 Carl Gottlieb Reissiger
+Bachar Khalife
+Ted Poor
 Zacharias Zarewutius
 Florian Sempey
-Simone Kermes
+Harry Carney
 Venkatasubramanian Anayampatti Ganesan
-Pierre-Yves Macé
 Hermann Reutter
-Christian Immler
+Gabriel Bianco
+Jean-Luc Amestoy
 Michael Haylou
-Serge Goubioud
 Arthur Saint-Léon
+Hugues Girard
+Frank Scheffer
 Thomas Alexandrovich De Hartmann
 Giovanni Albini
 Jacob Adolf Hägg
 Christian Vasseur
 Oskar Lindberg
+Stefano Molardi
+Joe Quitzke
 Joseph de La Barre
 Samuel Ducommun
  Baden Baden
@@ -4672,746 +6487,1161 @@ Marlos Nobre
 Jake Wherry
 Pehr Henrik Nordgren
 Christian Zanési
+Catherine Lenert Cervera
 Valerij Aleksandrovič Gavrilin
+Elin Rombo
 Jakub Jan Ryba
+Osman Siddiq
+Rafal Blechacz
 Pierre de Buyer
-Guillaume Coppola
-Boris Pokora
 Joseph Mazilier
-Mogens Christensen
 Jacques Leduc
 Henry Carré
-Giuseppe Petrosellini
 Avenir H. de Monfred
+Sylvain Richard
 Fernando Remacha
 Raoul Laparra
-Alain Buet
 Bern Herbolsheimer
 Jerry Edwards
-Juha Uusitalo
 Jules Chastan
+Kevin Lebars
 Pattàpio Silva
-Shi-Yeon Sung
 Tommaso Traetta
-Olivier Koundouno
 Françoise Barrière
 Antoine-Louis Clapisson
 Luís de Freitas Branco
 Arthur Brühns
+John Klenner
+Claude Tchamitchian
 Алексей Федорович Львов
+Nicolas Hodges
 Giovanni Battista Cirri
+Pete Townshend
 Lyell Cresswell
 Crazy B
-Ludwig Minkus
+Brad Jones
+Jérémie Maillard
+Annette Dasch
+Steffen Schleiermacher
+Andreea Soare
+Egon Petri
+Christophe Wallemme
+Michel Cywie
 Gilles Tremblay
 Andy Teirstein
 Abbos Kosimov
+Mauricio Vallina
 Alexandre Gasparov
-Bakary Sangaré
-André Manoukian
 Simeon ten Holt
 Jean-Marc Laureau
 Clarence Penn
 Ray Noble
-Peter Ablinger
+Minje Sung
+Jessica Bessac
 Ibrahim Ag Alhabib
+Daishin Kashimoto
 Asaf Yuria
+António Marques Lésbio
 Jean Vallerand
 Timo Hietala
+Johann Gottfried Wohlbrück
+Enrico Onofri
+David Guerrier
+Jim Morrison
 Amada Ben Amar
 David Bryant
+Jean-Louis Bucchi
+Gilles Millet
+Dirk Brossé
 Arturo Fuentes
 Renée Philippart
 Giovanni von Essen
+Kader Belarbi
+Samuel Taylor Coleridge
+Ruth Rosique
+Jiri Ropek
+Antonio Piazza
+Jeanne Leleu
+Jaroslav Ježek
 Henri Chavatte
 Domenico Maria Dreyer
 Anne Sylvestre
+Enrico Correggia
 Marc Shulman
 Jean-Baptiste Bédard
 Alberto Da Ripa
 J.D. Bailly
 Jean Delahaye
+Johannes Driessler
 Sonny Rollins
+Giacomo Leopardi
+Etienne Moulinié
 Frank Cassenti
-James McVinnie
-Gerardo Di Giusto
 Camille Roy
-Laura Claycomb
+Philippe Ramin
+Christophe Deslignes
 Bécourt
 Heinrich Schweizer
+Giovanni Pietro Candi
 Elvis Presley
+Franz Werfel
  IV. LE SACRE DE CHARLES VII
+Gareth Farr
+Giuseppe Sellitto
+Gabriello Chiabrera
 Marc Delmas
-Salvatore Adamo
+Stéphane Desmons
+Emio Greco
+Malcolm Williamson
+Jean-Pierre Bucolo
+Elisa Doughty
+Lucien Kandel
+Cécile Perrin
+Virginie Robilliard
 Rolf Enström
+Iris Torossian
+Antoine Ganaye
+Johnny Hodges
+Michał Szymanowski
 Björn Ulvaeus
+Paul Arma
 James Giroudon
   Tristesse Contemporaine
 Francisco Salvador-Daniel 
 Robert F. Bates
-Michael Gordon
+Clémentine Meyer
+Johanna Kinkel
+Jeff Buckley
+Pina Bausch
+Filipe de Magalhães
+Sol Gabetta
+Helmina von Chézy
+Jean-François Laporte
+Bruno Desmouillières
+Édouard Léon Théodore Mesens
 Lee Hoiby
+Antonin Artaud
+Scipione Agnelli
+Renan Luce
+Karine Lethiec
+Abel Decaux
+Mike Brant
 Angel Gabarre
+Maximilian Hornung
 Robin Rimbaud
-Robert Desnos
 Joseph Bucciali
+Edoardo Sanguineti
+Cole Porter
 فوزي العائدي
 Marc Chautagne
-Jan Talich
+Tom Harrell
+Boris Suarez
+Denis Gougeon
+Georges Onslow
 Shelton Brooks
 Marc'Antonio Ziani
 Alexandre Levin
-Vittorio Grigòlo
-Wystan Hugh Auden
+Atte Kilpeläinen
+Renaud Tripathi
+Tuija Hakkila
 Madame Léon Auffant
+Bojan Z
+LAHONDES Christian
+Andrzej Panufnik
 Wojciech Kilar
+Bo Holten
+Frédérico Alagna
 Louis Deffès
 Edwin Baudo
-Sly Stone
 E. C.
 York Bowen
 Takashi Niigaki
+Texu Kim
 Luis Gomez
-William Seward Burroughs
+Marina Bartoli
+Cathy Berberian
 Karl Aage Rasmussen
+Felix Draeseke
 Jean-Christophe Urbain
-Andrea Hill
-Jaufré Rudel
 Raymond Loucheur
+Angel Cabral
 Christoph Demantius
  Musique tradionnelle Arménienne
-Kushal Das
+Paul Lovens
+Nicolas Prost
 Chirinmokh Noukholova
-Jacques Mauduit
 José de la Negreta
 Nicolas Cavallier
-Sophie Karthäuser
 Rose-Marie Jougla
-Jacques Duphly
+Miklós Kocsar
 Jacques Christophe Naudot
 Vladimir Kojoukharov
 Jelle Drayer
-Frank Peter Zimmermann
+Jorgen Bentzon
 Jean-Louis Chautemps
+Luis Régo
 Clarence Williams
 Antonio Smareglia
 Charles Louis Napoléon d' Albert
-Sophie Lacaze
+Steven Stucky
+Arthur Foote
+Sebastián Piana
+Ann Dominique Merlet
+François Lazarevic
+Jacques Schwarz Bart
 Laurent Studer
 Bernard Rands
 Xavier Dayer
 Jean Catoire
+Maurice Reuchsel
+Philippe Garcia
+Harry James
+Stephen Sondheim
+Jérôme Huille
+Virginie Pochon
 Jeffrey Missal
 George Jeffreys
 Loris Barrucand
+Gottlieb von Leon
 Alex Lipowski
 Jean-Joseph de Mondonville
 Alan Silvestri
+Eric Picard
 Montse Cortès
 Pierre Candeille
+Martin Roman
+Heinrich Ignaz Franz von Biber
 Théodore Bonnay
+Fabrizio Rat
 Maurice Thiriet
 Jennifer Higdon
 Maureen Tucker
+Daniel Reuss
+Albert de Rippe
+Arnaud Gransac
 Aimé Bénistant
 İlhan Usmanbaş
+Mance Lipscomb
 Henri Frémart
+Robin Meier
 Gautier d'Épinal
 Madeleine Caillasse
 Florent Héau
+Krešimir Špicer
+Theodor Storm
 Alexander Boswell
 Carlos Surinach
 Camille Baslé
 Juan Cruz-Guevara
+Alexandre Lokchine
 Christine Marty-Lejon
-Philip Pickett
 Jeanne Dambreville
 Philip Lasser
+Clémence Barrabé
 Lew Pollack
-Prabhu Edouard
-Sabine Goetz
+Jérôme Savonarole
+Constantin Brăiloiu
+Géraldine Keller
+Theodore Antoniou
+John Playford
 Elizabeth Weisser
+Alvin Lucier
 Giuseppe De Vecchi
 Matthieu Lemennicier
+Eugène Labiche
+Paul Smith
 Bernard Rands
-Fabrice Lambert
-Allen Ginsberg
   Poni Hoax
-Ayako Tanaka
 Alan Ridout
+Lyonel Feininger
+Jorge Luis Borges
 Kathrin Pfeiffer
-Eddie Cooley
 Thomas L. Fawick
-Prosper Mérimée
+Jamie Lidell
+Josh Levine
 Michael Vetter
-Clément Philibert Léo Delibes
-Eric Dolphy
 Adolphe Piriou
-David Lefort
-Marianne Svasek
+Gerard Victory
+Luciano Gallet
+Hugo Peretti
+John Taverner
+Wayne Horvitz
+Julen Axiari
 F. Delacour
 Gregor Joseph Werner
+Dave Liebman
+Jean Schwartz
+Béla Balázs
+David Carlsson
 Olivier Goulet
+Stochelo Rosenberg
 Romano Musumarra
+Samuel Husser
 Mamadou Gaye
+Mili Balakirev
+João de Deus de Castro Lobo
 Judith Lang Zaimont
-Karel Berman
+Otto Roquette
+Michael Jackson
+René Challan
 Jay Campbell
+Vincent Recolin
+Christopher Simpson
+Sergio Ortega
 Kenneth Fuchs
 Joseph de Torres y Martínez Bravo
-Franz Welser-Möst
+Michel Zenino
+Okko Kamu
 Anja Silja
 Albert Millaud
 Vincent Ford
-John Densmore
+Frédérick Haas
+Matthew Best
+Gilles Mercier
 Pierre Degeyter
 Paul Usher
-Hans-Peter Hofmann
+Jo Corbeau
+Gilles Coronado
 Jukka Linkola
-David Neerman
+Cecil Taylor
+Alexandre Swan
+John Keats
+Albert Giraud
+Yannick Maillet
+Carolyn Carlson
+Tran Mai-Phuong
+Antoine Ladrette
 Dolly Parton
-Steve Dugardin
-Niels Viggo Bentzon
-Gérard Condé
+Giuseppe Concone
+Lü Wencheng
+Anselmo Aieta
 Joseph-Denis Cayrou
 Béatrix Helque
+Scott Colley
 Angel Cabral
+Silvia Lenzi
+Frédéric Sylvestre
+Louis Laurain
+Nigel Westlake
 Jen Shyu
-Robert Sour
+Romie Esteves
+Joanne Lunn
 Francesco Saverio Zini
+Karl Naegelen
 Ladislav Vycpalek
 Daniel Bonnet
-Ernst Bacon
-Gottfried van Swieten
+Caroline Mutel
+Mario Vittoria
+Clarice Assad
 Kjell Mørk Karlsen
+Thurston Moore
 Philippe Musard
 Robby Krieger
 Joan Cornago
 Lansiné Kouyaté
 Prosper Coinquet
+Misato Mochizuki
+Georges Ribemont-Dessaignes
 Daniel A. d' Adamo
-Jascha Heifetz
-Robin Blaze
+Fabrice Bihan
+Michelangelo Falvetti
+Nolwenn Leroy
+Mulgrew Miller
+Anders Brødsgaard
+Stéphane Coutaz
+Bill Stewart
+Michel Paul Guy de Chabanon
+Judith Fa
+Philip Lane
+Sean Carpio
 Yves Nat
 Alessandro Capocci
-Francisco Canaro
+Omo Bello
+Franz Asplmayr
 Bruno de Saint Maurice
+Tété
 Martin-Pierre Dalvimare
+Jean Cassou
 Eric Harland
 Arsène Bosquet
 Eubie Blake
+Charles Duveyrier
+Gerald Finzi
+Toshio Hosokawa
+Wayne Peterson
+David Stern
+Valer Barna-Sabadus
+Hans Georg Nägeli
+Viatcheslav Semionov
 Ennemond Trillat
+Philippe Deschepper
 René-Louis Becker
 Jean-Marie Morel
 Peeter Cornet
+Elena Kats-Chernin
 Stevie Wonder
 Leonidas Rondon
+Atiq Rahimi
+Véronique Gens
+Giovanni Battista Cirri
 François Regnart
+Benoit Raffin
 Richard M. Sherman
 Jacob ter Veldhuis
 Felice Anerio
 Michael Wendeberg
+Robin Tritschler
+Luigi Romanelli
+Oscar Wilde
 Mico Nissim
 Louis Gregh
 Lodovico Agostini
+Augustyn Bloch
+Philipp Friedrich Böddecker
 Volker David Kirchner
-Alain Chamfort
+Marie-Josephe Jude
+Wynton Marsalis
 Andrés Gaos
 Marco Coltellini
-Robert de Flers
 Louane
+Claude Kesmaecker
+Hanah Jon Taylor
+Olivier Dejours
+Andrea Liberovici
 Antoine Pecqueur
-Safir Behloul
 Hijo Bonela
-Charles Wood
 Auguste Darcaigne
-Serge Hureau
-Paul Bazelaire
-Nelson Gomez
-Jean Racine
+Muller Patrick
+Géraldine Prutner
 Gaz Coombes
+Juan Manuel Santos
+Victoria Kamhi
 Robert Heppener
 Hana Blažíková
 Gyula Beliczay
+Renaud Detressan
 Peter Mennin
+Marta Infante
+Aurore Marchand
 Marvin Hamlisch
 František Ignác Antonín Tůma
-Jean-Charles Richard
+Lennie Tristano
 Anton Safronov
-Hans-Christoph Rademann
-John Barry
+Charles Méré
+Mkhitar Ayrivanetsi
+Laurent Blondiau
+Francis de Bourguignon
+David Raksin
+Matteo Cesari
+Olivia Doray
+Stéphane Logerot
+Hans Bethge
+Jean-Pierre Nortel
+Franck Bard
+Anne-Marie Hellot
+Ernst Eichner
+Edgar Meyer
 Horace Decorde
+Nancy Gustafson
 Raphaël Debacker
-Arnulf Herrmann
 Adolphe d' Ennery
-Louis-Albert Bourgault-Ducoudray
-Christian Fennesz
-Frank Eyton
+Johnny Burke
+Julian Prégardien
+Jean Charles Ablitzer
+Gianluca Renzi
+Gottfried Keller
+Dominique Pifarely
+Bartolomeo Vitturi
+Caroline Delume
 Henry Fourès
+Giuliano Carmignola
+Tona Scherchen
 Hector Delahaye
-Théodore de Banville
+Marc Collin
+Pierre Dupont
+Alberto Neuman
 Jacopo Ferretti
 Ali Amram
-Pierre Danican Philidor
 Pierre Phalèse
+Guigou Chenevier
+François Picard
 Neil Charles
 Henry Le Bailly
+Franz Xaver Gruber
+Larry Shay
 Greg Chudzik
 Constance de Salm
+Georg Joseph Vogler
+Jeanne Frédéric
 Jules Bouval
 Chilly Gonzales
 Marguerite Celles
+Brigitte Engerer
+Giovanni Pascoli
 Martin Gore
+Kurt Rosenwinkel
 Unico Wilhelm van Wassenaer
+Daniel Gloger
+Anders J. Dahlin
+Sly Johnson
+Ronan Courty
 Michael Head
-Esperanza Fernandez
+Alda Caiello
+Louis-Benoît Picard
 Sabine Devieilhe
-Liza Lim
-Noriko Baba
-Christian Hamouy
+Yves Bonnefoy
+John-Antoine Nau
+Jean Nohain
+Thomas Kessler
+Ludovic Navarre
+Thomas Tomkins
+Theodor Körner
 Goran Vejvoda
 Gilet Velut
+Laurent Stoutzer
 Hermann Goetz
-Mariss Jansons
-Casimir Delavigne
+François Chaplin
 Francesco Pennisi
 Matthaeus Pipelare
-Emanuel Schikaneder
+Julien Charlet
+Michel Magne
 Lotta Wennäkoski
-Pierre Bartholomée
+Robert Reinick
+Lukas Jakobski
+David Matthews
 Alexandre Ouzounoff
+Alexandra Greffin
+Julio de Caro
 John William Duarte
 Daniel Bacheler
-Heinrich Bach
+Élisabeth de Gramont
 Jaak Nicolaas Lemmens
-DuBose Heyward
+Richard Lester
+Raymond Murray Schafer
+Émile Verhaeren
+Jean-Philippe Lafont
 Giovanni Antonio Pandolfi
 Paavo Berglund
+Antoine Boesset
 David Reinhardt
-Dagmar Pecková
+Jean-Pierre Odasso
+Walter Scott
+Stéphane Bortoli
+Pedro Elias Gutiérrez
+Marijana Mijanović
 Daniel Mesguich
-Maurice Béjart
+Mick Jagger
+Gabrielle Koehlhoeffer
 Anthony Tidd
+João Pernambuco
+Lionel Ginoux
+Narciso Yepes
 Juan-Alfonso García
+Jean-Noël Chaléat
+Thomas Morley
+Jacques Zoon
+Stevan Kovac Tickmayer
 Algernon Ashton
 Patrick Boutot
 Driss El Maloumi
+Giambattista Marino
 Anja Harteros
+Ruth Massey
+Mladen Tcholitch
 Giulio Alary
 Robert Henke
-Varduhi Yeritsyan
+Sébastien Droy
 Miguel Matamoros
 J. Fred Coots
 Nat Simon
 Hardinson Castrillon
+Martyna Pastuszka
 Anders Gullberg
+Mary-Ellen Nesi
+Alexandre Arnoux
+Arthur Meulemans
 Carolin Masur
+Rainer Küblböck
 Santino Garsi
 Joë Jekyll
 Kristin Lee
 Riccardo Del Fra
+Edmond Rostand
 Craven
+François Verly
 Wendy Hoffman
-Viktor Kalabis
-Adrienne Clostre
 Edino Krieger
 Eduard Caudella
-George Butterworth
 Robin Laporte
+Clara Zaoui
 Isaac Hayes
 Julia Blondeau
+Dmytro Popov
+Véronique Briel
 Spencer Williams
+Johann Heinrich Voss
+Dušan Růžička
 Daniel Nelson
-Mireille Delunsch
+Blandine Staskiewicz
+Cristobal Halffter
+Jean Anouilh
+Elli Medeiros
+Bartolomeo Campagnoli
+Julien Alour
 Joby Talbot
+Cornelius Cardew
+Alice Piérot
+Ismel Campos
 Quentin Ghomari
-Emmanuel Hondré
+Tran Phuong-Mai
 Isidor Dannström
-Eric Löhrer
+Adolphe Adam
+Bernard de Cluny
+Raimon de Miraval
 Kazuo Fukushima
+Patrick Scheyder
 André Raison
 Julio Estrada
+Robert Dauber
+Brian Feehan
+Robert Badinter
+George Michael
+Antoine Brumel
+Jaroslav Kvapil
+Romain Rolland
+Flavio Testi
+Sacha Distel
 René Chesnet
+Loulou Gasté
 Guy Bovet
+Stewart Copeland
 Robert Coupe
+Georgia Spiropoulos
 François-René Martin
 Marie Joubinaux
 James Bowman
+Jean Guidoni
+Jean-Paul Baumgartner
+Claude Goudimel
 Trevor Pinnock
+Baptiste Romain
 Barry J. Crawford
-Bruce Springsteen
+Midhat Assem
+Edmund Campion
+Franz Tischhauser
 Juancho Valencia
 Girma Bèyènè
-Silvio Stampiglia
+Ernest Ansermet
+Cecil Burleigh
 Paul Celan
+Carlo Giorgio Garofalo
 Tania Arab
 Pierre-Laurent Com
 Big Joe Williams
 Jesper Nordin
+Robert Getschell
 Henri-Jean Schubnel
 Charles-Édouard Lefebvre
-Glenn Branca
 Roberta Vacca
+Malin Byström
 Marie Samuelsson
 Jules Clemandh
 João Rafael
 Esaias Reusner
-Jan Vogler
-Barry Guy
+Thomas Dutronc
+Julien Porret
+Brice Sailly
+Adrien Chicot
+Marion Lénart
+Simon Jeffes
+Pierre Menault
+Raymond Queneau
 Münir Nurettin Selçuk
+Olivier Pasquet
+Veronika Eberle
 Klaus Lang
-Ernest John Moeran
+John Goss
+Attila Bozay
+Oscar Levertin
+Rainer Riehn
 Pelham Humphrey
 Julian Casablancas
 Gérard Tempesti
 Jörg Birkenkötter
-Stéphane Kerecki
+Alfred Jarry
+Pierre Barouh
 César Portillo de la Luz
 Albert Chevalet
+Thomas Dolié
   Amadou et Mariam
-Carlo Sigmund Taube
+Marco Di Bari
+Riccardo Del Fra
+André Giovanni
 Genoël von Lilienstern
+Guilhem Figueira
 Rolf Martinsson
 Le Clerc
-Odile Auboin
+Sophie Fournier
+Raoul Chantegrelet
 Barbara Hannigan
-Joseph Méry
+Marc Steckar
+Frédéric Antoun
+Angelin Preljocaj
 Johann Stadlmayr
 Herman Hupfeld
 Pascal de Montaigne
+Pierre de Bruges
+Alexandre Bisson
+Charles Van Lerberghe
 Paul Ferrier
 Paolo da Firenze
 John Cale
 Paul Gilson
+Jerry Herman
+Arthur Berger
 Luky Lozano
+Héctor Tosar
+Nicolas Lapert
+Bastien Varigault
 Chandrachur Bhattacharjee
 Egberto Gismonti
 Michaël Riessler
 Yves Dessca
+Arnold Bezuyen
 Noël Akchoté
+Pierre Dutrieu
 Lucas Fels
 Alain Kremski
-Michele Carafa
-Cécile Achille
-José Evangelista
+Hélène Colombotti
 Ton Bruynèl
 Bekele Haile Selassie
+Lorenza Borrani
 Jean-Claude Gillier
-Frank Woeste
-Luc Le Masne
+Barre Phillips
+Jean Berger
+Diego José de Salazar
+Heiner Müller
 Åke Erikson
-Stephen Storace
-Nicola Vicentino
+Ricardo Viñes
+Bruno Boterf
+Guy Cassiers
+Marc Clos
+Gilles Raynal
 Theon Cross
 Françoise Fabian
 L. P. Crameire
+Robert Gleadow
 Monsieur de Sainte-Colombe
+Aleksandr Kopylov
 Alexandre Baudoin
-Lucas Ruiz de Ribayaz
+Yves Chauris
 Pandit Dinanath
+Christoph Martin Wieland
 Anthony Joseph
 Pascal Reber
 Ofri Nehemya
+Raymond Depraz
 Alessandro Parisotti
 Peter Graham
 Paul Duffy
 Mariano Rodríguez de Ledesma
 John Pickard
-Tom Waits
+Benjamin Franklin
 Lise Berthaud
 Michel Baron
 Raphaël Billema
 Lars Sandberg
-Fabien Waksman
+Quincy Jones
 Martín de Rivafrecha
+Nona Javakhidze
 Gregorio Ibor Sanchez
-Charles Jennens
 Harry Ruby
 Jacques Rebotier
-Hanspeter Kyburz
 Max Jacob
 Gustaf Allan Pettersson
-Benny Goodman
 Louis Luc de Persuis
+Alexandre Gattet
+Gerd Türk
 François Nicolas
 Marcel Samuel-Rousseau
 Eugène Pottier
-Giovanni Battista Martini
 Sean Rickman
+Yannaël Quenel
 Johann Christoph Pez
-Carlo Gesualdo
+François Salque
 Jean Richafort
+Sam Barsh
+Christophe Maé
 Alfred Cavaignac
-Josh Dolgin
 Hiranmay Mitra
 Monique Soreau
+James Alexandre
 Georges Albert
-Francesco Barsanti
+Hugh Wheeler
+Robert Herrick
 Stefano Galeotti
+Étienne Dupuis
 Philippe Geiss
+Anders Vestergard
 Antonio Vella
 Neidhart von Reuental
 Célestin Contrône
+Alexei Lubimov
+Friedrich Gottlieb Klopstock
+Roque Jacinto de Chavarría
+Herbert von Karajan
 Lennie Van den Heuvel
 Asliniso Iskandarova
+Andrés Flores
 Emanuele Rincón Astorga
-Guillaume Apollinaire
 Paul Sterne
+Thibaut Roussel
 Charles-Henri Plantade
 Rachida Brakni
 Ben Hackbarth
+Martin Nagy
+ives baudry
 Godfrey Ridout
 Omara Portuondo
+Nikolai Korndorf
 Paul Schoenfield
 Akira Tanba
 Jean-Marie Rens
-Xavier Charles
+Jean Delescluse
+Ernest L'Épine
+Zygmunt Noskowski
+Gus Arnheim
+Ivo Nilsson
 Fabio Vacchi
 Mariano Mores
+Daniyʾel ʾWren
 Henriëtte Jacoba Witsen
 Pierre-Yves Pruvot
+Daniele Carnovich
+Aimon Mata
 Blue Mitchell
 Mohamed Abou-Zied Mahmoud Salem
+Bernard Hermann
+Tristan Pfaff
+Jeff Scott
+Innocentio Alberti
+Marcelo Gabard Pazos
+Nikos Skalkottas
+Raphaël Oleg
 Joly Braga Santos
 Laurent Durupt
 Mike Lormand
-Bill Evans
 Eduardo Cortès
-Markus Flaig
+Carlos Gonçalves
+Patrick Foucher
 William Mathias
 Eugène Leterrier
 Deryck Cooke
+Sergei Nakariakov
+Martin Smolka
+Alireza Farhang
+Gérard Anfosso
 Klaas de Vries
-David Plantier
+John Cheetham
+Youri Temirkanov
+Raul Ferrao
+Ophélie Gaillard
+Alessandro Corbelli
+Guizmo
+Nicolas Berteloot
 Miles Okazaki
-Keith Richards
+Francis Picabia
+Ferenc Farkas
 Jean-Baptiste Krumpholtz
-Andy Warhol
+Julien Dran
+Laurence Dale
+Véronique Fèvre
+Tanguy Lecorno
+Jonathan Ponthier
+Fabrice Jünger
 Johann Wenzel Kalliwoda
 Jouan Bauderuc
+Michel Tranchant
+Pierre Quintard
+Carsten Hennig
+Oscar Peterson
+Claude-Henri de Fusée de Voisenon
+David Abecassis
+Georges Liferman
 Karel Komzák
 Philippe Anicaux
 Pierre-Montan Berton
 Guillaume Astresse
-Joséphine Baker
-David Enhco
+Guillermo Fernández-Shaw
+Isaac Vigueras
+Pierre Henry
+Simon Keenlyside
+Gérard de Nerval
+Robert Kaddouch
 Georges Buffard
-Li ma dou
+Sylvain Delcroix
+Stéphane Guillaume
+Peter Nilsson
+Igor Ballereau
 Maria Grand
 Romolo Bacchini
+Giovanni Battista Ferrandini
+Ravi Prasad
 Andrej Âkovlevič Èšpaj
-Pierre Dupont
-Philippe Béziat
+Richard (Jazz) Rodgers
+Roch Voisine
+Consuelo Velázquez
 Alejandro Tobar
-Joseph Cornwell
+Gilbert Laffaille
+Consuelo Velasquez
+Julius Conus
 Agujetas
 Marita Sølberg
+Elmar Lampson
 Georgij Vasil'evič Sviridov
 Ahmad Jamal
 Tomás de Elduayen
-Julien Touery
+Édith Piaf
+Nicole Lizée
 David De Rose
-Jérôme Dahan
+Burt Bacharach
+Oscar Straus
 Giovanni Filippo Apolloni
 Robert Francès
+Shazz
 Vissarion Âkovlevič Šebalin
+Gianandrea Noseda
+Théodora Psychoyou
+François de Roubaix
+Hermeto Pascoal
 Peeter Süda
+Jaime Martin
 François Grosborne
-Fernand Bernadi
+Eugène Cools
+Alejandro Carreño
 Louis de Lacoste
 Marta Ptaszyńska
 Lord Kitchener
 Josef Ferdinand Norbert Seger
 Serge Kaufmann
+Ingrid Lormand
+Édouard Souberbielle
 Yahya Kemal Beyatli
 François Dagincourt
+Tapio Nevanlinna
+Johann Nauwach
+Joseph-François Garnier
+Rocío de Frutos
 Benedek Istvánffy
 Marco Pütz
 André de Château-Thierry
+Eric Crambes
+Spyros Halaris
+Florent Heau
 L. Chéron
+Pascal Bentoiu
 Julian Orbón
-Amália Rodrigues
-Patrick Denecker
-Nicolas Mondon
-Armand Amar
+Sophie Boulin
+Don Raye
 Filippo Falconi
 Alexis Cardenas
+Jacques Pern
 Alessandro Poglietti
 Lejaren Hiller
-Solage
 Johann Krieger
 Gergely Vajda
 Joseph C. Schwantner
-Faiz Ali Faiz
+Fabien Debellefontaine
   Tidziwani Band
-Eriks Esenvalds
 Sébastien Lefèbvre
 Philip Spratley
+Ernesto Andissone Jossias
 John Stanier
+Tony Williams
 Duncan Ward
 Brian Blade
+Samuel Boden
+Benjamin Vignal
 Alexandre Daussoigne-Méhul
+Etienne Lamaison
+Alfia Bakieva
+Gautier Garrigue
 Marcelo Lamas
 Algot Haquinius
+Jacques Rouvier
 Dick Visser
 Dominique Clément
 Ramon Jiménez
 Michel Merlet
 Madeleine Isaksson
-Camille Du Locle
 Sarwar Q. Muhamad
-Wallace Roney
 Juliette Armanet
 Robert Coinel
-Johann Mayrhofer
 Stefano Scodanibbio
 Santtu-Matias Rouvali
+Christophe Walleme
 John Abercrombie
+Giulio Magnanini
 Marie-Charlotte Baudry
 Johann Kugelmann
-Jean Martinon
 Edmond Baston
 Benno Schachtner
 Pierre Pincemaille
 Johann Gottfried Krebs
+Gerard Cognet
 Enrico Radesca
+Thomas C Boysen
+Joachim Badenhorst
 José María Sánchez-Verdú
 Conrad Paumann
 Ernest-Armand Claments
 Ernest Bischoff
 Christian Clozier
-Anders Koppel
 Toby Spence
-Jean Dousteyssier
-Giovanni Maria Ruggieri
-Richard Barrett
+Julian Joseph
+Mihaela Ursuleasa
+Yété Queiroz
+Johanna Staemmler
 Lorenzo da Firenze
 Soweto Kinch
 Alonso de Alba
 Henri Chauffert
 Paolino Dalla Porta
+Menguy Périne
+Anette Sichelschmidt
+Claudio Bettinelli
 Jean-Jacques Nyssen
-Delphine Galou
-Josef Reicha
+Isabelle Faust
 Michel Sogny
-Lakshminarayana Subramaniam
 Ziv Ravitz
 Théodore Labarre
 Charles Bariller
+Laszlo Mester
 Victoria Bond
 Nicolaus A. Huber
+Béatrice Berrut
+Matthieu Leroux
+Benoit Lavollée
 Juan Ponce
 A. Calzelli
 Matteo D'Amico
 Vincent Guyot
 Edmond de Favières
 Fred Galiay
-Peter Schickele
+David Simpson
 Walter Rummel
 Rickey Washington
 Jacques Datin
  Chansons traditionnelles arméniennes
+Jakob Koranyi
 Olle Adolfson
 Javon Jackson
 Joseph Conte
-Jean de La Fontaine
 C. F. Botte
+Nazar Abbas
+Florian Sempey
 Félicien Wolff
 Edouard Couriot
 Fred Barlow
 Thomas Dyke Acland Tellefsen
 Johann Valentin Görner
-Thomas Jennefelt
 Alfred Keller
 Constantijn Huygens
 Yannis Markopoulos
-Petra Lang
-Yeree Suh
 Stephen Goss
 Antoine-Frédéric Gresnick
 Rafael Paseiro
-Timothy Travers-Brown
+Sonya Yoncheva
+Kirill Troussov
+Adrien Boisseau
 Habibulla Kurambaev
-Don Byron
 Fumio Hayasaka
 Brian Burton
 Henri Crémer
 Gunnar de Frumerie
 Jesús Rueda
+Peter-Philipp Staemmler
 Takashi Ogawa
 Jehnny Beth
 Manfred Trojahn
 Ernesto Nazareth
-François Rossé
+Noureddine Aliane
 Nodira Pirmatova
 Giunti Bellini
  Medeski, Martin & Wood
+Aram Illich Khatchaturian
 Vankayala Venkata Ramana Murthy
-Francesco Spinacino
 Brian J. Nelson
 Alfred Azémard
-Pierre Villette
 Leo Rosenbluth
+Tomás de Perrate
 Simone Plé
 Dan Locklair
+Matthias Müller
 Felipe Maya
 Bartolino da Padova
 Vincent Herring
-Antonio Bazzini
 Otto Joachim
 E. Burelle
 A. Mayeur
 Josef Anton Riedl
 Pelle Gudmundsen-Holmgreen
+Yuri Favorin
 Albert Van den Bossche
 Gustave Baneux
 Daniel Eberlin
-Alexander Schneider
+Mechthild Bach
 Marius Boullard
 Claude Terrasse
 Gilles Jullien
+Alexandra Troussova
 Hector MacNeil
 Marco Aurelio Zani de Ferranti
-Maurice Ordonneau
 Peter Martin
-Guillaume Aldebert
+Paul Clarvis
+Paolo Grazzi
+Katharina Heutjer
 Frédéric Lo
 Karzan M. Faqui Hussaein
-Ed Lyon
 Sam Cohen
+Paul Malinovski
+Elisabeth Popien
 Alain Margoni
-Roland-Manuel
+François Méchali
+Luca Marenzio
+Nicolas Carpentier
 Germain Delavigne
 Pavol Šimai
+Emilie Gastaud
 François-Charlemagne Lefebvre
 Nicolas Watts
-Benoît Mernier
+Rafaël Koerner
 Étienne Joseph Floquet
 Paul Brousseau
-Kasper Toeplitz
-Dimitrie Cantemir
 Charles-Guillaume Étienne
 Jean-Luc Ho
-Frédéric Vaysse-Knitter
-Coralie Fayolle
 Miguel Angel Cortès
 Gioacchino Maurici
 Nawroz Mawlood Rashid
-Theodor Berger
 Antoine de Lhoyer
 Alexandra Grimal
 Terreon Gully
-Maurice Greene
+Bebe Risenfors
+Martin Funda
 Jean-Madeleine Schneitzhoeffer
+Yip Wing-Sie
+Sharon Kam
 Giuseppe Maria Jacchini
 Ignazio Donati
+Tito Ceccherini
+Stephane Huchard
 John Patitucci
 Frédéric Ledroit
 Giuseppe Maria Diodati
 Niyaz Mohammed Aziz
-Guillaume Andrieux
 Armand Abita
 Daniel Read
+Arto Noras
 Claude-Michel Schönberg
 Georges Buysse
 Adam Václav Michna z Otradovic
@@ -5420,80 +7650,84 @@ John Gardner
 Iwan Müller
 Edmond Ardulto
 Vladimir Fedorovič Odoevskij
-Thomas Sauvage
+Alain Manfrin
 Anton Wranitzky
 Dean Wareham (Luna, Dean & Britta)
 Valentin Zubiaurre
 Hyun-Young Choi
-Gisèle Barreau
 Anthonello da Caserta
 Arturo Dúo Vital
+Patrick Beaulieu
 Vincenzo Ruffo
+Stephan Kiefer
 Khalil Abdulla Saeed
 Arthur Candor
-Sam Walton
 Roger Edens
 Adolphe de Cardevacque
-Jean-Adam Guilain
+Virginie Buscail
+Valerie Coleman
+David Lagos
+Rick Margitza
 Arnolt Schlick
 Anton Zimmermann
 Murray Adaskin
 Giacomo Manzoni
-Stephen Kovacevich
 Robert Montfort
  Hyphen Hyphen
 Joseph Alary
-Benedetto Pamphili
+Maxime Desert
+Stéphane Degout
 Mahmud M. Faraj
 Nicola Sabini
 Henry Litolff
 Greg Lofaro
 Clairville
-Jean-Claude Vanden Eynden
-Antonio Salvi
 Jean-Pascal Rabié
 Egbert Abadie
 Lawrence Dillon
-Akira Miyoshi
-Karen Cargill
+Stéphane Kerecki
+Giuseppe de Vittorio
+moral arnaud
 Ángel Barrios
 Johannes Schöllhorn / Johann Sebastian Bach
 Youssef Dhafer
 Steve Diggle
 André Gouzes
 Eugenio Iglesia Jimenez
-Georges Moustaki
 André-François Marescotti
 Ada Gentile
-François Bazola
-Bohuslav Matej Cernohorsky
-Mathieu Alvado
 Marko Ruždjak
-Irina de Baghy
+Christelle Séry
 Christoph Sätzl
+Antonio de Cabezon
+François-Xavier Poizat
 Adriano Guarnieri
 Francesco Gardi
   Black Diamond Heavies
 Rose Cazau
+Jacek Kaspszyk
 Yateras Changui
 David Braid
+Erwin Ortner
+Marc Blitzstein
 Ferdinand David
-Cesare Sterbini
 Sylvain Daniel
+Ulla Bundies
 Thomas Bloch
 Joan Tower
-Sébastien Llado
-Cécile Maisonhaute
+Lukmil Perez
 Marc Berthomieu
 Francesco Antonio Mamiliano Pistocchi
 Franz Syberg
 Karwan Mahmud Hama
-Frédéric Borsarello
+Volker Hagedorn
+Pierre-Augustin Beaumarchais
 Marius Flothuis
-Laurent Laberdesque
+Barry Altschul
 Frédéric Jourdan
 Pedro Ontivero
 Tomonari Higaki
+Philippe Roche
 Théo Ceccaldi
 Alfonso Ferrabosco
 Aleksandr Sergeevič Puškin
@@ -5502,6 +7736,7 @@ Eugène Courjon
 Homer Steinweiss
 Francesco Rasi
 Carlo Grossi
+Dahmane Khalfa
 Pepe Maya
 Ivan Caryll
 Aldo Ciccolini
@@ -5510,27 +7745,27 @@ Charles Carbonnier
 Kenji Bunch
 Domenico da Piacenza
 Johannès Donjon
+David Virelles
+Sarah Chenaf
+Toyin Spellman Diaz
 Mathilde Madeleine Cahen
+Elsa Balas
 Jean-Pierre Loisil
-Giacinto Scelsi
-Anu Komsi
+Florent Nisse
 Alexandre de Villeneuve
-Nicolas Baldeyrou
-Lukas Hagen
 Serge Lancen
 Mitra Malabika
-Emil Spányi
 Jacques-Antoine Demignaux
-Alexander Borodin
 Hugues Mayot
 John Croisier
-Waltraud Meier
+Maxime Zampieri
  Patarag - Armenian Divine Liturgy
-Tarquinio Merula
+Reinoud van Mechelen
 Cherubino Waesich
-Sara Mingardo
+Augustin Dumay
 Jimmy Cobb
-Julien Chauvin
+Wolf Matthias Friedrich
+Guillaume Vincent
 Antonius Romanus
 Paolo Rolli
 Claude Pichaureau
@@ -5538,18 +7773,19 @@ Rachel Cammas
 Henrico Albicastro
 Ole Lützow-Holm
 Wenzel Ludwig von Radolt
-Eduardo Toldrá
 Joseph Makholm
-Jon Leifs
 Ibrahim Q. Merza-Abdullah
-Maurice Carême
 Patrice Hibon
 Florence Baschet
-Diego Ortiz
+Irina Aleksidze
 Denis Comtet
 Patrick Mancone
 Ghiselin Danckerts
+Alberto Grazzi
 Charles Brown
+Carsten Lohff
+Stefanus Vivens
+Klaas Stok
 John Fernström
 Jane Betty
 Stefano Bagnoli
@@ -5558,18 +7794,18 @@ Samuel Arnold
 Johan Jeverud
 Gaston Bernheimer
 Chester Biscardi
+Michel Pignolet de Montéclair
 Juan Morell Campos
 Aurelio Magnani
 Victor Boisard
-Roger Raspail
 José Serebrier
 Alphonse Hasselmans
 Michel-Alfred David
 Christoph Strauss
+Francisco Fernandez-Rueda
 Guillaume Minoret
 Justus Johann Friedrich Dotzauer
 Ruth Zechlin
-Ambi Subramaniam
 Mélanie Chasselon
 Ciolfi
 Marcel Grandjany
@@ -5577,78 +7813,77 @@ Jean Planson
 Antonio Visconte
  V. BATAILLES ET PRISONS
 Sylvio Lazzari
+Cédric Julion
+Johann Christoph Pezel
 Dan Welcher
 Rokia Koné
-Charles-Marie Leconte de Lisle
 Robert Dean Smith
-Joselito
 Patrick Guillem
+Achim Von Arnim
 Louis Casano
+Camille Thomas
 Tito Ceccherini
 Simeone Antonio Sografi
 Satya Sai
 Eric Moe
 Mark Drobinsky
 Charles Hommann
+Jean-Paul Rigaud
+Capucine Meens
 Tuomas Ollila-Hannikainen
 Frederik Van Rossum
 Pierre de La Garde
 Madame Chouville-Bodard
-Lyda Chen-Argerich
+Laurent Robin
 Marcabru
 Pauline Duchambge
-Nicolas Chevereau
-Nicolas Chalvin
+Garavkhuu Badmaabazar
 Giuseppe Demachi
 Johann Sigismund Kusser
 Roger Tessier
+Axel Brisard
 Larry Willis
+tahar boukhlifa
 Guido Zorn
-André Patrick
+Sylvia Rhyne
 Casimir Oberfeld
 Reinhard Schwarz-Schilling
 Jamal Hassan
-Giovanni Verrando
+Mariam Adam
 René Chansarel
-Shuya Xu
 Henrique Oswald
  II. VOYAGE À CHINON ET RENCONTRE AVEC LE ROI
 Ignace Antoine Ladurner
-Frédéric Pineau
+leroux olivier
+Ray Chen
 Zhou Long
+Jérémie Ternoy
 Arnaud Roulin
 Dominick Argento
-Janos Komives
-John Dryden
 Johannes Speth
 Jean-Baptiste Morin
 Tiburzio Massaino
 Giovanni De Gamerra
+Céline Scheen
 M. Alviset-Briotet
 Barou Sall
-Buster Williams
-Luca Guglielmi
+Elodie Seyranian
+Caroline Tarrit
 Camille Pleyel
 Twana Khurshed Mohammed
-Sylvain Kassap
 Henry Handel Richardson
 Célestin Bourdeau
 Joseph Barrès
-Qigang Chen
 Franz Poenitz
 Zeritu Kebede
-Emilio Pomárico
 Peter von Winter
 Ferde Grofé
 David Reyes
-Fred Wesley
+Jean-Philippe Collard
 Linley Marthe
 Nicolas Du Chemin
-Julian Steckel
-Håvard Gimse
-Giuliano D'Angiolini
-Georges Dandelot
 Louis-Gustave Delabre
+Estelle Nadau
 Émile Pessard
 William Babell
 Diego Tosi
@@ -5656,35 +7891,41 @@ Nikolay Andreyevich Roslavets
 Thyagaraja
 Louis Grénon
 Douglas Lilburn
-Zygmunt Krauze
 Jean-Bernard Collès
 Jean Mignon
 Alfred Aubry
-Marc Barrard
 Valery Arzoumanov
 Laurent Lagarde
 Jorge Bezerra Junior
 Evgenij Aleksandrovič Mravinskij
-Faye Newton
+Yury Revich
 Emmanuel Théaulon
 Giambattista Lorenzi
 Andy Sommer
 Antonio Dôthel
 Erwin Ortner
+Stephano Lucchini
 Eugène Chanat
-Imogen Cooper
+Monica Ellis
+Jean Bardy
 Danilo Perez
+Simona Hecova
+Josep Cabré
+LENOIR Romain
 Mihkel Kerem
 Philippo Martino
+Victor Letter
 El Hadji Niang
+Eric Redlinger
 Martial Caillebotte
+Friederike Kremers
 Johann Paul von Westhoff
 Jacob Praetorius
 Miguel Angelo Pereira
 Samuel Dolin
 František Jiránek
 Arthur Carreras
-Jean-Jacques Di Tucci
+Jean-Luc Lehr
 George de Belleroche
 Ravi Shankar
 Diego de Pontac
@@ -5697,101 +7938,107 @@ Madame Alexandre Bataille
 Vincenzo Federici
 Jonathan Leshnoff
 Giulio Briccialdi
-William Albright
 Giorgio Mainerio
-Jesús Villa-Rojo
-David Tricou
+Fabien Capel
+Benoit Jegout
+Marie Rouquié
 Gasparo De Albertis
-Carlo Pepoli
+Yekwon Sunwoo
+Antoine Viossat
 Gloria Coates
 Henry T. Burleigh
-Elisa Humanes
-Gustave Vaëz
+Ivan Morane
 Annette Kruisbrink
+Narek Hakhnazaryan
+Nicolaï Medtner
 Étienne Morel de Chédeville
 Gösta Nystroem
 Oskar Nedbal
-Pavel Borkovec
+Pauline Fritsch
 José Schmeltz
 Tobias Michael
-Alice Dona
 Franck Christoph Yeznikian
 Claude Godard d'Aucourt de Saint-Just
 Fabio Corvi
-John Casken
 Philippe Moënne-Loccoz
+Alessandro Ciccolini
 Aribert Riemann
 Amadeo Roldán
+Igor Levit
 Paola Prestini
 Hanna Weinmeister
 Arnau Tomàs
+Laetitia Stott
 Mathias Allamane
 Matthew Rose
 Sara Egan
 Léonin
 Victor Flusser
+Anna Caterina Antonacci
 Zhe Chi
 Aman Comès
 Marcel Beekman
-Alain Meunier
+Einav Yarden
 Xavier Benguerel
-Johannes Mannov
 Joseph Samson
 Georges Derveaux
-Vittorio Gui
+Laurent Gerra
 João de Badajós
 Friedrich Wilhelm Marpurg
+Hubert de Villèle
 Михаил Юрьевич Лермонтов
-Mathias Lecomte
-Henry Madin
+Isabelle Poulenard
+Noémie Schindler
 Edouard Sciortino
 John Mundy
+Jorge Giménez
 D. Brunet
 Tielman Susato
 Александр Александрович Блок
 Anatoli Liadov
-Filippo Azzaiolo
 Oscar Lorenzo Fernandez
+Susan Landale
 John Medeski
 Charles Collin
 Francisco Millán
-Jean Galbert de Campistron
+Nicholas Altstaedt
 Jules Darien
 Jean-Baptiste Daniel
 Izidor Leitinger
 Josef Antoni Franciszek Elsner
-Marcel Proust
-André Gide
 Cheikh Salim Fergani
+François Garraud
 Valérie Rousse
 Alejandro García Caturla
 Thérèse d'Avila
 René Eespere
 Constantin Régamey
 Annette Dasch
-Katalin Karolyi
 Adolphe Borchard
-Boris Yoffe
+Christian Pruvost
 Raoul Lay
-Alexander Vedernikov
 Camel Zekri
 Carlou D.
 Felipe Villanueva
-Jean-François Zygel
 Kazimierz Serocki
+Alexander Ghindin
+goudin christophe
+Patricia Kopatchinskaya
 Dong-chang Lim
 Marco Fiorentini
 Frigyes Hidas
-Alain Fourchotte
 Vera Martinez Mehner
+Sylvain Séailles
 Johann Gottlieb Janitsch
 Jan Carlstedt
-Jean-François Lombard
+Nicolas Carles
+Gérard Pesson
+Jean-François Daguin
  Patrimoine oral
-Eric Bougnon
 Giovanni Vincenzo Sarti
+Daniel Szabo
 Moustapha Ndiaye Rose
-René Char
+Gunda Gottschalk
 Pietro Paolo Melli
 Pietro Paolo Borrono
 Francesco Turini
@@ -5800,45 +8047,45 @@ Lev Knipper
 Guy Leclercq
 Mohamed Amine Debbi
 Edoardo Aromatari
-Patrick Marie Aubert
 Rudolf Friml
 Louis-Antoine Dubost
 Andy Laster
-Charles Strouse
 Nirmal Nimma
 Marcel Colombier
 Alois Bröder
 P. Arnaud
 Akilesh Gundecha
+Ingrid Schoenlaub
+Dana Ciocarlie
 Satyajit Talwalkar
-Matthieu Chédid
+Lawrence Power
 Franck Villard
-Alexander Toradze
 A. Brugnoli
-Joseph Sonnleithner
-Hans Ulrich Lehmann
+Gergely Csoban
 Abel Tomàs
-Antonio Bartolomeo Bruni
 Gabrielle Ferrari
 Georges Carcassonne
 Cornel Taranu
 Heino Kaski
+Ivan Podyomov
 Jean Bartholoni
 Franz Bendel
 Jan Sandström
 Monic Cecconi-Botella
-Jean-Luc Cappozzo
 Dionigio Fregiotti
 Josef Gelinek
 Ingvar Karkoff
+Valette Benjamin
+Timothy Park
+Sooyun Kim
 Francisco Mela
 Alessandro Marcello
 Bertrand Belin
 Vincent Charrier
 Adolphe Brissot
-Edward Gardner
-Jacques Aubert
+Sabine Toutain
 Reginald Veal
+Gabriel Richard
 Timothy Hayward
 Kathryn Potter
 Traditionnel - Irlande / arrangement Lynched
@@ -5848,129 +8095,144 @@ Mezio Agostini
 Caspar Othmayr
 Bejamin Dale
 Mourad Bennani
+Jan Altmann
 Christian Manen
 Marc Favre
 Stanislas Janta
 Joël Littorie
+Anne-Cécile Cuniot
 Blanche Konrad
 Riccardo Broschi
 Bruno Mathieu
+Thibaut de Champagne
+Chris Jennings
 Nina Vladimirovna Makarova
 Péter Nógrádi
-Sophie Daneman
 Chicharito
 William Schwenck Gilbert
 Nirant Gundecha
+Jean-Marc Liet
 Filippo Finazzi
 Jean-Pierre Solié
 Cesario Gussago
 Aurélia Marchais
-Marie-Christine Barrault
 Khalid Frej
 Deyvis Pérez Bravo
 Gheorghe Cucu
 Alain Mabit
 Danielle de Niese
 René Casabianca
-Michel Zbar
 Marcel Colin
-Matthieu Stefanelli
 Rolando Morales-Matos
-Agustin Lara
-Émile Deschamps
 Jean-Jacques Grünenwald
 Benoît Toulemonde
-Carl Heinrich Graun
 Paolo Benedetto Bellinzani
+Vincent Warnier
 François-Pierre Cortès
 Alfred Hill
 Raymond Cléris
+Haochen Zhang
 Gerald Bennett
 Blas de Laserna
 Bernhard Krol
 Behzad Ranjbaran
 Paolo Longo
 Norma Beecroft
-Manfred Trojahn
 Auguste-Étienne-Xavier Poisson de La Chabeaussière
 Frànçois Marry
+Thomas A. Dorsey
+Paul Mac Cartney
 Romain Chevalier
 Franz Hummel
 Jean-Michel Bossini
+Sophie Deshayes
 Jean-Thierry Boisseau
 Torsten Nilsson
-Richard Dering
+Rebeca Ferri
+Matthieu Chazarenc
 John King
 Casimir Varon
 Alfred Reed
 Martial Solal
-Horacio Salgán
+Stefano Genoves
+Camillo Radicke
 Αγγελική Ιονάτου
 Grzegorz Gerwazy Gorczycki
 Henrik Strindberg
+Christel Boiron
+Sofia Djemai
 Kent Olofsson
  Albert Willemetz/Maurice Yvain
+Antoine Landowski
 John Bennet
 Gilles Racot
+Mathieu Steffanus
 ಪುರಂದರ ದಾಸ
 Édouard Bron
 Carlos Gomes
-Francesco Scarlatti
 Gregorio Fernandez Junquera
 Toivo Tulev
 Louise Adam
-Laurence Saltiel
 Anton Bernhard Fürstenau
 Juan de Navas
+Jocelyne Cuiller
 Hans Holewa
 Sebastian Currier
 Petrus de Cruce
 George William Louis Marshall-Hall
-Guillaume Dufay
-Henk Badings
 Hans-Martin Linde
 Alfred Brillant
-Kenneth Tarver
+Jean Christophe Cholet
+Vincent Deprecq
 Robert Suter
-Isabelle Fraisse
 Alexandre Brody
-Nitin Sawhney
+Hugues Vincent
 Carel Hacquart
 Charles Alwens
+Guillaume Ledu
 Óscar Esplá
 Lasse Thoresen
+Ana Liz Ojeda
+Pēteris Plakidis
+Dizzy Gillespie
 Stephan Mahu
 Louis-Désiré Besozzi
+Rosario Di Meglio
 Frédéric Crimail
 Dana Marbach
+Lise Berthaud
 Valentine Martinez
 Xaver Scharwenka
 Victor Auer
+Sol Gabetta
+Pablo Valetti
 Gérard Gasparian
 Ravi
-Patrick Bruel
-Karel Goeyvaerts
 Pedro Rimonte
 Aumer
+Ida Falk Winland
+Kévin Amiel
 Érik Marchelie
-Marie-Elisabeth Hecker
-Marduk Serrano López
+Nicolas Crnjanski
 Hussein El Masry
-Jaromir Weinberger
 Justin Bru
-Sally Matthews
-Eric Raffard
 Joseph Fiala
 Alain Abbott
-Esteban Benzecry
+Nicholas Roerich
+Pierre Lelievre
 B. Tommy Andersson
-John Butcher
 Jeremiah Clarke
+Peter Perfido
 Baligh Hamdi
 Tomás Gubitsch
+François Galichet
+Denis Colin
+Jean-Louis Constant
 Victoria Borisova-Ollas
 Charles (?) Le Camus
 Jurabeg Nabiev
+Rachid Safir
+Carlo Laurenzi
 Cheick Tidiane Seck
 Chantal Auber
 Louis Chledowski
@@ -5980,210 +8242,241 @@ Frédéric Macarez
 Raoul de Champeaux
 Philippe Rougeron
 Simon Lohet
-Thomas Dausgaard
-Sebastián de Albero
 Guéza Chorin
-Juan Sancho
  Bombino
 Egil Hovland
-Jean-Philippe Scali
+Balazs Vizeli
+Maud Lovett
+Bénédicte Roussenq
 Henri-Adolphe Decourcelle
 Ron Carter
+Arnaud Richard
+Sarah Sun
+Jun Hee Kim
 Gerhard Schjelderup
+Lionel Peintre
 Christophe Torion
+Gleb Ivanov
 Henri Martelli
+Non identifie
 Silvestro Ganassi
 Loïc Mallié
 Francesco Onofrio Manfredini
+Peter Jacquemyn
 Sunleif Rasmussen
 Claudio Saracini
+Sigvards Klava
+Caterina Dell' Agnello
+Liana Gourdjia
+Marco Piantoni
 Julia Lezhneva
 Suleïman Al- Qoudsi
+Patrizia Varone
 Olivier Métra
-Henri Salvador
+Hermine Horiot
+Xénia Maliarevitch
 Franz Xaver Wolfgang Mozart
-Leo Fall
+Hervé Joulain
+Stefan Parkman
+Gaëlle Habert
+Julien Padovani
+Jean Yves Clément
 Otto Bouwens van der Boijen
-Evgeni Bozhanov
 Sigurd von Koch
-Francesco Corti
+Hervé Sellin
 Vittorio Giannini
 Artur Schnabel
-Zied Gharsa
 Marie Plette
 Alison Buchanan
-John Jacob Niles
+Bernard Deletré
 Andreas de Silva
 Gan-Ru Ge
 Arthur Boubert
 James Lentini
 Georges Garvarentz
+Adriana Alcaide
 Manuel José Doyagüe
 Justin Taylor
+Frédéric Blondy
 Robert J.-P. Cantabre
 Hilaire Carvin
 Alfred Dard
 Jules de Bernouilly
+Elena Tarasova
 Dominique Preschez
 Johann Nicolaus Hanff
 Karin Rehnqvist
+Omer Bouchez
 Paolo Cornetti
 Orazio Tarditi
 Rémi Sciuto
 Thierry Villeneuve
 Eugen Suchoň
-Stefan George
 Ignacy Feliks Dobrzyński
 Thomas Corneille
+Zvi Plesser
 Pierre-Olivier Pouzet
 Paul Burani
+Manuel Nùñez Camelino
 Richard Muller
-Manfred Niehaus
-Bernardo Storace
+Roberta Invernizzi
 Diana Pérez Custodio
 Ernest Bohn
 William Kraft
 Scott Johnson
 Laure André
 Juan de Anchieta
-Tareq Nazmi
-Aki Saulière
 Steve Dobrogosz
 Tatiana Probst
 Gérard Zinsstag
+Philippe Régana
 Karl Weigl
 Magali Arnault Stanczak
 Claude Delvincourt
 Jean Georges Noverre
 Ján Šimbracký
-Maurice Maeterlinck
 Auguste Certain
 Nigel Keay
+David Bismuth
 Paula Murrihy
 Ketil Hvoslef
 Frédéric Acquaviva
+Laurent Cuniot
 Gaston Bérardi
 Henri Defives
 Colin Muset
 Jacobus Barbireau
 Michel Meynaud
 Barsegh Ganatchian
+Arnaud Mattei
 Rolf Riehm
 Jean-Louis Clot
 Samuel Rousseau
 Luis Pastor
 J. Amatus
+Ives Baudry
 André Mauprey
 Argentina Santos
-Willy Burkhard
 El Biencasao
 Marq Labriy
 Pavel Fischer
+Tanguy de Williencourt
 Félicien Forêt
-Quentin Hindley
+Anthony Kondo
+Alexander Borodin
+Guillaume Naturel
+Darrell Ang
 Gaspard Fritz
 Rachid Belgacem
 Britta Byström
 Sapo Perapaskero
 Olivier Cambon
 Pierre-Jean Bouyer
-Joao Fernandes
 Jean-Baptiste Singelée
 Danny Goffey
 Jehan Fresneau
 Bronislava Fominitchna Nijinskaia
 Arnaut de Mareuil
 Jeanne Meunier
+Benjamin Chauvin
 Lucijan Marija Škerjanc
+Adolf Friedrich von Schack
 René Le Borgne
 Heinrich Anton Hoffmann
 Raffaele d' Alessandro
 Jean-Marc Jouve
 Marian Marciak
-Claude Georgel
+Eric Audra
 Charlotte Dellion
-Stéphane Mallarmé
+Hagaï Shaham
 José Joaquim Emérico Lobo de Mesquita
-Gregory Privat
-František Xaver Dušek
+Jean-Jacques Kantorow
+Marie-Georges Monet
 Maksimilian Oceevič Štejnberg
 Nicholas Lanier
+Carlo Lazzaroni
 Louis de Lully
-Louis Drouet
+Phung Mai Tran
 Emmanuel Hieaux
-Leone Sinigaglia
+Cécile Agator
 Léon Dacette
+Chambonnet Arkaïtz
 Richard Trunk
 Gustave Bubaton
 Eugenio Toussaint
 Yves Bouillot
+Thomas Ravez
 Albert Delahaye
 Francis Cutting
 Asif Ali Khan
 Payton Crossley
 Giacomo Merchi
 Maurice Besnard
+Anna Cardona
 Nicolò Minato
 Paul Collin
 Fortuné Baziray
-Julia Wolfe
+Ivor Bolton
+Linley Marthe
 Juliette Paquereau
 Andrès
 Cédric Chauveau
-Bertrand Chuberre
 Carlo Tessarini
 Chaoming Xu
  Cabaret contemporain
 Paul Bergon
-Olivier Dartevelle
+Philip Thomas
+Robert Lakatos
 Aimeric de Peguilhan
 Juan Pablo Valencia
-Ellen Corver
+Guillaume Chastillon De La Tour
 Jacques Foncès
 Grégory Grosjean
 Rémy Carré
+henry pierre
 Leopoldo Miguéz
-François Lis
 Franck Monnet
 Henry Brant
 Martín Kutnowski
-Laurent Wagschal
 Emile Pissani
 Guillaume
 Laurent Naouri
-Julien Szulman
 François Goetghebeur
+Xavier Sabata Corominas
 Piero
+Saori Furukawa
 Pauline Sabatier
 Armand Bell
+Vladimir Jurowski
 Louis Varney
 Hamish MacCunn
 Victor Alix
+Paolo Zuccheri
 Helen Tulve
-Mikael Edlund
 Ji Qiu
 Charles Breuillin
-Félix Leclerc
 Albert de Bracy
 Anders Nilsson
 Jules Brosset
 Eduard Franck
 Uc de Sant Circ
-Oscar Bianchi
+Antoine Maisonhaute
+Friederike Heumann
 Youri Kasparov
 Christian Fürchtegott Gellert
+Nathan Braude
 Gaël Cadoux
 Christian Ernst Graf
 Emanuele Barbella
 Ch. Baudelot
+Jean-Christophe Frisch
 Stanley Milton Weiner
 Jorge Roeder
 Adil Benjelloun
-Peter Bruun
-William Corkine
+Edgar Varèse
 Jean-Christophe Feldhandler
 Benedykt Konowalski
-Ralf Gothóni
+Philippe Talec
 Louis Niedermeyer
 Ernest Bosso
 Maurice
@@ -6191,92 +8484,108 @@ Antonio Meneses
 Antonio Cifra
 Maxime Belliard
 Victor Brunet
+Charlotte Juillard
+Eivind Gullberg Jensen
 Dinu Lipatti
 Fikret Amirov
+Divers
 Simone Prattico
 Jean-Paul Lécot
 Johann Jakob Walther
 Pierre-Gérard Verny
+Christophe Collette
+Francis Petit
 Giovanni Punto
+Anton Lukoszevieze
 Stefano Bernardi
 Henry Hadley
 A. Davergne
+Jean-Yves Ossonce
 Luis Baca
 Art Mengo
-Jonathan Brown
-Micha Lescot
 Hicham Belghiti
 Rocco Aggiutorio
-Dove Attia
-John W. Green
-Olivier Kaspar
 Moisej Samuilovi˜ Vajnberg
 Alonso
-Magali Léger
+Jean Lahor
+Isabelle Moretti
+Barbara Moser
+Hannes Minnaar
+François Desforges
 Armand Aubry
 Radamés Gnattali
 Riccardo Malipiero
-Mikalojus Konstantinas Čiurlionis
 Ferdinando Di Donato
 Oskar Böhme
-Jean-Louis-Ignace de La Serre
 Miguel Llobet Soles
+Régis Pasquier
+Virgile Monin
 Bernhard Kiessling
 Ramakant Gundecha
 Viktor Togobickij
 Chris Wood
-Miklós Perényi
-Andrea Maffei
+Boris Blanchet
 Aleksandr Aleksandrovič Davidenko
 Gerald Cannon
 Jean-Baptiste Besard
 Bonifazio Graziani
 Frédéric Brevet
+Boris de Larochelambert
 Eugène Coeuille
 Thierry Bouchet
 Jean-Christophe Aurnague
 Rodrigo Cicchelli Velloso
-Evgeni Koroliov
+Ian Brown
 Irving Acao Sierra
+Elise Liu
 Estêvão de Brito
 Alain Gagnon
 Josep Valls
+Lluis Vilamajo
 Hercule de Fontenailles
 Johann Went
-Giovanni Salvatore
-Philippe Courbois
-George Antheil
+Maria Chirokoliyska
+Juliette Salmona
 Joseph Holbrooke
+Francis Jacob
+Régis Nicolas
 Laurent Martin
 Roy Harris
 Antonio Veracini
-Arthur Rimbaud
+Eric Boisset
 Bronislovas Kutavičius
 William Thomas Best
-Ole Bull
 Stephen Scott
 François-René Gebauer
 Aldebert
-Louis François Dauprat
 Christian Frederik Emil Horneman
 Christer Lindwall
+Yung-Hsin Chang
 Jean de Castro
+Susan Rankin
 Benjamin Biolay
 Vincent Laubeuf
 Claude Engel
 Ahmed Bennis
+Bénédicte Tauran
+Jean-Francois Georges
 Friedrich Hermann
 Niels Rosing-Schow
+Mathieu Dupouy
 Dean Josiah
-Christophe Marchand
+Foucher Jessica
+Jean Marc Larche
+Sebastian Wienand
+Robert de Visée
 Jean Balissat
 Mohammed Bajeddoub
 Gerhard Bunk
  Rover
+Peter Jarusek
 Michael William Balfe
+Julien Le Pape
 敢 果
-Juliette Roumailhac
-Romain Descharmes
+Bridget Carey
 Juliette Dillon
 Norbert Moret
 Leslie Mann
@@ -6284,177 +8593,189 @@ Marc Briquet
 José Lidón
 Toshiro Mayuzumi
 F. Zell
-Friedrich Wilhelm Zachow
+Jiri Belohlavek
 Giovanni Paolo Foscarini
+Jean-Claude Auclin
+Nicolas Estorges
+Delphine Biron
 Alain Roizenblat
 Giovanni Valentini
 George Frederick Pinto
 Aimé Maillart
-Moslem Rahal
+Maxime Pascal
 Olivier d' Ormesson
 Elisabeth Kufferath
+tran phuong mai
 Richard Davis
 François Courtois
-Josep Plá
 Carlos Zel
 Richard Nicholson
 Gunnar Valkare
-Eduardo Di Capua
+Leonard Schreiber
 P. Combescot
 Ivan Gélugne
-Fabio Bonizzoni
 Pierre Vasseur
+Nancy Ruffer
 Pierre Fardet
 Traditionnel Arrangement Fowlis/Doorley
 Michael George
 Pierre Coindreau
 André Jorrand
 Denis Magnon
+Louis Allebe Montjoly de Montaigne
 Mikhaïl Glinka
-Mario Laginha
+Bernard Tétu
 Aurelio Bonelli
 G. Berthum
-Nikolaus Lenau
 Bent Lorentzen
 Andreas Wolf
 Rajinder Bunty
 Eduardo Soto Millán
+Jan Van der Noot
 Victor Caussinus
 Mika Karès
 Eric Gaudibert
 Pierrette Mari
 Didier Goret
-Jouni Kaipainen
 Marie Kalinine
+David Chiesa
 Christian Morgenstern
 Ivo Josipović
 Camille Charvein
+Alexandre Glazounov
 Dominique Patteyn
 Giovanni Bonaventura Viviani
 Luis Cluzeau Mortet
 Léo d' Autezac
 Kalev Tiits
 Rudolf Borisovich Barshai
+Josep Pons
 Frédéric Delesques
 Mihail Mihajlovič Ippolitov-Ivanov
-Igor Tchetuev
 Jean-Claude Trial
+Marc Vieillefon
 Gérard Masson
 Boris Mikolajovic Lâtosin'ski
 Nicolas Siret
 Giovanni Maria Radino
 Charles Delabre
 Jan Wilhelm Morthenson
-Vincent David
+Kit Armstrong
 Joseph Hellmesberger
 Alphonse Coisnon
 Jan Evangelist Kypta
 Fred Jonny Berg
+Dimitris Paksoglou
 Mathieu Lasson
 Theo Brandmüller
 Victor Chan
 Lennart Fredriksson
 Adil Bestybaev
+Peter Kooy
 Alexander Rabinovitch
-Alan Woodbridge
+Caroline Magalhaes
 Ruth Goller
 Mark Adamo
-Henrik Ibsen
-Fernand Le Borne
 Charles Grandmougin
 Sirojiddin Juraev
 David Kadouch
 Ryo Noda
 Gaston Benoist
 Michel Dieulafoy
-Pascal Gallois
 Anna Göckel
 Thierry Carré-Chesneau
 Francesca Cassinari
+Natacha Kudritskaya
 Mirko Guadagnini
 Nicholas Maw
-Wolfram von Eschenbach
+Jean-Philippe Grometto
 Georges-Martin Witkowski
 David Hykes
-Edward Estlin Cummings
 Oskar Rieding
-Annie Labussière
 Otis Brown III
-Olivier Doise
 Yael Booton
 Alfred Bert
 Stephen Westrop
 Louis Alexandre
 Juan Canaro
 Chloé Perlemuter
-Peter Csaba
 David Hermon
 Ferdinando Moretti
-Andrea Quinn
+Valérie Lavallart
+Benedetto Ferrari
 George Forrest
 Andreas Staier
 Jeanne-Marie Conquer
+Emmanuel Geibel
 Gunnar Bucht
 Clément Janequin
 László Weiner
 Louis Abadie
+Claire Schwob
 Svend Erik Tarp
-Béatrice Martin
 Arthur Somervell
+Petr Macecek
 Maurice Cohen
+Joël Vaisse
+Benjamin Alunni
 Keith Jarrett
 Léon-Lévy Brunswick
 Philippe Garcia-Ortuño
 Georges Bessonnet
-Kevin Volans
+David Walter
 Giovanni Pietro Franchi
 Carl Zeller
 Edvin Kallstenius
 Pauline Barthélemy
-Sandro Gorli
-Jacopo Melani
 René de Bousset
+John Henry Mackay
 Jeanne Decruck
-Jacinto Guerrero
 René de Boisdeffre
 Yann-Edern Goas
 Pedro de Pastrana
 Alice Abram
 Chin Cheng Lin
 Guillaume le Vinier
-Luca Dordolo
+Cécile Garcia-Moeller
+Maja Avramovic
 Emmanuel Avril
 Paul Juon
 Julius Schulhoff
 Rafael Cebreros
+Lorenz Duftschmid
 James Paisible
 Gabriel Balart
 Fabrice Aboulker
 Vincent Charrier
 Lucie Bénichou
 Girolamo  Kapsberger
+Michaël Schonwandt
 Tilo Medek
+Hager Hanana
 Terrah Guymala
+Veronika Jaruskova
 Giovanni Pietro Finatti
 Lucien Mawet
 Rick Allison
 Georg Friedrich Kauffmann
 Jacques Murgier
 Guillaume de Morlaye
-Jean-Baptiste Devillers
+Sarah Givelet
+Modeste Tchaïkovski
  CONCLUSION
 John Harle
+Elizaveta Frolova
 Jean Cartan
 Henri Berindoague
-Giovanni Maria Pagliardi
 Adam Jarzębski
 Bernard Jumentier
 François Bouvard
 Jean-Claude Petit
 Carl Millöcker
-Franc-Nohain
 Paul Tortelier
+Bernard Richter
 Louis Cadot
+Christophe Mazzella
 Marco Antonio Ferro
 Giovanni Faustini
 Jean-Luc Hervé
@@ -6464,16 +8785,12 @@ Ranieri Calzabigi
 Gaston-Arman de Caillavet
 Alfred Cérimèle
 Audefroi le Bâtard
-Erich Höbarth
 Bjørn Kruse
-Wolfgang Ablinger-Sperrhacke
 Samuel Petit
-Alexandre Giordan
 Jean-Michel Rivet
-Holger Drachmann
  Ludwig van Beethoven
-M.
 Sékou Kouyaté
+M.
 Heinrich Berte
 Shiro Fukai
 Vincenzo Galilei
@@ -6483,19 +8800,21 @@ Giovanni Battista Pescetti
 Arnaud Petit
 Otakar Ostrčil
 Clémence de Grandval
+Eve Maud Hubeaux
 Camille Erlanger
 Patrick Ravella
 Asger Hamerik
-Veronika Hagen
+Jules-Henri Vernoy de Saint-Georges
 Gyula Bando
 Jean-Pierre Sabard
 Feliks Nowowiejski
 Svatopluk Havelka
+Rachel Podger
 Toussaint Bertin de La Doué
 Nicola Matteis
 Léo Chauliac
 Pierre Dandrieu
-Joshua Bell
+Samuel Silvant
 Kerstin Jeppsson
 Giles Swayne
 Romane Lecomte
@@ -6503,62 +8822,66 @@ Célestin Harst
 César François Nicolas Clérambault
 Anne MacVicar Grant
 Piet Kee
-Mireille
+Renaud Déjardin
+Lyonel Schmit
 Cesare Pugni
 Christian Gottlob Neefe
 Morris Surdin
+Evgeny Izotov
 Ad. Brinita
 Voltaire
-Leo Samama
-James Joyce
 Oksana Lazareva
 Yevgueni Kissin
+Vladimir Spivakov
 Steve Brown
+Stephen Farr
 Abraham Van den Kerckhoven
-Clemens Hagen
+Alsop Marin
 Lydia Kakabadse
 Rudolf Buchbinder
+Assi Rahbani
 Riccardo Drigo
 Alexandre Konstantinovitch Glazounov
+John Hollenbeck
 Adrien Codine
-Leo Stein
+Géraldine Dutroncy
 Paul Lincke
 Oscar Borg
 Albert Grisar
 Anne Alvaro
 Antonio Literes Carrión
 Jean-Philippe Vanbeselaere
-Abdou Driassa
 Giovanni Antonio Grossi
-Giuseppe Tartini
 Andras Fejer
+Sainte-Colombe Fils
 Trygve Fiske
+Karoly Mocsari
 Ignacio Cervantes
+Nicolas Sansarlat
+Polina Leschenko
 Eugène Baron
-Evelino Pidò
 John Thomas
 Anton Stamitz
 Albert Bertrand
 Jean Boyer
-Franck Ferrari
 Maurice Colomb
 Mario Diaz de León
 Trattles
+Raffaella Milanesi
 Antonio Pasculli
 René Baillot
 Ernest Aron
+Leonor de Lera
 Melinda Sala
-Lars Vogt
+Evgeny Nikitin
 Giampietro Tagliazucchi
-Akiko Suwanai
 Quirino Gasparini
 Amédée Méreaux
 Frédérick Bonnaud
+Frédéric Lodéon
 Gustave David
 Denis Troufleau
 Philippe Capdenat
-Jean-Baptiste de Bousset
-Mathias Vidal
 Casimir Baille
 Pierre Van Maldere
 Eugène d' Arvisenet
@@ -6573,24 +8896,31 @@ Heng Shi
 Lelio Colista
 Pierre Laujon
 Camille Le Mezo
-Émilien Pacini
+Vincent Manac'h
 Herbert Sumsion
 Natalis Cordat
 Paul Wehage
+Achour Oukacha
 Thomas Roseingrave
-Jean-Claude Vannier
+Marleen Asberg
 Jules Bénard
 Pere Alberch i Ferrament
+Genia Kühmeier
 Jan Václav Hugo Voříšek
 Johann Sebastian Bach / Ichiro Nodaïra
 Lio Kuokman
 Tancrède Auriacombe
-Guillaume Bourgogne
 Gabrielle Collot de Bienville
-Helmut Walcha
+Charles Le Gargasson
+Martin Bauer
+Soliste de la Maîtrise de Radio France
+Gayane Akhnazaryan
+Elisa Joglar
 Rafał Augustyn
 Teresa Carreño
+Frédéric Baldassare
 Shashank Subbu
+Christiane Lane
 Claude Berthaud
 Pamela Luccarini
 Juan Urteaga
@@ -6606,33 +8936,39 @@ Camélia Jordana
 Jean-Louis Tulou
 Joseph Calas
 Francisco António de Almeida
+Michael Abramovich
 Domènec Terradellas
 Florence Jana
 Richard Wilson
 Philipp Friedrich Boeddecker
-Ludovic Tézier
+Juliane Banse
 Igor Raykhelson
 Albert Bonis
 Anna Lucia Richter
 Giulia Peri
 Ingo Metzmacher
 François de La Roche
-Philippe Desriaux
 Cornelius Schwehr
+Rémi Durupt
 Filippo Livigni
 Blanche Auzéby
 Gaetano Boni
+Marion Gailland
+Michel Pignolet de Montéclair
 Benjamin Ipavec
 M'Bady Kouyaté
-Henri Tomasi
+Marcin Swiatkiewicz
 Stéphane Horeczko
 Marcello Panni
+Lucie Jolivet
+Hermann von Gilm
 Alexandre Carteron
-Henri Michaux
 Didier Benetti
 Fanny Calmel
 Hippolyte Monpou
 Albert Carlier
+Jean Jacques Avenel
+Franz Xaver Süssmayr
 Esteban Daza
 Dushanbe Pallaev
 Pietro Torri
@@ -6641,90 +8977,97 @@ Simon Molitor
 Étienne  Jaumet
 J. Châteauneuf
 Giuseppe Ciollaro
+Florent Audibert
 Pierre Capdevielle
 Jean Veillot
 Augusta Gross
-Patrice Mestral
+Patrick Cohën-Akenine
+Julien Bourdet
 Charles Coote
 Luigi Ricci
 André de Mésenge
-Vincenzo Davico
+Catherine Déréthé
 Charles Delachauxme
 Blandine Staskiewicz
 Valentina Coladonato
 Salvatore Di Vittorio
+Wonny Song
+cesar laurent
 François-Xavier Bronner
+Ruth Ziesak
 Bebo Valdés
 Marie de Grandval
 Anthony Paratore
-Nam-June Paik
 Clément Jacob
+Juan Lopez de Ullibarri
 Jules Carlez
-Jules Moinaux
+Valentina Lisitsa
+Marja Bon
 Jean-Luc Lehr
 Charles-Antoine Le Clerc de La Bruère
 Léon Chenal
 Billy Mayerl
 Bernhard Molique
-Alain Moene
 Ambroise Anceaux
 René Camus
 François Bernheim
+Zad Moultaka
 Auguste Aubert
 Bernard Carloséma
-Jerôme Voisin
 Marc Lauras
 Demachy
 Giovanni Cocci
 Bertold Hummel
+Jean-Luc Bourré
 Judea Maya
 Jacques Delacroix
 Melchior Hoffmann
 Charles Coda
 Raimo Kangro
+Vincent Coq
 Jean-Baptiste Moreau
 Angelo Gilardino
 Albert Carrara
 Orazio Michi
+Monica Arpino Mandolesi
 Émile Sauret
+Vincent Lièvre-Picard
 Carlo Sigismondo Capece
 Carlo Rizzo
-Sharman Plesner
+Vera Lopatina
 Adolphus Hailstork
 Ignatz Waghalter
 Rudolf Gametovitch Noureev
-Nils Lindberg
 Adam de La Bassée
 Emanuela Galli
 Lars Ekström
  PROLOGUE I
 Igor Evard
 Gil Shaham
-Hanna Schygulla
+Patrice Hic
 Øistein Sommerfeldt
-Daniel Behle
-Jean-Paul Dréau
+Marie Vermeulin
+Bruno F
+Ann Hallenberg
 Bartolomé Cárceres
 Carlo d' Angelo
 Giovanni Schmidt
 Gheorghe Zamfir
-Guy Béart
-Alain Buet
+Hélène Decarpignies
 Giovanni Battista Riccio
 Joseph Vella
 Antonio de Ribera
 Etienne Gaillochet
-Jacques Demierre
 Andréas Balken
 Frederick Septimus Kelly
 Davide Esposito
 Charles Tessier
-Marianne Beate Kielland
 Pál Esterházy
+Roberto Fernandez de Larrinoa
+Tanya Aspelmeier
 Louis Magnan
 Edmond Missa
 Victor Cambier
-Joseph Horovitz
 Philipp Schoendorff
 Niels Marthinsen
 Paul Creston
@@ -6735,22 +9078,22 @@ Raffaello Benvenuti
 Christian Traugott Brunner
 Marc Coppey
 Pierre Gaultier
+Sepp Grotenhuis
 René Sarvil
 Timotée-Attilio Brunetti
 Angelo Tarchi
 Albert de Saint-Albin
 Joseph Haas
 Raoul Benoit
+Juho Pohjonen
 Johannes Jansson
-Pierre Jodlowski
-Jean-Pierre Jullian
 Mauro Borgioni
 Lucia Hwong
-Alphons Czibulka
-Hans Gefors
-Anne Philidor
+Eléonore Clovis
+Maria Cristina Kiehr
 Ondrej Kukal
 Izia
+Haga Ratovo
 Denis Cohen
 Alexandre-Sylvain Petit
 Alla Pavlova
@@ -6762,80 +9105,79 @@ Juan Bautista Comes
 Bilal
 Louise Béguin-Salomon
 Richard Gili
+Joanna Bilger
 Georg Heinrich Bülmer
 Léon Canton
 Arthur Farwell
 Angelita Vargas
-Mark Elder
 Edmond Gondinet
 Thom Willems
-Anna Vinnitskaya
+Mark Pancek
 Denis Guivarch
 Maxime Zampieri
 Jean-Claude Henry
-Andrei Abramenkov
+Grégoire Méa
 Yves Castagnet
 Patrick Le Junter
 Ulvi Cemal Erkin
 Paolo Virchi
-Susanne Leitz-Lorey
 Jacobus Milarte
-Johannes Boris Borowski
 Idir
 Emmanuel Dupaty
 Jean Limozin
 Joseph Bernard de Coninck
-Andrea Bischof
 Paul Moravec
+Rainer Schmidt
 Alfonso Cipollone
-Céline Ricci
+Paul Dunmall
+Louis Fuzelier
 Ed. Civro
-Paul Dombrecht
 Edouard Boulanger
 Jean Renard
 Maximilian Schmitt
-Josh Roseman
 Naokichi Kineya
-Julien Hervé
 Scan X
 William Rousseau
 Nicola Conti
-Pierre Passereau
-Jean Binet
-Olivier Schmitt
-Raphaël Sévère
 Natalia del Palacio
 Arnt von Aich
 Alessandro Orologio
  III. LA DÉLIVRANCE D'ORLÉANS
-Ferdinand Lemaire
+Vassili Sinaiski
+Catherine Sergent
 M. Bardout
 Betty Olivero
+André Heinrich
 Marcel Goldmann
 Carl August Friedrich Westenholz
 Hanna-Elisabeth Müller
+Mathilde Lebert
+Daniel Hill
 Jerry Lewis Bock
 Francesco Bianchi
 Csaba Deák
 Françoise Rocher
+Pierric Charles
 Giorgia Milanesi
 Louis-Jacques Milon
 Maurice Karkoff
 Frederico de Freitas
 Erlend Slettevoll
 Jules Semler-Collery
+Alexandre Dmitriev
 Pascal Enzo Rabatti
 Josep Gaz
 Samuel Coleridge-Taylor
 Claude Champagne
 Elżbieta Sikora
 Carlo Ambrogio Lonati
+Yann Fressy
 Auguste Morel
 Dionisio Aguado
-Florent Pujuila
 La Tani
 Pierre
-Jacques Prévert
+Nicolas Cavallier
+Georges Migot
 Nigel Osborne
 Xavier Sabata
 Alice Mary Smith
@@ -6846,53 +9188,63 @@ Manuel de Osete
 Pierre Souchon
 Pierre Kunc
 Hélène Ciolac
+Gilles Manet
 Andrus Siimon
-Kim Borg
 Michio Mamiya
 Gerhard Frommel
-Elfrida Andrée
 Aram  Khatchatourian 
 Maurice Delaistier
 Marypaz de Grana
-Eric Crozier
+Lahondes Christian
 José Joaquim dos Sanctos
+Charles Perrault
 Erich Korngold
 Michael Hurd
 Bartomeu Cárceres
+Emilia Gliozzi
 Jaime Torrens
 Charles Courtioux
 Jacques-Féréol Mazas
-Gerhild Romberger
 Peter Joseph von Lindpaintner
 Aimé Chéniaux
 Jean Liamine
 Francesco Federici
 Gottfrid Berg
-Otto Klemperer
-Pablo Neruda
 Robert Simpson
+Vladislav Kozhukhin
 Enric Morera
 Pierre Guillermin
 Jean-Jacques Debillemont
 Kurt Roger
 Pierre-Jean Grassi
+Heinrich Schiff
 Maurice Vandair
  Chansons pop
+Furio Zanasi
 Franciscus Bossinensis
 Albert Chantrier
 Abel d' Adhémar
 Maurice Le Roux
+Justina Zajancauskaite
+Jean-Baptiste Pergolese
+Julien Bourdais
+Raymond Boni
 Pierre Sancan
 Finn Mortensen
 Philippus de Caserta
 Louis Camerana
 Pierre-René Lemonnier
+Régis Huby
 Shih
  PROLOGUE
 Jean-Baptiste Weckerlin
+Pierre Fouchenneret
 Yann Molénat
+Sandra Moubarak
+Laura Polverelli
 Charles Choulet
 Ludovic Provost
+Simon Drappier
 Lorenzo Palomo
 Karoly Schranz
 Jean-François Pailler
@@ -6900,10 +9252,9 @@ P. Barban
 Jirí Ignác Linek
 Nabil Abdmouleh
 Jehan de Bligny
-Jean-François Heisser
-Christina Landshamer
 Francesco Hoch
 Josef Jonsson
+Gérard Korsten
 Luis Alonso
 Jean-François Breteau
 Constance Taillard
@@ -6919,28 +9270,27 @@ Ignace Strasfogel
 Lynda Lemay
 Pietro Antonio Fiocco
 Jorge Antunes
+Bruno Mourlan
 Yuri Bashmet
 Mort Shuman
 Ustadh Majid Said Mansur
 Michael Perez
+Ornette Coleman
 Henri Ghéon
 Maurice Faillenot
+Lamia Beuque
 Jean-Christophe Marti
 Asadullâh Ata'allaêv
+David Aneas
 Alexander Campbell Mackenzie
-Brigitte Vinson
-Peter Dijkstra
 Philippe Parès
 Dinorá de Carvalho
 Alek'sandr Harowt'yownyan
 Marc-Cab
 Henri Woollett
-Salvador Bacarisse
 Rached Tanazefti
 Alun Hoddinott
-Fabrice-Marin Caietain
-Guisella Massa
-Gotthold Ephraim Lessing
+Naoko Fujiwara
 Vincent Lafont
 Max Baumann
 Jonathan Sells
@@ -6954,35 +9304,36 @@ Alain Monod
 Martina Belli
 Johan Kvandal
 Jakob Friedrich Kleinknecht
-Wilhelm Müller
+Armelle Khourdoïan
 Alphonse Couleuvrier
 Tomas Netopil
 Michel Chiry
 Achille Arnaud
 Morten Riis
 Johann Christian Kittel
-Eve Risser
+Chikako Hosoda
+Alexander Siloti
 Erik Nylander
 Raphaël Canaro
 Ferdinand Poise
+Fanny Coupé
 Adolphe Bouleau-Neldy
 Fernand Castelbon de Beauxhostes
 Richard Barthélemy
 Michio Miyagi
-Santtu-Matias Rouvali
 Luigi Carvelli
 Ludwig Schuncke
 Liviu Glodeanu
 Wayne Siegel
+Ignacy Jan Paderewski
 François de Chancy
 Isaac Posch
 Francesco Soldano
-Johann Christian Heinrich Rinck
 Ingemar Liljefors
 Giuseppe Colombi
-Christoph Bernhard
 Paul Kletzki
 Edmond Dédé
+Catherine Joussellin
 Alasdair Macaulay
 Onutė Narbutaitė
 Libby Larsen
@@ -6990,19 +9341,18 @@ Rolf Looser
 Camillo Schumann
 Hans Huber
 Jean-François Estager
+Natalie Dessay
 Roger Wootton
-Marc Kowalczyk
 Nicolas de La Grotte
 Antonio Maria Lucchini
-Stephen Gould
 Richard Cocciante
 Edward Gregson
-Paul Morand
 Alexandre Apletscheieff
 A. Belowski
+Christophe Saunière
+Joseph Rassam
 Patrick Portella
 Léonard de Hodemont
-Helmut Eder
 Tadeáš Salva
 Carmelo Alonso Bernaola
 Chin-Cheng Lin
@@ -7010,11 +9360,12 @@ Paul Bonnard
 Julien Ballé
 Bernard Struber
 Vicente Asencio
-Nicola Vaccai
+Louis Aragon
 Harry Revel
 David Thomas
-Giuseppe Adami
 Béla Kéler
+Marcos Darras
+Benoît Laurent
 Nino
 Emil Cossetto
 Joseph Gelineau
@@ -7022,13 +9373,12 @@ Armand Machabey
 Nick Pritchard
 Gustav Nordqvist
 Alfredo D'Ambrosio
-Anton Heiller
-Jacques Bona
 Eugène Delahaye
 Manfred Kelkel
 Aloïs Beranek
-Frédéric Kalkbrenner
 Babette Koblenz
+Stephan Genz
+Christoph Lehmann
 Stephen Hartke
 Antoine Albanese
 Léon Copin
@@ -7036,7 +9386,6 @@ Delphin Balleyguier
 Abelliz
 Xavier Leroux
 Edouard Belval
-Ernest Blum
 Leif Kayser
 Victorin Casquil
 Fela Anikulapo Kuti
@@ -7044,23 +9393,21 @@ Nikolaj Pavlovic Budaskin
 Marie Bagnoli
 Thierry Tisserand
 Rudi Stephan
-Celso Machado
+David Afkham
+Frédéric Lagarde
 Trebor
  Mahboubati
 Franck Chaudemanche
 Alfred Delacour
-Hans-Jürgen von Bose
 Giorgio Mirto
 Charles-Antoine Branche
 Johann Pfeiffer
 André Serre-Milan
+Peter Oundjian
 Ernstalbrecht Stiebler
-Jean-Pierre Derrien
 Emanuel Moór
-Oskar Fried
 Ditrich Stöeffken
 Georges Bonay
-Giorgio Mainerio
 Enguerrand de Hys
 Louis Gianella
 Jorane Cambier
@@ -7070,24 +9417,32 @@ Ross Edwards
 Bernard Naylor
 Giorgio Croci
   Traditionnel - Irlande
+Raphaël Perraud
 Heinrich Herzogenberg
+Anthony Leroy
+bracq cecile
 Noël Coward
 Jean-Xavier Lefèvre
 Johann Vierdanck
 Lorenz Lemlin
+Arnaud Lassus
 Antonio Canales
+LEROY Matthieu
 Bernd Aloïs Zimmermann 
+Jean-Sébastien Mariage
+Mansour Rahbani
+Maxime Echardour
 Hector Gratton
 Michel Dalle Ave
 Laurent Batta
-Renata Pokupic
 Sven-Eric Johanson
 Jean-Louis Duport
+Gwennolé Rufet
+Hans van Oosterhout
 Henri Arène
 Britta Phillips
 Paul Beaufre
 C. Baillieu
-Pierre Attaingnant
 Renée Bernard
 Guennadi Rojdestvenki
 Edward Dusinberre
@@ -7096,51 +9451,67 @@ Johannes de Stokem
 Lambert Chaumont
 Charles Bafcop
 Antoine-Alexandre-Henri Poinsinet
+Graf Mourja
 Céleste Celsetti
 Ernest Cahen
+MALIDIN Philippe
 Robert Dowland
 Liza Lehmann
 Vincent Alberola
 Musava Minakov
 Brian Pollach
+Chantal Santon
 Petrus Hercules Brehy
 Kenneth J. Alford
-Enrico Macias
-Jean-Pierre Arnaud
 Lotfi Erraies
 Jean-Marie Lemarchand
 Jean-Charles Gandrille
-Daron Hagen
+Nicolas Saint-Yves
 Exupère de La Maniere
 Francis Jackson
+Mehdi El Hammami
 Gerónimo Giménez
-Antal Doráti
 Diego Minciacchi
 Serge Garant
 Herman David Koppel
 Rhené-Baton
-Joji Yuasa
 John Blackwood McEwen
 Ercole Bernabei
 François Magnier
 Juliette Folville
 John Duke
+Joaquin Riquelme Garcia
+Patrice Petitdidier
 Emmanuel Bondeville
+Ljupka Hadzigeorgieva
 Martin Berteau
+Alexis Kossenko
 Bernard de Bury
 Scott MacLeay
-Laurent Belissen
+Paul Coletti
+Christine Plubeau
+Alessandro Di Stefano
 George Malcolm
-Anna Netrebko
-Andréanne Paquin
-Daunik Lazro
+Nathan Berg
 Jean Hébrail
 Leopold Ashton
-Giovanni Battista Bovicelli
+Fadhel Messaoudi
+Alain Berlaud
+Antoine de Saint-Exupéry
+Aaron Jay Kernis
 Christophe Dumaux
+Yaron Deutsch
+Vincenzo Tozzi
 E. Bugnot
+Marcel Duchamp
+Jean-Pierre Beugniot
+Jurriaan Andriessen
 Jean Conte
+Margot Oitzinger
+Pedro de Escobar
+Françoise Enock
 John Neumeier
+Rachel Laurin
 Jit Samaroo
 Peter Mieg
 Evgenij Aronovič Dolmatovskij
@@ -7150,339 +9521,602 @@ Jack Wyllie
 Olivier Spiro
 Gerardo Gombau
 Salvador Brotons
-Émile Zola
+Christoph Timpe
 Maximilien Gardel
-Raymond Vaillant
+Eduardo Fabini
 Karl Höller
 Milt Jackson
+Gilles Deliège
 Marcel Bergmann
 Jacques Vogt
+Johann Pachelbel
 Claude Loyola Allgén
 Gottfried August Bürger
-Evaristo Felice Dall'Abaco
+Ivo Petrić
 Igor Bouin
 Alojzij Geržinič
-Pierre Véron
+Lucy Crowe
 Nicolas Courjal
-Karol Kurpiński
+Anne Pages
+Hans-Ulrich Treichel
 Paolo Quagliati
+Liane Foly
+Tanguy Menez
+Stephan Oliva
 Reinhard David Flender
+Michel Sendrez
 Diego de las Muelas
+John Cheetam
 Alain Bonardi
 Rune Glerup
-Marius Casadesus
+Hermann Lenz
 Alexandre Cellier
+Jean Molinet
+Samuel Sighicelli
 Georg von Bertouch
-Johannes Eccard
 Étienne Perruchon
 Rubén Fuentes
 Jules Brun
+Renaud Delaigue
 Gregorio Sciroli
 Giovacchino Forzano
+Johann Schobert
 Marilyn Crispell
 François-Guillaume Ducray-Duminil
 Willie Blind Johnson
+Paul Milliet
+Sebastian Danchin
+Claudio Ambrosini
 Almeida Prado
+Jean-Ghislain Maige
 Werner Heider
-Roger Matton
+Dino Olivieri
+Eric Echampard
+Jean-Marc Duchenne
+Monica Piccinini
+Michael Spyres
+Catherine Ambach
 Domingo Branda
+Laurène Durantel
 Louis Daunot
 Alexandre Soumet
 Arkady Ougritchitch de Trebin
 Frederic Cowen
 O. de Corny
+Étienne Siebens
+Kimmo Hakola
 Victor Kissine
+Raymond Radiguet
+Lucia Megyesi-Schwartz
+Mélanie Lévy-Thiébaut
+Jolente de Maeyer
+Patricia Petibon
 Anatole Bernardel
 Georg Forster
-Arnaud Dumond
 Aurelio Aureli
+Sébastien Labarre
 René Bruck
+Stefan Vock
 Gillian Keith
+Emilie Roy
 Louis Roquin
+Andrea Zanzotto
+Gérard Boulanger
 Jashanjit Singh
 Vivek R. Sonar
+Ismaël Margain
 Conrad Susa
 Marie-Élisabeth Cléry
-Ralph Benatzky
+Jean-Jacques Rousseau
+Aurèle Marthan
 Bernard Trontin
 Jules Baldran
+Alberto Savinio
+Mixel Etxekopar
+Thomas Duran
+Nikolaas Kende
 Ladislas Rohozinski
+Václav Kunt
 Jacques de  La Presle
-François-René de Chateaubriand
 Lucien Chevaillier
 Giuseppe Perosi
 Bernard Joyet
 Esprit-Joseph-Antoine Blanchard
 Mohamed Bajeddoub
 Camille Decreus
+John Metcalf
 Marguerite Cazelli
 Edouard Daniel
+Yves Rechsteiner
+Gian Francesco Busenello
 Erdmann Neumeister
 Francois Bazin
+François Donato
 Antonio Estévez
 Gerard Schurmann
+Sam Rivers
 Arthur Russell
+Wenchen Qin
 Roland Chagnon
+Hans Magnus Enzensberger
 Adrien Quaisain
+William Dongois
+Ben Bernie
+Paolo Bortoluzzi
+Giacomo Durazzo
+Johan Botha
 Nariné Yeghiyan
+Kirpal Gundula
 Gary Davis
-Pierre Petit
 M. Cavayé
 Finn Høffding
+Yvonne Naef
+Clifton Forbis
+Andrea Stefani
+Mathilde Caldérini
 Paul Blétry
+Michel Moraguès
 Giacomo Balbi
 Folke Strömholm
-William Blake
+Robert Boyle
 Michael Meschke
+Arabella Steinbacher
+Regula Mühlemann
 Johann Christoph Vogel
 Antonio Biffi
+Herbert Howells
+Earl Hines
+Jean-Claude Carrière
+Petra Malisková
 Jeanne Bernard
+george jean francois
 Barrie Cadogan
-Pierre Corneille
+Eddie Barclay
 Ingolf Dahl
+Julien-Fernand Vaubourgoin
 Nicolás Zabala
-Magdalena Anna Hofmann
+Teodor Ilincai
+Eve Payeur
+Dominique Lemaitre
+Elisa Point
+Héloïse Gaillard
+Johann Ernst Altenburg
+Jean Renoir
+Carole Bouquet
 Sophie Dufeutrelle
 Johann Gottlieb Goldberg
 George Templeton Strong
 German Goldenshteyn
+Jaroslav Vrchlický
+Julie Pasturaud
 Pierre Moulu
 William Ferris
+Pérez Prado
+Natacha Muslera
+Carlo Francesco Pollarolo
+Aleksander Lason
 Jean-Pierre Pilot
+Hervé Trovel
  Chinese pieces
+Kristine Opolais
+Alex Mincek
+Jacob Gade
+Alfred Prinz
 Adoniran Barbosa
-Antoine François Prévost
+Jean-Michel Caradec
+Michel Alexandre Broekaert
+Magdalena Hinterdobler
 Jules Bariller
+Ronald Samm
+Erin Wall
 Ruo Huang
-Avner Dorman
+Anna Simboli
+Fuyu Iwaki
 Johann Christian Schickhardt
 Mark Colwill
 Jeff Silverman
+Erwan Keravec
+Christian Tréguier
 Leadbelly
 Jayadeva
-Norman Dello Joio
 Marcus Miller
 Ollie Teeba
+Andrei Gridchuk
 Screamin' Jay Hawkins
 Arthur Coquard
+Robert Franz Arnold
 Traditionnel Arrangement Jacky Molard
 Hanning Schröder
-Terry Riley
 Louis Cassi
-Wilfred Owen
+Charles-Gaspard Delestre-Poirson
+Marcel Schwob
+Christine Abdelnour
 Francesco Ferdinando Arbesser
 Louis Langrée
-Albert Alain
+Cyrille Grenot
+Christian Altenburger
 P. Puig-Adam
+Georges Ulmer
 Jexper Holmen
 Marvin Gaye
+Sem Dresden
+Yasunori Kawahara
 Alireza Mashayekhi
 Manuel Quiroga
-Stanko Horvat
-Cecilie Ore
+Danijel Detoni
+Patricia Fernandez
 Henri Albertini
+Jesse Greer
+Rafael Angel Mira
 Juliette Noureddine
-Eugène Ionesco
 Christophe Guichard
+Steve Davislim
+Hugo Roussel
 Sanseverino
 Gerald Hugh Tyrwhitt-Wilson Berners
 Alonso de Mondéjar
 Franchino Gafori
 Filippo Taglioni
+Peter Brook
+Mihai Moldovan
 Dominique Lawalrée
-Giulio Strozzi
 Patrick Chadaillat
+Jean-François Duquesnoy
 Louis-Maurice de La Pierre
+Sergiu Celibidache
 Vladimir Bukac
 Mattia Vento
 Carlo Pallavicino
 Albert Moeschinger
+Gerhard Schröder
+Carlo Rizzi
 Angelo Berardi
+Marcel Tournier
+Florent Vintrigner
+Easley Blackwood
 Maurice Guillaume
 Fritz Werner
-Nicolas Testé
 José María Usandizaga
 Daniel Fortea
 Eduard Pütz
 Musa Baetov
+Enrico Mainardi
 Paul Caron
 Hermann Haller
-Lorenz Hart
+Rateau Salomé
+Elizabeth Watts
 Arthur Courquin
+Roberto Rossellini
+Anne Mercier
+Hervé Vilard
+Maja Solveig Kjelstrup Ratkje
 Jean Baur
+Steve Noble
+soupiron joel
 Giovanni Francesco Giuliani
 Mark Milhofer
-Babani Koné
+Claire Booth
+Kyle Ketelsen
 Kristjan Randalu
-Eduard Mörike
-Ray Charles
+Peter Kálmán
 Gaston Contant
-Tan Dun
 Jean Daetwyler
+Didier Puntos
+Gérard Berliner
 Yves Henry
-Michel Dimitri Calvocoressi
 Mary J. Blige
+Rudolf Mauersberger
+Seong-jin Cho
 Louise Narboni
 Paul de Caïeu
 Johann Stoss
 Henri Duvernois
+Manuel Nuñez Camelino
 Mathias Rüegg
-Otis Blackwell
+Stefan Zweig
+Matthieu Heim
 Blanche Bouttefroy
-Pär Lindgren
 Luke Jenner
 Ben Cullum
+Cat Stevens
 Lucien Contois
-Pascal Obispo
+Victor Clowez
+Charles d' Helfer
 Georges Barboteu
 Pierre-Barthélemy Gheusi
+Christa Wolf
+Maurice Tézé
+Borlet
 Josip Ipavec
-René Clair
+John Davis
+Veronika Panochova
+Anna Kiknadze
+Siegfried Borris
+Blaise Pascal
 Pierre Adam
+Louis Mercier
 David Charles Arnold
 Ha-Yang Kim
+Dominique Fonfrede
 Ramón Carnicer
+Ede Poldini
 Vlastimir Peričić
+Tahar Bouklifa
+Johann Nicolaus Bach
+Thomas Prévost
 Anne Perrier
+Peter Lorne
 Juan Navarro
+Sinead O'connor
+Rossen Gergov
 Antonio Caprioli
+Didier Goret
+Juan Manuel Canizares
+Pablo Márquez
 Jean-Michel Bossini
 J. Capell
-Jonathan Biss
+Keyvan Chemirani
+Steven Cole
+Georg Friedrich Daumer
 Sugana Ram
-François Meïmoun
+Schwamm Teresa
+Valérie Gabail
 Emile, Edouard Cambillard
-Jakub Hrůša
 Teizo Matsumura
+Stephen Spender
 Gvantsa Buniatishvili
+Elton John
 Emilio De' Cavalieri
-Buddy Holly
+Gregory Kunde
+Gaetano Guadagni
 Oren Bloedow
+Dimitri Liss
+Robert Getchell
 Bruno Gallier
+Samir Odeh-Tamimi
 Juliusz Zarębski
 Pierre Barbaud
 Pierre Costa
+Nat King Cole
 Pietro Nardini
 Zequinha Abreu
+Randall Swingler
 Friedrich Berr
+Gerhard Müller-Hornbach
 Ram Prasad Mishra
-Pierre Cogen
+Louis Ducreux
+Patxi Montero
 Jean-Louis Dhaine
+Walter Zimmermann
+Martin Codax
 Santos Chillemi
 Anna Andreevna Ahmatova
 Charles Delacour
+David Ludwig
 Corrado Pasquotti
 Vâčeslav Artëmov
+Pierre Dervaux
+Théophile Ysaÿe
+Claude Niort
+Philippe Rombi
 Henri Mulet
-Charles Dollé
+Christoph Cech
 Robert Aldridge
-Jérôme Ducros
+Diego Matheuz
+Thomas Johannes Mayer
+Bastien Still
+Chantal Perraud
+Julien Behr
 Mihhail Gerts
 Gustavo Ernesto Campa
 Didier Rimaud
+Martin Stadtfeld
+Edmond Haraucourt
+James Newton Howard
 Pedro de Tafalla
 Francis Casadesus
-Cengiz Tanç
+Jerry Leiber
 Antoine de Choudens
 Francis-Paul Demillac
+Anneleen Lenaerts
 Roger Eno
 Emile Bergeret
-Jürg Baur
 Federico Olmeda
+Montéhus
+Claude Ledoux
 Georges Keraghel
 Martin Friedrich Cannabich
 Franz Tournier
+Johannette Zomer
+Sylvie Moquet
+François Eckert
 Michel  Pignolet de Montéclair
-André Amellér
 Antoine Henry Lemoine
+Guido Balestracci
 Giovanni Battista Draghi
 Rochereau
 Clara Maïda
 David Fulmer
+Carlo Ambrogio Lonati
+Paulino Salgado
+Charles Antoine Leclerc de la Bruere
+Emiliano Gonzales Toro
 Véronique Gens
 Marius Baggers
+Olga Kindler
 John Lewis
+Federico Ibarra
+Louis-Joseph Marchand
+Joao Pedro Cabral
+Claude Boyer
+Christel Rayneau
+Klara Ek
 Poul Rovsing Olsen
+Bob Mintzer
 Alexandre Denéréaz
+Anton Garcia Abril
 Johann Stahel
+Catherine Verhelst
+Vladimir Sommer
 David Ctiborsky
-Maria Joao
+Jules Lemaître
+Edgar Lee Masters
+Vache Sharafyan
 Luiz Álvares Pinto
+Miles Okazaki
 Georges Callemien
-Till Fellner
+Tamás Bubnó
+Jean-Pierre Claris de Florian
+Theresa Holzhauser
+Hyo-Sun Lim
+Karl Leopold Röllig
+Désirée Rancatore
 Werner Wolf Glaser
-Gaelle Mechaly
 Georges Aubanel
+Jules Lacroix
+Edouard Glissant
 Giovanni Battista Casti
 J. Caullet-Vignerot
+Auguste Maquet
 Paul Siraudin
+Ary Barroso
+Johann Ludwig Ferdinand von Deinhardstein
+Giovanni Pacoloni
+Thibault Vieux
+Georges Bernanos
 Jean-Pierre Guignon
 Ike Turner
 Christoph Förster
+Fabio Sartori
+Luigi Legnani
+Vladimir Stoyanov
 Christian Loigerot
 Quincy Porter
 Yasuchi Akutagawa
+Denis Zhdanov
 Francesco Maria Paglia
-Leon Fleisher
+Jacques Di Donato
 Doudou Ndiaye Rose
+Teo Gheorghiu
+José Castel
 Lionel Marchetti
+Pierre Morin
 Julien Belin
 Roger Cohen
+Copi
+François Meyer
 Bhawani Shankar
-Étienne Daho
 Vincenzo de Michelis
 Mélissa Laveaux
+Danjulo Ishizaka
+Ales Hustoles
+Kerstin Avemo
 Gui d'Ussel
+Wendy Dawn Thompson
+Jocelyn Willem
+Ruby Hughes
+Christoph Friedrich Bretzner
+Vykintas Baltakas
+George Herbert
 Kalle Kuusava
 Enrique
-Robert Russell Bennett
+José Luis Barreto
+Hélène Mercier
+Marie-Claire Alain
 Andreas Fervers
+Edward Boguslawski
+Maxime Tomba
 Michael Jamieson Bristow
-Josef Wenzig
+Jérémy Pasquier
+Ugo Guagliardo
+Christophe Desjardins
+Antoine Ouellette
+Kevin Hays
+Jacques Brunet
 Jean-Louis Cadée
 Beatriz Ferreyra
+Philippe Nahon
+Roland Auzet
+Hana Blazikova
 Nicolas Hotman
 Louis Péricaud
+Felicity Lott
+Bettina Skrzypczak
+Joël Versavaud
 Johann Peter Salomon
-Fabien Hyon
+Manuel Couturier
 Ionel Petroï
+Paulo Aragao
 Marieke Blankestijn
  The Gloaming 
 Alfred Capri
+Tommy Zwedberg
 Yngve Sköld
+Martin Rappeneau
 Francis Jammes
+Gregory Corso
+Jon Fosse
+Gilles Burgos
 Giuseppe Soccio
-Jean-Louis Adam
+Pierre Farago
+Friedemann Weigle
 Olivier Lallouette
 Louis Dupuy
 Yves Mirande
-Jérôme Noetinger
 J. B. Barbirolli
+Cécile Sauvage
 Adrien Couget
+Bertrand Peigné
+Paul Campbell
 Marco Ciannella
+Mischa Elman
+Jeanne Maisonhaute
 Hermann Schroeder
+Anne-Marguerite Werster
+Enrique Crespo
 Joseph Charreire
 Bernard Stevens
+Blas de Otero
+Albert Le Guillard
 Yves Gilbert
-Antonio Bibalo
+Denys Bouliane
 Edmond-Ludovic Casanova
+David Hill
 Jean-Pierre Sciau
 Reinhard Oppel
+Michelangelo Boccardi
+Anna Pennisi
+Chris Hazell
+Cornelia Horak
 Stéphan Oliva
+Thomas Daniel Schlee
+Mehenna Mahfoufi
+Jacques Bastello
 Gérard Presgurvic
-Inger Dam-Jensen
-Maria Bayo
+Chiara Pieretti
+Giuseppe Ungaretti
 Marie Modiano
+Mike Stoller
+Pietro Antonio Giramo
 Ivan Markovitch
+Thierry Pastor
 Théodore Szántó
-Sándor Balassa
+Clémentine Margaine
+Jean-Christophe Béney
 Doming Lam
+Tomas Tomasson
 Miguel Juan Marqués
+Matthieu Le Roux
+Laurent Touche
+Stefano Secco
+Pierre Dumage
 Ljubica Marić
 Donald Erb
-John Chowning
+Patricio Villarroel
+Bernard Neuranter
 Pierre Grillet
 Edmond Chérouvrier
+Bach Lydia
 Peter La Farge
 Bibliothèque nationale de France
 Octavian Nemescu
@@ -7491,504 +10125,849 @@ Hinrich Conrad Kreising
 Jean-Christophe Adam-Walrand
 Melchior Schildt
 Jerry Garcia
+Andrew Grams
 José Maceda
 Friedrich Wanek
+Aimo Pagin
 Patrick Lemoine
+Sarah Breton
 Pierre Girard
+Edmond About
 Robert Aitken
 Claude Baker
 Juan  de Marcos 
-Eliška Krásnohorská
+Zoé Karlikow
+Paul Henrion
 Boghos Gelalian
+Hélène Hébrard
+Ernst Fischer
 Louis Arène
+Norma Basso
 Antonio Maria Nava
+Harry Partch
+Emmanuel Bex
 Levon Tadevosovitch Atovmian
 Giacomo Rossi
+Ataah Adoté
+René de Obaldia
+Bruno Rigutto
 Wen-chung Chou
 Nathalie Biarnés
+Kevin Le Bars
+Gabriel Sivak
+Émile Augier
 Mario Stantchev
 Marie Bénard
-Cali
+Jan Novák
+Aurélien Richard
 Marie-Madeleine Duruflé
+Nora Tabbush
 Alex North
+Harry Williams
 Denis Blisson
+Carlo Ricciotti
 M. Brossel
+Éric Reinhardt
+Roger Pouly
+Tielman Susato
 Jacobus Vide
-Urmas Sisask
 Kenny Clarke
 Mamado Tavalloev
-Jacques Lanzmann
+Conrad Ferdinand Meyer
+Naaman Sluchin
+László Hudacsek
 Mario Garuti
+Vinícius de Moraes
 Joseph Bablon
-Johann Bernhard Bach
+Pancrace Royer
 Alfonso Esparza Oteo
 Janco Nilovic
+Kurt Streit
+Bud Green
 Jarmo Sermilä
-Konstantin Wolff
+Roland Topor
+Giani Esposito
 Nuccio D'Angelo
 Henry Reymond
+Arturo Toscanini
 Victor Babin
-Christian Felix Weisse
+Joel Rust
 Dmitri Yanov-Yanovsky
 Jaroslav Kocian
-Sébastien Martel
 محمد ابن حمد ابن حسین حسینی خطیبی بکری بلخی
 Bertrand Peigné
+Arnold Wesker
 V. B. Colonna
 Frank Michael Beyer
 Alexander Reinagle
-Rémi Fox
+Guillaume Vincent
+Marek Kopelent
+Gaspar Fernandes
 Wolfgang Holzmair
 Greta Dereyghere
+Paul Groves
 Pascal Amourdedieu
-Fred Frith
 Theodor von Schacht
+becue cyrill
+Clara Iannotta
+Thibaud Couturier
+Alphonse Allais
 Juan José Falcón
 Adam Krieger
+Lucile de Chateaubriand
 Ch. Bauderlique
+Dale Hawkins
+Éric Nonn
 Johann Heugel
+Nicolas-Étienne Framery
+Ann-Beth Solvang
 Balwant Singh
 Josse-François-Joseph Benaut
 Francois Duval
 Luca Lombardi
 Jules Herman
 Jules Costé
+Terry Wey
+Tania Justina León
 Alfred Cremnitz
 Raúl Maldonado
 Ana Yepes
+Stig Anderson
 Ben l'Oncle Soul
-Alphons Diepenbrock
+Kostas Smoriginas
 Jean Schulteis
 Alfred Amadei
+Michel Frantz
+Melih Cevdet Anday
 Robert Lucas Pearsall
 Joseph Starzer
-Jasser Haj Youssef
-Vladimir Horowitz
-Antonio Ghislanzoni
+Jean-Louis Bory
 Josselin Carré
+Robert Charlebois
+Gene DePaul
 Francesco Tristano
-Sacha Guitry
 Johann Gottfried Eckard
+Giacomo Sacchèro
+Magda Mayas
 P. de Villiers
-Gerald Barry
-Armand Lunel
-Michel Pelay
+Francois Bréant
+Benoît Menut
 Héraclius Djabadary
+Marceline Desbordes Valmore
 Derek Nievergelt
 Ben Castle
-Ingo Metzmacher
+Jacques Cerf
+Patrick Blanc
 Carlos Lopez-Buchardo
 Gérard Massias
-Alma Mahler
+Jacques Demy
 Daniel Lazarus
-Antonio Maria Abbatini
 Pons de Capdueil
+Antonio García Gutiérrez
 Alberto Da Ripa
 Philippe Boivin
+Michael Thomas
 Detlev Müller-Siemens
+Patrice Sciortino
+Rosemary Standley
+Alfonso Broqua
+Rosa Mayreder
+Franco Evangelisti
 Gustave-Jules Collongues
-Tim Rice
-Alfred de Musset
 Albert Cougoul
 Ange Flégier
 Josef Eriksson
+David Jisse
+Hasse Poulsen
+Peter Mattei
+Lester Young
+Joseph Kessel
 Catherine Lara
-Rodion Chtchedrine
+Eva Dell'Acqua
 Adolf Wiklund
 Henry Fresneau
+Reinbert De Leeuw
 Lodovico Baccilieri
 Franco Ferrara
-William Butler Yeats
+Francis Planté
 Léo Sachs
-Nicolas Vérin
 Juan Bautista Plaza
+Ulvi Cemal Erkin
+Petrona Martinez
 Jeanne Cherhal
 Stevan Kovacs Tickmayer
+Matthias Spaeter
 Franck René
 Vincent Hänni
 Cat Power
+Deborah Nemtanu
 Sylvain Thomas
 Jean Fauque
+Wiebke Lehmkuhl
+Giacomo Manzoni
+Guillaume de Chassy
+Detlef Bratschke
+Christopher Purves
 Paul Boisselet
+Benny Sluchin
 D. C.
-Frédéric Kahn
 Laurent Brun
 Giovanni Francesco Busenello
+Michel Brusselmans
 Wilhelm Popp
 Thierry de Mey
+Guy Wood
+Ikuyo Nakamichi
+Benjamin Youssoupov
 Jacques Diennet
+Tadeusz Szeligowski
+Ry Cooder
+Fels
+Rolf Martinsson
+Jean Prodromidès
+Franz Kugler
+Agnès Bihl
+Nicolas Maire
+Dimitri Terzakis
 Adam Benjamin
-Tzvi Avni
+Salomone Rossi Ebreo
 Christian Villeneuve
 Hippolyte Boutin
+Julian Lloyd Webber
+Henri Martinet
 Giacomo Finetti
+Ami Rogé
 Andrew Ross
+Caitlin Hulcup
 Gianni Sicchio
+Vaclav Remes
 Larry Austin
 José Bussac
+Lionel Daunais
 Giovanni Lotti
 Lars Karlsson
 Antoine Marquis
 Ambroise Bagarre
-René Bernier
 Claudio Carneyro
 Philip Hacquart
+Eric De Lamarter
+David Byrne
+Christophe Olivier Maudot
 Helmut Oehring
+Jules Lasaïgues
 Richard Tsang
 Ala.ni
  Para One
+Giangiacomo Pinardi
 Paul Etienne Victor Wachs
 Nicolaus a Kempis
+Albert Huybrechts
+Mehdi Belhaj Kacem
 Enza Tsuruzawa
 Ivan Spasov
-François-Augustin Paradis de Moncrif
 Roman Hoffstetter
+Christine Knorren
 Ákos Rózman
+Michael Collins
 Yves Jamait
-Sigurd Lie
 Josep Soler
-Giuseppe Matteo Alberti
+Antoine Pol
 Édouard Batiste
+Anne Boleyn
 Hendrik Andriessen
 L. Anotta
-Thurston Dart
 Ray Ventura
-Catherine Cournot
+Bruno Martino
+muller patrick
 Pascal Arroyo
+Daniel Ciampolini
+André Thiriet
 Girolamo Dalla Casa
 David Gompper
 Christian Pezold
+Jean Giono
+Jen Shyu
+Cédric Pescia
 غیاث الدین ابو الفتح عمر بن ابراهیم خیام نیشاپوری
+Michelangelo Galilei
 Louis Cribeillet
+Pilar Jurado
+Benjamin Scherer
+Friedrich Kind
+Giacomo Carissimi
 Alexandru Hrisanide
 Bernard Michel
+Susan Gritton
 George Lloyd
 Robert Spencer
 Nicolas Formé
+Didier Denis
 César Guerra-Peixe
-Bram Van Camp
+Pavol Breslik
 Barrett Strong
 Felice Bambini
+Vladislava Horovská
 Roger Reynolds
+Gabriel Yacoub
 Gurminj Zavqibekov
+Wolf Biermann
+Enkelejda Shkosa
+Balz Trümpy
+Pierre Guillois
+Arnaud Petit
+Linda Bouchard
+Pierre Bertin
 Kyungho Kim
 Francesco Saverio Giay
+Robin Ticciati
 Alain Celo
+Elena Galitskaya
 Charles de Champmoynat
+Jean-Sébastien Dureau
+Guido Agosti
 Александър Текелиев
 Jack Lawrence
 Nino Machaidze
-Dubravko Detoni
+Denis Mortagne
+Chantal Santon-Jeffery
+Florian Boesch
+Paavo Heininen
+Eduard Tubin
+Henri Troyat
+Alain Le Douarin
 Michel Sendrez
 Jean-Georges Kastner
-Enrico Golisciani
+Kathleen Wilkinson
 Giovanni Chinzer
 Sam Yahel
 Gabriela Lena Frank
+Jérémie Fèvre
 Evan Ziporyn
+Emmanuel Rousson
 Shubha Mudgal
-Glenn Miller
-Henry Desmarets
+Joël Jouanneau
 Allen Toussaint
+Hugo Reyne
 Thierry Thibault
+Dalibor Karvay
 Terry Edwards
+Hélène Vacaresco
+Auguste Barbier
 Jean-Guillain Cardon
+Johnny Hallyday
+Christian Ritter
 Jean Lenoir
-Alfred Bachelet
+Wal-Berg
 Frédéric Delaffond
 Aristée Astruc
+Anthoine de Bertrand
 Simeon Pironkov
+Barbara Paul
 Hank Williams
+Olivier Bardot
 Éric Heidsieck
+Richard M. Jones
 Raymond Carlier
-August von Kotzebue
 Jean-Jacques Fimbel
  Chants et musiques de Constantinople
-Éric Vinceno
 Necil Kâzım Akses
 Rika Suzuki
+Michael Oesterle
 Pierre Garat
 Félix Baraton
 Horia Surianu
-Bechara El-Khoury
-Georg Christoph Biller
+Domenico Modugno
+Ray Bryant
+Julián Arcas
 Diane Baysang
 Andrew Oldham
+Natalia Pegarkova
+Mathieu Perrot
+David Pavelka
+Pierre Veber
 Robert Ramsey
-Jean Boyer
 Tsippi Fleischer
+Étienne-Bernard-Joseph Barrière
 Cesare Ciardi
-Jan Klusák
+Constantinos Carydis
+Gregor Sigl
+Theodore Holland
+Leopold Stokowski
 Buxton Orr
-William Brade
+Erasmo Treglia
+Claus-Peter Flor
+Carl Haffner
+Serge Baudo
 Alain Brochot
+John Milton
 Nicolas-Jean Le Froid de Méreaux
+Joseph Carver
 Marie-Martin Marcel de Marin
 Ch. de Balorre
-Tomás Gubitsch
 René Morax
-Chen Reiss
+François Sabatier
 A. Challe
+Stéphanie Révidat
 Nathalie Ballarini
 Katsuri Chaurasia
+David Lynch
+Christelle Pochet
 David Post
 Michèle Bokanowski
+Gerald Marks
 Edmond Arnaud
+Henri Jarrié
+DUBREUIL Hervé
+Maurice Magre
 H. Bogé
+Paul Watkins
+Hermann Suter
+Marc Erbetta
 Valentin Bakfark
+Jean-Luc Tardieu
 Pierre Colin
 Franz Seydelmann
 Louis Mérante
+Teng Li
 John Stainer
+Alec Wilder
 Alexandre Georges
 Gaetano Roccaforte
 Howard Devoto
-Pierre-Martin Juban
 Bartholomeus Brollo
-Gilles Vigneault
+Michael Gees
 François Leclère
 Speranza-Camusat
-Farinelli
 François Rousselot
 Nico Dostal
+Roland Wood
+Alberto García
+Glen Tetley
 Éliane Aberdam
-Vincenzo Tommasini
+Xavier Thibault
+Édouard Plouvier
+George Lopez
+Peter Maxwell Davies
+Gunhild Alsvik
+Luca Pisaroni
 Ryan Francis
+Wade Matthews
 Victorien Vanoosten
-Joe Dassin
 Jacques Charlot
 John Foulds
 Bobby Capo
-Jules Prével
+Joseph Pranzer
 Claire Renard
 Vladislav Aleksandrovich Uspensky
-Hans Christian Andersen
 Emilio de Cavalieri
-Paul Valéry
+Alexis Weissenberg
+Blandine Folio Peres
 Birgitte Alsted
+Michaël Grebil
 José Moreno Polo
 Luigi Cortese
+Joseph Darcier
 Giovanni Maria Nanino
 Andreas Kneller
+Susan Buirge
+Xavier Darasse
 Sébastien Maigne
 Charles de Courbes
+Hugo Claus
+Biréli Lagrène
 Julien Tiersot
 Philip Rosseter
-William Herschel
+Georg Zeppenfeld
+Adam Mickiewicz
 Marek Stachowski
+Katarina Jovanovic
+Richard Rogers
+Christian Gouinguené
+Denzil Best
+Norman Demuth
 Eugène Crispin
 René Charles Guilbert de Pixérécourt
+Marianna Pizzolato
 Javier Echecopar Mongilardi
 Wing-wah Chan
 David Frazier Jr
-Wolfram Brandl
+Hélène Fauchère
 Jacques Mendel
+Gillian Whitehead
+Florent Maupetit
 Oldrich Frantisek Korte
+Paul Dresher
 Georg von Reutter
 Augustin Kubizek
+Emilio de Cavalieri
 Luigi Mancinelli
 Henri Brod
-Fabien Lévy
+Osmo Vänskä
 Paul Hillemacher
-Giovanni Gabrieli
+Émile Guimet
+Jean Marie Cottet
+James Tenney
 Julien Reynaud
-Ruggero Raimondi
+Wilhelm Schwinghammer
 Annie Dutoit
+Véronique Marin
 Frédéric Unterfinger
+Alejandro Meerapfel
+Jiri Spacek
 Oleksandr Košic´
 Florian Hoffman
-Henri de Régnier
+Lucio Dalla
+André Derain
 Charles Conord
 Joseph Merk
 Ahti Sonninen
-Muzio Clementi
+Francesco Landini
+Neeme Järvi
+Vittorio Alfieri
 Dmitrij Nikolaevic Smirnov
 Daniel NG chun-hoi
+Karolina Strasilova
+Louis Payen
 Miguel de Ambiela
+François Charruyer
 E. Beïsson
 Daniel Grossi
 Gérard Lecointe
 Paul Éluard
 Михаил Плетнев
+Pharoah Sanders
 Philibert Chatagnon
 Bob Van Asperen
+Antoine Bruhier
+George Hurst
+Federico Fellini
 Frederick Karam
+Vesna Parun
 Louis Bretonnière
+Andrew Foster-Williams
+Gaston Brenta
+Paolo Fanale
+Marzena Komsta
+Julien Decoin
+Vincent Planes
 Pierre Chagnon
 Joseph Triebensee
-Lepo Sumera
+Carola Bauckholt
+Hans Adolph Brorson
 Stanislas Champein
-Georges-Elie Octors
+Anna Dennis
 Sieur Griffoniatti
+Samson François
+Brindley Sherratt
 Eino Tamberg
 Baldassare Donato
 Marceline Desbordes-Valmore
+Peter Sellars
+Antonio Lai
+Alain Lubrano
+Jacques Wildberger
+Marie-Ange Petit
 Paul Fetler
+Jean-Marc Laureau
+Philippe Perrin
 John Relyea
-Gérard Manset
+Jacques Lacarrière
 Lucien Goethals
+Pablo Ferrández
+Juliana Hodkinson
+Sergei Semishkur
+Rolando Villazón
+Jean-Philippe Navarre
+Martina Serafin
 Josef Kohaut
 G. Cherubini
 Marie-Alexandre Guénin
-Ross Harris
+Sanja Bizjak
 A. Brétinauld de Méré
 Francesco Bendusi
 Zez Confrey
+José Gallardo
+Michel Pozmanter
+Samantha Montgomery
 Pietrobono
-Jef Gilson
+Pascal Niggenkemper
+Angelo Maria Benincori
 Ester Mägi
 Louis Bohlmer
+Henri Vieuxtemps
 Nicolas Daneau
+Olav Berg
 Ann Peebles
 Pierre Droual
-Mayra Caridad Valdés
+Kudsi Erguner
 Joan La Barbara
 Narcisse Carbonel
 Carlos Jiménez Mabarak
+Georg Büchner
 Jean-François Lallouette
 Alessandro Liberatore
+Smagul Umbetbaev
+Pietro Borradori
 Alieh Khan
+Stéphane Caillat
+Roger Muraro
+Marek Zwiebel
+José Afonso
 Franz Breuskin
 Juliette Chailloux
+Marc Garcia Vitoria
+Denis Bosse
+Guido Menasci
 Ezra Pound
  Nabarlek
 André Modeste Grétry
+Nicolas Charlier
 Jean-Louis de Lully
 Robert Meigret
 Feist
+Dan Bigras
+Svetla Vassileva
 George C. Baker
+Florent Renard-Payen
 Léo de Bruffier
 Stefano Pavesi
+Fred Adison
+Alberto Malazzi
+David Willcocks
 John Hawkins
+Grazio Braccioli
+Louis Alter
 Octave Juste
 Nicolas Grenon
 Andreas de Florentia
+David Chaillou
+José Manuel López López
+Michelle Tellier
 Adam de Saint-Victor
-William Busnach
+Nels Lindeblad
+Amédée de Beauplan
 Guglielmo Ebreo
+Michael Edwards
 Gérard Salesses
 Daniel Ping-leung Law
 Guy Klucevsek
+Lucien Capet
 Estêvão Lopes Morago
+Roy Hargrove
  VI. LES SOLITUDES - LE PROCÈS
+Piers Hellawell
+Mária Celeng
 Emmanuelle Franc
 Johan de Meij
+Edvard Munch
+Alan Bush
+Hubert Nyssen
+Jan Truhlar
+Jacopo Peri
 Gustave Collignon
 Félix Bayle
+Eric Porche
 Blixa Bargeld
+Willem Jeths
+Christophe Fel
+Pierre Favre
 Alex Beaupain
-Daniel Johannsen
 Diego Moreno
+Vincent Novello
+Klaus Ager
+Mareike Schellenberger
 Werner Van Mechelen
+Jean-Bernard Dartigolles
+Jacques Champion de Chambonnières
+Sophie Gent
+Francesco Sacrati
 Jean-Baptiste Rochefort
+Cyrille Gerstenhaber
 François Daudin Clavaud
+Frantz Loriot
+Georg Kaiser
 Estil C. Ball
 Kazuhiro Morita
+Thomas Goepfer
+Jean Epstein
+Suzanne Stephens
+Homero Expósito
+Patrick Doyle
+Elisabeth Hauptmann
+Claudy Malherbe
+Pascal Westrelin
 Johann Rudolf Zumsteeg
-Aldo Brizzi
+Jörgen Van Rijen
 Józef Wieniawski
+Chris Potter
 Henry Rowley Bishop
+Zsolt Durkó
 Franck Ticheli
 Nicolas Métru
 Christine Jeandroz
+Evelina Borbeï
 Marcel Labey
+Shlomo Mintz
 Douwe Eisenga
-Sofia Goubaïdoulina
+Hossam Mahmoud
 Richard Loqueville
+Lothar Zagrosek
 Miguel de Fuenllana
 Justin Heinrich Knecht
 Eduard Francovič Napravnik
-Caroline Marçot
 Florian Johann Deller
+Zoltán Peskó
+Olivier Marron
 Guihem Worms
+Alejo Carpentier
 Leonid Mihajlovič Lavrovskij
 Vito Žuraj
 Yves Verne
 José Avilès
+Michael Jackson
+Pigault-Lebrun
+Pierre Bouteiller
 Marcel Cariven
+Ambroise Thomas
 Yojo Christen
+Vineta Sareika
 Giulio Caccini 
+Lionel Bord
 Charles Henri de Blainville
 Zoltan Farkas
-Meredith Willson
+Gyula David
+Chérif Bitelmaldji
 Luanda Casella
 Nicolas Viel
 Luigi Hugues
 Eugen D'Albert
-Thibault Noally
+Gérard Layani
+leroux matthieu
 William Chaumet
 Simone Molinaro
-Habib Yammine
+Emile Prudent
+Louis Diémer
 Ignacio Jerúsalem
+Ernst Bechert
 Anne Germanique
 Frederick Frahm
 Charles Bénet
 Pedro Humberto Allende
+Eckart Runge
+Emmanuel (Musique) Blanc
 Vincenc Mašek
-André Hellé
+Denis de Rougemont
+Richard Wernick
+Isabel Soccoja
+Sara Hershkowitz
+Olivier Charlier
 Jean-Luc Therminarias
+William Mathias
 Miguel de Aguilar
 Giovanni Battista Gervasio
+Michele Hendricks
 Lisa Beckley
-Newell Chase
 Ignacy Friedman
-Santiago de Murcia
-Alan Ewing
+Fernando Fiszbein
+Liquissone Juliasse
+Zdenek Lukas
+David Alberman
+Paul de Musset
+Cassandre
 Константин Дмитриевич Бальмонт
+Alexander Chaushian
+Jennifer Borghi
 伟 孙
 René André
-Tim Buckley
+Jean Paul
 Henry Butler
 Heinz Wehrle
+Frédéric Macarez
+Paul-Heinz Dittrich
 Nicolas Dôthel
+Lewis Allan
+Dizu Plaatjies
+Romain Champion
 Mesías Maiguasha
-Tigran Mansurian
 António da Silva Leite
 Jessica Darling
 Francisco Javier García Fajer
+Pierre-Jean Croset
+Carine Séchaye
 Giovanni Antonio Piani
+Jeff Ballard
 Moniot de Paris
+Jérôme Combier
 Alin Anca
 Peeter Vähi
 Aki Nakamura
+Philippe Hériat
+Adam Cioffari
 Gerald M. Shapiro
 Noël Rivet
 J. Aberle
 Leticia Cuen
+Markus Hoffmann
 Claude Cordier
 Gaetano Pugnani
 Victor Bretonnière
-Aphex Twin
 Rodrigue Janois
 William Topham
+Luigi Tenco
+Elisabeth von Magnus
 Juan Álvarez de Almorox
+Émilie Nicot
+Richard Perrin
 Marcos Fink
 Franco Mannino
 Lucien Battaglia
+Rodney Gilfry
+Émile Damais
 Manuel Fernández Caballero
+Mario Bua
+Eric Martin
+Serge Rezvani
 François Cosset
+David Wilson Johnson
 Swan Hennessy
 Manuel Valls
 Kurt Schwertsik
 Andy Pape
+Brett Polegato
+Denis Diderot
 George Benjamin
+Louis-Emmanuel Jadin
+Pavel Nikl
+Gaspard Ferret
 Stéphan Bordèse
+John Edwards
 Aleksandr Ilʹič Ziloti
 Alessandro Sbordoni
+Robert Pinget
+Philippe Perrin
+Francesco Demuro
 Paul Bonneau
+Pierre Perret
 Gino Paoli
+Édouard Montagne
 Dobri Ivanov Hristov
-Bobby McFerrin
-Alessandro Stradella
+Jean de La Ville de Mirmont
+Stephen Collardelle
+Stéphane Baunach
 Barrault de Saint André
 Sky Murphy
 Arthur Thomassin
 Jaap Van Zweden
+Barbara Vignudelli
+Stephan Van Dyck
 Chris Dench
+Petra Vilankova
+Ingrid Perruche
 Lei Liang
-René Brancour
+Josquin Lebloitte
 Bruno Gillet
 Anaïs Spiro
+Burrill Phillips
 Gaetano Andreozzi
 Girolamo Frigimelica Roberti
 Václav Gunther Jacob
@@ -7996,66 +10975,101 @@ Márk Rózsavölgyi
 Sergej Barhudarân
 Isabelle Couvreux
 Florentin Aubry
+Marie-Louise Bischofberger
+David Patrois
+Michiko Takahashi
+David Wikander
 Ramon Lazkano 
+Hermann Zilcher
 Paul-Marie Masson
 Jeanne de Cardevacque
 Guillaume d'Amiens
+Jean
+Élie Wiesel
 Dmitri Slobodeniouk
-Isabelle Cals
 Robert Franz
+Thomas Christian David
 Bernard Lallement
 Samuel Burstin
+Henning Kaiser
+Arthur Dandelot
+Michel Follin
 Percy Sherwood
+Joseph Sulzer
 Delphin Strungk
 Renato Brogi
+Pierre Chépélov
 Silvia Alvarez
+Christian Poltéra
+Roger Waters
 Heinrich Sutermeister
 Marie-Louise Girod
 Gérard Calvi
-Silvio Rodriguez
-Walt Whitman
+Émilie Lesbros
+Hanna Weinsmeister
+Sylvain Joseph
+Christophe Grapperon
+Antonio Sarrier
 Benoist-Treynet
-Big Bill Broonzy
-Olga Pudova
 Pietro Andrea Ziani
 L. Dassonville
-Noël Hazebroucq
+Milton Ager
+Évelyne Girardon
 Çesk Zadeja
+Karim Kacel
+Mary Webb
 Joséphine Colas
 Patrick Ruelle
+Tarek Matmat
+Erroll Garner
 Angelo Corbellini
+Mikel Urquiza
 Yosif Ketchakhmadze
-Dante Alighieri
 Adolphe Barincou
 François de La Feillée
 Thomas Moore
 Andreas d' Ath
 Johann Strauss II
 Patrick Zimmerli
+Haeran Hong
 Matan Porat
+Nahuel Di Pierro
+Loys Masson
 Philipp Christoph Kayser
+Geneviève Strosser
 Julien Clément
+Giovanni Targioni-Tozzetti
 August Söderman
+Christophe Gaugué
+Jean-Michel Ribes
 Sebastian Knüpfer
-Sully Prudhomme
+Alexander Briger
+Francis Burdett Money-Coutts
+Guy Marchand
 C. Cadot
+Xavier Boisselot
 Charles Levadé
 Martin Barral
-Sébastien Marq
-Kaspar Förster
+Lidia Vinyes Curtis
+Athanase Kircher
 Henri Berény
-Giacomo Francesco Bussani
 Léon Battu
+Ignaz Franz Castelli
  La Susi
+Luigi Bassi
 Anaïs Bertrand
 Giovanni Paggi
+Olivia Robinson
+Ji-Min Park
+gazza adrien
+Jean Mereu
 Arnaut Daniel
-Eva Zaïcik
-Richard A. Whiting
+Anna Destraël
 Dickon Hinchcliffe
 Luigi Crippa
 Félix Máximo López
 Frederick Fairbanks
+Anna Göckel
 H. Owen Reed
 Jon Anderson
 Jacques-Georges Cousineau
@@ -8063,280 +11077,454 @@ Péter Tóth
 Karl Doppler
 Norbert Jürgen Schneider
 Christophe Minck
-Francis Dhomont
 Gyula Orendt
+Tyrone Downie
+Franck Leguérinel
+Alessandro Melchiorre
+Laurence Cummings
+Simona Hurnikova
 Gioseffo Guami
 Sally Galet
-Abdelkader Chaou
 Gus Kahn
+Vladimir Dukelsky
 Bernard Bonnery
+Dorothea Röschmann
 Amédée Rasetti
 Gabrio Taglietti
-Judith Weir
+Yuki Kolké
+Stefan Mendl
 Adolf Jensen
 Elisabeth Fleming
 L. G. Choulet
+Florence Cioccolani
+Marcel Despard
 François Morel
 Reine Jönsson
 Gérard Jouannest 
 Henri Contet
 Pat Metheny
+Henri Debs
+Michael Barenboim
+Zaza Fournier
 Yihan Chen
-Peggy Lee
 Gideon Lewensohn
-Ilse Eerens
 B. Bals
 Lars-Erik Rosell
 Sophie Burnichon
+Guy Reibel
 Samuel Mareschall
-Alain Aubin
 Sheng-shih Lin
 Johann Georg Heinrich Backofen
-Rod Stewart
-Sunhae Im
 Johann Heinrich Schmelzer
+Bernard de Bury
+Andrew Gourlay
+Mi-Sa Yang
 Alberto Williams
 Yun Pom Ju
-Blaise Cendrars
 Giulio Segni
+Jacques Calatayud
 Euphrasie Bertini
 Marius Monnikendam
 Émile Naoumoff
+John Nelson
+Yann Orlarey
 Friedrich Silcher
-Christian Helmer
+Friedrich Halm
+Alejo Pérez
+Robert Kahn
 Ralph Lamb
 Sam M. Lewis
 Georges Sellers
 Jean-Luc Fafchamps
+Ida Falk Windland
 P. Dercy
 Regino Sáinz de la Maza
+Václav Dobiáš
 Geoffrey Grey
-Harry Carney
-Ludwig Uhland
 Ivan Zajc
-Jean-Sébastien Bou
+Jean-Luc Thonnerieux
+Joris Verdin
+René Barbier
+Moises Simons
 Giovenale Ancina
+Alan Bergman
 Corentin Leconte
+Ernst Herbeck
+Karen Tanaka
 Giacomo Gorzanis
+José Sanchez
 Gunnar Johnsson Berg
 Ausiàs March
+Gottfried Benn
 Marianne Croux
 Steve Mackey
 Georges Duval
 Thomas Blondelle
 Claudio Gabriele
-Éric Toulis
+Efrem Zimbalist
 William Plomer
-Jean-Luc Amestoy
+Marguerite Canal
+Lewis Trondheim
+Pietro Mascagni
 Robert Bourget
 P. Avenal
 Pierre Beauchamps
 Laci Boldemann
+Zazie
 Marcel  Khalife
+Antonio Machado
 Giovanni Stefani
+Catherine Schneider
 Jan Novák
+Romain Coolus
 Benjamin Lees
 Aristide Boulanger
 André Mouëzy-Éon
 Antoine Vincent Arnault
-Natanaël Berg
 Joséphine Cayes
+Pascal Charbonneau
 N. de Buissy
-Gilles Binchois
+Françoise Sagan
+Ristau Stephen
 Ernesto Cordero
-Frank Scheffer
+Maurizio Naddeo
 Zdeněk Lukáš
+Alain Kremski
+Lorna Anderson
 Arthur Corsanego
+Daniele Callegari
 Jérémie Cuvillier
 Valentin Strobel
 Sophie Rebreyend
 Vincent Airault
+Karel Boleslav Jirák
 Robert Lemay
 Gaston Blum
+Jean-François Cavro
+Du Yun
+Steve Barakatt
 Francis Tatton Latour
 Michel Nierenberger
+Jorge Lavelli
 Roque Carbajo
 Ronald Corp
+Bernar Venet
 Nicolò Corradini
 Henri Varna
 Erik Chisholm
+Michel Fourgon
+Jean Pacalet
+Ingeborg Bachmann
 Edmund Pendleton
+Marc Viellefon
 Cemal Reşit Rey
+Christophe Gautier
 Cornet
 Moritz Hauptmann
-Thomas Lacôte
+Rosalind Plowright
+Luigi Gordigiani
 Jeroen van Veen
 Emiliano Renaud
 Darnoc
 René-Marc Bini
 José Vieira Brandão
 François-Joseph Krafft
+Joann Sfar
+Dobri Hristov
+Arnaud Biscay
+Éphraïm Mikhaël
 Alfredo Aracil
+Pauline Haas
 Ludwik Milde
+Laurent Naouri
+Ferdinand Fabre
 Fabio Nieder
 Andrea Perrucci
+Franz Toussaint
 Erik Norby
 Charles Levens
 Norman Symonds
 Ivan Evstaf'evič Handoškin
 Marie-Paule Belle
+John Brancy
+Ottaviano Petrucci
 Pierre Bonnet
-Anaïk Morel
 Joseph-François Duché de Vancy
 Fred E. Ahlert
+Dario Argento
+Kirpal Stefan
 Laurent Hasse
+Franz Kafka
 Graham Pushee
 Xavier Richard
+Ildar Abdrazakov
 Ervin Drake
 Jean-Baptiste Rousseau
-Benedict Mason
+Wu Man
+Philippe Grisvard
+Al Dubin
 Totò
+Soizic Lebrat
+Cesar Bresgen
+Fernando Pessoa
+Christian Calon
 José Manuel López
+Elisabeth Kufferath
 Antonio Scandello
 Henry Trianon
-Antonio Placer
+Paul de Kock
 Wolfgang Förtsch
+Joseph Calleja
 Julien Copeaux
 Lazare Lévy
 Edmond Delafosse
+Grégoire Lorieux
 Grace Williams
+Francis Burt
 Sofi Jeannin
+Lucian Blaga
 Tibor Szemzö
 Maarten Konigsberger
 Toru Fuyuki
+Michael Fabiano
+Julián Bautista
+Emanuele Giannino
 Talib Kweli
+Michelangelo Rossi
+Fanny Clamagirand
 Pedro Guerrero
+Sebastian Klinger
+Jacques Duvall
+Frédéric Rivoal
 José Barrière
+Daniel Seff
 Tuotilo
 Paul E. Brunold
+Tamaki Kawakubo
 Daniela Mercury
+Tamara Mumford
+Caroline Loeb
 François Rauber
+Paolo Pandolfo
+Maurice Webster
+Marie-Paule Nounou
+John Cale
+Thibaud Maillard
 Gabriel Yared
+Adrian Eröd
 Giuseppe Maria Cambini
+Nicolas Ducloux
+Francesco Salieri
+Nadia Krasteva
 Amédée Baston
 Peter Corser
-Stanislas de Barbeyrac
 G. Amédée Bienaimé
 Wilhelm Cramer
 Arnold de Lantins
-Francesco Piemontesi
+Wassily Kandinsky
+John Marsh
 Julien Bret
+Salvatore Quasimodo
+John Buller
+Jean-Roger Caussimon
+Arturo Gervasoni
 Marcel Tyberg
 Henri Condom
 Brigitte Fontaine
+Dmitri Kabalevsky
 Alain Bodènes
 Nat Adderley
+Alexina Louie
 Pedro de Rabassa
+Matija Bravnicar
 Marcel Husson
+Stéphane Jaouen
+Paul de Senneville
 Claude Crousier
 Henri Marx
+Sandor Veress
+Patrick Zygmanowski
 François-Alexis Cavaillé
 Giovanni Gualberto Bottarelli
 Isolina Carrillo
 Ludovic Nobileau
+Denys Vinzant
 Hans Tutschku
 Cyprien Katsaris
 Francesco Della Porta
 Céline Castaño
+Martin Haselböck
 Jean-Jacques Debout
+George Harrison
+Andreas Burkhart
+Johann Ludwig Bach
+Christophe Willem
 Hans Ludwig Schilling
 Jean Hubeau
-Elmer Bernstein
-Violaine Cochard
+Paul Burkhard
+Arnaud Boukhitine
+Jean-Marie Frémeau
 Peter Duimelinks
 Adélaïde Barbé
 Olivier Schultheis
 Сергей Михайлович Слонимский
 L. Croiser
 Lang Lang
+Flavio Ferri-Benedetti
 Jack Gallagher
 Guillaume de Chastillon
 Ildiko Toth
+Gilbert Duprez
+Marcel Bitsch
 Maria Beraldy
+Kala Ramnath
 Joseph de La Font
 Michaud de Beauretour
+Friedrich Schenker
+Abdel Rahman el Bacha
+Horacio Ferrer
 Edward German
+Jean-Claude Gallotta
+Moneim Adwan
 Ernest-Jean Claveaud-Vérinas
 Yves Cuenot
 Nevit Kodallı
 Johnny Cash
 Gaston Crosse de Bionville
 Christophe Havel
+Peter Pears
 Marvin David Levy
 Domenico Freschi
+Amaury Du Closel
+Friedrich von Matthisson
 Madeleine Beauvert
 Vladimir Ivanovich Martinov
 John La Montaine
-Carl Rosier
-Vincent Courtois
+Maria Luigia Borsi
 Willem Pijper
+Fedor Tioutchev
+Kent
+Peter Sculthorpe
 Francis Bouget
 Théodore Parmentier
 Jayadeva
-Maurice Bouchor
+Christian Rivet
+Belgarde Sylvain
 Salamatkan Sadykova
+Roland Petit
+Luis Fernando Rizo-Salom
 Jean Gilbert
-Joanna Bruzdowicz
-Bruno Coquatrix
-Henry Desmarest
+Véronique Lafargue
+Jean-François Delfour
+Morten Olsen
+Roger Reynolds
 Donato da Cascia
+Patrick Muller
 Gaetano Carpani
+Al Green
 Ferdinando Bertoni
-Caterino Mazzolà
-Olivier Marcaud
+Gilles Bugeaud
+Gustav Jenner
+Henri Herz
 Paul Augeyrolle
 Victor Roger
 Diógenes Rivas
-Teofilo Chantre
+Jean Jacques Justafré
+Jean Giraudoux
+Hervé Desjardin
+Christophe Ghristi
+Florentino Calvo
+Alexandre Beaumont
+Jochen Schmeckenbecher
+André Chénier
+Fabien Tehericsen
+Philip Richardson
 Nicolas-Joseph Chartrain
 Aharonian
+Emanuel Ax
+Mathew Adkins
 Marie Bachmann
 Patrice Bernard
+Howard Shore
+Paul Arène
 Johannes de Quadris
-Adolphe Blanc
 Gabriel Chaumette
 Kate Tempest
+Jorma Panula
+Jean-Antoine Roucher
+Nick Cave
 Michel Rivard
+David Bizic
+Sylvain Richardot
+Jean-Marie Carlotti
+Franco Pomponi
+Bruno Martin
+Marc Bauer
+Pavel Langpaul
 Atanas Ourkouzounov
-Veronika Djoeva
+Clare Fisher
+Jacqueline Batell
 Esprit Aboud
+Geri Allen
 Sergueï Rachmaninoff
-John Klenner
 Alfred Avisse
 Toni Green
 Miguel Bernal Jiménez
+Chander Sardjoe
+Guy Lafarge
+Violeta Urmana
 François Cordet
 Henry Barbara
 Link Wray
+Zuzana Perinová
+Giuseppe Grazioli
 Fengxun Yu
 Baude Cordier
-Jules Bordier
+Dorine Mortelmans
 Per Mårtensson
-Julian Scriabine
+Stefano Bollani
+Yves Baudrier
+Nathalie Cornevin
 Gaetano Braga
+Régis Poulain
+Jean Baptiste Brunier
+Alfred Alessandrescu
+Emmanuel Despax
+Marcel Mihalovici
 Alexandre Bulteau
-Pete Townshend
+Philippe Blanchard
+Rudolf Sieczynski
 Goswin de Bossut
+Barthélemy-Christophe Fagan
 Philibert de La Vigne
+Maurice Franck
 Kum-por Shi
 Amandine Dewasme
+Maurice Hennequin
+John Stewart
 Julian Romero
+Aleksandar Madzar
+Francis Courtot
 Castio Arena's
+Premysl Vacek
+Kálmán Strausz
+James Campbell
 Auguste Panseron
 Joseph Leopold von Eybler
+Elizabeth Calleo
+Marie-Ange Martin
 Iris Vermillion
-Raymond Daveluy
+Thierry Eliez
 Arnold Turboust
 John Alcock
+Risser Eve
 Christophe Delabre
 Francesco Buti
 Chi-piu Mak
 Duarte Lôbo
 Yuko Uebayashi
-Jean-Antoine de Baïf
-Giuseppe Rabboni
+Marco Scavazza
   Traditionnel - Écosse
-Serguei Ivanovitch Taneiev
 Henrick Melcher Melchers
 C. Adolfo Bossi
 Charles-Georges Fenouillot de Falbaire de Quingey
@@ -8344,6 +11532,7 @@ Carlo Galante
 Robert Carver
 Tommie Haglund
 Alfred Margis
+Ivi Karnezi
 Aloyse Bodó
 Lucia Alaux
 Johannes Mathias Sperger
@@ -8351,22 +11540,25 @@ Ninot le Petit
 Bernardo Porta
 Henryk MikoŽaj Górecki
 Alfonso X El Sabio
-Charles Ferré
-James Gaffigan
-Bruce Fox-Lefriche
+leroy matthieu
+Vladimir Mykytka
+Maria Milstein
 Lille Bror Söderlundh
 Chr. Andersen
 Vittorio Amedeo Cigna-Santi
 Dimitri Vassilakis
+Jean-François George
 Guido Santórsola
 Alexander Raskatov
 J. de Coëscon
 Adrien Barthe
 Johann Baptist Georg Neruda
 Achille Courjon
+Pierre Guedron
+Benoît Gégout
 Léonide Massine
+Arturo Chacon-Cruz
 Lucy Baudrand
-Amable Massis
 Sayed Ali Mohamed Hassan
 Alireza Ghosy
 Rob McAndrews
@@ -8374,59 +11566,64 @@ Z. Alboize du Pujol
 Antonio Rodríguez de Hita
 Larry Hochman
 Marie-Thérèse de Corvaïa
-John Alden Carpenter
 Michael East
 Nicolas Signac
 Victor André
-Enrique Fernández Arbós
-Vincent d'Indy
+Constantin Balmont
 Alexander Fesca
+Philippe Do
+Clément Charpentier-Leroy
 Étienne Nicolas Méhul
 Pascal Pistone
 Elizabeth Maconchy
 Marvin Duchow
-Jérôme Varnier
+Luc Héry
 Johann Philipp Praetorius
+Anna Knopp
 A. de B.
 Ferdinand Rebay
+Julianna Di Giacomo
 Mikhaïl Bronner
 Paminder Prince
+Marion Korkmaz
 Louis Ancel
 Giovanni Andrea Moniglia
-Marie-Ange Todorovitch
 Nikolaj Semenovič Golovanov
 Konrad Boehmer
-Albert Dietrich
+Stefano Benedetto Pallavicino
 Giacobbe Basevi Cervetto
 Olivier Bensa
+Etienne Pipard
 Peter Haensel
 André Alexandre
-Alexandre Mossolov
 Giuseppe Ottavio Pitoni
 Antonin André-Réquéna
 Alexander Shchetinsky
+Paul Malinowski
 Donald Martino
 Jon Gibson
 Terje Bjorklund
+Clara Muhlethaler
+Alexis Descharmes
 Mirra Aleksandrovna Mendelʹson-Prokofʹeva
-Ernest Martínez Izquierdo
+MANIERE Jean-Michel
 Jules Bernhoff
+Charles-Ferdinand Ramuz
 Giuseppe Perrotta
 P.-J. Dreuil
-Andris Poga
+Konstantin Shushakov
 Erkki Salmenhaara
-Ferdinando Fontana
-Christian-Pierre La Marca
-George Perlman
 Edouard Vincent Arabiano
 Rémi Guillard
 Yau-tai Hwang
 Bartolomeo Barbarino
+Franz Vitzthum
 Allain Leprest
+Bartomeu Carceres
 Joël Grare
-Louise Bertin
 Maurizio Ferrari
 Alain Gibert
+Alfonso Caiani
 Yulia Deyneka
 Isabelle Prat
 Roy Ayers
@@ -8437,112 +11634,135 @@ Francesco Algarotti
 Johann Friedrich Peter
 Marco Gioseppe Peranda
 Renaud Gillet
+Andrea Bontempi
+Yanis Djoudad
 Louis Émié
+Eiichi Chijiiwa
 Grégoire Vaysman
 Francesco Maria Berio di Salsa
+Carole Petitdemange
 Andrew York
-Roger Steptoe
-Marco Spotti
+Krzysztof Chorzelski
+Guy Ropartz
 Kosaku Yamada
 Manuel Castillo
 Victor Babin
 Isaure Béchet
 Vincenet
-Christa Schoenfeldinger
 Joris Caluwaerts
 Sylvain Piot
+Rémi Fessart
 Krzysztof Wołek
-Sadao Bekku
+Giulia Lezhneva
 Jean de Cambefort
+Thibaud Philippe
 Craig Taborn
 Jean-Marc Serre
+Rémy Grouiller
 Serafín Álvarez Quintero
 Jakob Huppmann
 Giuseppe Antonio Paganelli
+Pierre Méa
 Camille Dehogues
+Xiao Mei Zhu
 Eric Stern
 Michele Mascitti
 Martin Lattke
 Otto Malling
 Jean de Haucourt
 Alessandro Annunziata
+Béla Kovacs
+Barna Kobori
 Frédéric Biemler
 Sergio Nicolás Aguirre Gómez
-Giuseppe Torelli
 Francesco Bellini
+Grigori Ginzburg
+Anssi Karttunen
 Lok-on Lee
 Jacques Dudon
 Daniel Leriche
 Armand Berthon
-Vivien Villani
 Luis Casadesus
 Daniel Lavoie
 Jérémie Kisling
-Vincent Limouzin
+Donato Citarella
 Louis Capaccio
 Wolff Jacob Lauffensteiner
 Georges Beaucaire
 Giovanni Carisio
+Herbert Blomstedt
 Sten Hanson
 Samir Homsi
 Giacomo Tritto
 Walter Rabl
 Jules Claretie
 J. Bernard
+Alexandre Agricola
 Mohamed Ahmed Hassan
-Guillaume de Machaut
 Igor Kuljerić
 Naomi Shemer
 Sebastiano Cherici
-Christopher Lowrey
-Marc Copland
+Giuseppe Giamberti
 Sonam Baran
 Achille Fortier
 Dirk D'Ase
 Stephen Montague
+Leonhard Roczek
 Suzanne Demarquez
 Osvaldo Farrés
+Gabriel Grosbard
 Dave Guy
 Michel Forqueray
+Anne Gastinel
 Alfredo Camarate
-Johnny Mandel
-Emil Nikolaus Rezniček
+Elodie Hache
+Maria Ehmer
 Miguel Pons
+Alisa Kolosova
 Carl Luython
+Salama Metwally
 David Pohle
 Raphaël
 Anny Roth-Dalbert
 Geoffroy Jourdain
 Ian Curror
+Silvia Chiesa
 Turgun Alimatov
 Philippe Tailleux
 Léon Delahaye
 Mokuami Kawatake
 Donatienne Michel-Dansac
+Milan Milojivic
 Pascal Bournet
 D. Biancheri
+Scott Joplin
 Johann Fischer
 Mathias Baier
+Albert Valsien
 Karl Kraft
 Lucien Albites
 Hans Kotter
 Ivan Boumans
-Carolin Widmann
 Renaud De Putter
 Lucien Fréchon
-Colette
 Armande de Polignac
+Jean Michel Noël
+Roland Büchner
+Srebrenka Poljak
 Georg Abraham Schneider
+Fabien Gosset
 Bhanwari Devi
-Klaus Ib Jørgensen
 Sandro Fuga
 Esther Brazil
-Yolanda Cortès
 Lionel Bringuier
+Yolanda Cortès
 Girolamo Fantini
+Leslie Bricusse
+Hana Brozová-Knauerová
 Jacob Boerske
 Milko Kelemen
 Auguste Andlauer
+Andreas Jaffray
 Moustafa Abdelhadi Abdelrehman
 Gustave Goublier
 Louis Oscar Comettant
@@ -8553,65 +11773,68 @@ Otar Taktakishvili
  Improvisation
 Paul Müller-Zürich
 Kunitaka Kokaji
-Robert Beaser
-Lucia Recio
 Shanti Kalbelya
+Marcel Dupré
+bornard pierre
 David Shipley
 Alena Baeva
 Jayce John Ogren
 Enrique Macías
+Romain Guyot
 E. Alexandrinet
-Didier Aschour
 Jean-Paul Dessy
+Tiphaine Gauthier
 Jacques Boisgallais
 Saburo Moroi
 Marguerite Jouan
+Kareen Durand
 Johann Caspar Ferdinand  Fischer
 Narpinder Singh
+Olivier Pasquier
 Sebastian Santa Maria
-Leonardo De Lorenzo
 Hugo Reinhart
-Jean-Yves Daniel-Lesur
 Georg Matthias Monn
 Richard Mico
 Carlo Calegari
-Nicolas Crosse
 Joseph Béesau
 Milan Mihajlović
 Odile Caradec
 Włodzimierz Kotoński
 Olivier Dejours
 Jean Perrin
-Marij Kogoj
 Louis de Crèvecoeur
-Ingram Marshall
 Hugh Aston
 Otto Dresel
 Carl Heinrich Graun
 Albert Cahen
-Monty Alexander
+gaspard benoit
 Morten Gaathaug
+Otto Julius Bierbaum
 Gorka Cuesta
+Alain Gabriel
+Pierre Badol
 Nikolai Korndorf
 François Poullot
-Milana Chernyavska
 Giovanni Antonio Boretti
 Carpentras
-Léon-Paul Fargue
 James Aikman
 Sigurd Berge
 Emile Bonnaud
+Krassimira Stoyanova
 Alexandro Papadimitrakis
 Ferdinand de Cristofaro
 Emmanuel Bertin
+Emmanuel Scarpa
+Billy Eidi
 Ljubomir Pipkov
 Peter Michael Hamel
 Emanuel Geibel
 Michel Del Giudice
-Hans Christian Lumbye
 Julie Bernard
-Johann Nepomuk David
 Johann Peter Kellner
+Sophie Pondjiclis
+Franz Von Suppe
+Gabriele Carcano
 Andreas Pevernage
 Billie Holiday
 Ilyas Mirzayev
@@ -8622,47 +11845,55 @@ Mikko Heiniö
 John Abraham Fisher
 Marko Tajčevic
 Dimitra Kontou
+Andrés Orozco-Estrada
+Daniel Cabena
 Pierre-Louis Moline
 David del Castillo
 Jean Bretel
 Paul Avy
+Jean-François Rivest
 José Maurício
 Gilles Maugenest
-Ketil Bjørnstad
 Bernhard Klein
 Pietro Chiari
 Maurice Courty
 Mark Kissoczi
 Keith Bissell
+Leonid Desyatnikov
 Lucas Henri
 Giovanni Battista Somis
 Mauro Matti
+Grzegorz Kotow
 Leone Leoni
+Nicolas Bernier
 Daishin Kashimoto
 Johann Andreas Streicher
 Chiara Margarita Cozzolani
+Wu Wei
 H. Albrechtson
-Stevan Stojanović Mokranjac
 Gustave Cornède
 Ben Johnston
 Caspar Diethelm
 André Corté
-Myrtille Hetzel
+Marie Albert
 Tullio Cima
 Nicole Berne
+Jaromir Nosek
 Pierre Cadéac
-Castil-Blaze
 Robert Morell
 Alan Conway
 Pablo Esteve y Grimau
 Lorenzo Ratti
 Johannes Cesaris
-Arnaud Desvignes
-Charles Collé
+Pavel Serbin
+Violaine Lucas
+Philippe Thibault
+Lucien Boyer
 Aloys Fornerod
 Giuseppe Maria Orlandini
 Darren Fellows
-August Wilhelm von Schlegel
+Myong-il Ri
+Truike Van der Poel
 Ern— Dohnányi
 Joseph Daussoigne
 Gentian
@@ -8670,44 +11901,47 @@ Adrien de Bertier-Pinsaguel
 Louis Laloy
 Llorenç Balsach
 Henry Sarly
-Michel Butor
 Louis Badart
 Rodolphe
+Bogdan Bozovic
 Jean-Baptiste de Croze
+Alain Planès
+Benjamin Bondonneau
+Lawrence Foster
 Fjodor L'vovskij
 Louis Antoine Lefebvre
 Jacques Vallier
-Amin Maalouf
-Yves Simon
-Fernando Periquet
 J. H. Collet
 Charles Abdank
 Dominique Troncin
 Mauro Montalbetti
+Victor Dutot
 Félix Artance
 Sixto Pérez
 Jacques Morel
 Johann Wilhelm Ludwig Gleim
-Patrice Balter
-Arturo Colautti
+Vojtech Spurny
 Camillo Togni
+Anton Zapf
 Giovanni Antonio Giay
 Jack Ledru
 Xavier Audibert
-Nahum Tate
+Cenek Svoboda
 Claus Ogerman
 Yehezkel Braun
-Claire Marie Le Guay
 Jacques Loussier
 Guillaume Tessier
+Ziad Rahbani
 Dominique Petitgand
 Joaquín Álvarez Quintero
 Jean-Denis Michat
 Joseph Berny
 Josip Pavčič
 Eugénie Satie-Barnetche
-Charles Cuvillier
+Christophe Pantillon
+Vasily Efimov
 Gaston Maquis
+Nicolas Fink
 Eldad Shiloah
 Georg Lawall
 Charles Bricot
@@ -8715,30 +11949,34 @@ Anton Lajovic
 Imants Ramiņš
 Pierre Minvielle-Sebastia
 Carl Joseph Toeschi
-Landon Ronald
-Richard Dubelski
+Charlotte Scohy
 Josquin Des Prés
-Conlon Nancarrow
+Elisa Huteau
 Dick-yeung Kwok
+Louis Langrée
 Ed. Chardon
  Punta Candela
 De Beaunoir
 Jean Legros
 Antonio Rodríguez Mata
 Harry Cox
-Myfanwy Piper
+Corina Belcea
+Reto Staub
+Benedict Nelson
+Simone Vallerotonda
 Guillaume Balay
 Aïko Miyamoto
 André Breuillot
 Ezra Laderman
 James Brown
 Helge Rode
-Nicolas Peyrac
 Ernst Gottlieb Baron
+Clément Philibert Léo Delibes
+Alexander Sitkovetsky
 Shuntarō Tanikawa
 Jane Antonia Cornish
 Robert Cambert
-Laurent Lefèvre
+Placido Domingo
 Mavlunda Samanadarova
 Johannes Brassart
 Richard Leveridge
@@ -8746,24 +11984,25 @@ Pierre Lapointe
 Christian Ludwig Dietter
 Joseph M. Abdullah
 Sherali Juraev
-Xavier Garcia
+Geneviève Foccroulle
 Marco Aurelio Marliani
+Béatrice Delpierre
 Celius Dougherty
 Pierre Vidal
 Wolff Heintz
 Philippe-Auguste-Alfred Pittaud de Forges
 Forest
-Jacques Pichard
 André Dalsheimer
 Jose Carlos Capinan
 Anastasio Guidi
 Hubert de Luze
 Gabriel Nigond
 René Clemencic
+Alexey Markov
+Bertrand Denzler
 Éliane Radigue
 Adam Summerhayes
 John Donne
-Mitchell Parish
 Laurent Boutros
 Johann Bach
 Benjamin J. Baquerizo
@@ -8771,130 +12010,134 @@ Paul Sebastian
 Gasparo Villani
 Adolphe-Simonis Empis
 Gaetano Valeri
+Jacques Deval
 Jean-François Alexandre
 Lionel Duffau
+Ekaterina Gubanova
 Gilbert Cléret
-Charles Workman
+Lucy Goddard
 Richard Dewitte
 Marcelle Soulage
 Claudine Yakowleff-Brignet
 Louis Blanpain de Saint Mars
-Christian Eymery
+Alfonso Calani
 Stephen Dodgson
-Tommaso Antonio Vitali
+Claire Thirion
 Giovanni Animuccia
-Luc Bondy
+Ludwine Caron
 Philippe Oprandi
 Ahmad Soliman Touny
 Franck Douvin
+Marcus Maitrot
 Jérôme Delvallet
 Valentine Chevrier
 Gabriel Arsaut
 Ernst Pepping
-William Bergsma
+Louis Maubon
+Cécile Beune
 Johann Wilhelm Furchheim
-Ede Remenyi
 Yok-yee Wong
 Edward Fitzball
 Evan Hughes
 Alexandru Pascanu
 Bertrandus Vaqueras
+bourdais julien
 Rocco Pagliara
 Juan Herrera Chumacero
 Giovanni Bazzoni
 Jacques Desbrière
 Henry Brougham Farnie
 J. Chabé
+Alexis Konstantinovitch Tolstoï
 Pierre Mariétan
-Simon Wall
 Vladimir Dyck
+Pietro Spagnoli
 François Cerani
+Stepan Simonian
 Gérard Bourgeois
 Dancourt
-Stéphane Belmondo
+Félix Lope de Vega
 Vicente Emilio Sojo
-Bruno Bettinelli
-Eugène Morand
 Nicolas Jarrige
 Jean Prodromidès
 Kojiro Okada
-Paul Chihara
 Alexandre Bernn
+Paul Chihara
 F. W. Brussow
-Mirtha Pozzi
+Ludwig Müller
 Henriette Boulet
 Nicola Giuseppe Morbilli
+Marta Fadljevicova
 Louis Azémar
 Albert de Gapençais
-Edwin Crossley Mercer
 Adrian Dahl
 H. Andersen
+Alastair Putt
 André Casanova
 Nicolas Lefebvre
 Giacomo Antonio Bergamori
 Stacy Garrop
 Ton de Kruyf
 Victor Capoul
-Pierre Iodice
 François-Georges Desfontaines
+Jules Claretie
 Adrien Danvers
 Jennifer Helen McLeod
 Gérard Siracusa
 Ian Farrington
+Elisso Virsaladze
 Michael Harrison
 Thierry Alla
 Iván Madarász
+Caroline Weynants
 Alejandro de Avilès
-Johann Paul Aegidius Martini
 Ernest Cordier
 Nikołaj Zieliński
 Raymond Brunel
 Elena Ruehr
 Diego Jaraba Bruna
-Isabel Charisius
 Léone Cortini
-Sébastien d' Herin
 Anthony Barré
-Lorenzo Soulès
+Michele Pertusi
 Antonio Valente
 Cornélius Coster
+Arioste
+Clément Marot
 G. Lange-Clairny
-Johann Ulrich von König
 François Clément
 Alice Bonnay
 Jan Konstanty Chęciński
-Chester Kallman
 Richard Hundley
-Sergio Tiempo
 Walther von der Vogelweide
 Roger Doyle
+Natasha Anderson
 Hans Gerle
+Christian Friedrich Henrici
 Peire Cardenal
-Carmine Emanuele Cella
-Olli Kortekangas
 Eugène Feautrier
+Giaches de Wert
+Vivica Genaux
 Leopold Ferdinand Schwerdt
-Thomas Larcher
+Makoto Ozone
+Yetzabel Arias Fernandez
 Roland Creuze
 Nikolaï Medtner
-Matthias Claudius
 William Thomas McKinley
 Alessandro Coppini
-Michel Sardou
+Guillaume Dufay
 Vassili Dimitrievitch Polenoff
+Berislav Sipus
 Joseph Blanchon
-Klaus Egge
 John Baston
-Randy Newman
+Patrick Messina
+Pierre Boussaguet
 René Boufflette
 Edmond Debatty
 Paolo Isnardi
 Sebastian Kohlhepp
-Timur Martynov
-Philippe Grauvogel
 Adolph Gutmann
-Edu Lobo
 Craig Armstrong
+Christopher Tye
 Marcela Rodríguez
 Ying Liu
 Pasquale Mililotti
@@ -8905,66 +12148,76 @@ Karol Mikuli
 Jules Cordin
 Alfred Moffat
 Carlo Albanesi
+François Fernandez
 Gerard von Brucken Fock
 Hamit Rayimbergen
+Georges Pludermacher
 Marie-Anne Barbier
+Amanda Morrison
+Benoît Savin
 Makoto Shinohara
+Caterina Grewe
 Denis Chevallier
-Lewis Carroll
+Tatsuki Narita
 Philippe Drogoz
-Mara Dobresco
+Le Roux Matthieu
 Eduardo Egüez
 Judith van Wanroij
+Sabine Meyer
 Sergej Nikiforovič Vasilenko
 Louis Granier
 Gerre Hancock
 Grigor Narekac´i
 Angelin Biancheri
-August Klughardt
-Jacques Charlier
 Hisato Ohzawa
+Jacques Charlier
 Alain Damasio
 Robert Ward
 Herman Berlinski
-Antonio Lotti
 Johannes Boris  Borowski
+Michel Lethiec
 Juan Bautista José Cabanilles
 Pierre Mercure
 Rosetayu Toyotake
 Philippe Courbois
+Gergely Madaras
 Théodore Lack
 Jules Cabrol
+Lomic Lamouroux
+Hyeyoon Park
+Laurent David
 Léonide Bouvet
-Gottfried Reiche
+Hrachya Avanesyan
+Leroux Olivier
 Ctirad Kohoutek
 Gilles Cagnard
 Jean-Yves Malmasson
+Morishige Yasumune
 Nikita Koshkin
-Pascal Zavaro
+Guy Ben-Zhony
 Jean-Henri-Ferdinand Lamartelière
-Colin Currie
 Nicolas Courtin
 J. Couderc
 Nestor Vasilʹevič Kukolʹnik
-Pierre Cholley
+Xavier Prévost
 Gabriel van Calt
-Jules Renard
-Gunnar Ekelöf
-Stephanos Thomopoulos
+Kazuhide Isomura
+Pascal Bourgeois
 Marybel Dessagnes
-Henrik Wieniawski
 Mohamed Ahmad Touny Soliman
 Jules Compas
 Sergiu Sarchizov
 Mario Pilati
-Felix Weingartner
+Trevor Pinnock
+Jurek Dybal
 Christian Siterre
 Calixte-Dalmas Borelli
 Gustave Bagge
-Albert Dupuis
 Johann Samuel Schröter
 Ponce-Denis Écouchard Le Brun
+Jean Cocteau
 Gregor Witt
+Voltaire
 Michel Keustermans
 Robert de Roos
 Albert Jenny
@@ -8972,47 +12225,52 @@ Georges Marty
 Kamel Al-Rimali
 Joachim Latarjet
 Joséphine Clermont
-Diogo Dias Melgas
+Pascal Robault
+Alexander Liebreich
 Anthony de Warens
 Gennaro Antonio Federico
 Albert Combaud
 Georg Andreas Sorge
+Petr Wagner
 Patrick Choquet
 Adolf Friedrich Hesse
-Frederic Devreese
 Giulio Bruschi
 Philippe-Émilien de Meyronnet Saint-Marc
 Michael Gregor Scholl
-Paul Bourget
+zalay daniel
+José Miguel Fernandez
 Andrea Antico
 Manuel Coley
 Giuseppe Zamponi
 Jules Causry
 Simone Blanchard
-Adolf Misek
+Aurélia Legay
 C. Darodes
 Florence Beatrice Price
-Étienne Roda-Gil
+Maja Bogdanovic
 Pierre Thilloy
-Paul Robinson
-Zbigniew Preisner
+Louis Pomey
 Isidore De Lara
 Willi Brandt
 Pietro Comes
-Tony Aubin
+Ambrogio Maestri
 Rudolf Hindemith
+Kazushi Ono
 Nunziato Porta
-François Borne
+Josef Suk
 George Kirbye
+Aline Zylberajch
 Louis Borg
 Olivier Delafosse
 Charlotte Lapeyre
+Ganaël Schneider
 Rene Ruijters
-Alfred Grünfeld
+royer sebastien
 Laurits Christian Nielsen
 Martin Schmid
 Ludvig Irgens Jensen
 Pietro Paolo Sabbatini
+Ariane Saguet
 Gérard Meunier
 Lucas Lipari-Mayer
 Giannotto Bastianelli
@@ -9023,69 +12281,79 @@ Godric
 Alan Rawsthorne
 André Cadou
 Luciano Chailly
+Saed Haddad
 Carlo Francesco Badini
 G. Bernolin
 Isabelle Druet
 Gad Barnea
 Hélène Legay
 Andrés Alén
+Chezy Nir
 Kanval Preet Singh
 Bachicha
 Khatuna Gadelia
 Eugène Déjazet
 Felix Borowski
 P. Adolphe
-Georg Friedrich Treitschke
 Isaac-François Lefébure-Wely
 Wilhelm Berger
 Raoul Brunel
-Yoritsune Matsudaira
+Elena Bocharova
 Jules Mazellier
-Robert Volkmann
 Auguste Creuzé de Lesser
-August Heinrich von Weyrauch
 Willem Wander van Nieuwkerk
+Marilia Vargas
 Serge Paloyan
 Gilles Hayne
 Katie Bray
-Garrick Ohlsson
+Muhiddin Dürrüoglu
+Manlio Benzi
+Jean Pierre Collot
+Thomas Dear
+Natalia Gutman
 Carlo Bodro
 Charles Vildrac
 Claude Vercher
 Jean Andreo
 Guy Barry
-José Ardevol
+Martin Beaver
+Axel Schacher
 Tomás Koljatić
 John Browne
 Cheung-wai Hui
 Jean Bouvard
+Henry Desmarets
 Nurak Abdurahman
 Wilhelm Taubert
+Jan Mikusek
 Otakar Ševčik
+Nikolaj Znaider
 Giuseppe Luigi Balloco
 Jerzy Bauer
 Cristóbal  de Morales
 Guillermo M. Tomás
-Georg Trakl
+Isabelle Duthoit
 Thomas Holzinger
-Arthur Oldham
 Asha Kumari Chathoda
 Nicolas-Gottlibe Bach
 Manuel Enríquez
 Hippolyte Lucas
-Sebastián de Yradier
 Petr Fiala
 Michael Radulescu
 Mathias Spahlinger
 Brasílio Itiberê
+Alessandro Striggio
 Louis Gruenberg
 Richard Jones
 Gurbinder Bholo
+Sarah Lefeuvre
 Lars-Gunnar Bodin
 Myron J. Roberts
+Diego Losa
 Eugène Buet
 Nikolaj Artem´ev
 Daníel Bjarnason
+Vassilis Varvaresos
 Henri Pauly-Laubry
 Guy Olivier Ferla
 Marie de Croze-Magnan
@@ -9094,10 +12362,9 @@ Pauline Belleville
 Manuel Canales
 Giuseppe Daniele
 George Frederick McKay
-Paul Viardot
 Joseph Baju
-Michel-Richard Delalande
-Horia Andreescu
+Antoine Torunczyk
+Peter Laul
 André Bouvery
 Carl Arnold
 Melchior Schildt
@@ -9107,22 +12374,20 @@ Nicolas de Radom
 Antimo Liberati
 Jean-Baptiste Faure
 Jean-Marc Montera
-Giuseppe Porsile
 Giulio Eremita
 Edward Johnson
+Adam Pastuszka
 Louis Chazottes
 Daniel Gottlob Türk
-Enrique Santos Discépolo
 F. Amplement-Jallet
-Giovanni Ruffini
 Jérôme Savari
+Audrey Chen
 Franciszek Lilius
 Gilbert de Berneville
 Jean Donneau de Vizé
 Christian Jous
-Frédéric Duvernoy
+Michael Wendeberg
 Ricky Ian Gordon
-Francisco Luque
 Karl Michael Komma
 Martin Adàmek
 Richard Sturzenegger
@@ -9130,17 +12395,17 @@ Fanis Karousos
 Jonathan Haessler
 Henri Burcet
 Maximilian Stadler
-Julia Borchert
 Joep Franssens
 Roland Lemêtre
-Frédéric Caton
 Marc Bissot
-Hernando de Cabezón
+Jean-François Lapointe
 Matthias Hermann Werrecore
 Heinrich Panofka
 Cécile Rogg
+Christian Laondes
 Capdeville
 Gaston Barrière
+Cécile Kubik
 Bruck
 Carlos Grätzer
 Tihon Hrennikov
@@ -9148,72 +12413,88 @@ André Fijan
 Giovanni Maria Pelazza
 William Henry Harris
 Yvon Demillac
-Carlo Innocenzo Frugoni
+Anne-Sophie Lobbé
 Oeuvre traditionnelle malienne
 Nicolle Des Celliers de Hesdin
-Samuel Dushkin
 Wolfgang Wiemer
 Michel Capelier
+Elisabeth Scholl
+Misora Lee
+Stella Doufexis
+Heinz Holliger
+Dezsö Ranki
 Théodore Botrel
 Nicolò Gabrielli
+Leon Mey
 Alphonse Bergeret
 Jacques de Gouy
+Ronan Khalil
 Shun-chi Ip
+Andreas Linos
 Jean-Henri Guy
 Gabriel Coste
+Florence Person
+Bruno Coulais
 Lodovico Giustini
 Arletta Elsayary
 Gottfried Herrmann
 Vasili Zolotarev
-Stefano Donaudy
+Lydia Shelley
+monteil pierre
 Constantiu Arvinte
 Edgar Cosma
-Alessandro Solbiati
+Vladimir Kroupa
 Ricardo Nillni
 Tiberiu Olah
+cognet gerard
+Renata Pusova
 Lisa Bielawa
 Ernest Chevé
 Isidore Philipp
 Stanislas Janin
+Tomas Kral
+Sylvain Devaux
 Jean-Louis Thomas
 Eduard Schütt
+Teresa Schwann
 Filiberto Laurenzi
 Jean-Biche
+Emmanuel Haratyk
 Roger Allen
-Lucien Niverd
 J. Cassinel
 Emilio Arrieta
 Francis Lai /  Christian Gaubert
 Ivan Boumans
-Fabián Panisello
 Lucie Robert
 Tomás Pascual
+Friedrich Hebbel
 Georges Arnoux
 Paul-Silva Hérard
-Joseph Gregor
-Kristina Hammarström
 Hervé Lesvenan
 Paul Darthu
 Isidore Masuelle
 Giovanni Alberto Ristori
 Hans Raj
+Ernst Schulze
 Pappu Khan
 Albert Barlatier
 Roland Boutilliers
+Michèle Claude
 Pierre Fontaine
 Pierre Vermont
 Johan Snep
-Elam Rotem
-Marisol Montalvo
+Olga Seliverstova
+Georg Christian Lehms
 Pierre-Marie-François Baour-Lormian
+Marguerite Gateau
 Johann André
 Miguel del Aguila
 Jacob Deichmann Dahl
 Auguste Blangy
 Louis Brun
 Lucid Beausonge
+Liya Petrova
 Felipe Pedrell
-Emmanuel Jacques
 Fernand Andrieu
 Erik Lotichius
 Babu Nath
@@ -9223,7 +12504,6 @@ Jacques-Antoine de Révéroni Saint-Cyr
 B. de M.
 Oreste Ravanello
 Eugene Kurtz
-Louis Lortie
 Renato Velasco
 Dmitri Kourliandski
 Ernst Widmer
@@ -9236,35 +12516,46 @@ Frans Assenmacher
 François de Breteuil
 Maj Sønstevold
 Giovanni Marco Rutini
+Pierre Dumoussaud
+Rosemary Joshua
 J. Accursi
 Janice Giteck
 João Cordeiro da Silva
-Ricarda Merbeth
+Lawrence Foster
 José-Manuel Jiménez
 Rafael Rodríguez Albert
 Christine Dorothea Lachs
+Florian Lauridon
 Auguste Carlez
 A. Charpentier
+Adrien La Marca
+Maiko Matsuoka
+Sandrine Brechaud
+Patrick Langot
+Markus Schäfer
 Adrian Ivanovič Piotrovskij
 Gustaf Bengtsson
 Mario Parutto
-Clément Mathon
 Michel Héron
+Clément Mathon
 Vincenzo Calestani
 Jürg Wyttenbach
 Pierre Aubert
+Samuel Parent
 Frederik Van Rossum
+Lucien Plebus
 Katori Makino
 Albert Aubert
 Josephus Andreas Fodor
 Benoît Menut
 Abel Bossy
-Guillaume Faugues
+Marie-Adeline Henry
 Robert Normandeau
 Björn Fongaard
 Jean-Baptiste Canavas
 Charles d' Orléans
 Alexandre d' Arct
+Isaac Levy
 Joseph Baichère
 Victor Vreuls
 Rudolf Kattnigg
@@ -9279,152 +12570,157 @@ Nicolò Fontei
 Robert Alphen
 Heinrich Kaminski
 Jean-Josaphat Gagnier
-Antoine Lederlin
 Hervé Llorca
 Fabrizio Fanticini
 Ezio Camussi
 Dominique Probst
 Robert Guillaume Casadesus
+Marie Leclercq
+Clive Greensmith
 Nader Mashayekhi
 Léopold Bougnol
 Fernand Audier
+Edmond Gondinet
 François Francœur
 Philippe Goby
+Matthew Brook
 Jean-Jo Roux
 Mateo Flecha
 Dane Rudhyar
 Louis Crespin
 Colinet de Lannoy
 A. Buleux
-Stany David Lasry
+Fracchia Laurent
 Henri Hoppenot
 Paul Paray
 Ernest Britt
+Emmanuel Strosser
 Giovanni Battista Cavi
 Ernest Boué
+Homero Manzi
 Jean-Baptiste Radet
 Edith Fambuena
+Aveline Carmoi
 Dominique de Williencourt
 Charles de Bernardi
 Lucien Collin
 François-Louis Gand Le Bland Du Roullet
 Christoph Schaffrath
 Christian Schittenhelm
-Antonio de Santa Cruz
+Emile Spencer
 Anna Augusta do Amaral
-Hélène Guilmette
 Charles Martin Loeffler
+Sergei Khachatryan
 Niki Reiser
 Thai Son Dang
 Edmond Fleg
 Mel Powell
+Lilit Grigorian
 Olivier Simonnet
 Nicolas-Joseph Hüllmandel
+Vladislav Borovka
 Uzong Chae
 Suzanne Marinier
 Stéphane Archambault
  The Doors
-Marie Langlet
 Friedrich Heinrich Himmel
 Pierre Bastaroli
 Väinö Raitio
+David Leroy
 Thierry Pecou
 Paul Abraham
 Philip Sawyers
 Jean-Baptiste Lourdet de Santerre
 Oleg Kiselev
 Hortense Bruyère
-Nurlanbek Nyshanov
 Anders Eliasson
 Alfred Zimmerlin
 Georg Wilhelm Gruber
 Truls Mørk
 Arnold Mortier
-René Fauchois
 Robert Wilson
 Frances White
+martin alexandre
 Cadiou
 Bernhard Sekles
 Ernest Bourget
 Friedrich Theodor Fröhlich
 Vaslav Fomitch Nijinski
 Thomas Linley
+Will Guthrie
 Eugène Mestépès
 Maxime Boucheron
-Bruno Capelle
 Joachim Gies
+Ruben Gimeno
 Manolete
 Alfons Karl Zwicker
 Fran Gerbič
 Rodolphe Auguste-Dormeuil
-Piero Coppola
+Lucie Laricq
 Otto Taubmann
 Adolphi Czibulka
 Christoph Gottlieb Wend
-Georg Poplutz
+Eric Levionnois
+Ivana Lazar
+Mathias Gredler
 Stéphane Bertholon
-José de Cañizares
 Sunil Lucky
 Edwin Carr
-Pedro Guerrero
 Kauko Kuosma
+Lola Descours
 Francisco Xavier Bachixa
 Alishir Alimatov
 Mános Chatzidákis
 Didier Lupi
 Aroldo Chinaglia
-Alain Bashung
 Vladimir Ussachevsky
 Jean-Baptiste-Charles Vial
 Jean-Luc Perrot
 Jean-François Lutz
+Astrig Siranossian
 Harold Shapero
-Le Moine de Montaudon
 Calas
-Masakazu Natsuda
+Le Moine de Montaudon
 Lorenzo Aldaba
-Jérôme Hilaire
-Renato Simoni
 Lucie Robert-Diessel
 Léon Paliard
 Manuel de León
 Giovanni Palestrina
-Irwin Bazelon
+Oscar Hammerstein
+Claire Debono
 Esaias Reusner
 Jacob Hintze
 Svetislav Božić
 André de La Tourrasse
-Charles Boone
 Ernest Ameline
 George Bagby
 José-Luis Narvaez
 Perissone Cambio
 Martin Agricola
+Holmes Jim
+Bernhard Haas
 Karine Choual
-Albert Zabel
 Charles-Augustin Sewrin
 Charles Chaulieu
 Francesco Rognoni
 Jean-Pierre Rolland
 Frédéric Berr
-Pierre Menu
 Muthuswany Dikshitar
 Dmitrij Mihajlovič Cyganov
-Benedetto Pallavicino
 Francesco Bartolomeo Conti
 Arthur Verocai
 Graham George
 Jules Balthazard
+Katia Velletaz
 Robert Seitz
 Carlos Celzo-Blanco
 Luce
 André Chatelain
 Florent Gauthier
 Jules Noriac
-Christine Groult
-Jean-Yves Lacombe
 Gerhard Rühm
 Edison Denisov
+Benjamin Peru
 Daniel Norcombe
 Athanase Boblin
 Jiři Matys
@@ -9434,13 +12730,17 @@ Bernard Crocé-Spinelli
 Johannes Ghiselin
 Cyril Assous
 Franz Benedikt Dussek
-Christian Eloy
+charby ivon
 Clara Kathleen Rogers
 Franz Strauss
 Francesc Soler
 Nicolò Celega
 Louis Beydts
+Jonathan Bungard
 Barry Reynolds
+Yuki Kakiuchi
+Mariana Rewerski
+Clement Power
 Dietrich Becker
 Vincenzo Ugolini
 Vito Frazzi
@@ -9449,19 +12749,22 @@ Lora Aborn
 Joseph-François Salomon
 Claude Desmatins
 Hayne van Ghizeghem
+Kikuei Ikeda
 Gaston Lemaire
 Johann Caspar Vogler
 W. Cramer
 Witold Maliszewski
 Gunnar Wennerberg
-Valentino Bucchi
+Browne Larry
 Étienne Solère
+Nina Stemme
 Ernest Déjazet
-Théophile de Viau
+Nemanja Radulovic
+Roland Daugareil
 Gottlob Harrer
 Bruno Regnier
-Simon Halsey
-Jean-Claude Naudé
+Simone Lamsma
+Aimery Lefèvre
 Madel-Clerc
 Emmanuelle Monet
 Hadewijch
@@ -9482,85 +12785,89 @@ Louis-Sébastien Lebrun
 Red Radoja
 Joseph Batta
 Colin McPhee
-Eugène Adenis
-Gábor Bretz
 Georges Granges de Fontenelle
-Dick Annegarn
 Louis Cazin
 Jean-Baptiste Matho
+Paul Dutton
 Joseph Bouteille
 Comte C. de Chabran
 Reinhardt Wagner
 Anne Teresa De Keersmaeker
 John Amner
+Guem
 Charles Beckand
 Marius-François Gaillard
 Giovanni Giornovichi
-Catherine Hunold
 Jean-Baptiste-Victor Baudon
 Domenico Cercia
 Hue de La Ferté
+Henri Demarquette
+Kirill Gerstein
 Hamda Ahmed Hassanein Ahmed
 A. Bruschi
-Antonio Caldara
 Jean-Louis Pierot
-Ronald Van Spaendonck
 Henry Joseph Wood
 Jonathan Besser
 Andrea Zani
 Joseph Lauber
-Georges Hartmann
+Dominique Desjardins
 Olmas Rasulov
+Matthieu Metzger
+Johannes Ockeghem
 Jules-François Guieysse
 Natale Bazzini
-Emmanuel Nunes
+James Van Heusen
 Henri Defossé
+Anne Cartel
 Irène Hausammann
 Manuel de Zumaya
  Murcof
+Thomas Leleu
 António Fragoso
 Johann Christian Fischer
 Giulio Cesare Corradi
 Gilberto Mendes
 Éric Charden
-Jean Sourisse
-Valerius Otto
 Domenico Pellegrini
 Aline Debois
 Claude Prior
+Luis Antonio Gonzalez
+Alexis Crouzil
 Anton Kraft
 Torrie Zito
-Ruggiero Leoncavallo
 Georgs Pelécis
 Pierre Camonin
 Olivier Beaufils
+Pierre-Simon Chevry
 Henri Lazarof
 Peter Trils
 Laurent Duvillier-Wable
 Ernest Louis Miller
 Giuseppe Gariboldi
-Alberto Posadas
 Christian Jost
+Nicola Benedetti
 Alexandre Guiraud
 Zélie Asselin
-Daniel Schnyder
 André Dubost
-Serge Saitta
 Antonio Farina
 Scipione Lacorcia
 Dr. L. Subramaniam
 Ning-chi Chen
 Benoît Moerlen
 Sufjan Stevens
+Daniel Sylvain
+Hasan El-Dunia
 Alice Barcò
 János Tamás
 Dominique Baduel
 Ben Stivers
 Jose de La Tomasa
+Sharon Roffman
 Moïse Albert
 Lilian Thuram
 Joseph-Bernard Rosier
 Jan Křtitel Kuchař
+Monique Zanetti
 Johann Baptist Hilber
 A. Aldebert
 Thomas Beecham
@@ -9570,15 +12877,17 @@ Murat Malay
 Albert Decombe
 Ola Gjeilo
 Bal Ram
-Alisa Weilerstein
 Robert Alger
 Armand Curral
 Eugène Corrigeux
-Martin-Pierre Marsick
 Antonio Gardano
 L. Boissel
+Giovacchino Forzano
+Stefano Giannini
 Hans Otte
+Ben Heppner
 Bjarne Brustad
+Edit Klukon
 Christophe Vidal
 Marco Antonio Cavazzoni
 Mateo  Flecha, l’Ancien
@@ -9590,166 +12899,196 @@ Francisco Soto de Langa
 Valentin Deppisch
 Alexandre Mottu
 Zsigmond Szathmáry
+Annibal Troilo
 Eryck Abecassis
 Johannes Bedyngham
 Léon Belleville
+Kwangchul Youn
 Philippe Dulat
 Simone Vesi
 Max Henning
+David Violi
 Carlo Luigi Grua
 Matthieu-Frédéric Blasius
 Cesare Negri
 Calixa Lavallée
-Johann Gottfried von Herder
 Ernest Boulanger
+John W. Green
 Valentine de Buzonnière-Montevray
 Richard Davy
 Alessandro Besozzi
+Barbora Sojkova
 Alex Ashworth
+Chen Halevi
 Karl Ûlʹevič Davydov
 Pietro Antonio Coppola
+Denis Russel Davis
 Gaston d' Azémar
 William Hayes
 Nino Ferrer
 Antoine Chassagne
+Elsa Benabdallah
 Bo Bergman
 Nicolas Frize
 Garth Alexander Knox
 Jacques Delécluse
+Laura Buruiana
 Frédéric Arthur
 Hans-Peter Retzmann
 Giovanni Battista Ferrandini
 Guillaume Chapuis
+Natasha Petrinsky
 Jost Meier
 Caterina Assandra
 Gérard Lenorman
 Johannes Crüger
 Paul Knepler
+Giovanni Punzi
 Eddy Schaff
-Lev Zhurbin
-Franc̜ois de Paule Bretonneau
+Dorothy Fields
 Yvan Schreck
+Arno Madoni
 Jean-François Porry
 André Dillon
 Stéphane Grosjean
 Emily Dickinson
-Christianne Stotijn
 J. Cooke
 José Garcia-Badenes
+Alessandro Marcello
 Eduardo Ocón
 Maxime de Braux
-Anthony Plog
+Roberto Tagliavini
 Aleksandr Adol'fovič Vinkler
 Pierre Arbeau
-Jean Moréas
 Jean-François Roger
 Thomas d' Hèle
+Monika Ruzková
 Dominique Maître
 Majid Said al-Mendhir
 Karel Husa
-Filippo Gragnani
 Robert Wittinger
 Robinson Khouri
+Stéphane Part
 David Gordon
 Georges Gabriele
 Robin Holloway
 Perdigon
 Sérgio Assad
 António Victorino d' Almeida
+Béatrice Uria-Monzon
 Jaume Pahissa
+Jean-Baptiste Leclère
 A. Dalbone
-Dora Pejačević
 Emile Cayla
-Česlav Vaňura
 Haydn Wood
+Česlav Vaňura
+Catherine Ailloud-Nicolas
 Giraut de Bornelh
+Louis Michel Marion
 Jacob Paix
 Joseph Bovet
 Jacques-Arsène-François-Polycarpe Ancelot
 Alain Bernaud
 L. Chenevard
-Éric Huchet
 Gildas Thomas
 Aristide Bonnel
 Carlo Antonio Campioni
 Richard Heuberger
+Heddy Boubaker
 Gerald Bales
+Markus Stenz
 Joachim Johann Daniel Zimmermann
 Claude Engel
 Aleksandr Lʹvovič Gurilev
 Jay Alansky
-Grzegorz Nowak
 Franz Josef Aumann
+Julien Dieudegard
+Roman Patocka
 Kikuko Dachy
 Artemij Luk'anovic Vedel'
 Nicolas Bonnière
 Alicio
 Daud Sadozai
+Tomislav Lavoie
+Sevak Avanesyan
 Ramón Ferreñac
 DJ Spooky
+Mathieu Camilleri
 Alex Grillo
 G. Dardany
-Karel Svenk
 Ravinder Tinna
+Jachs Wert
 Lambert Pietkin
 Jacques Antoine Denoyé
 Johnny Hess
-Detlev von Liliencron
 Felix Benedictus de Massis
+Karl Friedrich Henckell
+Gideon Den Herder
 Alex Grillo
 James Hewitt
-Henri Vieuxtemps
+Benjamin Lazar
 Dejan Despic
 Ase Hedström
 Karl Kohaut
 Matthias Glander
 Bettina von Arnim
 Marc Tallet
-Barbara Sukowa
+Julian Plaza
 P. A. Dejardin
-Karl-Birger Blomdahl
 Gauterius de Castello Rainardi
 Jean Marius Pruvost
 Peter Davoren
-Leonardo Vinci
+Alexandre Rudin
 Sebastián de Vivanco
 Wolfram Graf
 Maurice Bellecour
+Marcin Sieniawski
 Harry Cahill
+Daniel Heide
 Pieter Hellendaal
+Clayton Thomas
 Srdan Hofman
 John Frederick Lampe
 Georges Degouy
-Pierre des Molins
 Annibale Padovano
+John Storgards
 Charles Naginski
-James Judd
-Mario Davidovsky
+Céline Boucard
+Ogden Nash
 Louis Applebaum
 Giulio Bonnard
 Sara Stowe
 Joseph Reynaud
-Daniyʾel ʾWren
+Valentin Alkan
+Thomas Blondelle
 Attilio Comino
+Gudjon Oskarsson
+Stamatia Karampini
+Gilles Binchois
+Farid El Atrache
+Cornelius Meister
 Lolita Beauchamp-Hughes
 Eivind Groven
+Romuald Grimbert-Barré
 René Rabey
-Luca Lombardo
 Philip Van Wilder
 Alphonse Royer
 Georges Boyer
 Pierre Guiral
 de Berrie
 Venceslav Wratny
+Nicola Tescari
+Kasper Tranberg
 Gerónimo Giménez Bellido
 Joseph-François de Clynsen
+Yves Castagnet
 Marc Carles
-Arthur Freed
+Georgiy Dubko
 Jean-Luc Étienne
-Joseph Albin
 Jian Wang
+Joseph Albin
 Jean-Michel Rivat
-Grimace
+Mathilde Painblanc
 Isaure Dauchy
 Pedro de Lagarto
 Galina Ustvolskaia
@@ -9757,8 +13096,6 @@ Roberto Mendes
 Jacques Bousquet
 Charles Schunke
 Reginald Smith Brindle
-Henriette Puig-Roget
-Simon Leduc
 Abdallah AG LAMIDA
 Dov Seltzer
 Piet Swerts
@@ -9769,10 +13106,13 @@ Paul Buisson
 A. van Ackere
 Horatiu Radulescu
 baron de Coriolis
-Diego Ortiz
+Jiri Skuhra
 Jean-Christophe Hoarau
-Bobby Timmons
+Hans Kotter
+Giacomo Rossi
 Vlastimir Trajkovic
+Jessica Muirhead
+Yoel Levi
 Robert Hebble
 Helmut Bornefeld
 Sydney Hodkinson
@@ -9781,10 +13121,12 @@ Stephen Albert
 Lockroy
 Denis Smalley
 Jim Larriaga
+Gennady Bezzubenkov
 Liviu Comes
 Surinder Sonu
-Marco Armiliato
-Lennox Berkeley
+Chloé Cailleton
+Pavel Cerny
+Olga Peretyatko
 Carlos Gardel
 Monica Lopez
 Augustin Barié
@@ -9794,89 +13136,101 @@ Ginés de Morata
 György Orbán
 Cédric Ricard
 Vivian Fung
+Giovanni Faustini
 Marina Ivanovna Cvetaeva
+Henri Chalet
 Elisabeth Barker
+Gauthier Herrmann
 Jean-Baptiste Dupuits
 Laurent Vieuble
 Nicola Tortamano
+Ragab Sadek
 Johannes Legrant
 Frédéric Martin
 Ididore Legouix
 Bernard Reichel
 Sergio Réndine
 Bai Li
+Julien Libeer
 Vasilije Mokraǌac
+Mihaï Ritter
+Francesco Manelli
 Giuseppe Colla
-Jean-Jacques Birgé
+Alvise Sinivia
+Brad Lubman
+Oystein Birkeland
+Delphine Haidan
 Djeli Moussa Sissoko
 José Gallés
 Reveriano Soutullo
-Steven Sametz
 Laurent Jacquier
 מרדכי געבירטיג
 Marcel Jorand
+Adrien Gaza
 Théo Carit
 Nikolaus Brass
 Marie-Pierre Faure
+Gianluca Capuano
 Sir Edward Elgar
 Chou Wen-chung
-Hilda Paredes
 Wayne Marshall
-Patrick Ascione
+Arnaud Moral
 Vicente Parrilla
 Suzanne Crotel
-Johann Gabriel Seidl
+Dimitri Boekhoorn
+Jens Mac Manama
 Rayner Taylor
+Kaspar Zehnder
 Marţian Negrea
 Philippe Goudour
-Sun Ra
 Jacques Riou
-Tapio Tuomela
 Giuseppe De Majo
 Christophe Loup
-Rodolphe Bruneau-Boulmier
 Octave Bouault
+Stephan Mac Leod
 Marc de Ranse
 George Alexander Macfarren
-Henning Kraggerud
-Robert de Bonnières
 Roger Caillé
 István Anhalt
 Gian Francesco Eterardi
+Sullimann Altmayer
 Joyce DiDonato
 Uros Rojko
+Leo Hussain
+Benoît de Barsony
+Matthias Champon
 Marco Pereira
-Ludwig Rellstab
+Tom De Cock
 Philipp Jarnach
 Giuseppe Sinopoli
-Marie Kalinine
 Agneta Eichenholz
+Benjamin Grosvenor
 Raymond Salmon
  VII. ACCUSATION, ABJURATION ET SENTENCE
 Jean Apothéloz
+Emilie Fleury
 Matheus de Sancto Johanne
+Jaap Van Zweden
 Steven Isserlis
 Alexandre Fessy
 Jean Ribbe
 A. H. Couvreur
 Teobaldo Power
 Bénigne Henry
-Hans Eklund
 Paul Bertrie
 John Hearth
-Miguel de Cervantes
+Aline François
 Ivan Moody
 Julien Vanhoutte
-Juan de Urrede
 Stanley Hoogland
-Pietro Raimondi
-Henri Bertini
 Marcel Frémiot
 Cosimo Bani
 Paul Lansky
 Paul Landormy
 Daniel Mateos Moreno
+Montero Gabriela
 Raymond Jeannot
+Edouard Belmar
 Alexis Chauvet
 Costanzo Porta
 Félix Bessac
@@ -9884,13 +13238,16 @@ P. Bodojra
 Plain chant
 Jean Boumard
 Guillaume Bamberger
+Orhan Yildiz
+Mihaela Martin
 Emöke Barath
+Simon-Pierre Bestion de Camboulas
 Bernard Magny
 Ignaz Lachner
 Clémentine Batta
-Andrzej Koszewski
-Benjamin Bernheim
+Clément Janequin
 Albert d' Archambaud
+Andrej Bielow
 Talvin Singh
 Hoste da Reggio
 Lars-Åke Franke-Blom
@@ -9899,84 +13256,98 @@ Fritz Hauser
 Edmond Deheym
 Fabritio Caroso
 Maurice Donnay
-Maria Riccarda Wesseling
-Victor Kissine
+Tristan Murail
+Romain Leleu
+Douglas Boyd
 Lana Sebastian
 Miroslav Tadić
 Frédéric d' Erlanger
-Georg Hamann
 Jean-Baptiste Duluc
+Isaac de Besenrade
 Michael Kamen
 Roger Barbet-Massin
 Alain Voirpy
 Louis Julien Rousseau
 Georges Caye
 André Tchaïkowsky
-Sarah Connolly
+Isabelle Dumont
 Ferdinand Thieriot
 Lucien Brou
 Musheng Chen
 Gunnar Wennerberg
-Gustave Bret
 Rajvinder Kaur Rajee
 Erich Robert Sorge
 Josep Maria Mestres Quadreny
+Aurore Bucher
 Mathurin Barbereau
 Stéphane Pelegri
+Daniela Koch
 Giovanni Nardelli
 David Longstreth
 Ignacio Garcia
 Henri Gagnebin
+Radu Bitica
 Yoshihisa Taïra
 Emile Bret
 Jean-Baptiste Chandelier
-Abraham Goldfaden
+Afanassi Fet
 Chalumeau
+Barbara Hannigan
+Virginie Tarrête
 Augusta Coupey
+Thibaut Lenaerts
+Sergei Murzaev
 Guillaume d'Aquitaine
 Raphaël Chabrière
+Josep Janes
 Haskell Small
+Linus Vogt
 Pierre Just Davesne
 Keeril Makan
 Mun Kyong Jin
 Joseph Patrat
 Gérald Chagnard
 Charles Brifaut
+Bernhard Forck
 Antonio Russolo
-Annette Dasch
 Pomponio Nenna
 Barnabé Farmian Durosoy
-Steffen Schleiermacher
 Pierre Villiers
+Ken Zuckerman
 Raoul Buyre
+Alina Pogostkin
 William Jackson
+Emmanuel Olivier
 Sahiba Daviatshaeva
 Auguste Deguenet
 Âkov Petrovič Polonskij
 Leo Preger
 Xavier Reim
 Giovanni Bertelli
+Serguei Ivanovitch Taneiev
 Pavel Avgustovič Pabst
 John Francis Wade
-Egon Petri
 Frederick William Steffkins
-Michel Cywie
+Yukio Yokoyama
 Giuseppe Scarlatti
 Ludovicus Mirandolle
 Jef Le Penven
 Jean-Louis Laruette
+Christian Wolfarth
 Emile Bouichère
 Horric de Beaucaire
 André Delcambre
 Daniel Schell
 Leo Portnoff
 Christine Mananzar
+Marie Pierre Langlamet
+Thài An
 Robert Craig Wright
+Romina Basso
 Louis Bédouin
 David Gillingham
 Alexis HK
 Maurice de Croze
-Mauricio Vallina
 A. Chazot-Laucher
 Jorge Morel
 Minjung Woo
@@ -9990,11 +13361,13 @@ Dominique Nicolas
 Pierre Clereau
 Amy Stanford
 Arnljot Kjeldaas
+Viktor Antipenko
 Alejandra Pesantez
 Silvio Mix
 Sri Joko Rahardjo
 Léon Halévy
  Ernest Dumont/Ferdinand-Louis Bénech
+Arnold Freed
 Gérard Daguerre
 Alfred Gradstein
 Stefano Bertuletti
@@ -10002,6 +13375,8 @@ Gary Wicknam
 Charles de Longchamps
 Carl Johann Friedrich Haltmeier
 Pierrequin de Therache
+Steve Shelley
+Eugénie Lefèvre
 Andrew Ashong
 Théophile Conrad Pfeffel
 Pierre de Corbie
@@ -10017,35 +13392,43 @@ Richard de Fournival
 André Bardin
 Marc Le Gars
 Jeff Wayne
+Eric Gérard
 Francisco de Santiago
+Krassimir Kyurkchiyski
+Agnès Selma Weiland
 Jules Collet
 Stéphane Bartoli
+westrelin pascal
 Lars Johan Werle
+Mathilde Wesendonck
 Ramu Chacora
 Etienne Du Tertre
 Grayston Ives
 John Mackey
+Francois-Joseph Gossec
 Lennox Berkeley
 Vittorio Trento
-António Marques Lésbio
 Laurent Papot
 Joseph Bourgeois
 Jan Van Landeghem
-Johann Gottfried Wohlbrück
 Samuel Humphreys
-David Guerrier
+Frederic Manoukian
+Emmanuel Gilot
 Chau-yuan Li
 Ida Presti
+Henry du Bailly
 Kent Wheeler Kennan
-Jim Morrison
+Pascal Moraguès
+Lior Leibovici
 Michel Conte
-Jean-Louis Bucchi
 Maurice André
-Gilles Millet
 Emmanuel Normand
 L. Streabbog
-Dirk Brossé
+Celia Dufour
+Françoise Kubler
+Bartolomeo de Selma y Salaverde
 André Bergès
+Pierre Bornard
 Bartolomeo Montalbano
 Julie Candeille
 Byttering
@@ -10054,24 +13437,22 @@ Heinz Reber
 Heinrich Baermann
 Ana Pena
 Alexandre Batta
-Kader Belarbi
 Philipp Jacob Rittler
 Carlo Beroni
 Vinzenz Fux
 Raimon Jordan
 Thomas Koppel
-Samuel Taylor Coleridge
+Fabio Biondi
+Mark Fisher
 Joseph Braga
 Johann Sebastiani
+Joëlle Martinez
 Lucy Simon
-Ruth Rosique
 Walter Lambe
+Jean Luc Menet
 Bruno Schweyer
-Jiri Ropek
-Antonio Piazza
 Martha Graham
 M. Crémon-Pallas
-Jeanne Leleu
 Clauzel de St Martin-Valogne
 Steve Goodman
 Pascal Vandenbulcke
@@ -10080,44 +13461,58 @@ Evgenij Kisin
 Charles Edward Horsley
 Adrian Harpham
 Olivier Rogg
+Adrian Brand
 Marcel Stern
-Jaroslav Ježek
 Jérémie Moreau
 David Petersen
-Enrico Correggia
+Anny Hwang
 Gerardo Hernán Matos Rodriguez
+François Francoeur
 Claude Morgan
 Bruno Gousset
 Mathieu Romano
+Alfredo Catalini
 Francesco Araja
 Anton Cajetan Adlgasser
 Carlo Cavalletti
 Maury Yeston
+Claire Bucelle
 A. Caillol
 J. A. Campos
 Alexandre Mastrangelo
 Juan Pablo Carreño
+Olivier Depre
 Antoine Clavet
+Michelle DeYoung
 Giuseppe Jozzi
+Ranieri De Calzabigi
+Guillaume Chilemme
+Gionata Sgambaro
+Lucia Cirillo
 Alfred Bunn
-Konstantin Nikolaevich Shvedov
+duchemin alain
 Carl Grammann
+Konstantin Nikolaevich Shvedov
 Alfred Crombé
+Françoise Toullec
 Honoré d' Ambruis
 Richard Seff
+John Osborne
 Pierre Monteux
+Robert Dean Smith
 J. Francisco Agudelo
 Giordano Tunioli
-Johannes Driessler
 La Grande Sophie
 Georges Baz
-Giacomo Leopardi
+Alex Grillo
 Angelino Trojelli
 Michal
 Vicomte de Corn
 Charles D. Blake
 André Englebert
 Raymond Bonheur
+Antonin Leymarie
+Alexandre Maillard
 Guilio Genoino
 Andy Helaby
 Olivier Truan
@@ -10126,28 +13521,35 @@ Alexandre Lagoya
 Oreste Carlini
 Gérard Nakache
 Helmut Vogel
+Isabelle Lequien
 Ludwig August Lebrun
 Pierre-Richard Deshays
 Philippe Portejoie
 Wasis Diop
+Ruth Killius
 Jean-Baptiste Duvernoy
 Avi Schönfeld
 Giuseppe Penone
 Maurice Desrez
+Solomon Linda
+Aurore Doise
 Alain Vanzo
 Saïd Guissi
 Pietro Degli Antoni
 Antoine Mariotte
 Lazar Weiner
 Zuqiang Wu
-Christophe Deslignes
+Marie Bereau
+Emil Stern
+Michael Volle
 Alexander Prior
-Giovanni Pietro Candi
 Jacopo Carli
 Luis Bacalov
 Fernand Vandenbogaerde
 Henri Crovetto
+Andriy Dragan
 Salvator Agnelli
+Renaud Derrien
 Bernard de Fontenelle
 Sylvain Beuf
 Virgilio Rojas
@@ -10156,170 +13558,174 @@ Philippe Spiesser
 Marcel Lattès
 André Hajdu
 Lucien Jacques
-Franz Werfel
 Nicolò Beregan
+patrick Baulieu
 Blas Galindo Dimas
 H. R. Martin de Condé
 Vincent Delbushaye
-Gareth Farr
 Sérgio Barboza
-Giuseppe Sellitto
 Adel Shams el Din
 Léon Charlier
-Gabriello Chiabrera
 Guglielmo Cappetti
 Federico Zandona
 Clamor Heinrich Abel
 Ûlian Grigor'evič Krejn
+Iréne Theorin
+Peire Cardenal
+Carl August Nielsen
 Benedetto Pallavicino
 Anton Mayer
+Andile Khumalo
 Waltraud Wächter
-Emio Greco
 Aristid von Würtzler
+Movsisyan Aram
+Tobias Steymans
 Alfred Blau
 Paco Santiago
-Malcolm Williamson
-Jean-Pierre Bucolo
-Elisa Doughty
+Phil Selway
 Ēmin Aspeti Aristakesyan
 Walter Lang
 Filippo Vitali
+Otto Erich Hartleben
 Cécile Roussat
 Gurmit Bawa
 Loris Binot
 Lucian-Cristofor Tugui
-Grégoire Hetzel
 Nicolas Martin
 Christian Couprie
+Giambattista Varesco
 Naoshi Kukiyama
+Thierry Comte
 Joseph Suder
-Cécile Perrin
 Monsieur de La Chasse
 Lambert de Beaulieu
 Lazarov Miodrag Pashu
-Virginie Robilliard
 Carlo Zangarini
 Cincinnatus
+Paul Thymich
 William Batchelder Bradbury
 Shulamit Ran
 Alexandre Luigini
-Iris Torossian
+Deryck Cooke
 Andreas Lidl
 Pierre Agut
-Johnny Hodges
 Jean-Denis Vivien
 Mindaugas Urbaitis
 Woldemar Bargiel
+Zakaria Ahmed
 Julien Cazeaux
 Esteban Marti
 Edmond Soubeyran
 Karina Gauvin
 Frédéric Caillierez
 Diego Luzuriaga
+Richard Myron
 Konstantin Vassiliev
 Will Eisemann
 L'ev Nikolaevitch Mourav'ev
 Marie Laugier
 Herman Darewski
-Michał Szymanowski
 Karèn Hačaturân
 Jarikaghan Esjanov
 F. Chantaize
-Paul Arma
 Mihail Cehanovskij
 J. Chalias
 Alfred Hennequin
 Alain Goudard
 Giovanni Battista Borghi
+Pierre Senges
 Yves Lafargue
+Guillaume de Machaut
 Jackie DeShannon
 Cristóbal Cortés
+Aain Cain
 Florent Marchet
 Bruno Hardt-Warden
+Dominique Clément
+Mort Shuman
+Christian Wolff
 Emil Adamič
 Franck Langolff
-Johanna Kinkel
-Jeff Buckley
-Pina Bausch
 Arthur Coupet
 Sophus Michaëlis
-Filipe de Magalhães
 Harold Rome
 Julio Quevedo
 Nicole Wray
 John Joubert
 Zbigniew Bagiński
-Sol Gabetta
-Helmina von Chézy
-Jean-François Laporte
 F. Carrière
 Balthazar de Beaujoyeulx
 Robert Cowper
 Jean-Pierre Danigo
+Pierre Cordier
+Michel Rousseau
 David Sampson
 Jean Lorrain
 Paolo Ugoletti
 Louis Casemajor
+Thomas Bettinger
 Ernoul le vielle de Gastinois
-Édouard Léon Théodore Mesens
 Jean-Henry d' Anglebert
+Suzanne Vega
 Hermann Friedrich Raupach
 Alexandre Carlin
-Antonin Artaud
 Vladimir Tošić
+Anatole Konstantinovich Liadov
 Amélie A. d' Azevedo
-Scipione Agnelli
 Jeanine Rueff
 Nicholas Carleton
 Philippe Durville
-Renan Luce
 Walter Jentsch
 Fernando Alves
-Karine Lethiec
 Mikola Leontovič
-Abel Decaux
 Laura Aikin
 Chinary Ung
 Jean-Michel Arnaud
+Marco Marini
 Barbara Bonney
-Mike Brant
 Edouard Ignace Andlauer
 Benoît Stasiaczyk
 Piero Umiliani
 Robert Ashley
 Georges Ledoux
+Christophe Beau
 Roger de Francmesnil
-Maximilian Hornung
+Jérôme Pernoo
+Vanessa Szigeti
+Ivana Rusko
 Jacques Ballue
 Man-chung Wut
 Giuseppe Ferlendis
 Antonio Bastida
-Edoardo Sanguineti
 Pierre-Claude Foucquet
+Jiri Hannsmann
 Amel Bent
 Hippolyte-Augustin Vargues
 Gustav Schreck
+Anil Bosselet
 Guido
 Alain Londeix
 Alfred Clemenceau
 Adrián Borredà
 Henri Bravais
+Philippe Giusano
 Alfred La Liberté
 Maria Bethânia
+Carl Rosman
 Friedrich Christian Mohrheim
-Tom Harrell
 Torquato Chiampan
 Joseph Degrez
+Andrew Zhou
 C. Arnaud de Bellegarde
-Denis Gougeon
 Didier Matry
-Georges Onslow
+Philippe de Vitry
 Grégoire
 Pavel Andreevitch Fedotov
+Fanny Paccoud
 Massimo Nardi
 Daniel Catán
 Claude Guillon-Verne
-Atte Kilpeläinen
+Rodrigo Ferreira
 Ilʹâ Fedorovič Tûmenev
 Paolo Renosto
 Louis-Jacques Milon
@@ -10327,16 +13733,20 @@ Usko Meriläinen
 Ludovic Chénard
 Otto Barblan
 Charles Gabriel Foignet
+Trent Reznor
 Riccardo Pick-Mangiagalli
 Brice Moscardini
 Pierre Février
 Vincent Magnan
 Ciprian Porumbescu
 Carbon
+Alessandro Grandi
 Francesco D'Ana
+Lorenzo Gatto
+Enrico Malatesta
+Enrique Garcia-Alvarez
 Ivan Jirko
 Conradus de Pistoria
-Tuija Hakkila
 Justo Eleria
 Vincent-Raphaël Carinola
 Ferdinand Kaufmann
@@ -10344,22 +13754,24 @@ Alonso Cárceres
 R. Bernard
 Palle Mikkelborg
 Giuseppe Allevi
+Gustav Falke
 Michaël Sebaoun
+Hanna Victor
 Niccolo' Grillo
+Vladimir Kapshuk
 Jean Nadeau
 B. Albanez
 Fernando Cerqueira
-Andrzej Panufnik
 Elis Borde
 August Nörmiger
 Камиль Чалаев
 Eugene Hill
 Charles Calendini
+malinovski paul
+John Bedyngham
 Saburo Teshigawara
 John Skinner
 Maurice Bourges
-Bo Holten
-Frédérico Alagna
 Francesco Dillon
 Luigi Russolo
 Yvonne Naef
@@ -10371,8 +13783,10 @@ Cherubino Busatti
 François Fayt
 Steven Gellman
 Francesco Vanneschi
+Roberto Forès Veses
 François Velliet
 Pierre Trochu
+Antje Wheitaas
 André Stocchetti
 Arthur Goring Thomas
 Patrick Lenfant
@@ -10382,6 +13796,7 @@ Christian Pezza
 Bela Jenbach
 Paul Burgat
 Jules Perrot
+biston elsa
 Дмитрий Львович Клебанов
 Elena Olegovna Firsova
 Annibale Stabile
@@ -10389,58 +13804,65 @@ Claudine Lebègue
 Sylvain Saint-Étienne
 Gérard Delahaye
 Giulio Cesare Barbetta
-Texu Kim
 Louis André
 Asdorve
 Laurent Flechier
-Marina Bartoli
 Marie Darjou
 Pierre-Frédéric-Adolphe Carmouche
 Frédéric Guérouet
 Théodore Ritter
+Mathieu Dubroca
 L. Bonnefond
+Jane Ira Bloom
 Luigi Ferrari Trecate
 Joseph Brunier
-Cathy Berberian
 Alexis Dardelle
 Stepan Anikievič Degtârëv
 Michel Pascal
-Felix Draeseke
 Alain Leblanc
 Henri Lyon
 Marc Vic
 Sylvie Reynaert
+Ovide
 David Duboc
 François Branciard
 Ernest Denne Baron
 Henri Letocart
 Marcela Beatriz Pavia
 Lauri Saikkola
-Angel Cabral
+William Brighty Rands
+Pierrick Boisseau
 A. Corret
+Victor Torres
 Jón Leifs
+Batiste Arcaix
+Sigismund Neukomm
 Inés Peragallo
-Cipriano de Rore
-Paul Lovens
+Alexis Apoukhtine
 Heikki Sarmanto
+Paul Simon
 Shane Endsley
 Boris Bergman
+Jacobus Clemens non Papa
 Giuseppe Persiani
-Nicolas Prost
 Hermann von Lingg
+Friedrich Martin Bodenstedt
+Françoise Ferrand
 Nicolas Economou
+Inva Mula
 Fred Lerdahl
 Laurent Gautier
-James Dashow
 Antonio Delfante
+James Dashow
 Radoslaw Klukowski
 Georg Reutter
 Ernesto Baffa
 Maurice Bucquet
 Minoru Miki
 Charles-Maurice Couÿba
-Miklós Kocsar
+Pierre-Jean De Béranger
 Giovanni Verrando
+Jonathan Stainsby
 Camille Dalmais
 Guy Touvron
 Graham Whettam
@@ -10448,29 +13870,31 @@ Julien Bécart
 François-Joseph Fétis
 Karel Sabina
 Guillaume de Tudèle
-Johannes Ockeghem
+Frans Helmerson
 Jean-Pierre Revoil
 Petrus Tritonius
 Johann Ernst Rembt
-Jorgen Bentzon
-Luis Régo
+Léonid Karev
+Erika Grimaldi
+Improvisation
 Jean Tabourot
 Johann Joachim Eschenburg
+Inês d' Avena
+Luis de Narvaez
+Jens Bracher
 Frantisek Ondricek
 Irène Schweizer
+Zsuzanna Varkonyi
 Venanzio Rauzzini
 Michael Blake Watkins
-Steven Stucky
 Artur Malawski
+caron lidwine
 Edmond Cottin
 Paul Obermayer
 Michel Corrette
 Jeff Barnel
-Arthur Foote
-Sebastián Piana
 Takuya Nemoto
 Julien Lepers
-Ann Dominique Merlet
 Guillaume Lebert
 José Viñas
 Monsieur Eude
@@ -10483,10 +13907,13 @@ Eduardo Armenteros
 Louis-Julien Clarchies
 Albert Kellim
 Gerard Schwarz
-François Lazarevic
 Andreas Anton Schmelzer
 Ri Myong Il
+Didier Lasserre
 Imogen Holst
+W. Franke Harling
+Céline Tison
+François Xavier Szymczak
 Paul Dolden
 Augustin Savard
 Léon Bastide
@@ -10494,23 +13921,23 @@ Winston Naborlhborlh
 August Lanner
 Napoleone Cesi
 Georges Koumendakis
-Maurice Reuchsel
 Laurent Clouet
 Léon Moreau
+Jose Marin
 Antony Hopkins
 Alexandra Lubchansky
 Francesco Maria Zannetti
 Milan Stibilj
 Miguel Palacín
 Christian Vieussens
-Harry James
-Stephen Sondheim
-Virginie Pochon
 Joseph Borani
 Manuel Blasco
 Frédéric Botton
+Manuel Metzger
 Joseph Lai
 Paul-César Gibert
+Jonathan Faralli
+Patrice Kirchhoff
 M. Arnault
 Henri Falk
 Boris Vladimirovič Asafʹev
@@ -10522,68 +13949,83 @@ Francesco Pollini
 Zak Najor
 Antonio Pileggi
 Berhnard Theodor Breitkopf
-Gottlieb von Leon
+Andrea Nagy
+Magali Albertini
 Han Wu
 David Heinrich Garthoffen
 Timothy Corlis
+Peter Harvey
 Włodzimierz Wolski
 Genrih Semenovič Bruk
-Eric Picard
 Fulvio Caldini
 Th. Asselin
+Luc Marchal
 Aleksej Vladimirovic Stancinskij
 Eugène Arnaud
+Young-Eum Koo
 Vincent Massip
+Antonio Carbonchi
+Joris Rühl
 Jean-Marie Souriguère de Saint-Marc
 Fernand Corot
 Jacques Gaultier
 Michel Yost
 Kurt Pahlen
-Martin Roman
+Maud Noury
 Luigi Prividali
+Mikhail Rudy
 Ralf Bölting
 Michiharu Matsunaga
+Francesco Cilea
 Juan Camilo Hernández Sánchez
 Մարտուն Իսրայելյան
-Frank Paparelli
 Prudent-Louis Aubéry Du Boulley
+Nelson Freire
 Emilie Baudoin
 Francesco Guido
-Daniel Reuss
+Maillard Thibault
+Christiane Kohl
 Jean-Baptiste Niel
 Áskell Másson
+Tito Munoz
 Amable Cochin
 Anna Amalia
+Stephan MacLeod
 Olivier Stalla
 Dominique Plénat
-Albert de Rippe
 Nicolas Chastelet
 Don Cowan
 Jane Bos
 Jessica Rivera
+Natalia Tchitch
 Эдуард Арамович Хагагортян
 Gilbert Vinter
+Christophe Dumaux
 Jean-Baptiste-Denis Desprès
 Luis Soria
 Matthijs Vermeulen
 Frédéric Chopin / Igor Stravinski
+Jerry Bock
 Artur Napoleão
 Ivajla Kirova
+Chae-wook Lim
 Eugenio Giunti
 Giacomo Fogliano
 Paul Badié
 Jacobus Vaet
+Renaud Capuçon
+Liliya Zilberstein
 Francisco Palero
-Mance Lipscomb
 Stefan Genz
 Christian Marina
 Baginski
 Stephen David York
 Staffan Odenhall
 Juan Pérez Roldán
-Robin Meier
+Julia Novikova
 Gerhard Wuensch
 Arthur Ciappi
+Ion Marin
 Pierre Combes
 Rolf Inge Godöy
 Sammy Fain
@@ -10591,61 +14033,73 @@ Marc-Didier Thirault
 Gita Langley
 Vladimir Aleksandrovič Lugovskoj
 Jean Valmy
-Marcel Pollet
 Cy Coleman
+Marcel Pollet
 Julien Bertrand
 Barry Truax
-Krešimir Špicer
 Jules Déjardin
 Francesco Ballani
 Werner Wehrli
 André Alliaud
+Alexandre Martin
 Vito Levi
+Alexis Pletcheiev
 Véronique Dufour
 Pál Kadosa
 Christaphor Kara-Mourza
-Theodor Storm
+Antti Tikkanen
+Christian Ivaldi
 Anthony Newman
+Frédéric Durand
 Wendell Harrison
 Karlheinz Essl
 Arkadie Kouguell
 Yisa Solaudeen
 Harold Fraser-Simson
 Marie-Luce Lucas
+David Feldman
 Yves Gourhand
-Alexandre Lokchine
+Frédérique Garnier
 A. Bazire
 Einar Christiansen
 John Musto
+Joël Suhubiette
 Gottfried Keller
 Agustín Lara
+Gaël Lepingle
  Albert Willemetz/Henri Christiné
+Christophe Roy
+Pierre Perny
 Catherine Pozzi
+Duros loic
+Marta Gentilucci
+Pennesi Anna
 Leocadio Rayol
 Vishal Bhardwaj
 Vsevolod Chmoulevitch
 X.-B. Saintine
 Tibor Pikéthy
-Jérôme Savonarole
-Constantin Brăiloiu
 Jean Conseil
 Georg Philipp Bader
+Marc-Antoine Désaugiers
 Miroslaw Bukowski
+Estelle Boisnard
 Jean-Louis Mechali
-Theodore Antoniou
 Hong Sheng
 Regula Mühlemann
 Carlo Hemmerling
+Laurent Verney
 Georg Dietrich Leyding
 Yves-Marie Pasquet
 Jean Coyez
 Giovanni Ambrogio Migliavacca
 Albersenn
-John Playford
+Guy Van Waas
 Charles de Bucovich
 Anselm Viola
-Alvin Lucier
+Thomas Moore
 Yvan Cassar
+Vladimir Fedoseev
 Giovanni Battista Leonetti
 Jorge Cardoso
 Payton McDonald
@@ -10653,17 +14107,19 @@ Marcel Reuter
 Dave Volpe
 Arthur Piechler
 Xinghai Xian
+Leevi Madetoja
 Fernande Delage
 Michel Wiblé
 Wolfgang Striccius
 Joseph Cotrufo
 Gaspar Claus
-Eugène Labiche
 Gerhard Lampersberg
+Charles Cros
 Pedro  Guerrero
 Ola Salo
+Pascal Westrelin (Pee Wee)
+Elodie Kimmel
 Tahar Gharsa
-Paul Smith
 Dirk Snellings
 Josep Cercos
 Rogelio Huguet
@@ -10675,6 +14131,7 @@ Arnaud Nuvolone
 Robert Morris
 Florence Collin
 Joseph Esménard
+Bill Hopkins
 Eugène Chabert
 Pierre Bouteiller
 Madeleine Will
@@ -10682,33 +14139,39 @@ Emmanuel Conforto
 Giovanni Ghizzolo
 Claudin de Sermisy
 Victor Soulaire
+Amy Moore
 Antoine Morel
-Lyonel Feininger
 Giovanni Bertuccio
-Jorge Luis Borges
 Auguste Durand
 Andrew Ager
 G. Balard d'Herlinville
 Maurice Celeyron
 Stéphane Hernandez
+Gilbert Nouno
 Andres Isasi
 Manuel de Egüés
 Johann Paul Eichhorn
 Cleavant  Derricks
+Martin Danek
 Fernand de Beaufranchet
 Gustave d' Aulnys
+Paolo Stupenengo
 Pierre Emmanuel Verheyen
 Jean-Baptiste Geoffroy
 Jean-Guillaume Bart
-Jamie Lidell
+Hugh Petter
+Lena Neudauer
+Ludovic Morlot
 Peeter Vähi
 Jeronimo de Carrión
 Hans Swinnen
+Mathias Pontévia
 Fred Elizalde
 Daniele Corsi
+Peter Kooij
 R. Chenu-Lafitte
 Gaëtan Chauvigné
-Gerard Victory
+Elmar Schrammel
 Larrio Ekson
 Frauenlob
 Elena Firsova
@@ -10718,139 +14181,163 @@ Marc Steckar
 Ernest Chavanon
 René Andurand
 Ray Manzarek
-Luciano Gallet
 José Calvimonte
 B. M.
 Casimir Gide
+Louise Callinan
 Fabio Ursillo
+Randol Rodriguez-Rubio
+Pierre Bordaçarre
 Pierre Augiéras
-Hugo Peretti
 Henri Bordes
 Paule Maurice
 Johann Baptist Novak
 Esmé De Vries
-John Taverner
 Germaine Caveroc
 Johannes Galliculus
+Antoine Dreyfuss
 Ben Assiter
+Stjepan Veckovic
 Richard de Semilly
 James Kirtland Randall
+Randall Cook
 Jean-Michel Brezovar
 S. Breton
 Fernando E. Millet
 Benny Golson
-Wayne Horvitz
 Ben Parry
 Louis Maresse
 Thierry Geoffroy
 Friedrich von Hagedorn
 Évariste Désiré de Forges Parny
-Nicolas Racot de Grandval
 Mihail Andricu
+Oto Reiprich
+Franz Xaver von Schlechta
+Armand Angster
+Charles d' Orléans
 Pietro Simone Agostini
 Giovanni Battista Fasolo
 Johnny Grandert
 Ludwige Badaroux
 Eric Fenby
-Dave Liebman
 Hilaire Debucquet
 Fernande Peyrot
 Jeremy Lubbock
-Jean Schwartz
-Béla Balázs
+Csilla Boross
 Marc Nacasch
 Pierre Hugard
+Stéphane Olry
 Jean-Olivier Beydon
 Henri-Benoit-François Darondeau
 Yinghai Li
 Hidemaro Konoe
-Stochelo Rosenberg
+Jean Gilles
+George Gordon Noel Byron
 Francesco Balilla Pratella
 George Stephanescu
+Frédéric Mitterrand
 Jacques Réale
 Ronald Center
 Maurice Saylor
+Carlo Cigni
 Guido Baggiani
 Ernesto Cavallini
+Sadie Vimmerstedt
 Giovanni Contino
-Samuel Husser
 Vladimir Blok
 Alfred Léo
+Benjamin Godard
 Henri Claveau
-Mili Balakirev
 Chaboüillé Saint-Phal
-João de Deus de Castro Lobo
 Gustave Dugazon
 Raoul Gunsbourg
+Franz Xaver Süssmayr
 Francisco José Lopez
 Justin Morgan
 Luiza Caloïanu
+Thymolphtalein
+Lisa Immer
 Rafael Chaves Torrez
 Giuseppe Amadori
 Grigory Samuilovich Frid
 John Ernest Galliard
+Stan Laferrière
 Johann Georg Lickl
 Léonce Détroyat
 Al Street
 Richard Flury
-Otto Roquette
-Michael Jackson
+Ed O'Brien
 Osbert Sitwell
 Alfonso de Troya
-René Challan
 Charles-Ferdinand Ramuz
 Thomas Hérier
 Jean-Jacques Laubry
 Severo Bonini
 Jan van Vlijmen
-Vincent Recolin
+Guy Braunstein
 Victor Boullard
 Osmán Pérez Freire
 Johann Melchior Gletle
 Henri Martinet
 Nicolas Zourabichvili
-Christopher Simpson
 Friedrich Zehm
 Johann Nikolaus Forkel
 William Hawley
 Madeleine Bloy-Souberbielle
 Guillaume Cantillon
-Sergio Ortega
 Pierre Segond
 Jusepe Ximénez
 C. Attic
+Raphaël Pongy
 L. Boulet
 E. Bordier
+Andrea De Carlo
 J. Alary
 Roland Kayn
 Eldad Shiloah
-David Shire
+Caroline Stein
 Francis de Croisset
+David Shire
+Barnabàs Dukay
+Giovanni Schmidt
 Joseph Riepel
+Andrea Lauren Brown
+Benoît Marin
 Serge Danet
+Johannes Martini
 Michel Magne
+Pascal Rogé
 Jean-Patrick Capdevielle
-Okko Kamu
+Hans Tammen
 Joaquin Malats
 Francis Salabert
 José Pablo Moncayo Garcia
 Clement Woodcock
 Firmin Audouin
 Michal Modzelewski
-Nicolas, de Radem
 Jules Ancker
+Serguei Gortchakov
 Stefano Vai
-Frédérick Haas
 Keith Hamel
+Peter Rösel
+Bernard-Olivier Faguet
 Jean-François Verdier
 A.F. Agnel
-Matthew Best
+Deborah Dagobert
 Cor Kee
+Le Bars Kevin
 Maria de los Angeles Jimenez Dominguez
-Jo Corbeau
+Hélène Joinet
+Tonci Bilic
+Tristan Raes
+Jean-Manuel Candenot
+Sébastien Naves
+Ngoc Giàu
+Yukiko Sugawara
 Alexander Scriabine
 David Conte
 Norbert Glanzberg
+Marcelo Alvarez
 Antoine Romagnesi
 Earl Kim
 Jean-Maurice Lenne
@@ -10861,11 +14348,15 @@ Edwin Roxburgh
 Jean-Joseph Masse
 Mathieu Gascongne
 Véronique Rioux
+Orlin Anastassov
 Jane Bertrandon
 Ch. Bulan
+Ron Geesin
 Egidius
+Frédéric Goncalves
 Isaac Lane
 Tulika Srivastava
+Girolamo Casoni
 Eddie Floyd
 Josep Manuel Berenguer
 Bruno Robilliard
@@ -10875,46 +14366,50 @@ Ray Henderson
 Nicolas Foulon
 Stephane  Karo
 Thomas Augustin Arne
-Cecil Taylor
 Félix Fourdrain
 Mitch Leigh
 Antoni Szałowski
 Téo Cavallo
 Madiop Mbëngue
-Alexandre Swan
-John Keats
+Jean-Michel Durang
+Paul Malinowski
 Xiaogang Ye
-Antony Holborne
+Pablo Sainz Villegas
 Louis Karchin
 Léon Dufils
 Jacopo Durandi
-Albert Giraud
 Louis Gouin
+Anne Schwanewilms
 Laurent Gervais
 C. Jalabert
 Grigorij Zaharʹevič Čhikvadze
+Daphné Touchais
 Bill Deraime
 Voldemar Bernardi
 Eberhard Wenzel
-Yannick Maillet
 Carlo Della Giacoma
+mathieu Leroy
 Neil Diamond
 Peter Knell
 Mohamed Issa Ag Oumar
 J. d' Angelis
 Florence Pinvidic
-Carolyn Carlson
+Johannes Burghoff
 Muriel Laporte
 Émile Lukas
 Luis G. de Ansorena
 Victoria Lukas
 Henriette Renié
 Pasquale Costa
+Antonio Martin Y Coll
 Nikolaus A. Huber
 Seppo Pohjola
+Michel Doneda
 Paul Jeffries
-Léo Maresse
+Marie Friez
+Jean Louis Deloncle
 Joseph Schubert
+Sergey Malov
 Turganbey Qurbanov
 Villemer
 William Knapp
@@ -10927,18 +14422,22 @@ Filippo Campanella
 Ethel Barns
 Maceo Pinkard
 Agostino Piovene
+Chander Sardjoe
 André Chailleux
 Charles Doisy-Lintant
-Giuseppe Concone
 Jacques de Menasce
 Johannes De Colonia
 John Lurie
-Anselmo Aieta
 Hilary Summers
 Jacques Arney
 Karl Fiorini
 Jacques Brunel
+Sam Coslow
 Frantisek Xaver Zomb
+Wynne Evans
+Vincent Léonard
+Boglarka Pecze
+Celso Antunes
 Guiot de Dijon
 Meliha Doğuduyal
 Nahuel Di Pierro
@@ -10954,56 +14453,66 @@ Julien Bénard
 Bonifazio Graziani
 Luis L. Mariani
 Paul Bautz
+Myra Hess
+Ennemond Gaultier
 Luigi Confidati
 Florian Mutschler
+Fanny Ardant
 François Valentin
 J. Bertin
 Ovide
+Paolo Battaglia
+Tijl Faveyts
 Jacques Larguèze
+Günther Groissböck
 Gabriel-Marie
 Yoshio Hachimura
-Frédéric Sylvestre
 Francisco Kröpfl
 Diego Fernández
 A. Barthélemy
 J. Bénard
-Nigel Westlake
 Kevin Juillerat
+Huong Thanh
 Domenico Filippo Contini
+Roland Pidoux
 Raoul Pugno
 M. Clère
-Joanne Lunn
 Maurice Weynandt
 Evariste de Cré
-Gioseffe Guami
 Pascal Sentenac
 Pierre Conté
+Clement Woodcock
 Noel Rawsthorne
 R. Cramer
-Karl Naegelen
+Randy Newman
+Olga Busuioc
 Joseph Warren
 Karl L. Hoschna
 Girolamo Abos
+Maï-Phuong Tran
+Katy Elkin
  André Mauprey/Kurt Weill
 Edouard Signolet
 Störmer
+Katarina Karnéus
 G. Bustini
 Cécile Aubry
 Federico Longás
 Auguste Bentz
-Caroline Mutel
  Anonyme kabyle
 L. Cramer
+Paolo Tosti
 Katsuhiko Asano
 Armin Kaufmann
 Alfred Maria Willner
+Robert Jezierski
 Bernhard Christian Weber
 Gustave Bautz
+Giovanni Maria Trabaci
 Giovanni Palazzi
 Heinrich Steinbeck
 Johann Theile
 Anonyme de la tablature de Lunebourg
-Mario Vittoria
 Gentil Montana
 Adam Oehlenschläger
 Guillaume Buonsollazzi
@@ -11014,39 +14523,50 @@ Anthony Newley
 Jacques-Victor Bayelle
 Olav Anton Thommessen
 Mario Facchinetti
+huel sebastien
 Amaan Ali Khan
 Walter Kraft
 Jules Van Nuffel
 Leigh Melrose
-Pēteris Plakidis
-Thurston Moore
+Steven Humes
+Benoît Latil
 Michael Wise
 Sulkhan Ivanovich Nasidze
 Franciscus
 J. Cartier
+Céline Grangey
+Gwendal Giguelay
 Fermín Arizmendi
 Stéphane Maurice
 Gaby Verlor
+Didier Meu
+Rachel Frenkel
 Arnold Cooke
-Misato Mochizuki
 Traditionnel Arrangement The Gloaming
-Georges Ribemont-Dessaignes
+Daïa Durimel
+Pierre-Olivier Queyras
 Nicolas Champion
 Niels Otto Raasted
 Markus Zahnhausen
 Brad Scott
+Emmanuel Bourdieu
+Hugo Conrat
 Roy Henry
+ANTHONY Newley
 Jesús Torres
 Manuel Moreno-Buendía
 Géza Allaga
 Christian Liebe
+Thomas Lehn
+Philippe Hanon
+Asa Akerberg
 F. Cudenet
 Geneviève Laurenceau
+Yoann Joliet
+Maurizio Pollini
 Jacque-Dupont
-Michelangelo Falvetti
 Auguste Burg
 Petros Peloponnesios
-Nolwenn Leroy
 François Riga
 Carlo Mannelli
 Henry Wadsworth Longfellow
@@ -11054,56 +14574,66 @@ Tofigh Behjouri
 Etelnna Maldonado
 Stephen Dankner
 Eugène Bourdeau
+Jacques-Antoine Bresch
 Emile Arnoult
+Pierre Bessière
 Trygve Madsen
 Aleksandr Nikolaevič Serov
-Anders Brødsgaard
 Joe Mavety
+Quôc Hung
+Victor Léon
 Benny Sluchin
-Michel Paul Guy de Chabanon
 René Chalupt
+Mélodie Ruvio
 Ottavio Bargnani
 Calvin Hampton
+Françoise Masset
 Félicien Chadeigne
-Judith Fa
 Tauno Marttinen
 Peter Frankel
 E. Casalini
+Victoria Harmandjieva
 Jules Brésil
 Hervé Loche
 Jeremiah Ingalls
 Luigi Grandi
 Jean-Luc Trulès
+Jean-baptiste Etchepareborde
 Cesare Oliveri
+Bettina Pahn
 George Gordon Byron Byron
+Khalil Chahine
 Constantin Dimitrescu
 Alonso Ramírez de Arellano
+Peter Rundel
 Georges Boyer
-Philip Lane
 Norbert Schultze
 Luis Gianneo
 Armand Gouffé
+Helena Rasker
+James Gilchrist
+Alix Le Saux
 Manuel Manrique de Lara
 Franz Xaver Pokorný
-Omo Bello
 Erik Gustaf Geijer
 René Richard
 Hans-Jürgen Bose
 Fernand Cirilly
-Franz Asplmayr
 Pierre Cambourian
 Jean-Pierre Semeraro
 Santo Barracato
+Alexandre Ambroziak
 Tomaso Cimello
 Natale Bazzini
+Claudio Fenoglio
 Boris Leonidovic Sabaneev
+Frédérik Steenbrink
 Christian Tournay
 Robert Janssens
 Hajk Zaharian
 Pablo Ortiz
 Dimitʺr Nenov
 Pietro Alessandro Yon
-Tété
 Jacques Vanherenthals
 Michael Myers
 Marie Courtaux
@@ -11112,64 +14642,70 @@ Agostino Agazzari
 Harold Darke
 Alexandre Damnianovitch
 Andréas Schachtner
+Félix Godefroid
 Sophie Léal
 Jacques Loeillet
-Jean Cassou
 Henri Classens
 Charles Boyer
 Francesco Rovigo
 Kaveh Rastegar
-Charles Duveyrier
 Irvine Arditti
-Gerald Finzi
 Eduardo Polonio
+Wilhelmine von Hillern
 Charles Abarca
 Kaspar Kummer
 Edmond Chénerilles
 H. David de Sanson
-Toshio Hosokawa
 Ketil Vea
-Wayne Peterson
+Ivan Bunin
+Yuri Kissin
 Jean Bodel
+Philippe Giusiano
+Iano Tamar
 Bradley Lubman
-David Stern
 Jean-Robert Talbot
 Jean Baptiste Mohr
 Niccolò Tassi
-Valer Barna-Sabadus
 Haig Sarikouyoumdjian
-Hans Georg Nägeli
+Catherine Manson
+Tiago Matos
 Yan Proefrock
 Emmanuelle Saby
-Viatcheslav Semionov
 Karl Siegmund, Frieherr von Seckendorff
 Rock S. Harvey
 Ulrich Brätel
+Mantombi Matotiyana
 Kate Symonds-Joy
 Achille d' Artois
 Michael Edward Parsons
 Jean Planel
 Alain Joly
+Jean-Louis Meunier
 Johann Heinrich Buttstedt
-Louis François Aubert
+serin laurent
+Daniel Cuiller
 Francesco Morlacchi
 Lorenzo Allegri
 Victor Ballu
 Éric Donnot
+Martin Winkler
 Jeff Mills / Michael Banks
 Gasparo Zanetti
 Carlisle Floyd
 Viktor Vladimirovič Èval'd
 Toke Lund Christiansen
-Elena Kats-Chernin
 Chris Cheek
 Louis Bridet
 Miklós Sugár
+David DQ Lee
 Léon Amouroux
 Eric Salzman
 Pierre-Gabriel Buffardin
+John Sheppard
 Michel van der Aa
+Nobuko Imai
 Georg Arnold
+Gareth John
 Osmar Maderna
 Arthur Herzog Jr.
 Jean-François-Alfred Bayard
@@ -11179,14 +14715,12 @@ Domenico Manzoli
 T. Hadot
 Hans Ourdine
 Emmanuel Oriol
-Atiq Rahimi
 Carlos d' Alessio
 Clarence Cameron White
 Johann Sebastian Bach / Ferruccio Busoni
 Hector Mariotti
 Johann Gustav Eduard Stehle
  Les frères Grimm
-Giovanni Battista Cirri
 Ingmar Milveden
 Youcef Allali
 Edgar Tinel
@@ -11195,56 +14729,58 @@ Yannick Noah
 Frédéric François
 Nicola Sabatino
 Marcus Creed
-Robin Tritschler
 Endre Szervánszky
 Domenico Maria Melli
 Nicolas de Marle
-Marc' Antonio Ingegneri
 Serge Koussevitzky
 Nils Henrik Asheim
 Edouard Condette
-Luigi Romanelli
-Oscar Wilde
 Steve Waring
 Louis-Théodore de Tschudi
 Sigismund Stojowski
 David N. Baker
 Harald Lie
+George Weiss
+Anil Bohsle
 Edouard Bernard
 Kazuko Narita Yoshida
 Joseph Balthasar Hochreither
 Fredrik Emanuel Lithander
 Bernhard Joachim Hagen
-Augustyn Bloch
+Olivier Moret
 José de Orejón y Aparicio
 Rija
-Philipp Friedrich Böddecker
+Michael Schmid
 Amédée de Beauplan
 Barthold Feind
-Wynton Marsalis
+Romain Millaud
+Francesco Corbetta
 Benoît Chanez
 Denis Chouillet
 João de Sousa Carvalho
+Frank Peters
 Franz Xaver Engelhart
 Raymond  Lefevre
 Thomas Linley
 Alfred Guichon de Grandpont
+Dietrich Henschel
 Paul Gravollet
+Andrea Gabrieli
+Tom Williams
 Carolomannus Pachschmidt
-Claude Kesmaecker
 François Thuillier
 Richard Blagrove
 Nachiko Kai
-Olivier Dejours
 Francis Loriaux
 Rico Gubler
 Scott Joplin
-Andrea Liberovici
+Laurent Lechenadec
 Michel Arbatz
 Émile Vuillermoz
 Roland Marais
 Arthur de Beauplan
 Charles Denis
+Katerina Javurková
 Fredrik Söderberg
 Evgenij Fëdorovič Svetlanov
 Gunnar Hahn
@@ -11262,6 +14798,7 @@ Arnold Mendelssohn
 Fray Benito
 Marie-Luce Schmitt
 Miroslav Miša Savić
+Romain Bussine
 Emile Bouriello
 Bettina Ruchti
 Sébastien Dutrieux
@@ -11272,13 +14809,14 @@ Henri Hirchmann
 Georges Cadiot
 Jules Supervielle
 Antonio Costantini
+Keiko Murakami
 William Bastard
 Patrice Libes
+Ponç d' Ortafa
 Christian Guillonneau
 François Chouquet
 René de Galard Brassac
 Mátyás Seiber
-Juan Manuel Santos
 Giovanni Martino Cesare
 K. Alemshah
 Lishan Wang
@@ -11287,37 +14825,40 @@ Tamekichi Mochizuki
 Georg von Hofmann
 Lindolfo Bicalho
 J.-N. Duquesnoy
-Victoria Kamhi
 C. de Chilly
 Van Morrison
+Pom-ju Yun
 Alexandre Shchetinsky
  Yves Mirande/ Albert Willemetz/Raoul Moretti
-Renaud Detressan
 Richard Blanchet
-Marta Infante
 Philippus Van Wichel
 Michèle Belfis
+Thomas Robine
 Jeanne Ablon
 Maximilian Steiner
+Ronan Debois
+Yves Baudry
+Leonardo Loredo De Sà
 A. Bascans
-Lennie Tristano
+Livio Celiano
 David Gategno
-Anton Grigorievitch Rubinstein
+James Harris
 Tobias Picker
+Anton Grigorievitch Rubinstein
 Natacha Catusse
+Martina Gojceta Silic
 Léopold Courcelle
 John Garth
+Bernard Imbert
 Johann Gottfried Müthel
+Ana Maria Otxoa
 Mya Simille
 Jaures Lamarque Pons
-Charles Méré
 Yoko Kubo
-Mkhitar Ayrivanetsi
+Xavier de Lignerolles
 Gerard McBurney
-Francis de Bourguignon
 Arnaldo Antunes
 Jesús García Leoz
-David Raksin
 Lê Quan Ninh
 Michele Caballone
 Eugène de Fresne
@@ -11327,65 +14868,67 @@ Nelly Sachs
 Pedro de Araújo
 Jean Coralli
 Jean-Baptiste de Lully
-Olivia Doray
-Stéphane Logerot
 Thomas Elsbeth
-Hans Bethge
 Stanojlo Rajičić
 Christophe Havel
-Jean-Pierre Nortel
 Balwinder Mast
 Hans Joachim Hespos
 Bołeslaw Szabelski
-Franck Bard
 Clemens Gadenstätter
 Johann Melchior Caesar
-Anne-Marie Hellot
+Antun Bozic
 J.-H. Battmann
+Joseph Michel
 Bernard Fieschi
 Dumisani Maraire
 Camille Cannas
 Gaetano Lattila
 Sergej Trubačev
-Ernst Eichner
 Ferdinand Astruc
 Wayne Barlow
 Jean-Baptiste-Maurice Quinault
+Don George
+Mary Carewe
 José Fernández Richoly
 Carl Michael Bellman
 J. P. Bizet
 Eugène Cabrol
+Antonio Meneses
 Gaillard
+Ju-young Hong
 Roy Hamlin Johnson
 Pierre-Philippe Bauzin
+Anke Dill
 Alexander Ritter
-Edgar Meyer
 Bo Linde
 Jean-Pascal Beintus
+Alfred Kim
 Carl Friedrich Christian Fasch
 Fabrice Chollet
 Siegfried Matthus
-Nancy Gustafson
 Adolphe Herman
 André Lavagne
 Emmanuel Macron
 William Smyth
 Luiz Costa
 Otto-Albert Tichý
+Rainer Trost
 Richard Karpen
 Droardus Trecensis
 Achille de Campisiano
+Gaetano d' Espinosa
 Michel Maier
 Jean-Félix Lalanne
 Charles-Joseph Van Helmont
+Julian Rachlin
 Henry Balfour Gardiner
 Charles Billema
-Johnny Burke
 André Wormser
 Nycasius de Clibano
+Olivier Darbellay
+Xavier Levêque
 Federico Romero
 Arthur Hoérée
-Julian Prégardien
 David Lefebvre
 Joseph Schuster
 Karel Kovařovic
@@ -11393,52 +14936,72 @@ Francisco Semprun
 Émile de Najac
 Karel Blažej Kopřiva
 Pierre Leemans
+Julien Desplanque
 Luisita Chebret
+David Sagastume
+Ainhoa Arteta
+Konstantin Shilovski
 Marzena Diakun
 Marie-Josèphe Bouchy
+Pierre Stéphane Meugé
 Henry Deutsch
 Leo Smit
+Martina Rüping
 Edgar Bori
 Wacław z Szamotuł
+Annabelle Luis
 Z. Bonin Pons
-Gottfried Keller
-Dominique Pifarely
+Shigeko Hata
 Christopher Fox
 Minao Shibata
 Susan Bates
 Hippolyte Raymond
 Comte de Champigny
-Bartolomeo Vitturi
+Dmitri Kabalevski
+Frederic Leroy
+Marcin Mielczewski
 Morten Ræhs
+Catherine Daiprés
+Elise Caron
 Shaberdi Boltaev
 Christophe Le Menu de Saint-Philbert
 Joseph Ghys
-Robert Morton
 Konstantin Stepanovič Šilovskij
+LEVEQUE Xavier
 Rudolf Escher
-Caroline Delume
 G. Smet
 Marc Estève
 Paul Aigoin
 Orlando Favier
 Maurice Pesse
+Lee Ranaldo
 Adrien Bérou
 Félix Besson
+Michael Blake
 Santiago de Murcia / Traditional Jarocho
+Christian Friedrich Daniel Schubart
 Danielle Brion
 Léon Algazi
 Wu Li
 Glenn Goring
 Paul Nordoff
+François Hudry
 Benjamin Hertz
+Mélise Mellinger
 Phil Ranelin
 William Balinski
-Giuliano Carmignola
 Noémie Pilot de Bienne
+Jean-François Bayard
+Kihwan Sim
 Raoul de Soissons
+Gotthold Schwarz
 Henrique Arenas
+Ida Falk Winland
 Giovanni Emanuele Bidera
+Klaus Steffes-Holländer
+Arnaud Chappatte
 Abraham van den Kerckhoven 
+Paolo Antonio Rolli
 E. Rey-Andreu
 Amédée Berthemet
 Jean-Victor Fontanes de Saint-Marcellin
@@ -11446,6 +15009,7 @@ Giuseppe Di Leva
 Zoltan Gárdonyi
 Francesco Patavino
 Jacques Hardel
+Emmanuel Petit
  André Barde/Raoul Moretti
 Jean-Philippe Calvin
 Joseph Canavas
@@ -11454,9 +15018,10 @@ Louis Combes
 Joannes Gallus
 François André Danican Philidor
 Ludwig Berger
+Eric Lesage
 Annette Mengel
 John Mayer
-Tona Scherchen
+Kate Bush
 José Lucchesi
 Emily Loizeau
 William Soutar
@@ -11465,63 +15030,79 @@ Giammateo Asola
 B. Albert
 Henry Carey
 Nikolaï Kedroff
-Marc Collin
+Fabien Fleurat
 L. Elsen
-Pierre Dupont
 Siegfried Fink
+Kim Gordon
 Fritz Brun
 Rosario Mirigliano
-Alberto Neuman
+Frederico Moreno Torroba
+Matthieu Chapuis
+Doron Schleifer
 Klaus Hinrich Stahmer
 Roberto Saccà
 James Woodward
+Hans Steiger
 Habib Faye
 Edmund Pascha
+Richard Ier Coeur De Lion
 Elizaveta Borisovna Kulʹman
 Alexander von Spitzmüller
 Wing-Fai Law
 Georges Soudry
-Guigou Chenevier
-François Picard
+Patrick Davin
 Marius Jugié
+Nicola Alaimo
 Edmond Chanat
-Philippe d'Orléans (Régent de France)
+Ulrike Helzel
 A. Carrier
 Ludomir Michal Rogowski
 Domenico Sarro
-Franz Xaver Gruber
 Michele Pertusi
+Olivier Dumait
 Lanusse
+Régis Campo
+Lucilla Galeazzi
 Gildas Arzel
-Larry Shay
 Joseph Valette de Montigny
 Christian Heinrich Postel
 C. de Cardoso
+Clémentine Decouture
 Ivan Tcherepnine
 Abraham Wood
 Charles Dupeuty
 Thomas Schattenberg
 Paul (fils) Devred
+Alexander Romanovsky
 Farhad Badalbeyli
-Georg Joseph Vogler
+baudry yves
 Gustaf Heintze
 Louis Caloin
 Rinaldo di Capua
+Jonathan Gauthiero
+Toma Gouband
 Leonora Duarte
 Lars Forssell
 Georg Goltermann
+John Tilbury
 Charles Wesley
+le foll lea
+David Simson
 Yuzo Toyama
 Mario Gangi
 Quique Sinesi
-Giovanni Pascoli
+Charles Pierric
+Antoine Lerini
+Anne Magouët
+Kurt Rydl
 Johann Staden
 Martin Mitterutzner
-Kurt Rosenwinkel
+Francesc Garrigosa
 Edmond Bailly
 Maurice Alquier
 Heinrich von Kleist
 Jean-François Lézé
+Didier Roussel
 Marc Eychenne
 Michel-Richard de Lalande
 Emile Coard
@@ -11533,40 +15114,42 @@ Richard Bellefroid
 Alfred Cottin
 Magne Hegdal
 Roel Meelkop
+Martin Fahlenbock
 Francisco Manalt
 Daniel Sprintz
 Valentin Haussmann
-Anders J. Dahlin
-Sly Johnson
+George Tchitchinadze
+François Rougier
 Ronald Stevenson
+Alexei Ogrintchouk
 Ney Rosauro
 Augustine Bassano
 Jose Luis Nobre Costa
 Mig Bike
 Filippo Prover
 Beat Furrer 
-Alda Caiello
 Nicolas Nabokov
 R. d' Aguin
-Louis-Benoît Picard
 Philippe Saisse
+Keith Rowe
 Fatai Okanlawon
 Lindembergue Cardoso
 Marc-Antoine Désaugiers
 Amadio Freddi
 Jean-Baptiste Bonnet
-Yves Bonnefoy
+Jos van Immerseel
+Marina Bucciarelli
 Marius Aretty
 Julius Schubring
 Avet Terterân
 Filippo Ciciliani
 Laurindo Almeida
-John-Antoine Nau
 Johann Rufinatscha
+Andrew Digby
 François Campion
 Ilona Meskó
 André Lebey
-Jean Nohain
+Christopher Guzman
 Vicente Palacios
 Pascal Auriat
 Boris Mersson
@@ -11574,28 +15157,30 @@ Erik Tulindberg
 John David Earnest
 Filippo Colinelli
 Béla Faragó
+Fonteneau Anne Elise
 Marguerite Bourgoin
 Christian Flor
+Willem van der Heyden
 Aleksandr Nikolaevič Ostrovskij
 Ibban Malonga
 M. Baronaki
-Thomas Kessler
 Régis Renouard-Larivière
 Willy De Rothschild
 Antonio Conforti
-Ludovic Navarre
+Guillaume Gabriel Nivers
 François Rabelais
 Jiyoun Choi
 Aribert Riemann
 Mikhail Glinka
-Thomas Tomkins
 Theodore Chanler
+baudet delphine
 Louis Bonnel
 Giovanni Maria Sabino
 Eduardo Pérez Maseda
-Theodor Körner
 Theodor Rogalski
+Giacomo Ferretti
  D.P 
+Florence Goyon-Pogemberg
 Stanley Myers
 Ilʹâ Demuckij
 Ûri Sergeevic Sahnovskij
@@ -11608,66 +15193,70 @@ John Powell
 J. Condamin
 Jean Déré
 Gilberto Gil
+Giovanni Gabrieli
 Léon Xanrof
+Christina Daletska
+Nikolai Kapustin
 Erick Benzi
 Blanche Chambroux
 Krzysztof Penderecki 
-Daniël Ruyneman
 Florent Guépin
+Daniël Ruyneman
 Torbjörn Iwan Lundquist
-Michel Magne
 Mike Westbrook
 Basile Barès
-Robert Reinick
+Nora Cismondi
 Georges Gurdjieff
 Anne Hunter
 Johannes Wannenmacher
 Johann Adam Hiller
-Lukas Jakobski
+Pablo Tognan
 Armand Renaud
+Charpentier Marie Emeline
 R. B. de Baerbelstein
 Archibald Joyce
-David Matthews
 Rupert Unterholtzer
 Alberto Lysy
 Anna Mongeri
 Guillaume Le Heurteur
-Julio de Caro
 Zoltan Pongracz
 Paul de Senneville
-Élisabeth de Gramont
 Jacques-Louis Monod
-Oskar Gottlieb Blarr
 Harry Akst
+Oskar Gottlieb Blarr
 Bernard Lorenziti
+Arnaud Merlin
 Nikolaj Konstantinovič Rerih
 Giovanni Cavaccio
 Asalbek Nazriev
 Charles-Louis Mion
 Djemal Beglarishvili
 Giovanni Allevi
+Adèle Carlier
 Lluís Vicenç Gargallo
-Richard Lester
 Denis Rouger
+Romano Pallottini
 Bertrand Côte
 Armas Järnefelt
 Robert Vijay Gupta
 Jacques Barathon
-Raymond Murray Schafer
-Émile Verhaeren
-Jean-Philippe Lafont
+Charlie Mingus
+Ernö von Dohnanyi
 Arnold Nevolovitsch
 Auguste Mermet
 Roland Besson
 Guglielmo
 Christlieb Siegmund Binder
 Frédéric Mellardi
+Benoît Meudic
+Charles Castronovo
+Rui dos Santos
 Joel Pina
 Francis Faber
 J. Burgmein
 Carolus Antonius Fodor
+Patricia Kopatchinskaja
 B. Alberti
-Walter Scott
 Antoine Reboulot
 Johann Joseph Rainer Rudolph
 Charles Berlandier
@@ -11675,44 +15264,40 @@ Giovanni Antonio Guido
 Madame Balanqué
 Elisabeth Bonnamour
 Henri Messerer
-Stéphane Bortoli
 Maxime Alkan
 Sten Selander
 Serge Luc
 Fabien Waksman
-Marijana Mijanović
 Mervyn Horder
 Guillaume-Pierre-Antoine Gatayes
-Mick Jagger
+Olivia Hughes
 Amélie Beaufour
 Nancy Van de Vate
 Francisco Delgado
 Giacomo Facco
 Shuggie Otis
 Juan Gómez de Navas
+Anu Tali
 Berenguier de Palazol
 Johann Georg Ahle
 Jan Neponucen Bobrowicz
 Ron Butlin
+Mikolaj Zielenski
 Giulio Cottrau
-Irving Gordon
-João Pernambuco
+Jean-Luc Hees
 Issay Dobrowen
-Lionel Ginoux
-Narciso Yepes
-Jean-Noël Chaléat
+Elise Marre
+Nicola Giuvo
 Anatoli Nikolaievitch Alexandrov
 John Stulz
 Peter Graham
 Jean-Claude Amiot
 Melchiorre Chiesa
-Thomas Morley
 Benedetto Rè
-Jacques Zoon
+Salieri Girolamo
 Louis Chancerelle
 Joseph Laska
 Gabrielle Astruc
-Stevan Kovac Tickmayer
 Paule Charley
 Roberto Manca
 Lloyd Woodrowe James
@@ -11721,20 +15306,25 @@ Robert Saxton
 Elias Gistelinck
 Siegfried Naumann
 Claude Tchamitchian
+Marion Martineau
 Élie Coff
 Victor Aubert
+Dominique Labelle
 Javier Alfonso
 Stewart Wallace
 Zbigniew Turski
 Madame C***
 Filippo Maria Gherardeschi
 Vasile Popovici
+Leah Crocetto
+Thom Yorke
+John Frederick Coots
 Pat Mahoney
-Giambattista Marino
+Pierre Bénusiglio
+Vincenzo Grimani
 Théodore Thurner
 Johann Georg Weichenberger
 Myriam Marbe
-Ruth Massey
 Alexis Duffaure
 Philip Sparke
 Cristiano Giuseppe Lidarti
@@ -11743,17 +15333,20 @@ Armand Liorat
 Ciro Stadio
 Eugène Cellier
 Roman Vlad
+Ekaterina Beketova
+Giovanni Bassano
 Lesley Jane Rodgers
 Manuel Penella
 Matthias Maute
 Gunnar Thyrestam
-Sébastien Droy
 Leon Kirchner
  Roberto Amel Serra Garcia
+Doche Joseph Denis
 Étienne Fay
 Josef Triebensee
 Auguste Descarries
 Rudolf Bibl
+Pietro Bembo
 Alberto da Ripa
 Maurice Léna
 Eugène Button
@@ -11764,7 +15357,11 @@ Francesco Carluccio
 Christine Turellier
 Giulio Convò
 Michelle Vuillaume
+Marc' Antonio Ingegneri
 A. Defournaux
+dimitri Scapolan
+Carola Guber
+Marie Jaell
 Terence Philip Stannard
 Adolf Carl Kunzen
 Jacob Rosenhain
@@ -11772,30 +15369,33 @@ E. Baumgartner
 Léon Coustenoble
 Ron Nelson
 Johann Georg Conradi
+Lillian Hellman
 Daniela Nasti
 Samuel Holyoke
-Mary-Ellen Nesi
+Robert Blank
 Bernardo Ottani
-Alexandre Arnoux
+Egils Silins
 Fabrice Peyrot
 Clément Coling
 R. Du Buisson
-Arthur Meulemans
 Gerd Kühr
 Sidney Jones
 Josina Van Boetzelaer
 Philippe Basiron
-Rainer Küblböck
 Jean Musy
 Giovanni Battista Giardini
+Oliver Nelson
 Pierre Coudert
+Olivier Picon
 Hugo Chaim Adler
 Serge Provost
 François Villon
 Mihnea Brumariu
 James Oswald
+Dominique Visse
 Auguste Chollet
 Madeleine Milhaud
+Amandine Trenc
 Carin Malmlöf-Forssling
 Vidame de Chartres
 Harald Fryklöf
@@ -11803,18 +15403,22 @@ Claude Bersoux
 Simon Cellarius
 Robert Graves
 Tristan Vuillet
+Rinaldo Alessandrini
 H. L. d' Arcy Jaxon
 Mihai Moldovan
 Θάνος Μικρούτσικος
 Pierre Duclos
 Bernard Jenn
 Antonio de Zamora
+Charlotte Balzereit
 Anthony Ritchie
 Luigi Borghi
+Sunwook Kim
 Marguerite Audan
+Kitty Whately
+Nordahl Rolfsen
 Greenfield
 Roderich Bass
-Edmond Rostand
 Costantino Ferrabosco
 Florian Bonneau
 Jay Dee
@@ -11822,11 +15426,15 @@ Vincent La Barbera
 Branimir Sakač
 Igor Frolov
 Jean-Hippolyte Cousin
+Max Bonnay
 Theo Loevendie
 Michael Haller
 Antonio Membrado
+Paola Poncet
 Alain Goudard
 Adriana Hölszky
+Diego Fasolis
+Ada Gorbunova
 L. Barré
 Marie-Emmanuelle Louis
 Jhonatan Villada Valderrama
@@ -11835,18 +15443,20 @@ Galeazzo Sabbatini
 Leon Jessel
 Armando Lorente
 Michael McGlynn
+Boesch Léa
 Paul Daubry
 Martin Romberg
 Joseph-Bonaventure Tillière
 Александр Николаевич Бенуа
 Thomas Vautor
+Jian Wang
 Edouard-Gustave Croquet
 Laurent Bômont
 Francisco Lopez Capillas
 Jeanne Briault
 Philip Radcliffe
-Anton Francesco Tenaglia
 Jean-Pierre Goudard
+Anton Francesco Tenaglia
 Viking Dahl
 Édouard Guinand
 Takashi Iwagami
@@ -11855,44 +15465,42 @@ Eugène Reuchsel
 Jean Baudéan
 Friedrich Christian Bressand
 Apolinar Brull Ayerra
+Gaëtan Vassart
 Ch. Benedetti
 Chabanon de Maugris
 Juan Francisco Giacobbe
+Chiara Maggi
 Matilde Salvador
 Farid Bensarsa
 Jean-Jacques Rippert
 Heinrich Utrecht
 Duhalle
 Lu-Ding He
-Dmytro Popov
 Emile Mendels
+Thomas Lang
 Alain Parent
-Johann Heinrich Voss
 Elvis Costello
-Dušan Růžička
 Claude Sicre
 L. A. Loulié
-Blandine Staskiewicz
-Cristobal Halffter
+Franck Villard
+Mattias Wager
 Daniel Beaume
-Jean Anouilh
  Troisième partie
 Juan García de Basurto
-Elli Medeiros
-Bartolomeo Campagnoli
 Alain Pistre
 Otto Dessoff
 R. Beyer
 Grégoire Hetzel / Camille de Toledo
-Cornelius Cardew
+Bulleh Shah
+Ossian
 Ernest Mahle
 Donald Francis Tovey
 Kee-Yong Chong
 Jean-Baptiste Janson
 Johann Friedrich Latrobe
-Alice Piérot
 Angelus Silesius
 Jacob de Haan
+Christian Dierstein
 Henri Nibelle
 Roman Trekel
 Auguste Xavier Alary
@@ -11901,18 +15509,23 @@ Heinz Tiessen
 Michel Mazzilli
 Alexandre Levy
 William Sterndale Bennett
+Alexis Nikolaïevitch Tolstoï
 Zoran Eric
+Andrea Parkins
+Rachel Givelet
+Silvia Marcovici
+Jacques Descorde
 Théophile Gautier
 Manuel Gómez Carrillo
 Jean-Pierre Guinard
+Leila Josefowicz
 Miklos Schön
 Richard Breton
 André Marot
 Gabriele D'Annunzio
 Bernard Schule
-Adolphe Adam
+Jean-François Duplat de Monticourt
 Marc Perrone
-Bernard de Cluny
 Marion Chirron
 Steve Mason
 Edouard T. Bernard
@@ -11925,68 +15538,76 @@ Sammy Cahn
 Nicolai Afanassiev
 Robert Lannoy
 Johann Wilhelm Hässler
-Raimon de Miraval
 Giuseppe Blanchi
 Jacques Benoist-Méchin
 Arthur Louis
-Patrick Scheyder
 Hossein Fashiri
+Luca Marini
 Ayaan Ali Khan
 Alessandro Longo
 Damien Guillon
+Sandrine Abello
+Sophie Groseil
 Francis Lemarque
 Carmina Burana
 Jan Jirásek
-Robert Dauber
 Baronne du Chaudoir
 Ella Georgievna Adajevskaâ
 Dieter Kaufmann
+Estienne Grossin
 Pekka Kostiainen
 Henri Caspers
 Dominick DiOrio
 Albert Seitz
-Robert Badinter
+Virgile Ancely
+Carjez Gerretsen
+Christophe Mortagne
 Nicolas-Julien Forgeot
+Joe Carver
 Étienne-Joseph-Bernard Delrieu
-George Michael
-Antoine Brumel
+Luigi Vecchioni
+Joelle Fondacci
 Federico Ricci
 Ok Ju Ju
-Jaroslav Kvapil
-Romain Rolland
+Serge Lemouton
+Raphaël Lemaire
+Michaël Chanu
 Gregorio Ladrón de Guevara
+Frédéric (Musqiue) Durand
 Costantino Roberto
 Carl Barât
+Benedetto Pallavicino
 Peter Greenaway
 Vytautas Barkauskas
-Flavio Testi
 Giuseppe Giamberti
 Kirill Zaborov
 René Bordier
-Sacha Distel
 Joseph de Torres y Martínez Bravo
+said abou said
 Giovanni Battista Varesco
 Daniel Bimbi
 Luigi Serio
+André Heyboer
+Shizuyo Oka
 Tom Randle
 François Valéry
+Lionel Speciale
 Jan Václav  Hugo Voríšek
-Loulou Gasté
 Joachim Mendelson
 Ti-Raoul
 Halvor Haug
-Stewart Copeland
+Ken-Ichiro Kobayashi
 Daniel Bontoux
 Wilfred Josephs
 Craig Leon
 John Plummer
+Mariano Mores
 Laurencin
 Anthony Louis Scarmolin
 Edouard Barat
 Rafael Carreja Gómez
 Joachim Nikolas Eggert
 René Berthelot
-Georgia Spiropoulos
 Wipo
 Jean-Élie Bédéno Dejaure
 Marie-Louise Beucker
@@ -11994,21 +15615,21 @@ Emil Mlynarski
 Marie Candolle
 Kid Ory
 Fritz Löhner
+Dan Zhu
+Auguste Villiers de L'Isle Adam
 Olivier Dos Santos
 Carlos Mario Rincón Mendoza
-Jean Guidoni
 Friedrich Schwindl
 Pierre-Antoine César
-Jean-Paul Baumgartner
 Heinz Winbeck
-Claude Goudimel
+Jose Mendiague
 Johann Resch
-Baptiste Romain
+Kristoph Maratka
 Franck Vaudray
 Karl-Erik Welin
 Elvis  Presley
-Midhat Assem
 Jean-Pierre Mader
+Xavier Diaz-Latorre
 Raymond Cazalys
 Christine Pierrefeu
 Ivan Ivanovič Dzeržinskij
@@ -12018,45 +15639,54 @@ Juan de Lienas
 Ioanne Matelart
 Abdolrahman Ghossi
  Bach J-S./ Ferrucio Busoni
-Edmund Campion
+Etienne Leroy
 Hacène Thierry Larbi
 Vincenzo Thoma
-Franz Tischhauser
+Pierre Coiffard
 Michel Herrmann
+Petri Tapio Mattson
+Reine-Marie Verhagen
 Henri Chauvry
+beaulieu patrick
 Jean-Baptiste Gouffet
 Antoine-Tranquille Berbiguier
+Paul Mac Creesh
 Stéphane Tétreault
 Jean Rémusat
-Ernest Ansermet
 Antonio Verissimo Gomes
 Leonid Bashmakov
 Vincent-Marie Bouvot
 Antoine Mornable
 Louis-Charles Ragué
+Esther Davoust
 Sauvage de Béthune
 Serge Kakudji
+Eva Furrer
 Max von Schillings
 Apollon Nikolaevič Majkov
 Leo Leonbrode
 Hippolyte-André-Baptiste Chelard
 Jean-Pierre Goussaud
-Cecil Burleigh
 Elisenda Fábregas
 Marlène Assayag
 Léo Roy
 Amaury Vanlancker
+Jerome Solon Felder
 Emilie Brillant
 Laurent de Saint-Luc
-Carlo Giorgio Garofalo
  Soutullo y Vert
+Thymophtalein
 Hans Gram
 Jean-Baptiste Quentin
+Nicholas Kok
 Thierry Aué
 Gastone Zuccoli
 Du Buisson
+Filippo Alberti
+Alberto Manguel
 Marguerite Béclard d'Harcourt
 Yves Robert
+Frode Haltli
 Didier Sandre
 J. Algier
 F. Canac
@@ -12065,44 +15695,49 @@ Arthur Johnston
 Bertrand d' At
 Lelio Orsini
 Milan Slavický
+Adrien Roch
 Clemente Díaz
 Franz von Vecsey
+Mathieu Cabanes
 Georges Paczynski
-Malin Byström
 Nikolaj Nikolaevič Dranicyn
 Emmanuel Robin
 Marc Berthoumieux
 Ernest Schelling
+Fahrid Chibani
 Raphaël Cluzel
  Magister Grimace
-Thomas Dutronc
 Aimé J. de Bammeville
 Andrea Grossi
 Bartolomeo Barbarino
 Narendra Bataju
 Ernest Blanquin
+Christiane Oelze
 E. P. Darcy
-Julien Porret
 Juventino Rosas
+Jorge Torres Saenz
 Motoshi Ishimaru
 G. Alfieri
 Renée de Brimont
 Frederico Richter
+Albert Béhar
 Iosif Ivanovici
+Nicolas Bône
 Johann Ulrich Steigleder
 Thomas Beveridge
+Sonia Wieder-Atherton
 Gilles Servat
 Charles Monselet
-Simon Jeffes
 Geronimo Cordella
 Monique Soreau
-Pierre Menault
+Kristina Mkhitaryan
 Daniel Lagkhner
 Berislav Šipuš
 Rocco Rodio
-Raymond Queneau
-Olivier Pasquet
+Christoph von Dohnanyi
+Friedrich von Schlegel
 Francesco Corbetta
+Antonio Valente
  Henry VIII
 Gottlieb Stephanie
 Elhadji Moustapha Ndiaye
@@ -12112,23 +15747,25 @@ Henry Eccles
 Johann Ernst Bernhard Pfeiffer
  Improvisations
 A. Battisti
+Catherine Michel
 Giovanthomaso Cimello
 Manoël Cahen
-John Goss
+Heinrich Wilhelm von Gerstenberg
+Anna Stephany
 David Guy
-Attila Bozay
-Oscar Levertin
+Nicholas Angelich
 Balthasar Richard
 Eduard Toldrà
 M. Burguet du Minil
+Eugenia Enguita
 Enrico Brunetti
 Joseph Denis Doche
 Felice Frasi
 Eduard López-Chávarri
-Rainer Riehn
 Delphin Alard
 Richard McNicol
 François Regnault
+Saint Matthieu
 Joan Manén
 William Randall
 Anton Stadler
@@ -12136,7 +15773,7 @@ Serjan Shakrakov
 François Couturier
 Ed Pastorini
 Dumitru Capoianu
-Alfred Jarry
+Manuel Romero
 Gazi Giray Han
 Louis Lewandowski
 François Rasse
@@ -12144,7 +15781,6 @@ Ernst Wilhelm Wolf
 Marie Chassevant
 Frederick Shepherd Converse
 Melchior Vulpius
-Pierre Barouh
 Laurent Méneret
 Muammer Sun
 Augustus Pablo
@@ -12152,7 +15788,7 @@ Dario Maggi
 Robert Sherlaw Johnson
 Petr Ivanovic Turcaninov
 Béatrice Martin
-Thomas Dolié
+Isabelle Van Keulen
 Pascal Renou
 Mme E. Chassaigne
 J. B. Canet
@@ -12161,13 +15797,12 @@ Abraham Caceres
 Carlo Chiabrano
 Roland Batik
 Maurice Deffrennes
+Jocelyn Bonnerave
 Francisque Darcieux
 Rudolf Schmidt-Wunstorf
 Aleksandr Nikol'skij
 Naima Carella
-Marco Di Bari
 Gaston Paulin
-Riccardo Del Fra
 Jérémie Germain
 M. Martinez Chumillas
 Lucien Augé de Lassus
@@ -12175,38 +15810,42 @@ Massaki Norikura
 Gasparo Pratoneri
 Sergei Leiferkus
 Mihajl Mihajlovič Čeremuhin
-André Giovanni
 Peter Hurford
 Brian Schober
+Sophie Marin-Degor
+Cabaret Manon
 Giovanni Andrea Florimi
+Dmitry Korchak
+Joseph Calleja
 James Hook
 Jean Bernac
 Limos Dizdari
 Georges Boulestreau
+August von Platen
 Roberto Gnattali
 Cecil Armstrong Gibbs
 Mieczysław Surzyński
-Guilhem Figueira
 Werner Richard Heymann
 Maita Di Niscemi
 Franck Tortiller
 Odette Vargues
-Sophie Fournier
-Raoul Chantegrelet
 Jan Josef Rösler
+Sophie Dumonthier
 Christiane Verger
 William Walond
 Jessie Murphy
+Vera Davydova
 Mario Broeders
 Humphrey Searle
 Gracián Babán
-Marc Steckar
-Frédéric Antoun
+Tomoko Hemmi
 Giovanni Rinaldi
+Dorothea Schurch
 Ercole Pasquini
 Benny Andersson
 Maurice Perez
 Marc Mir
+Marcel Reijans
 Henry-Noël Lepin
 Martin-Joseph Mengal
 de Buisseret-Steenbecque
@@ -12214,24 +15853,24 @@ Lee R. Kesselman
 Wenzel Sedlak
 David Henry Hwang
 Giovanni Quirici
-Angelin Preljocaj
 Eberhard Schoener
 Gyula Fekete
+Jean Ferry Rebel
 Giuseppe Caleca
-Pierre de Bruges
-Alexandre Bisson
 Jeanne Bénézech
+Jonas Altan
 André Amiel
 Jacques Buus
-Charles Van Lerberghe
 A. Cornellier
+Benjamin Hulett
 Pierre de Corbeil
 Giulio Marco Bordogni
-Jerry Herman
+Pavel Niki
 Manuel Gomez
+Anna Snow
+Dimitri Vassilakis
 Christos Hatzis
 Frederick Bowers
-Arthur Berger
 Tadeusz Machl
 Virginie Landreau
 Urban Loth
@@ -12241,21 +15880,27 @@ Giuseppe Pagliuca
 Ferdinand Laub
 Michael Norris
 David Christoffel
+Elisabeth Jacquet de La Guerre
 Jean-Paul Rieunier
 Vlad Bogdanas
  Anonyme (Mont-Cassin)
+Soo-Jung Ann
 Giovanni Maria Furlanetto
 Nicolas  Bernier
-Héctor Tosar
 Francesco Soriano
 Clemens Thieme
 Francesco Rognoni
+Alan Price
   Traditionnel - Pays de Galles
+Jimmy Holliday
+Sébastien Guèze
 Yves Guicherd
 Émile Ratez
 Percy Whitlock
 Andreas Hartmann
 Giovanni Domenico Montella
+Vittorio Prato
+Ahmed Mohammed Rami
 Carlo Calvi
 Oreste Angelici
 Jozsef Karai
@@ -12264,59 +15909,65 @@ S. de La Brosse-Flavigny
 Remo Pignoni
 Bartholomäus Gesius
 Sebastian Maroto
+François Lemoine
 Louis Planel
 Joseph-François Kremer
 Johann Steffens
-Arnold Bezuyen
+Miah Persson
 Raffaella Aleotti
 Lennart Lundberg
 Marcel Cahen
 Jarosław Iwaszkiewicz
 Corona Elisabeth Wilhelmine Schröter
+Marie-Paule Bonnemason
 Balázs Horváth
 Pierre-Ange Vieillard
 Tobie Miller
 Perón Cano
+Naoko Sunahata
  Albert Willemetz/Marcel Lattès
+Paul Gay
+Marko Robic
 Pycard
 Henri Ferdinand Thiébaut
 Nikolaj Aleksandrovič Sokolov
+Matthaus von Collin
 Gustave Cazalis
-Lorenza Borrani
 Richard Gavinet
 Daniel Koskowitz
 Henri Contejean
-Barre Phillips
 Hervé Castellani
+Virginie Thomas
+Abe Lyman
 Louise Bernaudat
 Jean-Marcel Lizotte
 Emile Chollot
+Jean Geoffroy
 Jean Matitia
-Jean Berger
+José Canet
 Idabelle Firestone
+Marie Van Wynsberge
+Mateo Romero
 Oskar von Chelius
 Andrea Bernasconi
 Bonia Shur
 Babx
-Diego José de Salazar
 Thérèse Bail
 Sebastiano Bolis
-Heiner Müller
 Gabriel de Lurieu
 Józef Zygmunt Szulc
+Jirí Javurek
 Louis Burnel
 Aude Morales
 François Fichu
+Patrick Kabongo Mubenga
 Raimbaut d'Aurenga
 Johann Friedrich Agricola
-Ricardo Viñes
 Philipp Fahrbach
 Jules Barès
  André Barde/Maurice Yvain
-Bruno Boterf
 William Ferris
-Guy Cassiers
-Gilles Raynal
+Truls Mork
 Philippe Van den Berghe
 Kike Lucena
 Paolo Corsi
@@ -12324,66 +15975,73 @@ Dominique Fernandez
 Angelina Bossière
 Christiana Daska
 Henry Boisseaux
+Mathieu Touren
 Dorothee Mields
+Tomas Djupsjöbacka
 Timotei Popovici
 Alan Menken
 Dana Suesse
 Dennis Townhill
-Robert Gleadow
 Fëdor Vasilʹevič Lopuhov
+Christof Fischesser
 Nagji Sanges
 Giampaolo Testoni
 Dylan Lardelli
 Jim O'Rourke
 Edmond Brauschweig
-Aleksandr Kopylov
+Serge Innocent
 Jeremiah
 Pär Lagerkvist
 Rogelio Groba
 François Béranger
 Sebastián Alfonso
-Yves Chauris
 Stevan Hristić
 João Domingo Bomtempo
+Marjan Vahdat
+Roland Pontinen
 François Laurent
 Richard Burmester
 Franck Besingrand
 Pietro Averara
+David Grébil
 Vincent Delerm
 Georges Courteline
 Emile  Waldteufel
-Christoph Martin Wieland
 Cheb Aissa
-Raymond Depraz
+Antoine Pecqueur
+Akiko Ebi
 Xavier Clergue
 Paul Allix
 Jacques Florencie
 Giuseppe Caldera
-Benjamin Franklin
 Ralf Ehlers
 Dânâ Bahrâm
 Monsieur de La Ribadière
+Julien Véronèse
+Boris Grappe
+Kaoli Isshiki
 Elisa Bergouhnioux
 Armand Merck
 Gutierre Fernández Hidalgo
 George Etherege
 Alfred Cellier
 Hervé Roullet
-Quincy Jones
 René Pujol
 Aleksandr Germanovič Prejs
-Nona Javakhidze
 Alan Shulman
 David Donatien
   Première partie
 Giovanni Battista Degli Antoni
 Patrick Bournet
+Iñigo Casali
+Eckhard Rudolph
 Jörg Demus
 Joseph Stephenson
 Marie Bigot de Morogues
 Robert Basart
 Emma Astruc
 Alfredo Nilson-Fysher
+Joe Goodwin
 Sergueï Taneiev
 Orlando Rojas Gimenez
 Maurice Bardin
@@ -12393,28 +16051,32 @@ Clarence Barker
 Nicole Chambard
 Dieter Wellmann
 François Sciortino Monaco
+Jonathan Stockhammer
 François Cousineau
 Benjamin Carr
 Gustave Michiels
 Giorgio Signorile
-Alexandre Gattet
 Loann Foumental
+Gus Kahn
 Roland Pöntinen
 Marguerite Roesgen-Champion
 Galt MacDermot
 Christophe Maffei
-Gerd Türk
 Remes
 Arkadie Kouguell
 Hrand Nazariantz
 Vincentio Bastini
 Fabrizio Rat Ferrero
 Charles Chartier
+Edouard Pennes
 Scott Gendel
 Marius Lenoble
+Giovanni Filippo Apolloni
 Stan Laferrière
 David Grimes
 Michel Ciry
+Giuliano Corti
+Claudin de Sermisy
 Jan Baptist Verrijt
 Alexandre Flenghi
 Paul Charriol
@@ -12425,42 +16087,50 @@ Paul Fort
 E. de Bruyne
 Monsieur Caillet
 Severin Anton Averdonk
-François Salque
 Paul Cordelle
 Fred Chichin
+Marc Larcher
 Emmanuel Touchard
-Sam Barsh
 Pierre Clément
 Barbara Kolb
 Jacques Fargeonnel
 Bernard Col
 Rudolf Wagner-Régeny
 Robert Gallenberg
-Christophe Maé
+Petr Svoboda
 Kenneth Yip
 David El Malek
+Antonio Sacchini
+Sven David Sandstrom
 Madel Clerc
+Paolo Rigutto
+Franz Hasenöhrl
 Françoise Levéchin-Gangloff
 Ronald Binge
 Cokalari Nestokar
 Ryouhei Hirose
 Josselin Vinay
+Francis Touchard
+Ralf Werner Kopp
 Claude-Samuel Levine
 Alberto Franchetti
 Christiane Delmas
 Giuseppe Cerruti
 Sohail Kaul
+Ann Petersen
 Lawrence Ashmore
-Hugh Wheeler
+Carlo Milanuzzi
 Camille Cerf
 Emile Bertin
 Bernard Sauvat
 Vincenzo Albrici
-Robert Herrick
 Edmund Eysler
 Antonin Cazal
-Étienne Dupuis
+Giani Caseretto
+Vincent Daoud
+Dante Gabriel Rossetti
 Shūkō Mizuno
+Gesine Queyras
 Jay Greenberg
 Louis Lacombe
 Isabelle Arnaud
@@ -12470,67 +16140,87 @@ Percy Fletcher
 Jan van Geertsom
 Carol Bérard
 Raoul Ponsen
+Emiliano Rodolfi
 Milimir Drašković
+Sonia Ganassi
 Ryo Daïnobu
 Nicolas Avinée
+Emmanuel Armaingue
+Gilles Binchois
 August Reuss
+Patrick Vilaire
+Estelle Mariou
+Patrick Crossland
 Yam-chi Fu
+Jean Marc Andrieu
 Roger Sacheverell Coke
 Edwin Henry Lemare
 Seth Bingham
 Francesco Cipolla
+Doris Lamprecht
 Maxime Patel
 Eugène Willent Bordogni
 Vlatko Stefanovski
 Arthur Bernède
 A. Caron
+Albert Camus
 Jules Carrez
 José Vicente Asuar
 Coloman Chován
-Friedrich Gottlieb Klopstock
 Ferdinando Pellegrini
-Roque Jacinto de Chavarría
-Herbert von Karajan
+Nicolas Châtelain
+Ondrej Sindelár
 Guillaume Druel
 Joseph Collaerts
 Noam Silvy
 Paul Challine
 Jean-Jacques Le Franc de Pompignan
 Louis Lantoine
+Vittorio Amedeo Cigna Santi
 Gaétan Avérino
-Andrés Flores
+Joachim Du Bellay
 Laurence Ridoux
+Vitali Gavrouc
 Émile Baudot
 Dumanoir
 Baltazar Martinez Compañon
+Wilke Te Brummelstroete
 Pedro Gailhard
 Elisabetta De Gambarini
+Luca Casalin
 Thomas Vandevenne
 Marc Danel
 Vincent Adler
+Henri Vieuxtemps
 Bernhard Ludwig Buchbinder
 George Frederick Bristow
 ́Aggelos Sikelianós
 Louis Adam
 Ettore Bosio
 Henri Couvreur
+Jérôme Sarfati
 Tôn-That Tiêt
 Paul Campagne
 Josef Blanco
 Sigmund Theophil Staden
 Jean Giroud
+Paxkal Indo
 Jennifer Ayache
 Adelaïde Ferrière
 Drake Mabry
 Ferdinand Richardson
 Louis Lemaire
 J. Bert
-Nikolai Korndorf
+Clemens Bieber
+Laurent Alvaro
 Angela
 Gery De Ghersem
 Oliver Zwarg
 Christophe Laporte
+Nicola Matteis
+Newburgh Hamilton
 James Giroudon
+Juan Bermudo
 Joseph Labitzky
 Carlo Carcano
 François Serrette
@@ -12540,26 +16230,30 @@ Vlastimir Nikolovski
 Auguste Vila
 François Dauprat
 Georges Antoine
-Jean Delescluse
 G. Albert
 Robert Gilbert
-Ernest L'Épine
 L. de Belabre
 Madeleine Dring
 Gonzaguinha
 Pierre Zito
 Walter Goehr
+Sylvain Fabre
+Damien Pouvreau
 Adolphe Nourrit
-Zygmunt Noskowski
 André Brunet
 Girma Béyéné
+Euken Ostolaza
 Ernst Lévy
+Pavel Haas
 José de Cascante
-Gus Arnheim
-Ivo Nilsson
+Sylvain Rolland
+Jean-Joseph Leboeuf
 Agostino Guerrieri
+Thomas Randle
 Giovanni Cagliero
+Arno Harutyuni Babadjanian
 A. T. Cabarrus
+Silvia Borzelli
 Hans Sommer
 Stanislaw Szarzynski
 Katija Dragojevic
@@ -12571,41 +16265,51 @@ Emile Bazin
 Frank Tveor Nordensten
 James Tenney
 Jean-Michel Cayre
+Andrey Baranov
 Cipriano Martínez Rücker
+Tomislav Dordevic
 Ûrij Šaporin
 Carl Rütti
+Giuseppe Parini
 Mirza Agheh Ghosy
+Wolfram Buchenberg
 Hippolyte Barrez
 Angiolina Huerta
 Antonio Vandini
 Yoshihiro Kanno
 Bonaventure Gilles
 Augusto Rotoli
-Daniele Carnovich
 Gaetano Martinelli
 Henri Christiani
 A. Dantoine
+Akio Koyama
 Samuil Âkovlevič Maršak
 Claude Léveillée
 Józef Zygmunt Szulc
 Élodie Canot
  Première partie
+Olga Savova
 Sebastian Ertl
 Valérie Haluk
 Léonardo Sanchez
 Thomas Chilcot
 Åke Parmerud
+Eduard Dousa
 Henry Beaucé
 Ariane Matiakh
 Joseph Cortellazzo
-Bernard Hermann
+Matti Salminen
 René Lenormand
 Emile Choquard
+Benedict Mason
+Anastasia Kalagina
 David Porter
+Hermann Menninghaus
 Michael Petermann
 André Rivoire
-Innocentio Alberti
 Alla Borzova
+Rudolf Rosen
+Alain Louvier
 Ivan Král
  Anonyme (CMP 106)
 Yves Fassoul
@@ -12613,13 +16317,14 @@ Yves Fassoul
 Maurice Coze
 Aldo Campagnari
 Laurie Hochman
+Jennifer Walshe
  Albert Willemetz/André Messager
+Louiguy
 Guy Bernard
+Dali Yaha
 Peire Raimon
 Matthew Taylor
 Frédéric Roels
-Nikos Skalkottas
-Raphaël Oleg
 Lupus
 Jacques Moderne
 Martin Codax
@@ -12630,44 +16335,51 @@ Giovanni Morandi
 Diego Rubichi
 Gaspare Luigi Pacifico Spontini
 A. Bosson
+Wolfgang Newerla
 Bartolomeo da Bologna
 Michel Rosen
 Pierre de Cambrai
 Jakob Dont
 Robert du Chastel
+Gabriel Yared
+Turdiyeva Yulduz
 Trad. Noël (arr. Cyril Lehn) 
 Richard P. Scott
-Carlos Gonçalves
-Patrick Foucher
+Armel Descotte
 Aristide Bélin
+Paparelli Franck
 Lucien Népoty
+Yip Harburg
+Diego Ortiz
 Carl Aeschbacher
 Louise-Geneviève de Saintonge
 Georgi Arnaoudov
+William Nadylam
 Sydney Smith
-Sergei Nakariakov
 Frederick Swann
-Martin Smolka
+Bobby Timmons
 Hugo David Weisgall
 Christine Audat
+Baudry Yves
 Tod Machover
-Alireza Farhang
 Pierre Teilhard de Chardin
+Radames Gnattali
 Miguel Echegaray
 Zéphirin Bajus
-Gérard Anfosso
+james alexandre
 Antonio Catoni
 Richard Harvey
+Daejin Bang
 Gaetano Piazza
-John Cheetham
 Pere Joan Aldomar
 Anestis Logothetis
 Gian Francesco De Majo
+Agnieszka Grzywacz
 Auguste de Talleyrand
 J. W. Alexander
+Geminiano Giacomelli
 B. Custaud
 Laure Couder
-Raul Ferrao
 François Blot
 Juan Oliver Astorga
 Sonia Bo
@@ -12676,77 +16388,79 @@ James Newhall
 Frederick Arthur Gore Ouseley
 Santiago Báez
 Fernand de Bouillé
-Ophélie Gaillard
-Alessandro Corbelli
 Edward Caswell
 Roque Cordero
-Guizmo
+Ralf Lukas
 H. Adnan
 de Barach
+Anna Prohaska
+Isabelle Georges
 William Russo
+Roberto Scandiuzzi
 Roger Waters
 Antonio Cano
 Michaël Andrieu
-Nicolas Berteloot
-Francis Picabia
-Ferenc Farkas
 Vincent Gerboullet
 A. Courmes
 Boris Petkov
 Maurice Barbier
+Ivan Turk
 Denis Alain Dion
 Frantisek Jan Skroup
 Kris Defoort
 Kevin Puts
 François Feldman
+José de Nebra
 Stéphane-Louis Nicou-Choron
 John Olaf Paulsen
-Laurence Dale
+Elisabeth Glab
 Jean de Limbourg
 Adolf Stanislas
 Richard Farrant
-Paul Foucher
 R. Helleys
-Fabrice Jünger
+Paul Foucher
 M. de Chaumont
 Stephen Hatfield
 Ernesto Köhler
+Ludwig Heinrich Christoph Holty
 Fernando Del Papa
 Gaston Barria
 Anthony LaMarca
+Eleonore Van Der Straaten
 Marcel Artzer
 Hans Sitt
 Alexander Zarzycki
 Johann Hoffmann
-Michel Tranchant
 Noël Fontaine
 Igor´ Rajhel´son
 Pietro Armanini
 Frédéricque Bassard
 Joseph Saggione
 Zakharia Khanendeh
-Carsten Hennig
 Pierre Froidebise
+Gloria Caldwell
 Nicos Cornilios
-Oscar Peterson
 Gérard Murat
 Albert Gruet
+Magali Mosnier
 Jean-Marie Simonis
 Giovanni Tadolini
 Cant de la sibil·la
+Christophe Dinaut
 Hania Arbaoui
 Antonio J. Flores
 Madoka Okada
 Marģeris Zariņš
-Claude-Henri de Fusée de Voisenon
-Georges Liferman
 Adama Condé
+Ernest Martinez Izquierdo
 Gregorio Huet
+Maurizio Cazzati
 Nicolas Gistou
 Peter Schat
+Anne-Sophie Mutter
 Francisco Vilar
-Guillermo Fernández-Shaw
 Stefan Bergman
+Jean-François Borras
 Michel Mallory
 Jason Reynolds
 Shinichi Matsushita
@@ -12754,46 +16468,50 @@ Marius Clavandier
 Olivier Bernard
 Antonio Lolli
 Ruggiero Giovannelli
+Bernhard Kontarsky
 Vladimir Ivanovič Rebikov
 Girolamo Montesardo
  Naushad
+Geneviève Létang
 Ferdinand Schubert
 Isabelle Barret-Tronquier
-Gérard de Nerval
 Vincenzo De Crescenzo
 Sasha Rozhdestvensky
+Grigori Ginzburg
 Ismaila Ayandokun
-Robert Kaddouch
 Joseph Alazard
 Bernard Artophaeus
 Blas Emilio Atehortua
 Sophie Courpon
 Anton Schweitzer
 Peletier
+Melanie Diener
 Michel L'Affilard
 Vincent D'Annuzio
+Polack Jérôme
 Vladimir Ivanovič Belʹskij
 Jesús María de Arozamena
 Pedro Iturralde
 Eugène-Émile Diaz
 Hans Schanderl
-Igor Ballereau
+Jean-Michel Albertucci
+Pierre Moraguès
 Eugène Ketterer
 Jean-Paul Noguès
+Pierre Yves Madeuf
 Alain Beney
-David Soley
 Maurice Vaute
 Christophe Desjardins
 Francisco Goncalves
+Ariana Vafadari
 Hans-Ola Ericsson
 Paul Cappé
 Garth Lawrence
 Nikolaï Roslavets
+Joanna Bailie
 Horace
 Luis-Fernando Rizo-Salom
 Jean-Daniel Braun
-Dario Castello
-Giovanni Battista Ferrandini
 Louis Deberdt
 Amédée Tremblay
 Bejun Mehta
@@ -12801,11 +16519,9 @@ Gérard Gustin
 Alexandre Pierre Joseph Doche
 Georges Couroupos
 Luca Antonio Predieri
-Ravi Prasad
 Dana Bahran
 Gérard Blanchard
 Lucien Clavier
-Roch Voisine
 Denis Macé
 William C. Watson
 Octavio Pinto
@@ -12818,106 +16534,118 @@ Valentin Erben
 Maksim Sozontovič Berezovskij
 Johann Grabbe
 Henri Wenisch
+Silke Avenhaus
 Steve Gray
 Paul Siefert
+Neal Davies
 Francis Bousquet
-Gilbert Laffaille
 Benoît Albert
+José Mauricio Nunes Garcia
 Charles Piroye
 Della Miles
-Consuelo Velasquez
 Carlos Bermudez
 Louis Parrot
 Giovanni Battista Chinelli
 Ann Hallenberg
 Peter Doherty
-Raul do Valle
 Franz Anton Maichelbeck
+Raul do Valle
 Wen-Chung Chou
 Jian Zhong Wang
+Gustave Charpentier
 Pier Adolfo Tirindelli
  Komitas 
 François Lupien Grenet
-Julius Conus
+Christopher Maltman
+Ambrogio Sparagna
 Maggie Nicols
+Okkyung Lee
 August Eberhard Müller
 Khuleita Said Muhashamy
+Tom Robson
 Karim Haddad
-Elmar Lampson
 Matthias Greiter
 Richard Long
 Trilok Gurtu
 Joseph Callaerts
 Auguste Dupuy des Islets
 Darijan Božič
+Caroline Arnaud
 Louis Arnaud
 Gaël Richard
 Justin Cadaux
 Cham
+Jihoon Kim
 Jeanne Crabos-Danglas
 Anze Rozman
+Kyong-jin Mun
 Johannes Motschmann
 Eugène Vivier
+Christophe Donner
 Nicola Calandro
 Don Banks
 Adolphe Miné
-Édith Piaf
-Nicole Lizée
 Jean Kapsa
 Alexéi Davidoff
 Ivan Andreevič Krylov
+Job Tomé
 José María Gallardo del Rey
 Sambyn Gontchiksoumla
 Théodore Anne
-Burt Bacharach
 Carlo Cotumacci
+Camille Perrin
 Carlo Rainaldi
 Lodewijk Mortelmans
-Oscar Straus
 Laurent Fickelson
 P. Crouzet
 François-Joseph Giraud
 Robert Hebrard
-Shazz
+Mathias Forge
+Jutta Maria Böhnert
 Irving Fine
 Théodore Désorgues
 L. d' Arcas
-Gianandrea Noseda
+Luigi Creatore
 Célestin Arfeuille
 Michael Cavendish
-Théodora Psychoyou
-François de Roubaix
 Laura Trinidad
 Frédéric Talgorn
-Hermeto Pascoal
 J. Bessières
 Ruth Crawford-Seeger
 Adrienne Anderson
+Christophe Mathias
 Alfred Quidant
+Florian Coutet
 Harvey Schmidt
 Lennox Randall Berkeley
 Dmitri Voropaev
+Sylvie Drouin
 Robert Muczynski
+Rika Masato
 Luigi Morleo
 René Besnard
 Jules Cressonnois
 Arnaud Denis
 Daniel Goyone
-Eugène Cools
+Jennifer Larmore
 Ray Vastano
 Rodolphe Mathieu
+Bertrand Hainaut
 Gabriel Grénier
 Achille Falcone
 M. Prestat
 Gregorio Martínez Sierra
 Jean Erart
+Christian Sebille
+Eleanor Dennis
 Charles Dibdin
-Anatoli Konstantinovitch Liadov
+Honorine Schaeffer
+James Mac Millan
 Rihoko Sato
 Joscelin de Vierzy
 Edmond Bronsvick
-Édouard Souberbielle
 Walter Roccaro
+Francesco Foggia
 Clemente Filomarino
 David Liebman
 C. Adam
@@ -12926,25 +16654,27 @@ Claude Balastre
 Eugen Kapp
 Augustinus Franz Kropfreiter
 Wolfgang Holznair
+Maria Soledad Cardoso
 Daniel Coste
-Tapio Nevanlinna
-Johann Nauwach
 L. Buridant
 Sparre Olsen
 Armand Call
+Minna Pensola
 Allan Ramsay
+Astrid Marc
  Vishal-Shetehar
-Joseph-François Garnier
 Jan Zwart
-Rocío de Frutos
+Nicolai Roslavetz
 Nam Un Ha
 Clément Geoffroy
 Maurice Racol
 Henri Gagnon
+Salles Pierre
 Gustave Cézanne
 Ken Thomson
-Spyros Halaris
+Clemens Unterreiner
 David Walter
+Hélène Grimaud
 Emilio Provinciali
 Maria Boyer
 Franz Constant
@@ -12954,10 +16684,9 @@ Ernest Gold
 Franz Wilhelm Tausch
 Jean Dasty
 N. Cramer
-Pascal Bentoiu
 Thoma Gaqi
+Anne Camillo
 R. Beauguillaume
-Sophie Boulin
 Henri Converset
 Fernand Alleyn
  Albert Willemetz/Jacques-Charles/Maurice Yvain
@@ -12965,13 +16694,12 @@ Pedro Aledo
 Édouard Mennechet
 Adrien du Cleuziou
 Johann Schrammel
+Florence Binder
 Henriette Brot
 Tage Nielsen
-Matthew Locke
 Luigi Ceccarelli
 Emilie Mayer
 Évelyne Laporte
-Don Raye
 Paul Lytton
 J. Albert Arnaud
 Girolamo Maria Marini
@@ -12979,16 +16707,19 @@ Santo Lapis
 Madeleine Boutron
 Philippe Le Goff
 Emile Aubry
-Jacques Pern
 Doreen Carwithen
 Maoui Arbaoui
 Yassine Habibi
 Jacob Reiner
 Hygin-Auguste Cavé
 Al Jolson
+Laurent Manaud-Pallas
+Bernart de Ventadour
+Joël Merah
 Vincent Bernhardt
+Arshia Cont
 Georg Calmbach
-Alexis Kossenko
+Diego Tosi
 Leonard Enns
 Valentin Petrovič Kataev
 H. C. Cormeille
@@ -12999,23 +16730,25 @@ Edward Woodall Naylor
 Chikashi Miyama
 James Harding
 Gusti Ngurah Agun
+Dominique Beneforti
  Leo Robin/A. Willemetz/ C-L Pothier/ R.A. Whiting
 Pierre Dalle Nogare
 Marquis de C***
 Giuseppe Cioffi
 Johann Valentin Meder
 Domenico Puccini
+Père Komitas
 L. Adam
-Hannibal Lokumbe
 Rita Kassabian
+Hannibal Lokumbe
 Guy de Lioncourt
-Christine Plubeau
+Stefano Marcocchi
+Tsi Chang
 Marcel de Castex
 Sebastian Benson Schlesinger
 Jacques Chenevière
 Francesco Maria Piccioli
 Daniel Brun
-Nathan Berg
 Lionel Hampton
 Bernard Rose
 Pietro Leone
@@ -13026,16 +16759,21 @@ Ernest Seitz
 Harrison Oxley
 Iñaki Estrada Torío
 Virginia Gabriel
+Maria Fedotova
+Elsa Justel
 Sieur Lahante
   Cie la Coterie
 Carlo Alezio Razetti
 Raboin
 Ricciotto Canudo
 Gaspar Villate
+Marat Gali
+Pei Min Yu
 Hideo Saito
 R. de Cournand
 Billy Roberts
 Walter Gross
+Bertram Feragut
 Alfred Chapuis
 Vidamu Seeya
 Justin D. Wright
@@ -13045,6 +16783,7 @@ Eugène de Budé
 Amedée C.....
 Louis Hamel
 Jacob Klein
+Marcus Ullmann
 Rachid Bahri
 Jimmy Owens
 Adele Adkins / Dan Wilson
@@ -13054,18 +16793,19 @@ Alexandre Desrousseaux
 Vicente Arregui
 Luis Jorge González
 Carel Blitz
+George Gascoigne
 Plácido Domingo
-George Benjamin Allen
 Anthony Tudor
+George Benjamin Allen
 Boyan Vodenicharov
-Alain Berlaud
 Francesco Boccalino
 Paul Huber
 Joshie Armstead
+Filippo Farinelli
+Juan Garcia
 Charles Charpentier
 Jean-Baptiste Moulinghen
 Hyun-Hwa Cho
-Antoine de Saint-Exupéry
 Georg Scheicher
 Chaim Permont
 Valentin Mantulin
@@ -13073,26 +16813,31 @@ Herbert Collum
 Ronald Tremain
 Hugo Kreisler
 Anna Mongeri
-Aaron Jay Kernis
 Benoît Poher
 Pierre Baudrier
 Tobin Stokes
 Xu  Shuya
 René de Chazet
+Leigh Melrose
 Harald Bergstedt
+Camilla Tilling
 Breno Caetano
 Gabin Lesieur
 Blanche Poupon
 Jean-François Pauléat
+Kao-Jen Mong
 Catherine Couëffé
 Soan
 Pawel Mykietin
 Francis Deprijck
 Olli Virtaperko
 Carlos Roqué Alsina
+Vincent Roth
 Kikuko Masumoto
+Cyrano de Bergerac
 Charles Caigniet
 Selman Ada
+Lorenzo Allegri
 G. Doret
 Pierre Ruyssen
 Gian Lawless - Ian Lynch Daragh Lynch - Cormac Dermody
@@ -13100,25 +16845,26 @@ Barbingant
 Greene
 Jean-Christophe Marchand
 P. Patterson
+Albina Shagimuratova
 Paul Dalbret
 Esteban Sanz Vélez
 Joseph Autié
 Carlo Milanuzzi
 Ole Schmidt
+Alex Potter
 Herbert Lincoln Clarke
 M. L. Cadilhac
 Bernard de Saint Vaulry
 L. R. Charault
 Joseph Gibbs
-Vincenzo Tozzi
 Charles Aubert
 Paul Boussard
 Brian Eno
 Hubert Collinet
 George Henschel
+Richard Wilbur
 Philippe Viennet
 Bruno Pinchard
-Marcel Duchamp
 Alexis Decaux
 Bernhard Anselm Weber
 C. Moltke
@@ -13130,41 +16876,51 @@ Jean-Pierre Beugniot
 Kenneth Salters
 Armen Tigrani Tigranian
 Martin F. Ackerman
-Jean-Pierre Beugniot
 Lawrence Axelrod
-Jurriaan Andriessen
+Karim Torqui
 Argyris Kounadis
 Louis-Nicolas Blondel
 Pietro Pace
-Pedro de Escobar
+Matt Fieldes
+Romain Lay
+Sébastien Vichard
+Guillemette Laurens
 Ludovic Blareau
 Jean-François Duplat de Monticourt
-Françoise Enock
 Philip Braham
 Guto Pryderi Puw
 Carlo d' Ormeville
+Jennifer Hardy-Bregnac
 Andy Stroud
 Hugo von Senger
 Wilhelm Baumgartner
 Edward Bunting
+Pr Hirsch
 Myriam Tanant
 Edouard Corrion
 Ivan Qualbert Zimmermann
 Roland Wiltgen
 Gian Paolo Chiti
-Rachel Laurin
+Will Hudson
+Christian Tschelebiew
 Antonio Micheli
 Charles d'Anjou
+Tobias Berndt
 Georges Couailhac
+Allison Cook
 William Selby
 Harold Blanchard
+Mal Waldron
 Craig Goodman
 Carlo Agostino Badia
 Lorenz Kraussold
 W. Braxtonn
 Jonny Heykens
 Johannes Pullois
+Michelle Breedt
 Francesco Rossi
+Hamidreza Javdan
+Sascha Goetzel
 Stephen Chatman
 Albert Ribollet
 T. Amable
@@ -13194,14 +16950,16 @@ Daniel Jamet
 Todor Todoroff
 Mario Kuri-Aldana
 A. Ackermann
+Hélène Clément
 William
 Gudrun Lund
+Jean-Pierre ZING
 Michał Spisak
 Vicky Tucker Courtney
 Marc-Hély
 August Klingemann
 contrafactum Thibaut de Champagne
-Eduardo Fabini
+David Daniels
 Philippe Cathé
 Volkmar Andreae
 Kåre Kolberg
@@ -13212,9 +16970,10 @@ Julien Thomas
 Gontier de Soignies
 Jules Bois
 Bernhard Gander
-Omar Souleyman
 J. M. David
+Omar Souleyman
 Freddie Mercury
+Hamayoun Sakhi
 Ben Mohammed
 Federico Smith
 John Melby
@@ -13225,6 +16984,7 @@ Marguerite Debrie
 Osvaldo Farrés
 Armin Schoof
 Johann Friedrich Schwencke
+Nodar Zhvania
 Sabin Dragoi
 H. Commelin
 Babatunde Olatunji
@@ -13232,32 +16992,40 @@ Almire Gandonnière
 Tomas de Torrejon y Velazco
 Daniel Johnston
 Martins Fontes
+Matthias Schorn
+Grégory Beller
 Jonathan Robinson
 Antonio Caputi
+Hans-Peter König
 Angel du Musci
+Daniel Grice
 Patrice Bocquillon
 Giacinto Andrea Cicognini
 Georges Delacour
 A. Walter Kramer
 Ludovít Vansa
+Daniel Catán
 Toumani Diabaté
+Elisa Biagini
 Samuel Jones
 Gérard Thomas-Baruet
-Johann Pachelbel
+Norah Amsellem
 Iša Krejčí
 J. B.
 Adam Steigleder
 Hector Salomon
 Jacques Brillouin
+Luca Ludovici
 Elisabeth Claude Jacquet de la Guerre
 Walter Gieseking
 Franck Pilant
-Bernhard Günter
 Georges Chapel
+Bernhard Günter
 Mississipi John Hurt
+Marina de Liso
 Laure Borie
-Ivo Petrić
 Giovanni Battista Allegri
+David Goode
 Maria Pezzè Pascolato
 Jean Follain
  Codes de Las Huelgas, 58
@@ -13271,10 +17039,15 @@ Friedrich Zipp
 Guy de Luxeuil
 C. Courbayre
 Gabriele Mario Piozzi
+Guillaume Bouzignac
+Philippe Thibaut
 Arthur Boymond
 Octave Lerichomme
+Peter Sidhom
 Modeste Moussorgski / Maurice Ravel
+Dalibor Jenis
 Jean Bonfils
+Johann Gottfried Ludwig Kosegarten
 Boris Semenovič Šehter
 Claude Petit Jehan
 Ignaz Schnitzer
@@ -13284,17 +17057,22 @@ Stelios Vlavianos
 Valerius Otto
 Emile Renaud
 Hilaire Penet
+Sonia Ciani
+Preston Ware Orem
 Mac Huff
 N. Buhl
+John Bull
 E. Zerega
 Mirco De Stefani
+Jean-Jacques Gaudon
 Johann Heinrich Tobler
 Jean de Chantérac
 Ricardo Bosio
 Alexander Schubert
 Ivar Frounberg
+Klaus-Florian Vogt
 Juvenal Quesada
-Lucy Crowe
+Peurl
 Gene Scheer
 Carlo Evasio Soliva
 Sorín Lerescu
@@ -13304,9 +17082,9 @@ Percy F. Venable
 Hermann Klein
 Francisco Braga
 František Václav Míča
+Roland Barthes
 I.J. Smith
 Elena Romero
-Hans-Ulrich Treichel
 Claude Gervaise
 Marco S. Georgiévitch
 John Oswald
@@ -13319,23 +17097,20 @@ Kaoru Wada
 Tata Nacho
 Jean-Pierre Milovanoff
 Georges Dat de Saint Foulc
+Béatrice Gendek
 Francis Didelot
 Willem Landré
 Tigran Tahmizyan
 Kamel Benmaghnia
 Gérard Jouannest
 Andrea Avantaggiato
-Liane Foly
 Francesco Antonio Costa
 Jean-Noël Hamal
-Stephan Oliva
 Armand J. Piron
 Georg Wenzel Ritter
 Paul Combes
-Michel Sendrez
 William McCauley
 Gaston Arnissolle
-John Cheetam
 Pierre Groscolas
 Gabriel Durliat
 Vicente López y Planes
@@ -13344,47 +17119,55 @@ Jean-Pierre Moulin
 Georg von Pasterwitz
 Edouard Marlois
 Huguette Nivard
+Olivier Beurotte
 Mohammed Arbaoui
+Nourredine Choukri
 Charles Racquet
 Roberto Cacciapaglia
 Armand Limnander de Nieuwenhove
 Guillaume Saulnier
-Hermann Lenz
 Stéfane Mellino
 Vladimir Zaharovič Mass
 Jean Gergely
 Vilhelm Andersen
 Tivadar Országh
+Lorenzo Carola
+Vianney Desplantes
 William Sharp
 Brahima Diabaté
+Martin Schalling
+Hocine Soudani
 Albert Bernard
 Carlos Alberto Irigaray
 Hortense
 Sellan Sagvik
 Yves Claoué
 Henri Blondeau
-Jean Molinet
+Young Lancret Laure
 Sylvain Pohu
 Marguerite Salomé Edelmann
 Serge  Rezvani
 Rocco Abate
-Samuel Sighicelli
 Albert Hague
+Clare Loveday
 Lionel Stoleru
 Jean-Louis Mansart
 Gréco Casadesus
 Paulo Florence
 Corneliu Cezar
 Alphonse Benoit
+Lee Adams
 Vincenzo Gallo
 Jan Hanuš
 Léopold Barès
+Simon Whiteley
 Guilhem Ademar
 Arif Melikof
 Jirzi Teml
 Duran Gérard
 Kjell Perder
 Friedrich Wilhelm Gotter
+Vladimir Ryabov
 Henri Bouillard
 Baetkhamra Koulov
 Jacques Delaporte
@@ -13394,14 +17177,17 @@ Richard Pearson- Thomas
 Helen Grim
 Anthony Burton
 Pino Massara
+Clémence Olivier
 Vivian Fine
 Claude Rostand
 G. de Courcel
+Jacques Bossuet
 M. Clerc-Renaud
 Myriam Baudic
 Hallvard Olav Johnsen
 Robert Hales
 Hermann Contract
+Denis Blisson
 Juan Cristomo Osorio
 Jean-Charles Dalia
 Sophie Caussinus
@@ -13414,7 +17200,7 @@ William S. Lloyd Webber
 Becker
 N. Bergasse
 Paul Crossley
-Renaud Delaigue
+Darren Jeffery
 Charles Harris
 Anton Urspruch
 C. Debano
@@ -13430,10 +17216,11 @@ Alice Parker
 A. Audousset
 Vincent Bouchot / Daniel Picouly
 Armand d' Artois
-Johann Schobert
-Giovanni Battista Tomasi
 Stéphane Roy
+Giovanni Battista Tomasi
 Melvin Glover
+Arni Egilsson
+Moïse Mendelssohn
 Roger Donald Dickerson
 Jochen Arbeit
 Filippo Tommaso Marinetti
@@ -13441,6 +17228,7 @@ Anton Emil Titl
 Gérard Blanc
 Romuald Michaux
 Angela Greco
+Nic Raine
 Gaetano Di Bacco
 Guy Prunier
 Michel Hostettler
@@ -13448,10 +17236,14 @@ Lewis Theobald
 Pierre Uga
 Babbie Mason
 Sándor Szokolay
+Bernadette Lafont
 Wayan Oka Diantari
+Kim Sargsyan
 Dejan Sparavalo
+Jacques Grévin
 Dominique Dagnan
 László Sáry
+Claudio Otelli
 Ridha Ben Mansour
 Cogniard frères
 Iain Paton
@@ -13463,15 +17255,14 @@ Philippe Coupet
 Jan Křtitel Krumpholz
 Giuseppe Biletta
 Hallgrímur Helgason
-Paul Milliet
 Jan Benda
-Sebastian Danchin
 Luis Torres Diaz
 Giovanni Battista Marella
 Tomás Barrera Saavedra
 Marsilio Casentini
-Claudio Ambrosini
+Eschyle
 Georges Bizet / Pablo de Sarasate
+Barbara Maurer
 Osbie Burnett McClinton
 Forsey Keith G. Moroder, Irene Cara, 
 Walter MacNutt
@@ -13479,14 +17270,16 @@ Ahilles Nikolaevič Alferaki
 Georges Chagounoff
 Bernard Hilda
 Rolf A. Wilhelm
+Manuel Machado
+Lenoir Romain
 Capel Bond
 Massimo Calabrese
 Pierre Gallot
 Joachim a Burck
-Dino Olivieri
 d' Épagny
 Teppo Hauta-Aho
 Alvaro Leal
+Rémy Mathieu
 Vladimir Kryukov
 Mark G. Sirett
 Arnaud Le Chevalier
@@ -13497,18 +17290,21 @@ Victor Rifaut
 N. Bellanger
 Tadeusz Maklakiewicz
 Georg Jarno
+Oliver Dunn
 Jacinto Valledor y la Calle
-Jean-Marc Duchenne
 Stefan Karp
-Monica Piccinini
+Hugo Von Hofmannstahl
 Doo-Nam Cho
 Pierre Soulaine
-Michael Spyres
 Eugène Caillot
+Emmanuel Trenque
 Willy Poschadel
+Antonio Cabrera
 Thierry Huvelle
 Peter Carin
 Léon de Saint-Lubin
+Gabriele Viviani
+Sylvain Lebel
 Ruth Shaw Wylie
 Alan Thompson
 Angelo d' Ambrosio
@@ -13519,6 +17315,7 @@ A. de La Brunerie
 Giuseppe Pietri
 Kishio Hirao
 Christopher Hermann
+Arthur Conte
 Michel Gully
 John Steven
 Edmond L'Huillier
@@ -13526,9 +17323,11 @@ Jean Tatton Latour
 Agustin Pérez Soriano
 Alex Alstone
 Georges Van Parys  / Jean Renoir
+Victor Jacob
 Porter Steele
 Goyenèche
 Nebojsa Jovan Zivkovic
+Sergei Slonimsky
 Enrico Renna
 Heinrich Proch
 Anne Mayol
@@ -13537,8 +17336,6 @@ Helmut Barbe
 Nicola Moscardelli
 Richard Boon
 Leblanc
-Étienne Siebens
-Kimmo Hakola
 Paul Halley
 John Lisley
 Allen Vizzutti
@@ -13546,34 +17343,36 @@ Pierre-Richard Deshays
 Benoît Schlosberg
 Giovanni Battista  Riccio
 Hans Hartvig Seedorff Pedersen
-Raymond Radiguet
 Lilla Brooke
  Raga
 Boris Fedorovič Gienko
 Nardon
-Lucia Megyesi-Schwartz
 René Maugars
+René Zosso
 Philippe Laurent
 Pierre Arveiler
 Hermann Suter
+Saint-Pierre
 Sigismundo  d’India
 Juan García de Zéspedes
 Jean-Auguste Jullien
  Schubert/Liszt
-Mélanie Lévy-Thiébaut
 Gustaf Düben
 Louis Argence
 Leopoldo Mugnone
 Shotoko
 Petar Ozgijan
 Jean Le Brung
+Vincenzo Giattini
 Gennaro Manna
 Friedrich Satzenhoven
 Carl Vine
 Rudi Révil
 Antonio Ferraro
+Sibylla Rubens
 Thomas Hunt
 Ernst Köhler
+Alonso Carceres
 Felicia Sandler
 Anand Singh
 Kyle Gann
@@ -13592,22 +17391,34 @@ Laurent Léon
 Gabriel Boissy
 Travis Good
 Louise Haenel de Cronenthall
+John Walthausen
 Alicja Choińska
 Daoudi Zohra
 Charles-Ferdinand Dubois
+Alice Julien Laferrière
 Artie Shaw
 George Ware
 Luiz Cosme
+Roscoe Mitchell
 Jan Hatas
+Alfred Jaell
 Albert Manouvrier
 Gernot Sauter
 Kodai
+Alice Gregorio
 Hans van Manen
+Camargo Guarnieri
+Valérie Kafelnikov
 Jules Arnoud
 Benetto Cerato
+Marie Cognard
+Jean Rodor
 Madeleine Ley
+Guiraut Riquier
+Luigi Gaggero
 Tobias Berggren
 G. Alari
+Anton Dvorak
 Seppo Hovi
 G. Astruc
 Pierre Carolus-Duran
@@ -13617,60 +17428,75 @@ Renzo Rossellini
 Edouard Bervilly
 Joe Johnson
 Thomas Doss
-Emilie Roy
 B. Darvant
 Amélie Perronnet
 Stepan Lucky
 Éric Schmidt
 Ovide Musin
+Andrei Petrenko
 Jordi Sansa
 Jules Arnaud
 Daniel Duport-Percier
+Lise Lindstrom
 Giuseppe Buccioni
-Andrea Zanzotto
+Falconiero Andrea
 Martin Greif
 Mathilde Maraninchi
+Marie Cambois
 Jacques Perconte
  Bach J-S./Alexander Siloti
 Louis Gautier
 Joshua Chan
 Christina Athinodorou /Lauréate du concours "île de créations"
 G. Z. Clouwez
+Stefan Legée
+Stéphane Sordet
 Mohamad Balkhi
 Arthur Bird
 Éric Bouad
 Frost
+Elena Zilio
 Hermance Chaintrier
 Paul Fauchey
 Pierre-Étienne Sagnol
 Masaji Nawata
+Vincenz Lachner
+Carlos Gardel
 Thomas Greatorex
+Octave de Périgny
 Girolamo Parabosco
+Moritz Hartmann
 William Crotch
 Wolfgang Grefinger
 Juan Garcia de Zéspiedes
 Arnaud Dunoyer de Segonzac
 Emile Bretonneau
-Chardonneret
+Adrien Joseph Le Valois d'Orville
 J. Persiany
+Chardonneret
 Joseph Trillat
 Kevork Andonian
  F.E. Braga (attribué à)
 Trout
+Robert Southwell
 Balthasar Abraham Petri
 Francesco Federici
+Paul Pehlivanian
 Osvaldo Lacerda
+Amélie Berson
 Franz Schnitzer
 Hendryk Hofmeyr
 V. Bardin
 François Baillieul
+Betty Knobel
 Adrienne Pauly
 Americo Marques Santos
 Philippe Raynaud
+Kirill Petrenko
+Hanus Trnecek
 Arturo De Bassi
 Maurice Soret
 Kinshi Tsuruta
-Jean-Jacques Rousseau
 Roy E. Agnew
  Les excommuniés par amour
 Vilho Luolajan-Mikkola
@@ -13679,34 +17505,42 @@ Jens-Peter Ostendorf
 Augustin Václav Senkyr
  Arno
 Alfred Janson
+Laurence Heim
 L. Casucci
 Alex Kress
 Francesco di Donato
 Carlos Allard
+Benjamin Berru
+Leonard de Vinci
 Blanche Bachelard
 Paul Duport
+Franz Grillparzer
+Giovanni Battista Granata
+Michel Feder
 Noël Roux
-Alberto Savinio
 Bernon
-Mixel Etxekopar
 Marguerite Chattenet
 Laurence Moletta
   Queens of the Stone Age
   Seconde partie
  Luna
+André Girod
 Frantísek Vanerovsky
 Jule Styne / Bob Merrill
+Igor Severianine
 Firoj Khan
+Ivan Turk
 Philippe Auclair
 Brécourt
 Antonio Juan-Marcos
 Melesio Morales
+Ferdo Livadic
 Benjamin Berlioz
 Eugen Hildach
-Václav Kunt
 Imothep
 Georg Dietrich Leiding
 Antonio Corbisiero
+Lawrence Zazzo
 Eugène Giraudet
 E. Darpa-Vilgane
 Dave Heath
@@ -13718,6 +17552,7 @@ Nahum Heyman
 Hermannus Contractus
 L. Collet
 Lajos Huszár
+Daniel Carraz
 Nicolás González Martínez
 Claude Prior
 Hurtado de Xeres
@@ -13731,31 +17566,36 @@ Manuel de Tavares
 Didier Vérité
 Armas Maasalo
 Stanislao Gastaldon
+James Dillon
 Jacob Blied
 Michel Gonçalves
 Valerio Bona
 Martial Carceles
 Ravi Gopalan Nair
+Riccardo Broschi
 Auguste Faucheux
 Calvin Hampton
 R. Herron
-John Metcalf
 Anne Finch Winchilsea
 Vasil Kazandžiev
 Matthias Van den Gheyn
  Michel Sardou / Pierre Delanoë
 Henri Goublier
+chapon benoit
 Leo Nestor
+Miquel Marti I Pol
 Georges Bachmann
 Paul Jebanasam /  Tarik Barri
+Ambroise Divaret
 Erich Urbanner
 Julius Bauer
 Paul Devred
 R.C. Hernandez
 Tataiana Sotin
 René Michel Dazey
+Johann Crüger
 Kornél Hamvai
-Yves Rechsteiner
+Wanda Landowska
 David Chappuis
 John F. Larchet
 Alegria Bendayan
@@ -13766,26 +17606,28 @@ Martin Boykan
 Kristjan Kõrver
 Monsieur Curci
 Tom T Hall
-François Donato
+Anthony Michaels Moore
 Donato
 Heinrich Domnich
 Jean-Pierre Mougin
 Piers Faccini / Mauro Durante
+Richard Kresz
 Leonard Salzedo
 Bernd Asmus
-Sam Rivers
 R. Gallo
 Juan de León
 J. F. Schink
+Giambattista Basile
 Joachim Florent
+Federico Romero
 Lorenzo Penna
-Wenchen Qin
 Yekutime Kotchlamazashvili
 Joseph-François Snel
 Paulo César Pinheiro
 Constant Desthieu
 La Hante
 Adrian Denss
+Justinus Andreas Christian Kerner
 Marcelle Aaron
 Claude Monnier
 Dan The Automator
@@ -13793,17 +17635,21 @@ Karen Rettinghaus
 Cécilia Arizti
 Clément Ducol
 David P. Jones
+Noémie Bialobroda
 Georges Garvarentz /  Charles Aznavour
 Wolfram Schurig
 Ramón de la Cruz
+Dimitri Chostakovitch
+Peter Frankl
 L. Hall
-Hans Magnus Enzensberger
 Marcel Cristiani
+Jiri Jaroch
 Luc Le Masne
 Jöran Rudi
 Juan Caladuez
 Th. Bonten
 Rastislav Kambaskovic
+Isabelle Genlis
 Rafael Mira
 M. Barthélemy
 Pedro Caillaux
@@ -13811,10 +17657,11 @@ Joseph Barrellier
 Jean Gauffriau
 Vincenzo Gabussi
 Mischa Levitzki
+Arne Garborg
 Clément Mougeot
 Hisako Kawashima
 Josep Maria Pladevall
-William Dongois
+Julije Bajamonti
 Carlos Bartnicki Tort
 Raoul Auger Feuillet
 Robert Ivan Foster
@@ -13826,30 +17673,30 @@ Rafael Anglés
 Alois Jeitteles
  Anonyme traditionnel
 Ming-Xin Du
+Laurent Lucas
 Ossi Böck
 Satoshi Ohmae
 Charles Coypeau d' Assoucy
 Johann Joseph Vilsmayr
 Anton Holzner
 Roberto Velasco
-Ben Bernie
+Grégoire Hetzel
 Iradj Sambaï
 Paul Véronge de La Nux
 Jeff Davis
-Paolo Bortoluzzi
 Salah Anany
 Pierre Bretagne
 Aureliano R. Cristal
 Peter Szendy
 Arsenij Nikolaevic Korescenko
-Giacomo Durazzo
+Marco Lazzara
 Ferdinando Saracinelli
 Santiago de Murcia / Traditional Huasteco
-Johan Botha
 E. Barry
 Grégoire Vanherle
 Shiroc
 Lee Gannon
+Giannis Stamatakis
 Emilio Praga
 Damian Montano
 Farid Ali
@@ -13857,7 +17704,9 @@ Martin Bresnick
 Markus Stockhausen
 Etienne Albo
 Wolfgang Grefinger
+lapeyre nicolas
 Armand Lapointe
+Edmond Bouchaud
 A. de Bourmeister Radoszkowski
 Charles Dauphin
 Raymond Vinci
@@ -13873,19 +17722,26 @@ Félix Battanchon
 Ramirez-Luna
 Oscar Lagger
 Jules Grison
+Ori Harmelin
 Xavier Decanter
+Manny Albam
 Marie Chevillard
 Georges de Momigny
+Ilias Rode
 N. Li Causi
+Klaus Kuttler
 Abdülkadir Meragi
 Jean Bizet
 Henry D
+Estacio Lacerna
 Jonathan Male
 Ossip Gabrilowitsch
 José Arcadio Limon
+Mathieu Jérôme
 Ferdinand Charpentier
+Philip Wilby
 Darcier
-Clifton Forbis
+Dan Rory Mac Donald
 Emanuele Krakamp
 Georges Anglebel
 Huon d'Oisy
@@ -13897,19 +17753,23 @@ Carmen Dalmas
 Jelly Roll Morton
 Adolph Neuendorff
 Ha jin
+Roger Branga
 Manuel de Pôrto-Alegre Faulhaber
 Patrice Bourgès-Rouhaut
 Florent Moriconi
 Élise Popovici
 Jacques de Cambrai
 Nick Kramer
+Nicholas Hurndall Smith
+Mikhaël Ephraïm
 Sebastiano Baldini
+Catherine Girard
+P. de Villiers
 P. Castellano
-Andrea Stefani
 Carroll Coates
 Pedro Furió
-Fred Sturm
 Flausino Rodrigues do Vale
+Fred Sturm
 Christian Sebille
 Alice Dufour
 Cyrille Auchapt
@@ -13924,32 +17784,42 @@ N. Maire
 Melchiorre Mauro-Cottone
 Johann Adolph Scheibe
 Robert Abramson
-Michel Moraguès
 Michaël Chapon
 Marguerite Cadier
 Nadira Pirmatova
+Paul Whitty
+Mario Penzar
+Cécile Gissot
 Jules-Étienne Pasdeloup
 Chevalier d' Herbain
 H. Camatte
 Johann Christoph Schmidt
 Jean Cosmos
+Christopher Theofanidis
 Georges Krier
 Giovanni Corini
 Emmanuel Savoye
+Miriam Gordon-Stewart
 Dagny Andersen
+Elena Mosuc
 A. Julien Balbi
 Jean-Pierre Hervet
 Suzanne Lagier
+Pamela Helen Stephen
 Amédée Gastoué
 Casimir Meister
+Thibault Laurent
 Jacques Tritsch
+Kyung Chun Kim
+Myriam Gillaud
 Michel Boiton
+Soile Isokoski
+Carl Fisher
 Eugene Lee
 Frank Ferko
 John Ness Beck
-G. Boute
 Erwann Chandon
-Regula Mühlemann
+G. Boute
 Philippe Robert
 Edward White
 Loïsa Coethen
@@ -13958,24 +17828,23 @@ Robert Cambert
 Serge Prisset
 Albertus Parisiensis
 Ferdinand Carias
+Ramona Nadaff
 Elsa Justel
 Giulio Maria Lucchesi
 Jules Massus
 Johann Michael Müller
+François-Adrien Boïeldieu
 Tomasz Sikorski
 Pierre Perrin
 Henri Woode
-Herbert Howells
 Brian Grasier
 Isabelle Prat
 Mahier
 Michel Delaporte
-Earl Hines
 Augsute Werner
 Paul Henrion
 Bill Carrothers
 Dominique Monnin
-Jean-Claude Carrière
 Demetrius Constantine Dounis
 Angel E. Lasala
 Guillaume Grand
@@ -13984,16 +17853,23 @@ David Lamb
 A. Broquin
 Jeff Gardner
 Gérard Hengeveld
+Jackie Mac Lean
+Sophie Lou
+Sophie Koch
 Davis Andrew
 Crisanto Del Cioppo
+ata adobe
  Louis Hennevé/Gaston Gabaroche
 Tassin
 Rémi Bouchard
-Eddie Barclay
+Hesiode
+Jean Broussolle
 Dedieu
+Erhan Torlular
 Layng Junior Martine
-Giovanni Matteo Giannini
+Umberto Giordano
 Natale Nicola Mussini
+Giovanni Matteo Giannini
 Beatriz de Dia
 Robert Aldridge
 Gottfried Huppertz
@@ -14004,11 +17880,10 @@ John Bartlett
 Alexander Comitas
 Athanasius  Kircher
 André Jadot
-Julien-Fernand Vaubourgoin
 Ricardo Lorenz
 Horatio Parker
+Françoise Delplanque
 Patrice Gauchon
-Teodor Ilincai
 Manuel Narro
 Léo Le Sieur
 Adéone Chevillard
@@ -14016,34 +17891,33 @@ Louis Combe
 Guilhem Augier Novella
 Benjamin Koppel
 Michel Le Coz
-Dominique Lemaitre
 Carl Pfeiffer
 Jun-na
 Åke Uddén
+BAUNACH Stéphane
 An Chengbi-Seungpil
-Giovanni Bicilli
  Folie 34 (Valence 1611)
+Giovanni Bicilli
 Hélène Chaumont
-Elisa Point
 Pablo Esteve y Grimau
+Guillaume Pires Parada
 Michel Wagner
 Albert Harris
 Gérard Murail
 J. P. Colenet
-Johann Ernst Altenburg
 Choko
-Jean Renoir
+Igor Lesnik
 Joám Trillo
 Louis Delâtre
 B. Davis
 Yves Coffy
 Vâčeslav Semenov
-Carole Bouquet
 Tomáš Norbert Koutník
 Azpurua y Llamosas
 Harri Wessman
 Evstignej Ipatovic Fomin
 Hassan Riahi
+José de Torres
 Sigurd Carlson
 Marc-Antoine Girard Saint-Amant
 Folquet de Romans
@@ -14062,13 +17936,18 @@ Hiroki Terashima
 Hermann Raupach
 Sylvain Didou / Thomas Lippens / Jean-Luc Le Mouel
 Gene Pritsker
+David Belasco
+Emma Vetter
 Robert Cone
+Igor Golovatenko
+Dimitri Tsiganov
 Georges Wague
 Vincenzo Bertolusi
 Vincenzo da Rimini
-Peter Lieuwen
 Denis Wright
+Peter Lieuwen
 Francesco Cellavenia
+Ruben Amoretti
 Adriano Morselli
 Sylvain Ballot de Sauvot
 Jean-Baptiste Andraud
@@ -14076,10 +17955,13 @@ Louis Hennequin
 Edouard Debray
 Matthieu-André Reichert
 Stasys Vainiunas
+Nicolas Slimani
 Zéquinha de Abreu
+Ermis Theodorakis
+Giuseppe Jacchini
+Domagoj Dorotic
 Joseph Sherly
-Jaroslav Vrchlický
-Julie Pasturaud
+Gianluca Floris
 Stéphane Bost
 Chad Hugo
 Petr Pokorny
@@ -14100,16 +17982,18 @@ Constant Ménissier
 Alfred Lebeau
 Pasquale Catalanotti
 Jean-Michel Trimaille
-Pérez Prado
+Bayrem Tounsiî
+Rodrigo Martinez
 Alfred von Wolzogen
 Gaston Hirsch
 Max Kuhn
-Carlo Francesco Pollarolo
+Julie Cherrier
 Isabel Cooke
 Lise Hirtz
 Santa Ratniece
 Jules Combes 
 Jan Bach
+Ramz Sabry Samy
 Shōjirō Kineya
 Abel Colin
 Jean-Jacques Charles
@@ -14120,23 +18004,26 @@ Johann Lorenz Bach
 Allen Shearer
 Rudolf Lothar
 Vladimir Sverdlov-Ashkenazy
-Aleksander Lason
 Pem Lam
 Henri Ravina
 Joachim Heintz
 Giovanni Caruso
+Philipp Stubenrauch
 Alfonso Montes
-Svend Aaquist Johansen
 Stefano Cristiani
-Hervé Trovel
+Svend Aaquist Johansen
 Amy Woodforde-Finden
+John Relyea
 Stepan Dehterëv
 Pamphile-Léopold-François Aimon
-Kristine Opolais
+Muzio Emanuele
 Raphaël Galli
+Philippe Rouillon
+Hasnaa Bennani
 Barry Manilow
 Dieter Salbert
 Gilles Senon
+Fulbert de Chartres
 Blas Garcia
 J. Bernol
 Pedro de Pierres
@@ -14146,28 +18033,34 @@ A. Cervi
 Charles Arnaud
 Giulio Ciccarello
 Johnny W. Green
-Jacob Gade
+Ulrike Schneider
 Félix Augé de Fleury
 Joseph Coll
+Carl Lappe
 Robert Illing
-Chris Dawson
+Sabine Marienberg
 Michele Mortellari
-Alfred Prinz
+Chris Dawson
+Lambure Nicolas
 Arnaldo Bambini
-Ernst Vogler
 Georges Montorgueil
+Ernst Vogler
+Victor Vlasov
+Romain Clerc-Renaud
 Gordon Stout
 Rémy Dury
+Mikhail Lermontov
 Diana Burrell
-Jean-Luc Nancy  / Olivier Dejours
 Raymond Deane
+Jean-Luc Nancy  / Olivier Dejours
 Louise Violette Bignou
+Abertijne Malcourt
+Jan Martinik
 D***
 Ismael Ledesma
 Maria Collard
 John Francis Barnett
 Dendenny Louleid Mint
-Jean-Michel Caradec
 Cootie Williams
 C. Le H.
 Paul Bouloy
@@ -14176,38 +18069,45 @@ Marcel Bernheim
 Antonio Galuppi
 Charlotte Burtin
 Stevan Mokranjac Stojanović
+Roger Boutry
 Alphonse Catherine
 Matthaeus Stegmayer
+Zeid El-Atrache
 Louis-Jacques Criotier
 Gian Francesco Fortunati
 Queldryk
+Igor Gnidii
 Renout
 Rémy Yulzari
 Ferdinand de Laboullaye
 Amédée Boussard
+Michael Head
 Mihail Luk'ânovič Âkovlev
-Magdalena Hinterdobler
 Charles Lenschow
 Boaz Ben-Moshe
 F. Auger
 Gasteblé
 Ray Passman
 Léopold Bousquier
+Claire Delgado Boge
 Dominique Ritter
+Auguste Brizeux
 Aimeric de Belenoi
-Ronald Samm
  Alfonso le Sage CSM 189
 Luigi Costa
 Vesselin Stoyanov
-Erin Wall
-Marie-Claire Bancquart
+Florian Bogner
+Johan Halvorsen
+Pande Shahov
+baulieu patrick
 Gaspard Bonaud
+Marie-Claire Bancquart
 Michele Novaro
 Jean-Michel d' Archambeau
+Mohammed Abdel Wahab
 Solange Ancona
 Baron de Bruck
 Jean-Yves Malmasson
-Anna Simboli
 George Edward Ives
  Anonyme (séfarade)
 Edwin Grasse
@@ -14215,7 +18115,9 @@ Guillaume Guegan
 Miguel Gómez Camargo
 Ruslan Jumabaev
 Jean-Marc Morisot
+Jules Matton
 Hans Brachrogge
+Hila Plitmann
 Arnold de Saint-Emmeran
 Jan Tollius
 Milan Kymlicka
@@ -14223,6 +18125,7 @@ Bartholomäus Riedl
 Jean Mercure
 Dubuisson
 Victor Chéri
+Michael-Loughlin Smith
 Frédéric Volovitch
 Carlos Sánchez-Gutiérrez
 Manuel Maria Parraga
@@ -14230,10 +18133,10 @@ Nicolai Lopatnikoff
 Louis Henry
 Carl Faust
 Alberto Bachmann
+Francisco Javier Borda
 Myriam Hugon-Wahl
 Pietro Rovelli
 Gerd Zacher
-Christian Tréguier
 Olivier Blardone
 J.-L. Borgesse
 Michel Vigneron
@@ -14241,13 +18144,17 @@ François Théberge
 F. Félix Aubry
 Carl Heinrich Weber
 Victor Herbiet
+Mark Warshawsky
 Georges Charton
+Tom Nermel
+Olivier Vernet
 Paul Robinson
 René Villard
 Sylvain Garcia
 Joseph Biloir
 Werner Bärtschi
 Wilhelm Kopprasch
+Lisa Barthelemy
 Domenico Allegri
 Valentino Nicolai
  Chant des partisans italiens
@@ -14255,6 +18162,7 @@ Allardyce Mallon
 Charlie Shavers
 Edouard Van Cleeff
 Luciano de Campos
+Diane Montague
 G. Peters
 Colin Meloy
 Axel Bauer
@@ -14268,40 +18176,48 @@ Loÿs Labèque
 A. Cellier
 Johan Daniel Berlin
 Paul d' Acosta
+Sally Beamish
 Baldoremo Cateura
+Charles Lloyd
 Johannes Mostchmann
 Yves Daoust
-Robert Franz Arnold
-F. Chanay
+Diana Montague
 Fabien Sollar
+F. Chanay
 Hans Fährmann
 Yann Diederichs
 Ousseynou Bâ
 Yvan Goll
 Chantal Richard
-Bruno Vay
 Benoît Charest
+Bruno Vay
 Colin Graham
 George Sweeny
 Giorgio Moroder
  Jatin-Lalit
 Bachar Khalife
 August Heinrich Hoffmann von Fallersleben
+Raniero Calzabigi
 Edna St. Vincent Millay
+Raquel Camarinha
 Richard Cottenet
 Daniel Koschitzki
 Khaled Ben Yahia
 Didier Petit
+Shelley Percy Bysshe
 M'henni Benlala
 Benoit Sitzia 
+Clement Berman
+Gregory Bonfatti
  Egidius de Aurelia
+Michael Haydn
 Giuseppe Frugatta
+David Hiley
 Johann Georg Orschler
-Charles-Gaspard Delestre-Poirson
 Servais Bertin
 Lucile Grétry
+Nacio Herb Brown
 Ben Ricour
-Marcel Schwob
 John Pyamour
 Georg Joseph
 Luiz Levy
@@ -14309,32 +18225,35 @@ Richard Gotainer
 Vladimir Mihajlovic Desevov
 Ethelbert Woodbridge Nevin
 Vasiliki Nevrokopli
+Peter Jelosits
 Mark Kopytman
 Joanne Metcalf
 Jean-Jacques Rippert
 Henri-Joseph Taskin
+Catherine Alcoverro
 Roger Jalowicz
 S. Maclean & D. Shaw
 Joseph Philbrick Webster
-Georges Ulmer
+Maarten Bon
 Catterino Cavos
 Ignacio Miró-Charbonnier
 Francis Grier
 Alice Shields
 Frédéric Loizeau
 Francesco Marconi
-Sem Dresden
 Karl L. King
 Y. Serraz
 Francesco Antonio Boerio
 Jacques Plante
+Noëlle Spieth
 Maurice Desvallières
 Nicolai von Wilm
 Sabin Salaberri
 Stefan Kisielewski
-Marie Taglioni
 Luigi Belloli
+Marie Taglioni
 Oldřich Flosman
+Garvanes Marc
 Bruce Wolosoff
 George Fenton
 Nikolai Berezowsky
@@ -14343,16 +18262,18 @@ Renato Rascel
 Moriz von Dietrichstein
 Johann Georg Christoph Schetky
 Nicolaus Herman
-Patricia Fernandez
+Hélène Barre
+Oliver Cotton
+Basile Buffin
 Lojze Lebič
 Fredrik Österling
 Yannis Ioannidis
-Jesse Greer
 Peire d'Auvergne
 Thomas Sporer
 Michaël Sebaoun
-Rafael Angel Mira
+Zoé Micha
 Tobias Conrad
+Lahchene Larbi
 Ernesto Koehler
 Thommy Lowry Garcia
 Nikolaus Welter
@@ -14369,6 +18290,8 @@ Richard Eilenberg
 Carmen Maria Cârneci
 Francisco Caballero
 Kang Chen
+Thomas Ravenscroft
+Jakob Nikolaus Craigher de Jachuletta
 A. Baussart
 Antonio Veretti
 Hortense Chirat
@@ -14380,91 +18303,114 @@ Louis Massonneau
 F. Cotteaux
 Richard Lloyd
 Henry Krieger
+Alexis Mital
 Alexandre Debert
 Peter von Ahrberg
 Alexey Kosolapov
+Julius Reubke
 Rui Martins
+Kari Karjalainen
+Michel Veber
 Laurent Coulomb
 Burch-La Deuze
 A. Baumgart
+Mounir Rissani
 L. Roncallo
 Ariane Moffatt
+John Turner
+Julie Robard-Gendre
+Brooks Roy
 Thomas Liljeholm
+Léo Preger
 Anne Delrieu
 Jean-François Tapray
 Jerome Moross
+James Tocco
 Lorenzo Ottavio Del Rosso
 Jean-Jacques Robson
 Heino Schubert
 Jean-Pierre Mirouze
 Ilja Hurník
-Peter Brook
-Mihai Moldovan
  Anonyme séfarade
 Martin Opitz
 Chevalier
 Sakutarō Hagiwara
+Abraham Lincoln
+Joseph Trapp
 Franck Ladouce
 Uwe Ungerer
 Marcel Charpenat
+Joan-Baptista Pla
+Jilek Frantisek
 Joseph Bouchel
 Pierre Motin
 Bernard Langlois
 Lucien L. Bernheim
 Adélard de Bath
 J. R. Defillo
+Martin Snell
+Stella Grigorian
+David Seidel
 Johann Kilian Heller
 Ingemar Tessin
 Julio Brito
+Torsten Kerl
+Johann-Hieronymus Kapsberger
 Biagio Tomasi
 Adina Dumitrescu
 Mark Phillips
 Julius Klengel
+Johan Blanc
 Jan Müller-Wieland
 Alexandre Meyer
 Emanoil Elenescu
 Hans-André Stamm
 Joachim Thibault de Courville
-Sergiu Celibidache
+Juan Cererols
 Richard Stoker
 Jean-Guillaume-Antoine Cuvelier
 Daniel Wolf
+Laure Young Lancret
+Endrik Wottrich
+Johann Schelle
 Thomas Attwood
 William James
 Siegfried Würzburger
 Gilles Farinone
 Thomas Baltzar
 Steve Slagle
+Bénédicte Debilly
 Emilia Andrea
 Ernest B.
 Suzanne Haïk-Vantoura
-Sylvia Filus
 Daniel Amore
+Sylvia Filus
+Jan Jeroen Bredewold
 Jiping Zhao
 Antonio Mazzoni
 Guiot de Provins
 Roger "Ram" Ramirez
-Gerhard Schröder
 Anonyme - Manuscrit Vaudry de Saizenay 
 Baltasar Samper
-Carlo Rizzi
 Louis de Mollier
 Colin Pearson
+Jean-Michel Damase
 Pierre de Nyert
 Jesper Madsen
 Jean Radel
 Benny Davis
-Marcel Tournier
+Georges Barthel
 Juan de Sessé y Balaguer
 Gabriel Marghieri
 Kurt Hentschläger /  Edmund Campion
 Murillo Santos
 Urs Hiestand
 George Skibine
+Philippe Miqueu
 Samuel Ekpe Akpabot
 Doc Watson
-Espers
 Jimmy Sherman
+Espers
 Watson Forbes
 Gérard Reyne
 August Korling
@@ -14474,13 +18420,13 @@ Banzy
 Pietro Giulianetti
 C. Garelli
 E. Albrecht
-Florent Vintrigner
-Easley Blackwood
 Hippolyte Ackermans
 Yamada Kôsaku
 José María Franco
 Mateu Flecha
+Anatoli Kotscherga
 Clemente
+Gerard eric
 Georges Razigade
 Jean Rigo
 Brunette
@@ -14488,9 +18434,9 @@ Vincent Wimart
 Eli-Eri Moura
 Philip Van Wilder
 Nilo Rodríguez
-Enrico Mainardi
  Maurice Aubret/ Léo Lelièvre fils/Jean Boyer
 Marie Carré
+Larissa Diadkova
 Sebastián Romeo
 Julien Chirol
  Anonyme (Japon, Zen)
@@ -14499,14 +18445,15 @@ Jon Mostad
 Jacques-François Lochon
 José Rodríguez de León
 Bear McCreary
-Serge Besset
+Adam Geghami Khudoyan
 Pierre Barthélémy
+Serge Besset
 Véronique Pestel
-Roberto Rossellini
+Nicholas Carpenter
 Abbé Gaveau
 Luis de Briceño
-Guy Batson
 Léon María Ferreté
+Guy Batson
 Emmanuel Gònima
 Mufdī Zakariyyā
 Menelik Wesnatcheur
@@ -14515,6 +18462,8 @@ Vincent Gambaro
 Klas Torstensson
 Albert Gossez
 Santiago Calzadilla
+Alfredo Gobbi
+Da-Min Kim
 Léon Dubois
 Louis Jullien
 Seymour Shifrin
@@ -14524,26 +18473,32 @@ Johann Georg Stanley
  André Sapin/Ch. Laurent
 Johann Michael Müller
 Elizabeth Poston
+Ildefonso Pereda-Valdés
 Árpád Balázs
+Jeff Tyzik
+Julsam
 Alexander Ferdinand Grychtolik
 Maurice Gracey
 Richard Cleveland
 Valentin Neuville
+Jean Christophe Saïs
+Susan Bickley
 Saint-Preux
  Paul & Louise
+Giuseppe Collisani
 Maximo Enrique Flugelman
 Miguel de Palacios
+Niccolo Piccini
 Nicolas Neidhardt
 Vladimir Deshevov
 Mody Ba
 A. Hintjens
-Hervé Vilard
 Colombino Arona
-Maja Solveig Kjelstrup Ratkje
 René Laporte
 Benjamin Dupé
-Johann Christoph Altnickol
 Joël Merah
+Johann Christoph Altnickol
+Allan Swieton
 Jean Courtin
 Gary Lee Nelson
 Georges Lamothe
@@ -14557,10 +18512,15 @@ Herman Kolgen / Philip Glass
 Rosina King
 Rambert
 Charles Chalupt
-Istvan Kotlar
  Sharakan
+Istvan Kotlar
 Carlo Bossola
 Marc-Antoine Legrand
+Cipriano de Rore
+Nahuel di Pierro
+Ok-ju Jo
+Michel Plasson
+Pierre-André Valade
 Kirill Umanski
 Christian Fuchs
 Oswald Jaeggi
@@ -14573,44 +18533,52 @@ A. Cazeneuve
 James T. Tanner
 Peter Grönland
 Jean-Luc Girard
+Miranda Keys
  traditionnel Chine du Nord
 Natale Paoletti
 Johann Jakob Schnell
 Raoul Toché
 Alec Wyton
+Yann Beuron
 Joseph Strimer
 Angelo Zurzolo
 Toustin
 Abd Al-Qiadir Al-Maraghi
+Geoffroy Drouin
 Robert Martin
 David Funck
 Pierre Passereau
+Isaac de Benserade
 B. G. De Sylva
-Claire Booth
 Stanislas Bujok
 Franco Leoni
+Marie Delorme
 Julien Varin
+Matthias Goerne
+Friedrich von Spee Von Langenfeld
 Claude Vercher
-Kyle Ketelsen
+Morris Bailey jr
 Alexandre Boyer
+Marc André
 J. B. Boldi
 Isabelle Brié
-Peter Kálmán
 Illuminada Pérez Frutos
 Lowel Shaw
+Marie Arnet
 Otakar Zich
 F. Boissière
 Pietro Castrucci
 Flore Mamola
 Craig Hella Johnson
 Alphonse-Marie-Denis Devismes de Saint-Alphonse
-Didier Puntos
+Sam M Lewis
+Charles-Désiré Dupeuty
 Pedro Jiménez de Luna
 Denis Lefebvre
 Domenico Lauro
 Tim Seddon
 Reinhold Felix von Willebrand
-Gérard Berliner
+Claudine Margely
 Baude de la Quarrière
 Hippolyte Clair Tartanac
 Zouaoui Djellouli
@@ -14620,6 +18588,7 @@ M. Barrellier
 Michel Woldemar
 Raffaele Grimaldi
 Teresa Del Riego
+Johann Jacob Froberger
 Francesco La Licata
 Marthe Anty
 Daniel Loayza
@@ -14628,21 +18597,23 @@ Luc Brewaeys
 Peter Kolman
 Jules Granier
 Denis Mariotte
+Adrien-Francois Servais
 E. Daviau
 Joseph Meyer
 A. M. Canthal
 Georges Aitken
 Antoine-Gabriel Jars
-Rudolf Mauersberger
 Emilio Serrano y Ruiz
 Marilyn Shrude
 Andreas Oswald
 Auguste Léonard Samie
 Piers Faccini / Simone Prattico / Francesca Beard
+Alexandre Bezymenski
 Friedhelm Döhl
 Robert Zuidam
 Chris Squire
 Serge Morand
+Leonhard Lechner
 Pietro Maria Crispi
 Lucien Daubige
 Achille Simonetti
@@ -14653,15 +18624,16 @@ Reza Ackbaraly
 Friedrich Goldmann
 Giuseppe Nicolini
 Allan E. Naplan
+Jean-Michel Dayez
 Khalifa Koné
 Hans Sachs
 Morris Kliphuis
  Georgius/Jean Lenoir
+Antonin Tucapsky
 Johann Woltz
 Julien Artho
 Ponç d' Ortafa
 Paul Berlier
-Stefan Zweig
 Vincente Emilio Sojo
 Nicolas-Joseph-Laurent Gilbert
  Musique des townships
@@ -14673,15 +18645,19 @@ Jules Burdy
 Jean-Paul Buron
 Henry Fouquier
 Gervais du Bus
+Johannes Ockeghem
 Pierre De Wattyne
 Alfonso Rendano
 A. C. Clark
 Kjell Roikjer
-Gilberto Cappelli
 Ivo van Emmerik
+Gilberto Cappelli
+Pedro Castro
 Johann Melchior Dreyer
 J. Martinez Abades
 Olivier Tanguy
+Antoine Danchet
+Wilhelm Meister
 Johannes V. E. Brouwer
 Adrien-Joseph Le Valois d'Orville
 Francesco Lecce
@@ -14691,10 +18667,13 @@ Henry Hall
 Ernst August Beyer
 R. de Barros
 Lars Hegaard
+Marine Thoreau La Salle
 Joaquín Martínez de la Roca
 Joachim Diessner
 Ernesto Duarte Brito
 Didier Jacquin
+Louis Delâtre
+Joan Martin-Royo
 Yasuo Suéyoshi
  Lord Kossity
 Félix Bernard
@@ -14702,6 +18681,7 @@ Dai jo
 Ihlan Baran
 Anton Ferdiand Titz
 Olallo Morales
+Trine Wilsberg-Lund
 Giuseppe Fedeli Saggione
 Omero Checcacci
 Bin Kaneda
@@ -14710,40 +18690,50 @@ Pierre Prigent
 Edouard Chapelle
 Jean-Louis Roques
 Dan Visconti
+Andrejs Osokins
 Michel-Ange
 P.-L. Hillemacher
 L. C. Chinski
 Matej Babnik
 Cornelis Dopper
+Lucien Népoty
 E. Frontin
+Richard Volkmann
+Olivier de Magny
 Erik Förare
-Cat Stevens
 József Katona
 Jeroen Speak
 Glen Skinner
+Christopher Stewart
 Guillaume Dumanoir
+Francesco Corteccia
 Yves Devernay
 Daniel Hahn
 Al Wood
+Luciano Batinic
+Manuel Ponce
  System 7
 Maurane
 Charles G. Vardell
 Nicolae Lungu
-Victor Clowez
 Sébastien-Charles Leconte
 Jaan Kross
-Charles d' Helfer
 Philippe Mazé
 Hermann Lang
 Kaidi Tatham
 Mario Marcelo Mary
 Zenjo
 Harald Heilmann
+Valerio Contaldo
 Masaru Kawasaki
+garaud julie
+Angelo Badalamenti
 Jérôme Joy
+Grégoire Guérin
 Ludovico Roncalli
 Yovhannès Tŭmanean
 Anatoli Chalaiev
+Anton Rubinstein
 Eugène Bastin
 Vincent-Aloïse Amann
 Anton Estendorffer
@@ -14752,26 +18742,23 @@ Bartholomaeus Stockmann
 René Jeanne
  Tartini/Arrangements Kreisler
 Steve Howe
-Christa Wolf
 B. Gordy
 Heathcote Dicken Statham
-Maurice Tézé
+Gilberto Pereira
 Johannes Nied
 Alfred Lefort
-Philipp Eichenwald
 Peter Planyavsky
+Philipp Eichenwald
 Demetre-Théodore Couza
 Alvin S. Curran
 Emile Chelli
 José Palmer
-Borlet
 Frédéric Soulard
 François Estienne
 Jacob Tardien
 Gustave Canoby
-John Davis
+Jean-Baptiste Mouret
 Milton Middlebrooks
-Anna Kiknadze
 Joseph Willcox Jenkins
  Anonyme (mss. Código “Trujillo del Perú)
 Félix Labunski
@@ -14780,29 +18767,42 @@ Oscar Carmona
 Al Hoffman
 James Gardner
 Harold Gramatges
+Ain Anger
+Mohamed El Moujîî
+Bud Powell
 Annick Nozati
 Domenico Massenzio
+Christoph Pohl
 William Forsythe
 Jordi de Sant Jordi
 George Marson
 Francesco Magini
+Maria Radner
+Giovanni Palazzi
 Manfred Weiss
 Marie de C
 Cristóbal Pazmiño
 Robert Xavier Rodríguez
-Charles Eckert
 Percy B. Kahn
+Charles Eckert
 Karl Joseph von Pauersbach
+Jennifer Michel
 John Boyle
 James Wallace
 Ruben Tenenbaum
-L. Barton
-Octavie Carrier
+Cesare Rinaldi
+Johannes Ciconia
+ZING Jean-Pierre
+Luz Casal
 Antonio La Greca
+Octavie Carrier
+L. Barton
 Léonard Mazza
 Lorenzo Gaetano Zavateri
-Siegfried Borris
+Ghislain Leroy
+Charles Derringer
 Etienne Boussenot Du Clos
+Hortense Cartier-Bresson
 Leander Schlegel
 Antony Mars
 Denis Riedinger
@@ -14810,48 +18810,57 @@ Benny Harris
 Bastien David
 Carol Connors Ennio Morricone,
 François Dulot
+Elies Hernandis
 Osvaldas Balakauskas
-William Cooper
 Federico Collino
+William Cooper
 Jonathan Battishill
 Suzanne van Lohuizen
-Blaise Pascal
 Charles Gallois
 Charles Balanqué
 Philippe Lavergne
+Alain Damiens
+David Einhorn
 Antonio Troilo
 John Tomkins
 Muriel Téodori
 Clifford Gray
 A. Chauvin
 Adèle Challet
-Louis Mercier
 Octavian Panzau
 Andreas Rauch
+Mongezi Feza
  Johann Sebastian Bach / Anton Webern
 Cheb Mami
 H. K. Gruber
 Johann Friedrich Franz  Burgmüller 
 Elaine Barkin
+Susan Marshall
+Maxime Springer
 Giacomo Spica
 Michel Pons
 Jacques Colombier
 Johann Julius Sontag von Holt Sombach
 Ernst Pfiffner
-Ede Poldini
 Numa de Chilly
 Bernardo Clavijo del Castillo
+Peter Rose
+Olivier Devaure
 Frantisek Xaver Thuri
+Pietro Simone
 Axel de Kirianov
 Clarence Paul
+Bernhard Gander
+Freddy Eichelberger
 Fabrice Villard
+Bernard Cazauran
+Joseph Kaiser
 Duport
-Johann Nicolaus Bach
 Bartolomé Ramos de Pareja
 Marie Alasseur
 Edmond Laurens
 Axel Olrik
-Peter Lorne
+Gerome ragni
 Joseph Chabanceau de La Barre
 Martin-Joseph Adrien
 Charles Belinfante
@@ -14863,7 +18872,6 @@ Juan de Segovia
 Patrick Mando
 James Clarke
 Johannes Legalis
-Sinead O'Connor
 John Hilton
 Simón Diáz
 Michael Hennagin
@@ -14881,9 +18889,9 @@ Bernardino Bertolotti
 Paul Pierné
 Chris Fitkin
 Mrs Clinch-Smith
+Carole King
 Stewie Wonder
 Chénard-Huché
-Didier Goret
 Philippe Servain
 Thierry Huteau
 Maria Boutelier
@@ -14896,46 +18904,64 @@ Vincenzo Bertolusi
 Gösta Oswald
 Jules Carbonnier
 Jean-Claude Naimro
+Henry Dupont
 Felipe Gorriti
 Émile Dunkler
-Pablo Márquez
+Jacopo Ferretti
+Heinrich Ammann
 Elphège Proisy
+Ferdinand Freiligrath
 Eduardo Kusnir
+Jack Reardon
 Georges Bormans
 Carlos Perez Rivera
-Kate Rusby
 A. Oliviera
-Keyvan Chemirani
-Steven Cole
+Kate Rusby
 Jan Barend Litzau
 Ippolito Sabino
 Jesús Rodríguez-Picó
+Rayyes Najib al
+Jean Baptiste Clement
 Daniel Kelley
 Paul Patterson
 David del Puerto
- Sultan Selim III
+Beau Palmer
 José Luis Padula
+ Sultan Selim III
 Jacques de Belleville
 Luciano Berio / Franz Schubert
 Andrew Creeggan
 Paweł Szymański
+Nicole Cabell
+Johann Georg Jacobi
+Arsène Golenistchev-Koutouzov
 Oreste Sindici
 L. Chouquet
 Theodor Diener
+Tony Buck
+Ralf Grobe
 Marcel-Emile Chapuis
 Marie d' Abbadie
+André Danerty
 E. Chamar
 Paul Smadbeck
 Ludwig Mendelssohn
 Gheorghe Dima
 Darazs Miska
+Valentina Farcas
+Rafik Korteby
+Maurice Fombeure
 Patrick Mendez
+Mirzapour Azad
+Henri Poupon
 Carlos
 Saint-Elme
+Stefan Fehlandt
 Oleg Âncenko
 Evgueni Galperine
 Andrés Batista
 Paul Janssen
+Luciano Di Pasquale
 Madame Ravissa
 Brian Kay
 Théodore de Berckheim
@@ -14945,21 +18971,24 @@ Maurizio De Angelis
 Mathias Malzieu
 François-Joseph Darcis
 Thomas Tallis
+August Stramm
 Victor Gallois
 Ch.-F. Régis
 Norberto Pedreira
+Juan Crisostomo Arriaga
 Magaretha Christina de Jong
-Kees Van Baaren
 Howard Goodall
+Kees Van Baaren
 Angéline Ackermann
 Marianna von Auenbrugg
 Francesco Basili
 H. Adler
 Michel Françoise
+Paul Willenbrock
 Ben Weber
 Heinz Werner Zimmermann
+Torsten Hofmann
 Christian Kalkbrenner
-Valérie Gabail
 A. Cambresy
 Filippo Cammarano
 Andrea Salvadori
@@ -14969,7 +18998,6 @@ Ottokar Novacek
 Francesco Puttini
 Walter Behrens
 D. Pïfarély, T. Felder, A. Bocher  Arrangement Y. Rohaut, S. Didou
-Stephen Spender
 Madame Louis Capet
 Serban Nichifor
 Manuel Brault
@@ -14981,32 +19009,39 @@ Henning Mankell
 Jean-Bernard Beauchamp
 Ghirardello da Firenze
 Sigismund Paminger
-Elton John
 Henri Covin
 Artur Barreiros
+Alexandre Kravets
+Andrea Rognoni
 Christophe Queval
 Dominic Faricier
 Valentin Villenave
-Gregory Kunde
+Marie-Hélène Gatti
 André Kostelanetz
 Rory "Stone Love" Gilligan
+Galt MacDermot
+Jean de Rotrou
 Verdina Shlonsky
 Fortunato Luzzatto
 Ignazio Fiorillo
-Gaetano Guadagni
+Alistar Ross
 Champol
 Giuseppe Bellenghi
 Pierre Bidegain
+Frank Paparelli
 Patrick Juvet
 Alphonse Bazolle
 G. C. Cosmovici
 Marcos Lacerda
+Markus Brutscher
+Ahmed Madkour
 Giovanni Avolio
 André Bertrand
 Richard
-Michael Bonaventure
 Gustave Carulli
+Michael Bonaventure
 Karsten Gundermann
+Marine Clermont
 Johannes de Pinarol
 Maurice Bouchard
 Bosisio
@@ -15017,46 +19052,59 @@ Giovanni Zamboni
 Ernestine B.
 Jorge Olimpo Manrique
 Teodoro Cottrau
-Merzak Djalouah
 Pierre Auclert
+Merzak Djalouah
 Paul Marcilly
 Henryk Skirmuntt
 George Russell
 Krzysztof Knittel
 Louis Bardou
 Lajos Dóczi
-Samir Odeh-Tamimi
+Julia Robert
 Csiky Boldizsar
+Tom Mac Intosh
 Léo Arnaud
 Hans Gerle
+El Asheqine
 Patty Smith Hill
 Charles Guillet
 Thomas Whythorne
 Jean-Claude Carrière /  Georges Delerue / Louis Malle
+Ralf Rachbauer
+Hui He
 Adam Saunders
 Jeff Bass
 Stanislav Jelínek
 Timb Harris
-Natalie Sleeth
 Jean-Baptiste Rey
+Natalie Sleeth
 Christian Daguet
 Athanasius Kircher
 Francis Scott Key
 Estienne Droüaux
-Nat King Cole
 Vicente Rojo Cama
+Tamar Iveri
 Peter Vogel
+Mischa Schelomianski
 Philipp Nicolai
 Carl Schuberth
+Julian Négulesco
 Alfred Rose
+Nat Adderley
 Ivan
 Jorge Gómez Crespo
+Herbert Heckmann
 Aurore Houeix
 Amable François Joseph Deleplanque
+Juan Francisco Gatell
+Ejnar Eklof
+Ashley Holland
 Noel Sherman
-Randall Swingler
+Jeno Takacs
+Susan Maclean
 Paul Beaume
 Aleksandr Holminov
+Virgile
 O. Doret
 Burckhard Grossmann
 Shunkai
@@ -15064,6 +19112,7 @@ Guy Lux
 Jhan de Billon
 Paul Vinogradoff
 Joseph Muntz-Berger
+Norbert Ernst
 Pierre Bourgeade
 Imre Sulyok
 Ercole Bertoglio
@@ -15071,22 +19120,26 @@ Carl Tieke
 Tomoyuki Hisatome
 Paul Salerni
 Christian Gaubert
+Hervé Péjaudier
 Félix Raugel
-Louis Ducreux
+Johann Schenk
  Maurice Ravel / Pierre Boulez
 Victor Léon
+Jean Philippe Cochenet
 Chrichan Larson
 Eduardo Fabini
 Karl Naegelen
 Igniazio Prover
 Michael Gandolfi
+Georgi Zlatev-Tcherkin
 J. Cramer
 Deems Taylor
 Chick Webb
 Henri Nuyens
 Ryo Dainobu
-Patxi Montero
 Stephen Gardner
+Eino Leino
+Catherine Cournot
 Alec Mansion
 Giuseppe Paolucci
 Hans-Peter Frehner
@@ -15097,7 +19150,6 @@ Johann Friedrich Alberti
 Laurent Camilieri
 Domenico Micheli
 Nicolas Hafner
-Walter Zimmermann
 Nicola Ugolino
 Philippe Deschepper
 Joseph Pouteau
@@ -15108,32 +19160,38 @@ Jennifer Fowler
 Jean Ajello
 Charles Foleÿ
 Claude Cordelet
+Agnes Zwierko
+Ingrid Panquin
 Thomas D'Urfey
-Martin Codax
 Anne Sédès
+David Brutti
+Jacques-Yves Rousseau
 Constance Collier
 Karl Collan
 Larrey Ayala
-David Ludwig
+Gareth Hulse
 François Bonnay
 David Padrós
 Fabrizio Fontana
+Valentina Ferraiuolo
 Joe Tex
+Robert Fuchs
 Calin Ioachimescu
 Eduardo Gorosarri
 Alain Le Tribroche
 Ralph Shapey
 Gerhard F. Wehle
 Adolphe Bolm
-Pierre Dervaux
 Annastina Malm
 Fritz Struss
+Michael Radulescu
 Maurício Marques
+Alexandra Gouton
 Aquiles Pantaleao
+Paul Lincke
 David Alagna 
 Jean-Claude Touche
 Johann Michael Böhm
-Théophile Ysaÿe
 Thibaut Vuillermet
 Marcel Galiègue
 István Szigeti
@@ -15145,6 +19203,8 @@ Robert Oboussier
 Joseph Mijnapfel
 André Beck
 Sébastien Llinares
+Lisa Larsson
+Cecile Mazzoni
 Adam Sky
 Élisabeth Amalric
 Ramon Coll
@@ -15153,18 +19213,21 @@ Angelin Preljocaj
 Revaz Kondratʹevič Gabičvadze
 Nicolas Gersin
 Grégoire Nicole
-Philippe Rombi
 Alessandro Grandi
 Nicolas Guay
 Gustaf Carlman
 John Sutton
+Doris Soffel
 Marco Rosano
 Hugo Godron
 Aurélie Tomezzoli
+Daniel Beilschmidt
 Sam Sadigursky
 Nicolo Brocco
 Leslie Bourgouin
 Marcel Chapuis
+Marie de Louvencourt
+Kim Begley
 István Láng
 Richard Whiting
 Ludwig van Beethoven / Joahnn Nepomuk Hummel
@@ -15172,21 +19235,20 @@ David Coleman
 Halsey Stevens
 André Zumbach
 Comtesse Th. de C.
-Michael Jarell
+Christophe Michau
 Géza Zichy
 Comte de Brevands
 Aleksandr Kuz'mich Vustin
-Christoph Cech
 Josef Labor
 John Goodgroome
 La Bolduc
-Rufus Frost
 A. Aimès
-Thomas Johannes Mayer
+Rufus Frost
+François Jeanneau
 Jan Pieterszoon Sweelinck 
 Hope Anne Keng-Wai Lee
 Georges Boulanger
-Chantal Perraud
+Mehmed bin Süleyman Fuzûlî
 Wayne Carson Thompson
 Reinhard Febel
 Goulven Kervizic
@@ -15197,48 +19259,55 @@ Héctor Stamponi
 F. Doskocil
 abbate del Cinque Ermengildo
 Philip Phile
+Eva Maria Westbroek
 Jun-ei
 André de Rosiers
 Timo Alakotila
-Martin Stadtfeld
 Franz Carl Hiemer
 Miguel Antonio Osanz
+Lioba Braun
 Pierre-Augustin Caron de Beaumarchais
 Matthieu Favrot
 Toru Hora
-Pedro Sáenz
 Franz Poenitz
+Pedro Sáenz
+Christine Jaboulay
 Patrice de Boisbelet
-Edmond Haraucourt
+Erin Wall
 Bob Fosse
-James Newton Howard
 Fermo Dante Marchetti
 W. Jackson
+Thierry Spiesser
+Ramtin Ghazavi
 Joseph Altamira
 Rosalía de Castro
-Jerry Leiber
 L. Cappaccio
 Enguerrand de Salles de Hys
 Luís Coutinho
 Alexander Vertinsky
 Robert Godard
 Fabrizio Casti
-Carina Ari
 Ksenia Aleksandrovna Erdeli
+Carina Ari
+Harald Heilmann
 Agathe Alleaume
 Édouard Lacamp
-Harald Heilmann
 Sebastian Bodinus
 Johann Hasler
 Pierluigi Castellano
+Albert Dohmen
 Hans Lengsfelder
 Floriano Canale
+Paul Jeukendrup
 Alphonse Hoch
 Roberto Sabathini
 Gilles de Vieux-Maisons
+Alexandre Trebitsch
 Joseph Lefébure
+Hendrickje van Kerckhove
 Christian Mesmin
 Rokia Traoré & Virginie Dembelé
+Fabio Capitanucci
 ✩
 Émile Combes
 Shuyu
@@ -15247,38 +19316,50 @@ Emil Hlobil
 Giuseppe Cagnazzo
 Tsan-Hao Ho
 Franck Bridge
+Magdalena Padilla Osvaldes
 Régis Gizavo
 François-Joseph Dizi
+Raoul Georges
 Pauline Croze
 Lina Cöen
 Carl Ludwig Matthes
 Louis Billaut
+Julia Jerosme
 Bernard Dürr
+Neal Hefti
+Sylvie Brunet
 Matthias Kern
-Montéhus
 Johann Anton Kobrich
+Johannes Tritheim
+David M. Carp
+Johann Gottlieb Stephanie
 Marie-Françoise Bonin
 Xavier Pace
 Sieur Perrin
+Sevan Manoukian
 Garbis Aprikian
 Gaëtan Bava
-Claude Ledoux
 Francisco Rodrigo
+Philipp Ahmann
 Pietro Scarlatti
 José Cana
 Hélène-Louise Demars
 Domenico Auletta
 Gaston Angelo
+Maria Teresa Vera
 Eddie Prendergast
 Bruno Coulais
 Martin Cole
+John Luther Long
 A. R. Rahman
 Pierre Bédat de Monlaur
 Helmut Lammel
 Sofia Martinez
 Émile Desportes
+Roberto De Biasio
 Antonio Rosetti
 Alekseï Vasilievitch Koltsov
+Gustav Theodore Holst
 Franck La Forge
 Friedrich Leopold Duncker
 François Borgia
@@ -15286,29 +19367,40 @@ José L. Padula
 Pietro Verdina
 Xavier Maurel
 Mikołaj Gomółka
+Ruth Correa
 Margaret Vardell Sandresky
 John Holmes
 Simon Simon
 Louis Delune
 Raphael Urweider
+Cornel Groza
 Manfred Hugo Ludwig Gurlitt
 Pierre-Jean-Baptiste Choudard Desforges
 Henry Costa de Beauregard
+Andreas Weller
 J. B. Costanzo
 Nathalie Pierson
 Eduard Nikolaevič Artem'ev
+Jeanne Marie Leprince De Beaumont
 Félix Corbeau
 Lasse Eerola
+Roberto de Candia
 Francis Grier
-Giovanni Colombi
+Sjoerd Van der Veen
 Edson Zampronha
+Giovanni Colombi
+Marcabru
+Emil Kuh
 Giuseppe Giuliano
 Gejza Dusík
+Ludovic Nicot
 Walther Geiser
 Yevgeniy Sharlat
+Frédéric Borie
 Mauricio Bejarano
 Johann Balthasar Erben
-Sylvie Moquet
+Dario Luschi
+Ana Candida Carvalho Carneiro
 Antoine Clician
 Bettina Brentano
 Claudia Pereira
@@ -15318,6 +19410,7 @@ Peter Tiefenbach
 Francesco Usper
 André Doderet
 Michel Delgiudice
+Lazarus Spengler
 Anacleto de Medeiros
 Romain Perda
 Giovanni Gherardini
@@ -15328,36 +19421,41 @@ A. Chevillard
 Elie & Jacno
 Gloria Bruni
 Yuly Serhiyovych Meytus
-Guido Balestracci
+Laurent Stocker
 B. Leza
 Maria Malibran
 Jean Gouzène
 William Harvey Swan
 Kamilo Mašek
+Xavier Gagnepain
 Benoni Darondeau
 Pietro Salatino
 Aleksej Eliseevi˜ Kru˜ënyh
 Sophie Bentolila
 E. Darde
 Mike Deighan
+Laura del Sol
 H. Dumouchel
+Luzzasco Luzzaschi
 Charles Lomon
+Fred Ebb
 Bernardo Accolti
 Salvador Pueyo
  Early
 Daniel Hamar
+Dmitri Merejkovski
 Yuji Takahashi
 Yoshitomo
 Paolo Scotto
 Giovanni Amaniera
 Mark Delpriora
+Matthieu Delage
 Jean Batigne
 Vojin Komadina
 André Czarda
 William Yeates Hurlstone
 Richard Quesnel
 Goddard Lieberson
-Carlo Ambrogio Lonati
 Joop Voorn
 Cleo Henry
 Giorgos Koumendakis
@@ -15366,24 +19464,33 @@ Johann Xaver Nauss
 Jacques Buus
 Reinhard Wolschina
 Ratpertus
-Paulino Salgado
 G. Castelli
 Mohammed Salah el-Din
+Florian Götz
 Pietro Taglia
 M. Cérimèle
+Ken Yoshida
 Jeanne Marie Cécile
 Philippe Bretonnière
 Mauricio Bacarisse
+Ali Khan Zafar
 José Miguel Guerra
 Albert Lasry
+Rodolphe Briand
 Jan Adelf Mestecky
 Francisco Viñas
 Battaglia Veneruso
+Paul Newland
 François Raulin
+Sharon Rostorf-Zamir
+Coferati Matteo
 Inocente Carreño
+Mihoko Fujimura
 Agostino Gabucci
 Matthaüs Reymann
+José Ximénez
 Torbjörn Grass
+Jerôme Ragon
 L. Casamoz
 Giovanni Beato
 A. P. H. Cobbs
@@ -15394,6 +19501,7 @@ Henri-Catherine-Camille Ruolz-Montchal
 Wenzel Hebelt
  Led Zeppelin
 Eric Fischer
+Maria Bengtsson
 Kapinga Gysel
 Signor Gaetano
 Jean Géral
@@ -15401,19 +19509,17 @@ Don Timoteo
 Earl Randle
  Codex de Las Huelgas, 57, f. 41
 Max Lobedanz
-Federico Ibarra
 Morten Gunnar Larsen
 Yves Navarre
-Louis-Joseph Marchand
 Valery Strukov
 A. Carramona
 J. Bockler
 Théophile Stern
 William Newark
 Etienne Cornellier
+Petr Fiala
 Eduard Birnbaum
 Lew Brown
-Claude Boyer
 James Reese
 Michel de Chevallier
 Jean-Marc Serre
@@ -15422,10 +19528,14 @@ John Milton
 Hugo Pierson
 Alexander Levine
 Elizabeth Liddle
-Christel Rayneau
+Lucio Gallo
+Johann Baptist Mayrhofer
+Hymbert (de) Salinis
+Inacio Manu
 Vasif Adigezalov
   Catherine Vincent
 Henri Blaze de Bury
+Stefano Cassetti
 C. Magiolglio
 Aylton Escobar
 Henry Natif
@@ -15440,11 +19550,10 @@ Stribor Kusturica
 Edouard-Antoine Thuillier
 Thomas Roussel
 Lev Samuilovič Bakst
-Klara Ek
 Riccardo Giovannini
 Eugène Stoerkel
-Bob Mintzer
 Antanas Rekasius
+Isabelle Senges
 Madame la Comtesse de L'Aigle
 Ion Borgovan
 Mickey Katz
@@ -15454,29 +19563,41 @@ Jakob Haibel
 Buono Giuseppe Chiodi
 Miguel Nieto
 Thomas Vincent
+Birgit Remmert
+Fernand Gregh
 Gilles Gourdon
 Christophe Picot
 Josef Plavec
 Joseph A. Cirina
 George Bingham
-Johannes Praetorius
+Adam Plachetka
 Domenico Dragonetti
+Johannes Praetorius
 Stanislas Beldone
+Martin Münch
 Jean-François Mattauer
 Víctor Balaguer
 Gui d'Arezzo
+Andrei Valentiy
+hermann sarah
 Ernst von Wolzogen
 Carlos Micháns
 Michele Pesenti
+Franz von Schober
 Arthur Arnould
+Nicoletta
 James Cross
 Alan Dial
-Anton Garcia Abril
-Noël Chaineau
+Blas Tardio de Guzman
 Graham Peel
+Noël Chaineau
+Alfredo Da Rocha Viana
+Pierrick Charles
 Victor Klemperer
 Davide Delle Cese
+Ingolf Turban
 Magret Wolf
+Léon Israël
  IN MEMORIAM Montserrat Figueras
 Salvador Mas
 Charles Toubin
@@ -15487,25 +19608,25 @@ Marios Varvoglis
 Modeste Moussorgski / Maurice Ravel
 Piotr Perkowski
 Robert Anderson
+Ibn Arabi
 Monjédar
 Guelfo Civinini
 Franck Campo
-Catherine Verhelst
 Charles Philippe Lafont
 Carvalhinho
 W. Newcomb
 Márton Illés 
 James Robinson Planché
-Vladimir Sommer
 Bernard Pautrat
 Chung-Gil Kim
 Deflesselle
+François Regnault
 Roger Dufas
 A. Bertonnier
-Jules Lemaître
+Henri Contet
 Mario Nascimbene
+Vincent Lièvre-Picard
 Heinrich Schalit
-Edgar Lee Masters
 William Shore
 Jóhann Sigurjónsson
 Luigi Orlandi
@@ -15515,8 +19636,12 @@ Germain Fauquet
 Antonio da Cividale
 Thomas Dunhill
 Ekrem Zeki Ün
+Amaury Filliard
 Richard Dupuy
+Stéphane Suchanek
+Carolyn Leigh
 Martin Stig Andersen
+Bruno Riou-Maillard
 Pril Smiley
 Jan Bus
 Hezkiah Moors
@@ -15524,14 +19649,14 @@ John Chalmers MacGregor
 Peter Wiltschinsky
 Sebastian Lee
 Noë Faignient
+Fani Kossona
 Cameron McVey
 Nicolaos Mantzaros
-Fani Kossona
-Vache Sharafyan
 Adolphe Debrière
 Geza Fenzl
 William Pursell
 Richard Hayman
+Toby Girling
 Markus Lehmann
 David Marouani
 Tomás de Santa María
@@ -15540,13 +19665,16 @@ Zhongrong Luo
 Michael Barolsky
 Anacréon
 Joachim Du Bellay
+Piotr Migunov
 John Browne
 František Adam Míča
 Jacobus Haffner
 Dante Agostini
 Mercedes Cortes Alfaro
+Robin Renucci
 Carmine Appice
 Thomas Mudd
+Lyodoh Kaneko
  Kraftwerk
 Mario Panas
 Alphonse Clarke de Feltre
@@ -15554,63 +19682,68 @@ Emma Carlotta
 François Pantillon
 Rob Deemer
 Al'Berth
-Tamás Bubnó
+Vladimir Dubois
+Jean Claude Henriot
 Santiago Navascués
-Jean-Pierre Claris de Florian
+Sabina Cvilak
 Omer Létourneau
 David Bevan
 Laurent Soulié
-Theresa Holzhauser
+Guy-Étienne Giot
+Harry Archer
 Estacio Lacerna
 Ane Mette Ruge
+Frantisek Ladislav Celakovsky
 Lionel Florence
 Léontine Cordier
 Charles Mayer
+Julie-Marie Parmentier
 René Goepp
 Felix vom Rath
 Louis Dumas
-Rudolf Barchai
 Albert Aublet
-Karl Leopold Röllig
+Jean Anne Marie
 Peter Lichtenthal
-Désirée Rancatore
+Ilya Bannik
 Paolo Apria
 Walter R. Collins
 Christian August Jacobi
 Jozef Elsner
 Jacques Ferchit
 Angelo Zanardini
+Francisco Almanza
 Patrice Bart
 Mircea Chiriac
+Bennie Benjamin
+Charlie Chaplin
+Serge Munuera
 John Lennon / Paul McCartney
 Semen Alekseevič Barmotin
-Jules Lacroix
 Olivier Derudet
-Edouard Glissant
  Chevalier de Piis
 Robert Lowell
 Georges Gabory
+Attilio Ariosti
 David Aubin
 Johannes Cuvelier
+Harry (Junior) Connick
 J. F. Castan
 Alexandre Cherubini
 Alessio Prati
-Auguste Maquet
-M. A. Carreño
+David Sanchez Serra
 Daniel Ramirez
+M. A. Carreño
+Nicolas Grenon
 N. Sturgeon
 Sylvain Pierrel
-Ary Barroso
 André Illiashenko
-Johann Ludwig Ferdinand von Deinhardstein
 Jesús Ramirez Fernández
 Paul Jeanjean
 Julius Hopp
 Henri Miro
-Giovanni Pacoloni
-Thibault Vieux
-Georges Bernanos
+Ana Kalandadze
 Moriz Rosenthal
+Dmitry Voropaev
 E. Colombatti
 Mathieu Lussier
 Georg Pasterwiz
@@ -15620,18 +19753,22 @@ Manuel Plá
 Clair Omar Musser
 Fernand Amandio
 Albert Viau
+Costica Olan
+Thomas Jesatko
+Ivan Novinc
 David Stock
 Manasa Sancharare
-Fabio Sartori
+Eric Stoklossa
 Gérard Quillier
 Lauro Rossi
+César San Martin
 Nikolaï Karlovich Medtner
-Dominicus Sibenburger
 Philippe Truchis de Varennes
+Dominicus Sibenburger
 Luis Olona
+Richard Ayling
 Madeleine de B.
-Luigi Legnani
-Vladimir Stoyanov
+Michaël Buble
 Ruben van Leer
 Francis Chapelet
 Henry Schradieck
@@ -15655,26 +19792,30 @@ Gasparo Zanetti
 Jheronimus Vinders
 Verment Mariton
  Charles-Louis Pothier/Henri Bérény
-José Castel
+Alexander Sprague
+David Ortega
+Antoine Forqueray
 Louis de Launay
 Nicola Fiorenza
 Franchois Lebertoul
 Bertrand Chabbat
+Stephan Forck
 Joseph Ximeno
-Pierre Morin
 Hervé Roy
 Zoltán Kovács
-Jackie Mittoo
 Paul Méric
+Jackie Mittoo
 Mike Belitsky
 Mickey Nicolas
 Aleksandr Egorovič Varlamov
+Fernandez Yetzabel Arias
 Georg Christian Schemelli
 Sun-Young Pahg
 Polibio Fumagalli
+Ernst Josephson
 Émile Duchêne
 Louis Hetsch
-Copi
+Ariana Vadafari
  Coeur rencontre Doulce Merci
 Jeroen D'Hoe
 Sharon Willis
@@ -15685,30 +19826,36 @@ Henri Stierlin-Vallon
 Vincenzo Cesare Ferretti
 Marie van Rhijn
 Harikesanallur Muthiah Bhagavathar
+Marc Monnet
 Diane Aubernon
 Alberti Bernillo
 Joan Lluís Moraleda
 Marie-Madeleine Leduc
+Varvara Solovyova
 Erna Woll
 Nick Ashford / Valerie Simpson
 Yves Galin
+Tamara Petir
 Champommier
 Jonathan Zwaenepoel
+Nicolas Racot de Grandval
 Koshiro Matsumoto
 David Samuels
 Géza Frid
 J. W. Crane
-Fernando García
+Tamar Salukvadze
 Alexander Hacke
+Fernando García
 Narcissus Zaenckel
-Amancio Alcorta
 Peter Hayes
+Amancio Alcorta
+Philippe Chayeb
 Joseph Coutanceau
 Jorge Peixinho
 Auguste Andrade
 Valdemar Söderholm
-Kerstin Avemo
 Alexandre Berger
+Wolfgang Koch
 Maria Antonia
 Vincent Laissy
 David Kellner
@@ -15718,35 +19865,36 @@ Thomas Greaves
 Marc Gremillon
 Davide da Bergamo
 Felix Perez Cardozo
-Wendy Dawn Thompson
 Bruno Kiefer
+Raymond Albouy
 Roberto Cantoral
 George Gruntz
-Ruby Hughes
 Miguel Galvez-Taroncher
-Christoph Friedrich Bretzner
 David Barnett
 Philippe de Massa
 Théodore Michaelis
-Vykintas Baltakas
-George Herbert
 Jean-François Untrau
+Jean Luc Guionnet
 José Ferrer
 Germaine Pinault
 Ascendino Nogueira
+Suren Zakarian
 Françoise Labeylie
 Alexander Alexandrovich Koblyakov
 Samuel Ferrand
 (Chine traditionnel) Anonyme
 Udo Zimmermann
 Armand Joseph Overnay
+Sébastian Rivas
 Gang Chen
+John White
 Pauline Willerval & Thomas Felder Arrangement Ross Daly et Loukas Metaxas
 J. A. Abbadie
 Benoît Sarrasin
 Pirro Albergati Capacelli
  Ludwig van Beethoven / Hans Zender
 Pierre Méchanick
+Jeroen Billiet
 Wojciech Długoraj
 Gordon Jenkins
 Cécile Vargaftig
@@ -15755,42 +19903,55 @@ Musique classique algérienne
 Alvin Singleton
 Eugène de Lonlay
 Nata Minor
+Nina Bernsteiner
 R. Chevret
 Conte Unico Wilhelm  van Wassenaer
+Fredrik Fors
 Harold Vicars Moya
+Gabriel Levasseur
 Antonio García Valladolid
 Pascal Charpentier
 Danielle Messia
+Simone Eckert
+Un-ha Nam
 Rainhard Fendrich
+Cornelia Ptassek
 Francisco Alvarado
-Monti
+Vitezslava Kapralova
+Adriana Festeu
 Charles-François Panard
 Sergio Menozzi
-José Luis Barreto
+Attilio Bertolucci
 Stanislas Pierrel
 Crumb George
 Ernie Burnett
+Leo Ornstein
 Alamanne de Layolle
+Gherasim Luca
 Amédée Borsari
 Paolo Perezzani
-Marie-Claire Alain
 Pierre-Jacques Duplat de Monticourt
 Domenico Porretti
+Giovanni Battista Parodi
 Pierre Iso
-Edward Boguslawski
 George Bizet / François Borne
+George Gruntz
 Cadenet
 Joachim Beccau
 Hubert Bourquin
 Domenico Belli
+Sorin Dumitrascu
 Lewis Nash
 Nicanor de las Heras
+Cathy Milliken
 Tomás Barrera
 Ferdinand Danjaume
 Joseph Henri Mees
+Vincent Genvrin
 Thierry Bienaymé
 Vinicius Cantuária
 Paul Harvey
+Mykola Dmytrovych Leontovych
 Lina Tonia
 Ching Ling Chow
 Marie Bonnet
@@ -15801,7 +19962,6 @@ Louis Hurtaut Dancourt
 Walafrid Strabon
 Frantisek Michalek
 José Fernandez Diaz
-Ugo Guagliardo
 Wendy Mae Chambers
 Francisco Malacara
 Fritz Voegelin
@@ -15809,27 +19969,31 @@ Fritz Voegelin
 Phil Carluzzo
 Jean Nohain
 Johan Joachim Agrell
+Ruben Kastelic
 Olaf Zalcman
 Tordesillas
 Éric-Paul Stekel
 Klaus Mössmer
 Fabienne Pralon
+Allie Wrubel
+Estelle Corre
+Lenka Smidova
 Émile Carrara
 Joseph Rummel
+Michel Rivgauche
 Joaquin Riaño
-Antoine Ouellette
 Vinzenz Fux
-Kevin Hays
 Didier Matry
-Jacques Brunet
+Roch Adrien
 Guillem Augier
+Rosemonde Gerard
 Bob Haggart
 Rolf Hempel
+leroux mattheu
 Jofre de Foixà
 Jon Kelly
 John Bennett
 Ann Ronell
-Roland Auzet
 Zakaria Haddami 
 Boris Dodonov
 Alfrēds Kalniņš
@@ -15845,28 +20009,33 @@ Isabelle Van Brabant
 Torquato Bonazzi
 Stéphane Rault
 Marc Tremblay
+Falvo Rodolfo
 Aydin Karlibel
 Sakichi Kineya
 Marco Betta
 Giacomo Conti
+Jean-Francois Eckert
+Etienne Gara
 Paul Caboche
 John Clifton
 Kikuko Kanai
 Johann Ernst Hartmann
 Julius Röntgen
 Jeanne-Hyppolyte Devismes
-Felicity Lott
 Richard de Sémilly
-Bettina Skrzypczak
 Juan Diego Flórez
   Without Much Thought
+Valter Borin
 Agostino Accorimboni
 Franz Blei
 Henri Chataignier
+Ede Remenyi
+Dumas Fils
 Serge Gut
 Airardus Viciliacensis
-Pál Járdányi
 Léon Chancerel
+Pál Járdányi
+Manon Louis
 Albert Defert
 Allyn Ferguson
 Ibrahima Diaw
@@ -15874,11 +20043,11 @@ Jean-Baptiste Dehesse
 David Schiff
 Laurent Emin
 Shan-De Ding
-Joël Versavaud
 E. Corret
 Vincent Lübeck
 John Glenesk Mortimer
 C. Bertrand
+Christian Friedrich Gotlieb Schwencke
 Maria Cosway
 Antonio Caldara
 Joseph Dessaix
@@ -15886,36 +20055,42 @@ Adam de la Halle
 Gaston Becquié de Peyreville
 Léopold Amat
 Jean-Maurice Mourat
-Paulo Aragao
+Ippolito Pindemonte
 John Surman
 August Verbesselt
 Adam Rener
 Tryss
 Roy Powell
 Thibault Maillé
+Giovanni Ambrogio Migliavacca
 Ede Remény
 Henri Brault
+Matt Harris
  Sacha Guitry/André Messager
+Iskrena Yordanova
+Pietro Giuseppe Gaetano Boni
 Giovanni Camillo Maffei
-Moïse Hayyim Luzzatto
+Liliana Nikiteanu
 Ippolit Vasilʹevič Špažinskij
+Moïse Hayyim Luzzatto
 Robert B. Sherman
 Bülent Arel
+Herder Wilhelm
 Louis Dandrel
 Omar Sépulveda
 Vincent Ségal
-Tommy Zwedberg
 Juan de Carabantes
 Stefan Wirth
 Steve Hackett
+Andreas Hörl
 Frankie Storm
-Martin Rappeneau
 Leonello Casucci
 Giyu
 Jeffrey Harrington
 L. Berhard
 José Ramón Hernandez Bellilo
 Warszawskie towarzystwo muzyczne imienia Stanisława Moniuszki
+Mikhail Tatarnikov
 Stuart Murray Turnbull
 L. M. Courçonnais
 Vojtéch Saudek
@@ -15923,58 +20098,70 @@ Pablo Nassare
 James Hanley
 Jean-Paul Cara
 Louis Dumas
+Donato Campofieno
 Giovanni Maria Capelli
 Nino Cattozzo
-A. Curcio
 Oeuvre traditionnelle guinéenne
-Gregory Corso
+A. Curcio
+Roger Reymond
 Luigi Balbi
 Ruggier Trofeo
-Roger Reymond
 Léon Danel
 James Goldman
-Jon Fosse
+Luigi Balocchi
 Catriona McKay
 Cristóbal Téllez
 Patrick Rutgé
 Pedro Sanjuán
+Sae-ahm Kim
+Sreten Krstic
 José Soler Casabón
+Giovanni Porta
 H. Cellarier
+Paolo Arrivabeni
 Antoni Stolpe
-Pierre Farago
 Fabio Della Corgna
 François-Hippolyte Barthélemon
 Louis Charbonneau
+Clarice Assad
+Simon Orfila
 Paolo Achilleo
 Guy Coutanson
 Jerry Ragovoy
 B. Devaux
 José Asuncion Flores
 Domenico Bartolucci
+Wulfstan Wintoniensis
+Saïd Mrad
 Constant Badouaille
 Riccardo Del Turco
 Alexander Mossolov
 William Turner
 Scott McAllister
- Gershwin
+Stefano Montanari
 Guillermo Portillo
+ Gershwin
 Paul Aube
 Joseph Hansen
+Manuel Warwitz
+Philippe Brandeis
 Alfred Capus
+Paul Bley
 Alain Sève
 Gordon Getty
 Joachim Horsley
 Saez
+Alexandra Kadurina
 Abd Al-Qadir Al-Maraghi
 Anthony Sylvestre
 Christache Ciolac
 Václav Kalous
 Jean Pascal Alagna
 Charles Harford Lloyd
-Cécile Sauvage
 Georg Katzer
 Mario Capuana
  Musique traditionnelle
+Gerómino Gimenez
 Friedrich Ludwig Zacharias Werner
 Roger Glover
 Albert Loeschhorn
@@ -15983,26 +20170,31 @@ Willy Soenen
 Giuseppe Carpani
 César Espejo
 Guy Waku
-Bertrand Peigné
+Jean Philippe Marliere
 Tatjana Kozlova
 Georges Corroyez
+Ridolfo Arlotti
+Lucy Schaufer
 Eugène Kavos
 Velimir Hlebnikov
-Mischa Elman
+Myriam Guillaud
 John Fawkyner
 Francesco Antonio Baldassare Uttini
+Roeland Henkens
+Mark Withers
 Michel Reverdy
 Olivieri & Poterat
 Pierre Lachambeaudie
-Anne-Marguerite Werster
-Enrique Crespo
 Ruggiero Fedeli
 Stromae
+Hermann Lingg
 Marcel Lanquetuit
 Irène Audain
 C. Champagne
 William Linley
 Junka
+Kelly God
+Giovanni Cantarini
 Frederic Cliffe
 Giuseppe Bergamini
  Abba
@@ -16010,37 +20202,43 @@ Alberto E. Ginastera
 François Philidor
 Miguel Ramos Carrión
 Petronio Franceschini
-Blas de Otero
 Penelope Houston
 Poldowski
 Werner Fabricius
-Albert Le Guillard
+Alexandre Blok
 Thomas Hewitt Jones
 Jean Garcia-Bilbao
-Denys Bouliane
 Alfonso El Sabio
 François David
 Ignacio Marin
 Frederic Curzon
+François Rivaland
 Orazio Bassani
 A. Adini
+Vadym Kholodenko
 Michael Denhoff
 Jacques Offenbach / Manuel Rosenthal
 Lino Liviabella
 Mario Panzeri
 Vincenzo Suardi
+Matthew Jocelyn
+Marilyn Bergman
 Ernesto Becucci
 Evgeny Svetlanov
 Antonio Torriani
 Alphonse Dubreuil
 Francisco Núñez Montes
+Nicolas, de Radem
 Wenzel Thomas Matiegka
 Yujiro Fukushima
 Olivier Benoit
 Julia Bonnefoy
+Francesco Buti
 B. Michel
 Emile Christian
 François Cancelier
+Maryse Castets
+Edward Mac Dowell
 Jonas Forsell
 Johann Christoph Schultze
 Paul Crabtree
@@ -16049,34 +20247,34 @@ Nicolas Ternisien
 Taki Rentarô
 Èdison Vasil´evi˜ Denisov
 Paquito d' Rivera
-Michelangelo Boccardi
-Chris Hazell
+Abing
 Cesare Della Valle
-Cornelia Horak
 Michel Aymé
 David Thomson
 Michel Veuthey
+Oscar Brown Jr
 Fabrice Ragris
 Michael Richey
 Ksenia Prasolova
-Thomas Daniel Schlee
 Josef Stolba
 Massimo Priori
+Simone Sorini
 Günter Kahowez
-Mehenna Mahfoufi
+Paul Schott
 Émile Challet
 Boris Sergeevic Seremet'ev
 M.-A. Bisetzka
 Badajóz el músico
 Bruno Brighetti
 Édouard Bagdassarian
-Jacques Bastello
-Michele Fini
 Jean Gallon
+Michele Fini
 Edson Zampronha
+Hagen Matzeit
 Bill Hardman
 Wagner Amorosino
 Myriam Tanant
+Emily Dickinson
 Arnold Walter
 A. Colesse
 Mali Music
@@ -16086,33 +20284,36 @@ Georges Bizet / Nicolas Baldeyrou
 Chris Bell
 Antonio Calderon
 David Schiff
-Chiara Pieretti
 António Pinheiro
 Salvator Leonardi
+Marc de Papillon de Lasphrise
 Robert Mavounzy
+Gauterius de Chateaurenard
 Gaspare Scuderi
-Miguel Cortes
 Andrés Valero Castells
+Miguel Cortes
+Robert Catania
 Edward Pearce
 Jean Baptiste Édouard Dupuy
-Giuseppe Ungaretti
+Bob Russell
 Erika Burkart
 M. Delara-Bright
+Julie Fioretti
 Filippo Manfredi
 Roland Bouveresse
 Loris O. Chobanian
 Heinrich Freidrich Enckhausen
+Jeremy White
 David Alfaro
 Thomas Oboe Lee
-Mike Stoller
 Destouches
 Christopher Robinson
-Pietro Antonio Giramo
+Emile Debraux
+Saimir Pirgu
 Antonio Ferradini
 Roelkin
 Djuro Zivkovic
 Sergeï Prokofiev
-Thierry Pastor
 P. Barraud
 René Michaux
 John Hughes
@@ -16121,28 +20322,38 @@ Charlotte Seither
 Maxence Grimbert-Barré
 Désiré Pâque
 Heinrich Finck
+Gaëtan Juge
 Joseph Renner
-David Watkins
+Carter Betty
 Juan Hernandez Acosta
+David Watkins
 Pietro Generali
 ***
+Alice Coote
+Daniela Barcellona
 Abel Berge
 Ján Cikker
 Adolf Schreiner
-Jean-Christophe Béney
+Michel Gacic
+Antonio Paso
 Ch. Brumpt
+Bernard Bouillon
 Jordi Cervelló
 Gotthelf Heinrich Kummer
 Saverio Mattei
+Bruno Comparetti
 Marie Chefdeville
 Herman Strategier
 Daniel Bollius
+Florent Brannens
 Lyndol Mitchell
 Gianni Ferrio
 Dimitris Fampas
 Richard Egües
 John Weaver
+Alexandra Sherman
 Karel Antonín Loos
+Benedictus Appenzeller
 Ramón de Campoamor
 Wijnand Van Klaveren
 Werner Pirchner
@@ -16150,14 +20361,13 @@ Christophe Bevilacqua
 Vincenzo Cassani
 Giacomo Celano
 Willy Schneider
+Susanne Kreusch
 A. Cheillan
+Richard Loqueville
 Dick Dale 
 Johann Joachim _ Agrell
-Laurent Touche
-Stefano Secco
 Alain Bernard
 Paule Caillaud
-Pierre Dumage
 Traditionnel Arrangement Fowlis/Doorley/Jerry's Pipe Jig
 Ignaz Walter
 José Bruyr
@@ -16167,29 +20377,34 @@ Daniel Bélanger
  John Lennon / Paul McCartney 
 Gioseppe della Porta
 Albert Colotte
-Patricio Villarroel
+Eduardo Valdes
+Juliette Mars
 Ronaldo Miranda
 Pierre Chardon
  Anonyme (improvisations)
 Piers Faccini / Francesca Beard
+Vladimir Aleksandrovič Sollogub
 Galfridus de Anglia
 Raminta Šerkšnyté
-Vladimir Aleksandrovič Sollogub
+Peter Böhm
 Jules Turin
 Micheline Vray
+Maurizio Benini
 Antoine Montanaro
 Comte P. de C.
 Michel Folz
 Gontrásek
 Michel Delabarre 
+Claire Talibart
 Marie Arnal
 Melle D. Amadou
 Alexandre Nemtine
 Patrick Michel
-Zdeněk Pololáník
 Joaquim Campos
+Zdeněk Pololáník
 Alice Goodman
 Albert Stadler
+Anaël Chevallier
 Harold Berg
 Peter Ewers
 Yvonne Clérico
@@ -16204,24 +20419,31 @@ Anatoli Biloschizki
 Théodore Mathieu
 Serge Moché
 Francesc Cassu
+Antony Holborne
+Sigmund Leopold Weiss
 Alfred Arbanère
 Jan Sixt z Lerchenfelsu
-Sigmund Leopold Weiss
 Pauline Cortey
 Catulle
 Jean de Serré de Rieux
 Jean Valmy-Baysse
+George Enescu
+Caroline Ungher-Sabatier
 Isaias Savio
 Nicola Arabiano
 Marton Illès
 Armand Tóth
+Boris Brovtsyn
 Louis Constantin
 Andrés Laprida
 Amédée Burion
-Sarah Breton
+Hans Buchner
+Varduhi Abrahamyan
 Simon Bertrand
-Edmond About
+William Child
+dufour celia
 Johann Knöfel
+Paul Dan Dumitrescu
 Jordi Cervelló
 David Raksin
 Adolphe Coutaud
@@ -16229,26 +20451,30 @@ Yoshiji Tanimura
 Octave de Périgny
 Massimo Simonini
 Eric-Maria Couturier / Nicolas Crosse
-Paul Henrion
+Alexey Lebedev
 Eckart Beinke
+Cheikh Imam
+Georgi Minasyan
 Uwe Scholz
 Armicol
 Wim Laman
+Aleksandrovich Mey
 Yann Proefrock
 Galandarian
 Antonio Carillo
 Rosa Maria Rodriguez Hernandez
 Joachim J. K. Kunze
+Nicole Piccolomini
 Miquel Roger
 Guilhem de Figuiera
 Douglas Guest
 Jeanne Thieffry
-Hélène Hébrard
-Ernst Fischer
 Mme Paul Charvin
 Ian Doray
 Frank Becker
 Luis de Mendoza y Lagos
+Carlos Mena
+Albert Jounet
 Maccordum Arrangement Fowlis/Doorley
 Dugué
 Luc Donat
@@ -16257,47 +20483,54 @@ Vincenzo Fontana
 Hans Nielsen
 Andrei Schulz-Evler
 Bernard Deberdt
+Beyoncé Giselle Knowles
 Johann Christoph Altnikol
-Norma Basso
 Lionel Rivière
 Louis Heudelinne
 Bardi Johannsson
 H. A. Platzbecker
+Kate Aldrich
 Andrea Di Gennaro
 Alexandre-Frédéric-Jacques Masson Pezay
 Couillart
 T. Model Ford
 Fernand Courtois
 Charles Sedley
+Dominique Probst
 Lucien Daudet
 R. V. Courouneau
 Janetis
-Léon Beissier
+Zena Baker
 Eric Tabuchi
+Léon Beissier
 Gaetana Beretta
-Harry Partch
 Pascal Harrand
+Jules Combe
 Sándor Jemnitz
 William James Kirkpatrick
 Feofil Matveevič Tolstoj
 Oumar Diakité
-Emmanuel Bex
+Léo Maresse
 Thierry Beaucoup
 Otmar Mácha
 Giovanni Antonio Cangiasi
+Jaanika Kuusik
+Yannick Berne
 Gohei Namiki
+Anna Krainikova
 Johann Baptist Peyer
 Filippo Coppola
 Héloïse Berthélémy
 Martin Moulin
 Antonio Piacentino
 Jean-Baptiste Senaillé
-René de Obaldia
 Jean Servin
 Henry Bauchon
 Charles Robbins
 Maria de Quijano
+Joseph Flummerfelt
 Maurice Ravel Modeste Moussorgski /
+Soler Francesco
 Antonio Ugena
 Johannes de Janua
 Chiara Savoia
@@ -16305,22 +20538,27 @@ Germano Pallavicino
 Francesco Molino
 Rémy Galichet
 Franz Wilhelm Ferling
+Thiago Arancam
 Boke
+Marie-Pierre Vendôme
 Hilda de Murcia de Todelano
 Comtesse F. B. Du Chaffault
   Van Halen
 Salvatore Sica
-Gabriel Sivak
+Chris Merritt
 James M. Black
-Émile Augier
 Charles Sanford Skilton
 Georges Neveux
 A. Bougourd-Lambert
 Thomas Thollé
+François Payet-Labonne
 Carl Eberwein
 Louis Grabu
 Fernand Marlu
 Donald Kahn
+Moëne Alain
+Franz Alexandre Pössinger
+Victor Ullmann
 Martino Pesenti
 Stéphane Candat
 Walter Araujo
@@ -16328,28 +20566,31 @@ Isao Matsushita
 Tumi
 Prospero Mandosio
 Geeshie Wiley
+Simon Adda-Reyss
 Winfried Michel
+Perrin Audrey
 Jakob Hassler
 Ugis Praulins
 Charles Gabet
 Akira Yuyama
 Antonio Membrado
-Jan Novák
+Done Rose
+Enea Sorini
 Fred Popovici
 Hugo Renard
-Aurélien Richard
+Eva Saladin
 Vera Milanković
 Louis Bontemps
 Adolphe Sellenick
 Amy Tan
 Lawrence Adler
 Johann Elias Schlegel
-Nora Tabbush
 Petra Magoni
 Consuelo Velasquez
 Valerian Mihajlovič Bogdanov-Berezovskij
 Olivier Gavignaud
 Andrew Parcham
+Willes Edward
 Marguerite Borie
 Alexandre Lenoir
 Jules Bompeix
@@ -16358,44 +20599,45 @@ Göran Sonnevi
 E. A. Mario
 Wolfgang Stockmeier
 Sergio Chiereghin
-Guan Xia
 G. Daelli
-Harry Williams
+Guan Xia
 Andrés Barca
 Jacques Laurent
 Rev. Dan  Smith
 Miss Monkey
-Carlo Ricciotti
+Ria Ideta
 Signor Costa
 Nadine Esteve
 Marie-Emmanuelle Bayon Louis
 Luis Antonio Escobar
+Mikhail Jurowski
 Jules Cury
 Vincent Handrey
 Roberto Fabbriciani
 Boris Romanov
 Antonio Porpora Anastasio
+Franck Ollu
 Rafaël D'Haene
 Vicomtesse de Bulter
 Richard de Barbezieux
 Carl Warmuth
-Éric Reinhardt
 Dugal McKinnon
-Roger Pouly
+Rebecca de Pont Davies
+Joseph Bodin de Boismortier
 Jean Dubé
 Leopold von Auenbrugger
 Eugène Biaggini
 Walther Wolfgang von Goethe
+Gigi Gryce
 Denis Janody
-Tielman Susato
 Charles Lecorbeiller
 Jules Truffier
 Frédéric Lecoultre
-Mia Schmidt
 Claudio Guastalla
+Mia Schmidt
 Jens Joneleit
-Castellini
  Anonyme (Traditionnel grec- VIIe siècle)
+Castellini
 Maurice Blackburn
 Mats Larsson Gothe
 Jan Le Febure
@@ -16404,28 +20646,33 @@ P. Belleville
 Jan Albert van Eyken
 Sergeï Rachmaninov
 Pavel Grigorʹevič Antokolʹskij
-Conrad Ferdinand Meyer
+Edouard Bouscatel
+Marco Uccellini
 John Stevens
 Norbert Krief
 Pietro-Battista Farinelli da Falconara
+James Saunders
 Michel Amsellem
+John Bunyan
 Maximilien Léopold Philippe Joseph Gardel
 Gonzalo Roig
+Domenico Gisberti
 Marcel Quinet
+Gabriel Bataille
 Guillaume Louis Bocquillon Wilhem
 Luigi Gaggero
 Xu  Yi
+Olivier Hernandez
 Helen Bowater
 Johann Anton Losy
-François-Marie Mayeur de Saint-Paul
 Ballake Sissoko
+François-Marie Mayeur de Saint-Paul
 Trevor Ling
 Patrice Guirao
 G. Mercier-Pottier
 Freixanet
-László Hudacsek
 Charles Keller
-Vinícius de Moraes
+Giovan Battista Strozzi
 Rolf Gehlhaar
 Godefroy de Saint-Victor
 Luigi Maurizio Tedeschi
@@ -16434,45 +20681,47 @@ contrafactum danse anonyme
 Jack Wyllie Nick Mulvey
 Michel'Angelo Grancini
 Isidor Seiss
-Yann Geslin
 Maria Teresa Agnesi
-Pancrace Royer
+Yann Geslin
 Kazuoki Fujii
+Michaël George
 Wilhelm Zobl
+Claudine Legras
 Gustav Merkel
 Jacques-Maximilien Benjamin Bins de Saint-Victor
 Charles Dodge
+Giovanni Pierluigi da Palestrina
 Ralphe Armstrong
 William Kroll
  Codex de Las Huelgas, 67, f. 60
 Juan de Esquivel Barahona
+Stephan Picard
 Gerardo Tamez
-Bud Green
 Giovanni Mossi
 Serge Folie
 Henri-Charles Kaiser
-Roland Topor
 Fonteyns
-Giani Esposito
 Isabella Colbran
 Jean Fessard
 Mario Lanaro
+Reinhardt Volker
 Giorgio Antoniotto
 Blaise Capriglioni
-Édouard Wolff
-Adolphe-Leopold Danhauser
 David Jon Gilmour
+Adolphe-Leopold Danhauser
+Édouard Wolff
 Luigi Ferdinando Tagliavini
 Alexander Dreyschock
 Jean-Baptiste Louis Thomelin
 Yoni Rechter
 Erich Maria Remarque
+Robert Sour
 Nicolas Couturier
-Bernhard Alt
+Katerina Sakka
 Henry Lemoine
+Bernhard Alt
 Monsieur de La Pierre
 Marcus Belgrave
-Arturo Toscanini
 Vincenzo Orgitano
 Albert Evrard
 Didier Panier
@@ -16480,13 +20729,15 @@ Martine Clémenceau
 Adama Wronskiego
 Alphonse Marré
 Eduardo Dorango
-Ioan Scarlatescu
 Régis Huby
+Ioan Scarlatescu
 Gérardin-Lacour
+Piera Formenti
 Elsa Bernstein
 José Ramón Gargallo
-Benoît Cambreling
+Gioseffe Guami
 Jean-Luc Defontaine
+Benoît Cambreling
 Mihály Vörösmarty
 Rainer Boesch
 contrafactum Lambert Ferri
@@ -16494,8 +20745,8 @@ Mats E. Berg
 Jean Arditi
 Aurelio Porfiri
 Ottokar Franz Ebersberg
-Comenius
 Jacques De Decker
+Comenius
 Xavier Charles
 Manuel Saumell Robredo
 Serge Gandolfi
@@ -16504,10 +20755,9 @@ Heinrich Wilhelm Stolze
 Joseph Bouchel
 Mennesson
 Lionel Poulin
-Ervin T. Rouse
 Auguste Brun
+Ervin T. Rouse
 William H. Foote
-Joel Rust
 Henry Chenet
 Joseph-Arthur Bernier
 Joao De Freitas
@@ -16524,19 +20774,20 @@ Mihail Nikolaevič Sojmonov
 Joseph-François Arnaud
 Alexander Moisejewitsch Weprick
 Georges Guiraud
-Gacian Reyneau
 François Schwab
+Gacian Reyneau
 Cornelis Thymanszoon Padbrué
 Giulio Romano Caccini
 David S. Lefkowitz
-Arnold Wesker
 Jules Bloch
-Enrique Pinilla
+Othmar Schoeck
 Louis Dietsch
+Enrique Pinilla
 Bonga
 Alfred Newman
 Charles Orieux
 Johann Weinmann
+Kroner Rose
 Félix Burns
 William Orbit
 Henry Flynt
@@ -16550,7 +20801,10 @@ Hans Vogt
 Josep Fàbrega
 Isadore Freed
 Josef Antonín Plánicky
+Claude Galien
 Ricky Ross
+Dong-soo Shin
+Marianne von Willemer
 Marie-Louise Bischofberger
 Gustavo Bettelman
 Robert Rowe
@@ -16560,26 +20814,34 @@ Jesus Salvador Chapi
 Lionel Bart
 Leighton Lucas
  Georgius/Tremolo
+Renato Balsadonna
+Meier Robin
 Gerhard Rosenfeld
 Egbert Van Alstyne
-Guillaume Vincent
+Riccardo Novaro
 Zygmunt Mycielski
 Joseph Lederer
 Gustaf Fröding
 Kurt Hessenberg
+Muriel Ferraro
+Zheeyoung Moon
 François Simon
-Marek Kopelent
+Arnaud Chapatte
 Krisztina Megyeri
 Enzo Cormann
+Omar Khayyam
 Lorenzo Pilat
 Léon Pillaut
 Cokorda Alit Artawan
 Matthew Bourne
-Miscel Chiesa
 Georges Baumgarten
+Miscel Chiesa
+Sakura Makoto
 Ernest
 Carles Guinovart
 Torben Snekkestad
+Angie Mullins
+Kimy McLaren
 Anthonis Vermeeren
 Jean-Baptiste Cappus
 Marcus Llerena
@@ -16590,13 +20852,15 @@ Arthur Davids
 Antonio Valente /Son Jarocho
 Ernst Ludwig Gerber
 Stephen Jaffe
-Paul Groves
 Francisco Berges
 Théophile Bayle
 Bernd Wefelmeyer
+Roger de Beauvoir
 Jehan Du Cray
 Vicente Barreta
+Francisco Antonio de Almeida
 Edwin York Bowen
+Tanguy Le cornot
 Blanche Cornu
 Johan Franco
 Assane Attyé
@@ -16607,133 +20871,147 @@ Charles-Nicolas Baudiot
 Thomas Stearns Eliot
 P. Suardon
 Jane O'Leary
-Clara Iannotta
 Andrés Laprida
 Bernard de Cluny 
 A. Cerclier
-Frans Geysen
-Thibaud Couturier
 Nya
+Frans Geysen
 Hector Melo Gorigoytía
 Mateu Flecha  / Traditional Jarocho
+Rafael Rabello
 Raymond Carcassonne
-Eugène Berthemet
 Jens Voigt-Lund
+Eugène Berthemet
 Pierre-Henri Paillette
 Monica Fadul Quintero
 Pietro Chiarini
+Patrick Charbonnier
 Jerónimo Luca
 Hubert Degex
 Andrea Gabrieli
  Ishan Meetal
-Alphonse Allais
 Sieur de Machy
 Richard Wayne Dirksen
 Francisco Civil
 Marc-Antoine Dampierre
 Antonio de Salazar
-Lucile de Chateaubriand
 Jean-Baptiste Quentin
 Georg Gebel
 Eduard Lassen
+Olivia Branger
+Riccardo Massi
 China Forbes
 Olivier Baron
+Martial de Brives
 Karl Ninerailles
+Bartholomeus Brollo
 F. Arscott
 Charles Martin
 John Fox
+Bernard Kontarsky
 Carretero
 Vania Dantas Leite
 Yuri Kasparov
 Nicola Tescari /  Tarquino Merula
 Friedrich Hegar
-Dale Hawkins
 Young-Min Ryu
+Ugo Rabec
 Paul Beerens
 Félix Luna
+Simona Caressa
 Valentino Molino
-Éric Nonn
+Christophe Sagnier
 Alfonso Altavilla
 Henri Bryon
 Georges Fragerolle
 M.T. Avantès
-Nicolas-Étienne Framery
 François-Hippolyte Leroy
 Simon Joly
 Alvin Cambrian
+Paul de Schlözer
 Jean Boyer / Georges Van Parys
 Gennadij Grigor'evič Belov
 Goran Ivanovic
 Bernhard Flies
 Jimmy Fallon
+Daniel Champolini
 François-André-Danican Philidor
 William Lemit
 Jean-Pascal Chaigne
 E. Damery
- Codex de Las Huelgas, 161, f. 167v & 157
 Douglas Lowry
+ Codex de Las Huelgas, 161, f. 167v & 157
 Rutland Boughton
 Eleanore Cory
+Diogenio Bigaglia
 Bartholomew Brown
 Matthieu Gouet
 Natko Devčić
 Ewart Dewgarde
 Harold Vasquez Castaneda
+Miriam Zubieta
 Antonio Eros Negri
 F. Bélédin
+Alexander Yudenkov
 Hikaru Hayashi
 Maurizio Agostini
 Edouard Garrido
+Hélène Nicolai
 Aphrodise
 Michel Godard
 Thomas Chatelet
 Klaas Bolt
 Louis Gémont
+Dimitri Murrath
 Boyvin
 Dror Feiler
+Laurent Fraccia
 J.F. Bouget
 José María Ponce de León
 G. de Brach
 Alexander
 Mateo-Antonio Pérez de Albéniz
-Terry Wey
+Carol Garcia
 José Navarro
-Tania Justina León
 Maria Rosa Coccia
 Owen Hall
 Morten S. Danielsen
 E. Cappelli
+Benjamin Thuau
 Joseph de La Porte
 Paul Hindmarsh
 Salvatore Viganò
+Janos Benyus
 Francesco Guerini
 Irakly Avaliani
+Mario Luperi
 Kurt Weill / Luciano Berio
-Stig Anderson
 German Grigor'evic Okunev
 Giuseppe Arena
 Giovan Tomaso Di Maio
 P. Willerval, JL Le Mouel Arrangement C. Zekri, T. Lippens, S. Didou
+Hélène Blajan
 Auguste Bopp
 Gaëtan Chataigner
 Serge Bonafous
 József Sári
 Herman Løvenskjold
 Richard Rosenberg
+Robert Bolton
 Michelangelo Gasparini
 Xénia Stollár
-Kostas Smoriginas
 Maurice Lecocq
+Monica Bacelli
+Christophe Lebreton
 Claude Worms
 Daniil Maksimovič Ratgauz
+John Palmer
 Oliver Holden
 Gordon Carr
 Hervé Cristiani
 Torsten Sörenson
-Michel Frantz
-Benedict Schultheiss
-Melih Cevdet Anday
 Anne-Catherine Vinay
+Benedict Schultheiss
 Trond H. F. Kverno
 Caspar Kittel
 Josef Kupelwieser
@@ -16746,22 +21024,30 @@ Jean Colin
 Bartolomeo Cordans
 David Hallyday
 Henri Potier
+Foulon Stephane
 Jaime Texidor
 Nikolai Frederik Severin Grundtvig
 Oscar Vermeire
 Paul Anka
-Jean-Louis Bory
+Fanny Lustaud
+Itxaro Borda
+Nina Simone
 Dario Agazzi
 Bruno Camporelli
+Stefan Frenkel
+Reginald Liebert
 Roberto Zaneli
-Pierre-Ulric Dubuisson
 Anne Lauber
+Pierre-Ulric Dubuisson
+Juan Diego Florez
 Jean-Baptiste Dias
 Jacques Bossard
 Regis Campo
 Roger-Timothée Régnard de Pleinchesne
 John Marchant
 Ralph Erwin
+Robert Rezsnyák
+Stephen Costello
 Edward French
 Wojciech Parchem
 Trevor Duncan
@@ -16769,23 +21055,29 @@ Eero Grundström
 Maurice Besly
 Gary Kulesha
 Modest Altschuler
+Elliot Goldie
 Karl Heinz Füssl
 Ken Darby
 Sébastien Martel
 Jean Lenoir
+Dave Brubeck
 Launy Gröndahl
+Marc Fouquet
 Lillian Green
 Miriama Young
  Gabriello/Jean Eblinger
+Lutz Mandler
 Suzanne Soler
 Emmanuel Brice
+Alexis Apukhtin
+Ileana Ruhemann
+Sergei Leiferkus
 Lucien Decombe
+Bernard Polisset
 Gaston David
 Philippe Gantchoula
-Robert Charlebois
 F. S. I. Hagerer
 Gilardo Gilardi
-Gene DePaul
 Helen Grime
 Cathy  Berberian
 Prince
@@ -16798,14 +21090,15 @@ Pieter Joseph Van den Bosch
 C. Wild Braxton
 Arturo Calvi
 Hélène Blazy
+Emil Cioran
 Fred Cash
 Carl Höhne
 Johannes Lupi
 Karl Hoyer
 Estelle Lefort
+Pedro Serrano
  Traditionnel - musique bulgare
 Léonie Bègue
-Giacomo Sacchèro
 Jean-Baptiste-Gabriel-Marie de Milcent
 Sergej Dmitriev
 Patrick Giraud
@@ -16817,36 +21110,38 @@ Harry Tierney
 Samuel Heinrich Spiker
 Adelheid Wette
 Jacqueline Néro
+Mack Gordon
 Markus Märkl
 Émilien Champetier
 Friedrich Brissler
 Vladimir Levitt
-Alphonse Roy
+Alexandra Grot
 Qayum Abdullâev
+Alphonse Roy
 Manuel Carra
-Francois Bréant
 J. P. Durand
-Benoît Menut
 Tetsunosuke Kushida
 Judd Woldin
+Freiman Alexandre
 Eun-Jin Won
 Françoise Paillas
 Jean Aubain
-Marceline Desbordes Valmore
+Peire Vidal
 José Urrutia Acorda Goicochea
 François Flahault
 Bourbon Gauthier
 Eustaquio Franco Rebollo
 Eduard Devrient
-Jacques Cerf
-Patrick Blanc
+Stephan Loges
 Edwin Greene
 Célestin Bernadou
 Francisco Sanz
 Liu Xing
+Gabriel Colin
 Giovanni Battista Fergusio
 Louis Broquet
 László Király
+José Manuel Recillas
 Nicolae Bretan
 De Planquard
 Geneviève Achard
@@ -16856,12 +21151,16 @@ Léon Biautte
 George Boas
 Maria Teresa Pelegrí
 Gatien Marcailhou
+Benny Golson
+Pierre Hugard
 Patrick Laviron
 Rodolfo Falvo
 Jiři Baier
 Henri Kling
+Dmitry Koleushko
 Sébastien Boin
-Jacques Demy
+Damian Witheley
+James Munro
 Samuel Capen
 Kanako Abe
 Gonzalo Fernandez de Oviedo
@@ -16869,94 +21168,111 @@ Vincent Antony
 Victor Albertini
 Janez Maticic
 Giulio Mussi
+Luigi De Donato
 Vilem Blodek
 René Charrey
 Edmond Bacquès
+Jules Ruelle
 Jyrki Linjama
-Antonio García Gutiérrez
 Éric Goubert
+Maria Kagan
 Pierre Boeswillwald
 Gottfried Wolters
 Charles Owen
+Jozsef Bazsinka
+Jean Vendassi
+Arthur Lourié
  Willemetz, St Granier/Jean Le Seyeux/Mabel Wayne
+Monika Bohinec
 Asanaaly Oshur Uulu
 Henri Contesse
 Alexandër Peçi
-Michael Thomas
 Vasily Zinov'yev
 M. Vasalis
 Andrew Mead
+Gabrielle Philiponet
 Auguste Pilati
+Anton Stepanovitch Arenski
 Jean Lacquemant dit Dubuisson
-Patrice Sciortino
 Eustache de Lorey
 Vladimir Tsybin
 Gabriele Sibella
 Véronique Vernon
+Vavasseur Laure
 Ioannis Kalantzis
+Charles Lecocq
 Heinrich Konietzny
-Alfonso Broqua
+Jean-Claude Acquaviva
 Percy Faith
 Francesco Ballerini
+Giovanni Battista Fontana
 Carl Friberth
 Raphaël Pannier
 Oscar Chagot
 Xavier Désargus
 Paul Bessand
-Rosa Mayreder
 Marc Dufrenne
 Ernö Balogh
-Franco Evangelisti
 Jesper Hendze
 Guillermo Uribe Holguín
 Reg Connelly
+Marco Marazzoli
 Jean-François Laffay
 Ólafur Arnalds
 M. Burmagin
 Zsolt Harsányi
 Pierre François Clodomir
+Hibla Gerzmava
 Edmund Turges
 Dimitru Marinescu
 Hippolyte Escudié
 Tissier
+Maria Guleghina
+Goffredo Petrassi
 Sally Beamish
 Emile Bessière
+Sophocle
 Bernard Rogers
 Pietro Baldassare
 Thierry Esnault
+Cristina Gallardo-Domas
 Georges Aubry
-Janna Blbulyan
 Xavier Medina-Martin
+Janna Blbulyan
+Philippe Catoire
 Gilfredo Cattolica
 Rodolphe Burgues
 Ignacio Figueredo
 Mattias Lysell
+Raimund Nolte
 Antonio Vivaldi  / Astor Piazzolla
 Paul Renard
 Sabine Puhlmann
 Guttorm Kittelsen
-Peter Mattei
+Lionel Monnier
+James Bower
+Emile Moreau
+Hervé Bubreuil
 Georg Neumark
+Michael Lonsdale
 Kate Moore
 Silvia Colasanti
 Ernest Tomlinson
 Jean-Baptiste Legouvé
 Lansine Kouyaté
 Raymond Schroyens
-Lester Young
 Lawrence Rapchak
 Gerhard Kronberg
 Matthaeus Le Maistre
 Guido Turchi
 Eugène Bouchinot
-Joseph Kessel
 Chrétien Uhran
 Alphonse Schmitt
 John Ravenscroft
-Salvatore Lanzetti
+Karen Hutt
 Ernest Dubreuil
 Louis de Gramont
-Eva Dell'Acqua
+Salvatore Lanzetti
 S. Damerick
 Francis Coye
 Robert Desbrosses
@@ -16966,20 +21282,20 @@ Nikolaj Petrovič Rakov
 Harold Samuel
 Denise Mégevand
 Paul Chandon de Briailles
+Francois Andrieu
 M. del Carmen Cordovez
 R. Chirbury
 Jules Cocheris
 Jean-Baptiste Clais
 Thierry Malandain
 Julien Joubert
+Maxim Mikhailov
 Patrick Langlade
 Henry Eichheim
 Alexander Steinert
-Reinbert De Leeuw
 Svend Nielsen
 Jacob Gades
 Louis Travenol
-Francis Planté
 Émile Chevalet
 Alo Poldmäe
 Louis-François Bourgoin
@@ -16990,12 +21306,13 @@ Patrick Le Mault
 Don Calos
 Marcel Clément
 Vicente Lleo
+Alex Martin
+Ludivine Gombert
 Fernand Capdeville
+Thomas Middleton
 Steven Bryant
 Garcilaso de la Vega
 Bernardus G. Bogisch
-Ulvi Cemal Erkin
-Petrona Martinez
 Salomon Sulzer
 Simon Gorlier
 André Bloch
@@ -17005,17 +21322,22 @@ Francis Withy
 Robert Fobbes
 Jean-François-Jacques Corsange de La Plante
 Carl Seelig
-Piotr Ilitch Tchaïkovski / Mikhaïl Pletnev
+Brian Bruce
 Eazy E
+Piotr Ilitch Tchaïkovski / Mikhaïl Pletnev
 Georges Busson
+Jongdo An
+Jimmy Mac Hugh
+Christophe Baska
 Luigi Maria Magistrétti
 Edouard Déjardin
-Matthias Spaeter
 Carlos Moscardini
 François-Louis Riboutté
 Zoran Juranić
+John Gribben
 L. B. Cramer
 Alice Trugard
+Robert Stürzenbaum
 Rodion Chédrine
 J. F. Bonnange
 Marc Aubert
@@ -17025,27 +21347,28 @@ Patricia Carli
 Diego Fernández
 P. D. A. Atterbom
 Endre Székely
+Vladimir Vassilievitch Stassov
 Gérald Genty
 Erasmus Widmann
 Emile Louis
 Apostol Nikolaev-Strumski
+Elizaveta Soina
 Heinrich Bohrmann
 Howard Cable
-Deborah Nemtanu
 Leopold Lorenz Haschka
 Baet Khamrakoulou
 Joseph Scianni
 Brasilio Itibere
 Kazuaki Miyazaki
 Bintou Soumbounou
-Frank Signorelli
 Henri Boudet
+Frank Signorelli
 Paul Méral
  Bach J-S./ Dame Myra Hess
 Flavio Esposito
 A. de Bridiers
 Sarah Quinn
-Wiebke Lehmkuhl
+Roberto Ortiz
 Tuomas Kantelinen
 Johann Lorentz
 Hans Knappertsbusch
@@ -17054,24 +21377,30 @@ Randy Michael
 Johann Groh
 Charles Cornet
 Raphaël Cuttoli
-William Sterling
 Wing-hee Wong
+William Sterling
 Hiroshi Hoshina
 Enrico Terni
+Hermann Hesse
+Adrien Chavy
  Lucien Boyer/Georgius/Jean Boyer/Henry Verdun
 M. Daney de Marcillac
 Jack Jarrett
 Tōnu Kōrvits
 Girolamo Da Ponte
 Antonio Somma
+Markus Kutter
 Élie Carton de Grammont
  London Grammar
 Paul De Maleingreau
 Rakmatilli Togaev
 Peter Tinturin
 Tyagaraja
+Margriet Van Reisen
 Chanan Singh
+Emmanuel Tricheux
 Valentin Gheorghiu
+Jeffrey Thomson
 Stephen David Beck
 Jean-Louis Vallas
 Gaston Custaud
@@ -17079,17 +21408,20 @@ Jorge Croner de Vasconcelos
 Emile Kohler
 Marc Neikrug
 Louis Dasque
-Giacomo Manzoni
+Robert Dean Smith
+Louis François Aubert
 Francisco de Silos
+Fanny Béreau
 Arnaud Bel
 Yannick Hardouin
+Simina Ivan
 Jean-Pierre Duport
 Kyoin
 Fabián García Pacheco
-Guillaume de Chassy
+Stéphanie-Marie Degand
 Charité
 Earl Solomon Burroughs
-Detlef Bratschke
+John Raymond Hubbell
 Robert Cuckson
 Petit
 Franz Johann Habermann
@@ -17098,63 +21430,72 @@ Terry Jennnings
 Jack Keller
 Andrea Molino
 Mathilde Marchesi
+Tehila Nini Goldstein
 Nicolas Fallet
+Tindley Charles A
+joubert alain
 Carlos Santana
 Maurice Brouilloux
+Benoit
 Gilbert Dojat
 David Fulmer
 David Carlson
 Johann Braun
-Benny Sluchin
 Gaston Rochon
 Jacques-Philippe d' Orneval
+Heinrich Scheidemann
 J. G. Daddi
 Thomas Carter
 Jean-Pierre Ferey
 Karl Heinrich Biber von Bibern
 Bruno Skulte
+Alain David Valckenaere
 Leopoldo Novoa
 Sicco Albertus Hempenius
 Gertrud Schoenberg
 Ulrich Leyendecker
-Stéphane Wiener
+Latica Honda Rosenberg
 Carlo Antonio Benati
+Stéphane Wiener
 P. d' Aine de la Richerie
 Valentin Sohier
 John Jeffreys
 Étienne Lorin
 Emile Claverie
-Michel Brusselmans
+Emmanuel Kant
 Johann Rude
 A. Barthès
+Rumi
 Dick Hyman
+Anne Rotger
+Philip Merscher
 Signor Fecia
 Aleksandar Vujić
-Guy Wood
 Martin Wolff
 Immanuel Faisst
 Duprat de Latouloubre
 Sueharu Kitamura
 Claude Pingault
 A. Dantin
-Benjamin Youssoupov
+Andreï Biely
 Nicolas Perrillat
 Harry Bulow
 Franziska Becker
 Gustav Adolph Merkel
 Giovanni Paolo Almeri
 Johann Steuerlein
-Jacques-Marie Deschamps
 Bertil Palmar Johansen
+Jacques-Marie Deschamps
 Johan Duijck
 Ali Ben Sou Alle
 Jean-Pax Méfret
+Christian Miedl
 Vincent Hyspa
  Vélo
-Tadeusz Szeligowski
+Peter Martincic
 Bernard Lopez
+Dinu Lipatti
 Wilhelm Middelschulte
-Ry Cooder
 Giovanni Battista Lampugnani
 François-Adrien Boieldieu
 Kristaps Pētersons
@@ -17164,50 +21505,53 @@ Raoul Koczalski
 Virginie Bazier
 Robert Woodcock
 Chummy McGregor
-Fels
 Delphine Dupré
 Charles-François-Jean-Baptiste Moreau de Commagny
-Rolf Martinsson
 Albert Glinsky
 Rigaut de Berbezilh
 Modest Ilitch Tchaïkovski
 Gonzalo Biffarella
 Carl Schuricht
-Jean Prodromidès
+Hervé Dejardin
 Marchitti
 François Joseph Naderman
 Jean-Claude Decamp
 Francisco Pérez Gaya
 Ed. Barter
 Roger Cartier
+John Bennet
 Claude Lemesle
-Franz Kugler
-Agnès Bihl
+gerard eric
+Jean Baptiste Barriere
 Richard Long
 Paul Ouazan
+Léo Chauliac
 Raymond Vincent
 Ladislas Cochet
 Jianmin Wang
-Nicolas Maire
 Julius Harrison
 Edward Fitzgerald
 Yves Honoré
 Heinrich Ehmann
+Hervé Dez Martinez
 Vytautas Klova
 Maxime Joinville-Ennezat
 Maguy Marin
 Dominique Berger
-Dimitri Terzakis
 Théodore Lajarte
 Hieronymus Bassano
+Amanda Forsythe
 Pennard
  Fairouz
 Wilhem Kramer
 Lavallière
 Kurt Suttner
+Mikhail Kolelishvili
 Siegfried Strohbach
 Bertrand Georgeon
+Yann Fressi
 Karl Leury
+Joseph Moog
 Stephen Funk Pearson
 Hershy kay
 Erwin Trojan
@@ -17221,27 +21565,38 @@ V. Marceau
 André-Joseph Grétry
 Ruben Radica
 Jacques Potharst
+Johan Ludvig Runeberg
 Hubert De Blanck
 Johannes Herold
 Beckner
 Michael von Biel
 Fredrik Emilson
+Sidney Joseph Perelman
 CharlÉlie Couture
+Martino Traversa
 S. Taccani
 Jacques Cochereau
 Denise Viktor
-Julian Lloyd Webber
+Jacques Lacombe
 Buddy DeSylva
 Giuseppe Gherardeschi
+Nury Halmamedov
 Gaetano
+Edgar Yipsel "E.Y." Harburg
 Giovanni Antonio Gianettini
+Marc' Antonio Ingegneri
 Hélène de Callias
+John Eccles
 Sérgio Oliveira de Vasconcellos Corrêa
 Patricia Lebrun
+Laurent Decker
 Georgia Siropoulos
 Georges Clément
-Henri Martinet
+Ermonela Jaho
+Marie-Bénédicte Souquet
 Minas Borboudakis
+Philippe Jordan
+Gun Brit Barkmin
 Vincent Dunet
 Émile Sicard
 Fred Pearly 
@@ -17252,24 +21607,27 @@ Paul Berthier
 Nicole Rieu
 Mary L.
 Buddy Bernier
+Joanna Curelaru Kata
 Ursula Andkjær Olsen
 Mercedes Zavala
 Tania León
 Jean-Pierre Loublier
 Amable Massis
-Ami Rogé
+Raphaël Jacob
 Arnoldus de Fine
  Vincent Telly/Charles Borel-Clerc
-Caitlin Hulcup
+Kim Kwang Soun
 Frédéric Charlan
 Daniel Bollius
 Joaquin Montero
+Elçim Ozdemir
 Guillermo Perrín
 Claire Delbos
 Ted Huggens
+Josquin Des Prés
+Neva Begovic
 Ju yi Bai
 Charles Joseph Sohier
-Vaclav Remes
 Carlton Gamer
 Carlos Seixas
 Christian Benz
@@ -17279,9 +21637,9 @@ Johann  Schobert
 Maurice Baudouin
 Shigeaki Saegusa
 Jean-Luc Schwartz
-Lionel Daunais
 Bob Gaudio
 Edmond Lemaigre
+Manuel Bandeira
 Franz-Xaver Schnitzer
 Hungarus Thelamonius
 Ivan Boumans
@@ -17294,7 +21652,9 @@ Paul de Choudens
 Friedrich Johann Eck
 Alain Bonardi
 Hristo Yotzov
+Hanna Hipp
  JoeyStarr
+Girolamo Gigli
 Pierre Dominique
 Georges Lambert
 Philippe Dhondt
@@ -17302,33 +21662,45 @@ Harl McDonald
 Francesco Stivorio
 Louis Chollet
 Roger Cochini
+Allyson Mac Hardy
 Jean-Yves Sebillotte
 Jean-Yves Masson
+Vasco Mendonça
 Mathis B. Nitschke
 Enric Casals
+Anton Chalaiev
 Abdurakhim Hamidov
 G. Perin-Laborde
 Emanuele Muzio
 Girolamo Diruta
+Carlo Bosi
+Aude Perin-Dureau
 Paul Chabot
 M Hodge
+Miguel Bernat
+Hélène Ranada
 Luc Plamondon
-Eric De Lamarter
+Patrice Klun
 Michael Miro
 Frank Proto
 Leopold Roxer
 Isidore Legouix
 Edie Berzé
 Antonio Mortaro
-David Byrne
+Colijn Sampson
+Lorenzo Bianchi
  Katerine
+Maria-José Montiel
 Michal Kleofas  Oginski 
+Christine Brewer
 Louis Séjan
-Christophe Olivier Maudot
+Mohamed Saad Basha
 Giorgio Moroder David Bowie,
 Marie Nimier
 Ernest Fanelli
-Jules Lasaïgues
+Hugo Oliveira
+Ernest Legouve
+Billy Reid
 Libero Mureddu
 Eugène Roy
 Christopher Gibbons
@@ -17338,41 +21710,52 @@ Giuseppe Arrigo
 Antonia Bembo
 G. Jean-Aubry
 Clive Langer
+Emile Paladilhe
 Irinel Anghel
 Marie-Héloïse de Pierpont
 Truid Aagesen
 Albert Brasseur
+Khaled Shokry
+Paul Radais
 Francis Gorgé
+Cho Kyusang
+Kaspar Putnins
+Moritz Horn
 Francesco Bembo
-Giangiacomo Pinardi
+Ariane Jacob
 Fúrio Franceschini
-Albert Huybrechts
+Thierry di Filippo
+Nicolas Charlier
 J. Bergamino
 Pierre Blondeau
 Judit Simonis
 Hilary Campbell
-Mehdi Belhaj Kacem
 compositeur Celma
 Jean-Paul Olive
 Constantin Silvestri
 Anne Choquet
+Annie Vavrille
 James Rado
 Marcin Leopolita
 Corneille
 Lounis Aït Menguellet
+Stéphane Henoch
 Michel Cals
 Yannick Pignol
 Michel Sanlaville
 Alphonse Varney
+Elisabeth Leonskaja
 Vasa Prihoda
 James Chen
 Jean-Pierre Labaste
 Adam Tinley
 J. Aldrich
+Dmitri Sitkovetski
 Ignaz Michael Welleminsky
 Clavecin
 Juan Breva
 Charles Callahan
+Guillaume Dionnet
 Andy Akiho
 Jacques Nam
 Giuseppe Cavallo
@@ -17383,21 +21766,23 @@ Laure Choisy
 Henri Nafilyan
 Makoto Hoki
 A. Corradi
-Christine Knorren
+James Morris
 Laure Clément
 Clarelius
 Jesse Garon
 Frédéric Le Junter
 Paul Mindy
 Cyril Atef
+Carl Maria Von Weber
 Guy Luc
 Matfre Ermengau
 Marie-Thérèse Rynduch-Gaertner
 Josef Winkler
 Laure Dancla
+Tim Mead
 Oncle Ben
-Olivier Maurel
 Gustave Chouquet
+Olivier Maurel
 John Vincent
 François-Jean Cauchie
 Othmar Steinbauer
@@ -17409,18 +21794,23 @@ Ejnar Eklöf
 Luigi Costantino
 Éric La Casa
 McCarthy
+John Bartlet
 Jayme de la Te y Sagau
 Kenneth Meek
 Pietro Lappi
 Jean Cayrol
+Timothy Robinson
 Émile Moreau
-Michael Collins
+Victor Schertzinger
 Anđelko Klobučar
 Caroline Lizotte
+Brian Bannatyne Scott
 Antonio Papi
  rencontre avec la naine
 Antonio Galanti
+Hank Mobley
 Chris Chafe
+Pierre Pincemaille
 Amy Quate
 Charles Lagourgue
 Francisco Londono
@@ -17429,9 +21819,10 @@ John Attey
  Le Rêve du Roi René
 Régis Cunin
 Robert Stern
+Kenny Clarke
 Ran Hu
+Matt Herskowitz
 André Corneau
-Antoine Pol
 Gérard Perotin
 Monsieur de Louvois
 Georges Meister
@@ -17439,6 +21830,7 @@ Johann Ernst
 Paul Chagnon
 José Maria Echeverria
 Julius Fucík
+Keith Miller
 Jean-Luc Girard
 Jean-Marc Brige
 Jean Tricot
@@ -17448,43 +21840,59 @@ Juan Angel Sánchez
 Edvard Fliflet Braein
 Frederic Louis Ritter
 Victor Koning
+Eric Ruf
 Eduardo Sainz de la Maza
+Johannes de Porta
 Francesco Azopardi
+Nicolas Tulliez
 Welford Russell
 István Márta
-Anne Boleyn
 Luis Diego Herra Rodríguez
+Nabil Suliman
 Paz Abreu
+Mark Padmore
+Quentin Coppalle
 Dominique Charle
 Julia de Burgos
 Louis Hillier
 Stuart Findlay
-Bruno Martino
 Jacques Castarede
 Philippe Desportes
 Gabriel-Alexandre Belle
 Giovanni Battista Pederzuoli
 François de Fossa
+Marie Van Winsberge
+Sayat-Nova
 Wilhelm Hensel
 Judith Robin
 Philippe-Gérard
+Tomas Ille
 Liz Cherhal
 Péter Zombola
+Ji Hyun Kim
+Walther Von Der Vogelweide
+Valentin Jar
 Pietro Paolo Cappellini
+Auguste Briseux
 Raphael Cruz
 Juan García Pistolesi
 Joseph Audan
-André Thiriet
 Jean de Queylar
 Stéphan Jacobs
 Francesco Biscogli
+Silvia Hablowetz
+Esti Kenan Ofri
+Sergei Romanovsky
 Amparo Ángel
 Charles Albert Tindley
 Jean Le Flelle
 Walter Macfarren
 Gustave Wagner
+Franz Xaver Richter
 Erkki Jokinen
+Ernö Kállai
 Georges Barnoti
+Karin Serres
 Charlotte Birch-Pfeiffer
 Tommy Tate
 Jacob Gilboa
@@ -17495,16 +21903,20 @@ Danuredjo
 Daniele Ghise /  Boris Labbé 
 Franz Joseph Keyper
 Victor Baudry
+Andrew King
 Fakr Al-Din Agha
 Jules Adenis
 Fred Hersch
 Felix Lavilla
 Vasilij Solov'ev-Sedoj
+Thomas Hales
 Jerry Ross
  Modeste Moussorgski/Maurice Ravel
+Jean-Noël Gamet
 Henri-Jacques de Croes
 Lodovico Graziani
 Christian Gottfried Telonius
+Philippe Dao
 Patrick Hernandez
 F. Bartholemy
 Ed. Degranges
@@ -17512,53 +21924,61 @@ Emile Basset
 Louise Aimé
 Juan Sanz
 Moondog
-Jean Giono
 Antonella Barbarossa
 Michael Burritt
-Cédric Pescia
-Michelangelo Galilei
 Roger Secco
-Pilar Jurado
+Jamal Eddine Benyahya
 Gregorio de Salinas
 Thierry Illouz
 Paul Robert Delanoff
 Giuseppe Branzoli
 Sasha Argov
-Benjamin Scherer
-Friedrich Kind
+Eva Almassy
 François Thury
 Joseph-Ange Carboni
+Anne Catherine Gillet
 Paolo Castaldi
 Fujita Kichiji
 Félix Simonian
 Giovanni Domenico Puliaschi
 Amariah Hall
+Edward Redding
 Sophonias Päminger
 Louis De Vocht
 Consuelo Velasquez
 Henry John Gauntlett
+Matthieu Le roux
 Carlé Costa
 Nicolò Giovana
 Erik Förare
+Jean Marot
 Jean-François Frémont
 Zofia Urbanyi-Krasnodębska
 Françoise Morvan
+Cyril Anrep
 Arnold Rosner
+Christine Tocci
 Robert Wilkinson
-Didier Denis
+Maney Gilles
+Lea Le Foll
 Axel Raoul Wachtmeister
+Hervé Niquet
 Georges Spitzmuller
 Jules-Gustave-Adolphe Chantepie
+Dhofar Guerid
 Max d' Yresne
+Homère
+Kristin Sigmundsson
 E. Chilliot
 P. Basilewsky
 Suzanne Daneau
 Jean Guyon
-Pavol Breslik
 Alexandre Duval
 Lárus Halldór Grímsson
-André Beck
+Joel Prieto
+Manuel Forcano
 Charles Féret
+André Beck
 Edme-Marie-Ernest Deldevez
 François Wertheimer
 Nicholas Stroger
@@ -17567,51 +21987,59 @@ Matteo Coferati
 Victor Mora
 Joao Vilarett
 Georg Schnéevoigt
+Andrea Falconiero
 Jules Chardenal
+Sébastien Richaud
+Edgar Varosyan
 F. André
 Alda de Gravas
 Silvestro Rotondi
 D. Caveye
+Jean Pierre Canihac
 Gaetano Maria Schiassi
 Edmond Bost-Siefert
 Virgilio Mortari
 Annette Mengel
 Mirtru Escalona-Mijares
 Antonio Cabezas
-Gabriel Yacoub
 Xavier Rosselle
 Carver Blanchard
-Wolf Biermann
-Enkelejda Shkosa
-Balz Trümpy
+Ayako Okubo
+Richard Galliano
+Paul Malinovsky
 Roxanna Panufnik
-Pierre Guillois
+Lior Elmaleh
 Filippo Zapponi
 Lodovico Busca
 Ange Cozic
 Mademoiselle Duval
 A. Decroos
-Arnaud Petit
+Charlotte Plasse
+Katya Polin
+Ludwig Hift
 Solfa Carlile
 James John Napier
 Étienne Planel
 François Brémond
-Linda Bouchard
 Mikel Urquiza
 Valentin Nicolai
 Thomas Lauderdale
-Filippo Del Corno
 Éric Feldbüsch
+Filippo Del Corno
 Antonio Squarcialupi
+René Chalupt
 Corentin Daoulas
 Jimmy Walter
-Pierre Bertin
+François Rivalan
 Louise Talma
 Adrian Stout
 Martin Lohse
+Bernadette Mangin
 Friedrich Erhard Niedt
+Ian Bostridge
 Alain Termol
 Robert de Fay
+genas mathilde
 N. de Beauharnais
 de Laura de Carvalhaes
 Johann Andreas Colizzi
@@ -17623,23 +22051,30 @@ Louis Cauberghs
 Doru Popovici
 Emanuel Züngel
 Shuilong Ma
-Robin Ticciati
 Gaby Wagenheim
 A. Bertigny
 Giulio Artusi
+Gerry Goffin
+Violaine Le Chenadec
 Joseph Weterings
+Francois Chassagnite
 Heidi Baader-Nobs
 Sperindio Bertoldo
 Jummei Suzuki
 Mihail Vasilʹevi˜ Matûšin
-Jean-Sébastien Dureau
+Graham Mitchell
+Igor Stravinsky
+Jean Claude Sarragosse
  La déroute de coeur
 Léandre Vaillat
 Fabrizio Fontana
+Kira Loginova
 Jacques Lancelot
 Claude Gauthier
 Jacques Raon
  Anonyme (Gospel songs)
+Rodolfo de Souza
+pascal bodin
  Sa Sainteté Ilia II
 Peter Morhard
 Emmanuel Genvrin
@@ -17653,10 +22088,10 @@ N. de Beauvais
 Yannick Cordou
 Armand Hiebner
 Étienne Daniel
-Guido Agosti
 Benjamin Frankel
 M G
 Eugène Collet
+Louis Ferdinand Hérold
 Manos Tsangaris
 Ferdinand Küchler
 Elizabeth Turner
@@ -17664,47 +22099,49 @@ Franz  Liszt / Richard Wagner
 Mary Howe
 Tatjana Böhme-Mehner
 Michel Waisvisz
-Denis Mortagne
-Léon Danion
+Gabriel Marc
 Marcelle Chadal
+Léon Danion
 Tadeusz Kościuszko
 Jakob Zupan
 Rey Guerra
-Chantal Santon-Jeffery
 Michael Gilbertson
 Moxica
-Florian Boesch
 Andrés Lewin-Richter
+Pierre Roux
 Martti Turunen
 Pascale Daniel
-Paavo Heininen
+Virgil Hartinger
 Tony Shanahan
 Stefan Hakenberg
 Ottavio Bariolla
-Eduard Tubin
 Aelred Nils
 Louis Ange Pitou
 Hilary Jane Parker
 Henri d' Arnouville
+Jean-Michel Manière
+Mark Richardson
 Alain Caron
 Anna Sokolow
+Michel-Richard Delalande
 Rudesindo Soutelo
 V. Debar
 Charles Algarra
-Henri Troyat
 Shoshin
 Šalva Ilʹič Azmajparašvili
 Aldo Giuntini
 Cornelia Tautu
 Károly Bakonyi
+Bart Cypers
 Antonio Vivaldi / Max Richter
 Mathias Maestro
+Christian Moreaux
 Vincenzo Pozzolo
 Alfonso Ferrabosco
-Alain Le Douarin
 Gregor Peschin
 Cornelis Verdonck
 Samuel W. Pratten
+Michel-Ange
 Boulin
 Rémi Bricout
 Yann Olivet
@@ -17712,14 +22149,15 @@ Vladimir Tarnopolski
 Jean Louël
 Jean Coviaux
 Rudolf Karel
+Orlando Murden
+Ulyana Aleksyuk
 Romain Dumas
 Edouard Deransart
-Jérémie Fèvre
 Lionel Escama
 Ewan Clark
 Angelo Morigi
 David Jisse
-Emmanuel Rousson
+Robert Parsons
 Anthoni van Noordt
 Joseph-Marie-Clément Dall'Abaco
 Adrian Iorgulescu
@@ -17727,7 +22165,6 @@ Lleonard Balada
 Mark Lothar
 Domenico Gabrielli
 Nak Najor
-Joël Jouanneau
 G. Bennett
 David Tudor
 Létizia Beretta
@@ -17736,6 +22173,7 @@ Larry Alan Smith
 Christopher Hobbs
 Olivier Balazuc
 Hugo de Lantins
+Marko Ruzdak
 Ernest H. Papier
 Hugo Renard
 Éric Arnal
@@ -17745,7 +22183,6 @@ Marchetto de Padoue
 Jean-Luc Gillet
 Franco
 Emile Aubert
-Hugo Reyne
 Saïd El Ghissi
 Paul Baillargeon
  Joaquin Nin y Castellanos
@@ -17753,15 +22190,19 @@ María Martínez Sierra
 Peter Aston
 Herbert Brün
 James Sutcliffe
+Saint-Gilles
 Paul Green
+Friedrich Ruperti
 Richard Hammer
 Giovanni Claudio Pasquini
 Johann Gottfried Conradi
+Ulrich Wedemeier
 Frédéric Autiéro
 Claude Germain
 Eugène Humbert
 Pol Brax
 Mirjana Živković
+Sammy Cahn
 Domenico Filippo Bernini
 Paul Spicer
 Theodoro Valcarcel
@@ -17769,11 +22210,15 @@ Hedy West
 N. U. Unruh
 Jose Augusto Mannis
 F. de Chelles
+Yannick Mariller
  A.R. Rehman
+Paolo Olmi
 Philippe Stutz
 D' Albaret
 Martin Lunssens
  Matmos & s t a r g a z e
+Philippe Talbot
+Max Blonda
 Katalin Sekely
 Edgard Allix
 Christian Wasselin
@@ -17781,34 +22226,43 @@ Ricardo Tacuchian
 Amédée de Jallais
 Edgard A. Arachtingi
 Nimrod Sahar
+Richard Burmeister
 Ernst Ulrich von Kameke
+Arnaud Rivière
 Octavi Rumbau Masgrau
-Hélène Vacaresco
+Stefano Bulfon
+Ursula Vaughan Williams
 Maria Bridet
 Marcel Bertrand
 Gérard Moindrot
+Graham Bradshaw
 Jacques Morali
 Christian Erbach
 Julius Brück
+Nicolas Rivenq
 Giovanna Battaglini
 Marcel Caune
 Richard Tauber
+Enzo Bentivoglio
 Johann Hammerth
 Matthias Mercker
 Ian Burton
 Israel Terril
+Caroline Alice Elgar
 Lelio Camilleri
 François Ausseill
 Éric Iacono
+François-Benoît Hoffmann
 Bob Carleton
 Stanisław Wiechowicz
 Paljor
 D. Boutcoulesco
 Hernan Cortés Vergel
 Francesco Rossi
+Antonino Fogliani
 Israel Almeida
 Tam-El
-Auguste Barbier
+Simon O'Neil
 Giuseppe Castignace
 Evangelos Boudounis
 Nelly Frenoux
@@ -17819,37 +22273,42 @@ Estienne Grossin
 Tatsuya Hayashi
 Frédéric Wachs
 Edouard Dejan
+Jordan Bisch
+Stéphane Blaise
+Romand Matthieu
 Mark Plati
+Paul Motian
 Benedictus a Sancto Josepho
 Giovanni Lorenzo Lulier
 Jukka Ruohomäki
+Charlotte Julliard
 Tadao Sawai
-Johnny Hallyday
+Jean-Marc Salzmann
 Giovanni Battista Lucini
-Christian Ritter
 Robin Brown
 Charles Abd-Allah
-Wal-Berg
+Xavier de Maistre
+Fabien Lévy
 Fabio Borgazzi
-Joan Arañés
+Gustavo Peña
+Geoffroy Gesser
 Yaakov Rappoport
+Joan Arañés
 Charles Barabino
 Robert Shafer
 Samy Moussa
 Arthur Boudon
+Franco Migliacci
 Joaquín Ignacio Laseca García
 Edwin McArthur
 L. Delahaye
-Johannes Bedyngham
 Bachraf Zidane
-Barbara Paul
 Jean Pic
 Neguinho do Samba
 Rudy Revil
 Charles-Albert Demoustier
 Lou Koster
 Raoul Brunet
-Richard M. Jones
 Chrétien Urhan
 Gary Smulyan
 benetto Carulli
@@ -17859,12 +22318,15 @@ Petri Makkonen
 John Stafford Smith
 Kjell Samkopf
 Knut Vaage
+David Richards
+Alexey Lavrov
 Dorothee Eberhardt
 Sylvie Bodorová
+Laurence Monteyrol
 Édouard Trémisot
 Clarence Barlow
 Mark O'Connor
-Michael Oesterle
+Pepe Martinez
 Marek Sewen
 Marco Belli
 Juan de Torres
@@ -17873,7 +22335,6 @@ Anna Weesner
 Jean-Luc Gauthier
 Paul Taylor
 Abel Carlevaro
-Domenico Modugno
 Jean-Pierre Néel
 Tokuhide Niimi
 Alonso Mudarra
@@ -17881,6 +22342,7 @@ Guillaume Michel
 John Luther Adams
 Richard Sanderson / Vladimir Cosma
 A. Scassola
+Remy Reber
 Jean-Marie Depelsenaire
 Bernard Shore
 Grace Wiley Smith
@@ -17889,8 +22351,9 @@ Jaume Torrent
 Domenico Della Vecchia
 Mike Curtis
 Didier Blancho
-Ray Bryant
+Bénédicte Fadeux
 Paul Jaton
+Antonio Boroni
 Christiane Mariane von Ziegler
 Louis-Charles-Joseph Rey
 J. Chalard
@@ -17898,12 +22361,14 @@ Giánnīs Rítsos
   Deuxième partie
 Mathias Charton
 Francesco Maio
-Julián Arcas
 Arne Eggen
+Helen Huang
+Paul Bernard
 Paweł Kochański
 Joaquin Cortes Lopez
 Alexandre Bruneau
 C. Dreux
+Manna Ito
 Eduard Heinrich Gehe
 Paolo Masnelli
 Frédéric Becker
@@ -17911,14 +22376,16 @@ Elisha West
 Yves Brodin
 Sigismund Schneider
 Nicolaï Iakovlevitch Miaskovski
+Emmanuelle Lacaze
 Sahiba Davlatshaeva
+Emmanuelle Ophèle
 Alexandre Bernaduque
 Edouard Philippe
 Charles Corbin
 A. Béal
 Marcelo Fromer
 Hugues Leclair
-Pierre Veber
+Dongjin Ahn
 Sergio Mendes
 Fontes Rocha
 Jean-Baptiste Barrière
@@ -17926,8 +22393,11 @@ Fernand Arone
 Johann Leonhard von Langenau
 Marcial Benites
  Porpora
+Jan Thomer
 Francesco Schira
 Lidia Zielinska
+Stéphane Bridoux
+Simone Kelly
 Thomas Tollett
 Wolfgang Roscher
 Vincenzo Fioravanti
@@ -17938,8 +22408,12 @@ Fernand Oubradous
 Chrichan Larson
 Charles Domergue
 Mauro Bortolotti
+José Marín
 Gilles Grand
+Kenji Sakai
+Robert Morton
 Guilhem de Sant Leidier
+Martina Mikelic
 Matthew Martin
 Angelo Badalamenti
 James A. Bland
@@ -17947,9 +22421,10 @@ F. Ackermann
 Wolfgang Amadeus Mozart (attribuée à Karl Friedrich Abel)
 René-Jean-Antoine Parisot
 Johann Gottlieb Nicolai
+Frank Eyton
+Patrick Marco
 Pierre Certon
 Camille Mauclair
-Étienne-Bernard-Joseph Barrière
 Willem Kes
 Christian Chevallier
 Yngve Slettholm
@@ -17958,90 +22433,110 @@ Aleksandr Fedorovič Znosko-Borovskij
 Denzil Henry
 Michael Giacchino
 Diego Durón
-Theodore Holland
 Charles-Joseph Tolbecque
 António Teixeira
 Louis Blanc
 Bror Beckman
+Fabrice Moretti
 Francesco Capella
 Rolf Kühn
+De Bacilly Monsieur
 Carl Kreith
 John McGeoch
-Leopold Stokowski
+Azucena Maizani
+Farhat Bouallagui
 Jean-Baptiste Boësset
 Philippe Lavil
 Paul Graener
 Mahmoud Tété Niang
 Caroline Chedeville
 Ambrosius Reiner
+Stéphane Garin
 Maurício Dottori
+Henriette Renie
 Martin Simon
 Luiz Bonfá
  Codex de Las Huelgas, 83, f. 84v
+Stendhal
 Reinhard Fuchs
 Macedonio Alcalá
 Gérard Pansanel
 Ignatio Pulici
 Franz Rost
-Claus-Peter Flor
+Terius Nash
 Marie-Hélène Bernard
-Carl Haffner
 Christian Sbrocca
 Marc Audoual
 Richard Wagner / Franz Liszt
-Serge Baudo
+Kazmér Sarközy
 Jürgen Essl
 Bernard Grossir
 Edouard Rohede
 L.-N. Chupin de Laguitonnière
 Jean Poueigh
+Cyril Dupuy
 Adelman Corréa
+Arthur Schnitzler
 Gurmit Singh
 Ûrij Levitin
+Gian-Vincenzo Cresta
+Carmine Coppola
 Muḥammad Fawzī
-John Milton
+Sohrab Pournazeri
+Jean-Michaël Lavoie
+Lidija Bizjak
+Kathinka Pasveert
 Benoît Pollet
 Jean D. Burlan
 Natalie Denissof
 Georgij Katuar
 Jay Gordon
-Éric Robrecht
 Frank Tveor Nordensten
+Éric Robrecht
+Diego Fernandez
+Elzbieta Szmytka
 Vladimir Agopov
 A. Coppin
-Joseph Carver
+Alphonse X
 Moustapha Ndiaye
 Abram L. Stasevic
 Roger Delaunay
 Kelvin Sholar
+Semyon Kirsanov
 Robert Farnon
-François Sabatier
 G. Amadéo
+Philippe Bord
 Julián  Orbón
 Jean-Noël Marchand
 Giacomo Brighenti
 Jean de Brunhoff
+Leo Daniderff
 Ferdinand
+Mabern Harold
 contrafactum Raoul de Soisson
 Johannes Hesdimois
 Sylvain Vasseur
+Milt Gabler
+Maurizio Barigione
 Emmanuel Cassard
-Stéphanie Révidat
 Louisa De Caraman-Chimay
 Licinio Refice
+Jens Korndörfer
 Albert Brussee
 Shan Lin Jiao
+Alexandre Aroutounian
+Hayne van Ghizeghem
 George Szell
 Olivier Lataste
 Carlo Arrigoni
 Conrad Ansorge
+Yannis Bougeard
 Carlo Cecchelli
 Giuseppe Antonio Bernabei
 Denis Bédard
 Herbert Willi
 Vincent Baguian
 Thierry Barbé
-David Lynch
 Stefano Rossetto
 Arild Sandvold
 Rodrigo Asturias
@@ -18053,42 +22548,49 @@ Benjamin Franklin White
 Francesco Negri
 Juan Maria Thomas
 Giuseppe Gavazza
+Michael Hofstetter
 Breno Blauth
 Thomas Heinisch
 James Weidman
 Joshua Shank
+Romain Dayez
 Bernhard Forck
 Michel Béro
 Gustave de Wailly
-Gerald Marks
+Maâmoun Chanaoui
 Carlo Luigi Grua
 George Saint-George
-Henri Jarrié
-Maurice Magre
+sarah Jacob
+Ibrahim Seliem
 Mehrab
 Cristina Azuma
 Johannes Touront
 Olivier Toulemonde
 John Cranko
+Gilles Mannet
 B. Barbat
-Paul Watkins
-Hermann Suter
-Marc Erbetta
 Arthur Colinet
+Adam Gottlob Oehlenschläger
+Alessandro Pepoli
+Irène Friedli
 Julius Weissenborn
 Julius André
-F. Charotte
 Pascal Proust
+Norman Gimbel
+F. Charotte
+Erin Caves
 Marie-Bernadette Dufourcet
 Fabrizio Scapin
 Numéro 9
 Felix Profos
 Joseph-Antoine Lorenzitti
 Anthony Hequet
-Jean-Luc Tardieu
+Cynthia Millar
 Auguste Dabadie
 Luigi Campolieti
+Yulia Yufereva
 Akira Tamba
+Guillaume Bellom
 Quincy Hilliard
 Timothée de Fombelle / Sébastien Gaxie
 C. Pierlot
@@ -18099,14 +22601,14 @@ G. Montcloux d'Épinay
 Benjamin Alunni
 Miriam Makeba
 Yannick Dauby
-Bernard Deletré
-André-Ferdinand Herold
 Roland Jooris
+André-Ferdinand Herold
 François Forestier
 Jean Nouguès
 George Frederick Kiallmark
 Carlo Marchione
 Flora Conway
+Patrick Benoît
 Jeanne Allègre
 Serge Bonin
 Boris Aleksandrovic Arapov
@@ -18115,7 +22617,8 @@ Adrian Moore
 Sílvio Deolindo Fróes
 Nina Kotova
 Pierre Denis
-Alec Wilder
+Gary Lehman
+matthieu Le roux
 Marcello Marchesini
 Jean-Frédéric-Auguste Lemière de Corvey
 Katalin Szekely
@@ -18127,11 +22630,11 @@ Julien Condemine
 Claude Blondy
 Victor Kioulaphides
 Christian Daixant
-Michael Gees
 Henry Baquet
 Fernand Quinet
 Caspar Neher
 Wilhelm-Gottlieb Hauff
+Gérard Grobman
 Christian August Gabler
 Mano Solo
 Tabib Umarov
@@ -18149,24 +22652,31 @@ Jean Basil
 Milford Myhre
 Ludovic Fortolis
 Felix Krohn
+Xavier Levesque
 Stephan Kaske
 Maria Theresia Paradis
 Joseph White
+DK Kyson
+Jan Petryka
 Maroie de Diergnau
 Blas Parera
 Barch
 Gérald-Baldran
 Paul Anton Wineberger
 Hershy Kay
+Marie Bunel
 Rudolf Mengelberg
 Hubert Waelrant
 Edward Yadzinski
 Andrew Waggoner
 Edmée Cazalis
+Satoko Yoshimura
 Eugene Birman
+Tahar Boukhalifa
 Carol Ann Duffy
 Luc-André Marcel
 Anita del Castillo y Justiz
+Vladimir Galouzine
 Numa Bouton
 Hermann Regner
 Turlough O'Carolan
@@ -18174,16 +22684,16 @@ Jean-Joseph Kenn
 Régis Boulier
 Pierre Barbizet
 contrafactum danse anonyme "Qui grieve ma cointise"
+Olivier Bénichou
 Rémy Médard
 Raymundo O. Da Costa
-Roland Wood
+Philippe d'Orléans (Régent de France)
 Israel Sharon
 Pekka  Kostiainen
 Yolande Kouznetsov
 Romualdo Sapio
 Sandy Wilson
-Glen Tetley
-Xavier Thibault
+Gordon Gietz
 Christophe Jobard
 Raphaël Marc
 Toshiro Saruya
@@ -18193,75 +22703,86 @@ Christian Fougeron
 Daniel Brel
 Michael Stöckigt
 Bryan Ost
-Édouard Plouvier
+Elisa Bestetti
 Léon d' Amant
 Bertolomeu de Olagué
-Baptista Siqueira
 Carel Brons
+Baptista Siqueira
 Seal
 Sven Lekberg
 Daniel Martin
 Manuel Gasse
 M. et Mme Champagne
-George Lopez
 Besenval
 Daniel Figueroa
 Léon Roques
 Edward Thompson
+Olga Mykytenko
 Richard Shepard
-Peter Maxwell Davies
+Sergio Assad
+Oreste Cufaro
 Nicolas Schierrentinger
 Adrian Borza
 C. Chambert
 Marie Cantacuzène
 Victor Wilder
+Hanna Herfurtner
 Ludvig Holstein
 Juan de Urrede
 François Ribac
 Herbert Chappell
 Antonio Cardona y Borja
+Charles Vildrac
 Henri Filleul
 Ferdinando Giorgetti
 Carolus
 Norman Whitfield
-Luca Pisaroni
 Laura Karpman
 Valerij Gennad'evic Piguzov
 Peter Benary
 Amélie Parias
+Maria Karagiannaki
 Marcelle Manziarly
 Philippe Nahon
 Raoul Bérard
 Abraham Jurafsky
 Giovanni  Stefani 
+HENRI Pierre
 Boris Ord
 Daniel Decatur Emmett
 P.-L. Lebas
 Edmund Sturton
 Jacques Dor
 Miles Mosley
-Wade Matthews
+Margot Jaumel
+Robert Gerhard
 Benjamin Righetti
 Petrus Scintillarius
 Cindy
+Oscar Vladislas de Lubicz Milosz
 Joaquin Homs Oller
 Henri Sauveplane
 Mihail Pekov
 Max Lavegie
 Vincenzo Bonizzi
+Hyun Su Shin
 Guillermo Gregorio
 Jean-Louis Dhermy
 F. Andrieu
 Johann Anton Stamitz
+Florent Carrière
 Pierre Manchot
 Hyo-Young Ahn
 Svjatoslav Sulima Stravinsky
+Markus Pelz
 Francisco Lombardo
 Loukas Metaxas Arrangement Thomas Lippens
-Giovanni Priuli
+Rebecca Clarke
 Sénèque
-Joseph Pranzer
+Claude Helffer
 Éric Le Chartier
+Robert D. Levin
+Yana Ivanilova
 José Luís Turina
 Gérard Rebours
 Louis-François Chambray
@@ -18269,32 +22790,37 @@ Laurent Torres
 Gérard Pontieux
 Augusta de Kabath
 Alexandre Mabeix
+Marcel Vanaud
+Se Jin Hwang
 Giovanni Domenico Perotti
 Deszö Horvath
-Andreas Munch
 Johann Baptist Schiedermayr
+Andreas Munch
 Manuel Santotis
 F. Baille
 Reinhold Finkbeiner
 Paolo Ricci
 Adelbert von Chamisso
-Pierre-Yves Barré
 E. Delaunay
+Pierre-Yves Barré
 Armand Gouzien
+Ramon Lazkano
 Julius Rietz
  Mawachah
 Wayan Adhel Rose Putri Jaya
 Floriane Le Pottier Arrangement Thomas Lippens 
 Jacques-Denis Thomelin
+Vladimir Ivanovitch Nemirovitch-Dantchenko
 John Oxenford
-Alexis Weissenberg
 David Chevallier
 Charles Quef
 Sebastiano Guzzi
 Ana Carrenza
+Paul Nagle
 Takashi Yamada
 Emmy Lindström
 Alain Blésing
+Dimitri Pittas
 Eric Darmon
 Florian Godard
 Morgan Lewis
@@ -18303,11 +22829,12 @@ Georges Camuset
 René Philipon
 Antonin d' Argenton
 Jacques Deval
+Pierre-Henri Wicomb
 Jean Constantin
  Cheikh el Habnaoui
  Chant Byzantin Anonyme
 Cyril Jenkins
-Joseph Darcier
+Tjeerd Top
 Evert Verhees
 Eberhard Streul
 Nicolas Millot
@@ -18315,14 +22842,15 @@ Nicolas Millot
 Gerald Wilson
 Alexandre Castres
 Josephine Aurnhammer
-Jan Maklakiewicz
 Harold W. Friedell
-Lilla Batson
+Jan Maklakiewicz
 Toto Cutugno
+Lilla Batson
+Albert Hammond
 Dmitrij Sergeevič Merežkovskij
-Susan Buirge
 Reeves Gabrels
  Prince
+Luis Milan
 Giovanni Centemeri
 Günther Becker
 Gertrude Stein
@@ -18330,12 +22858,11 @@ Angel E. Lasala
 Harry Brooks
 Didier Le Blanc
 Patrick Hadley
-Hugo Claus
+Heinz Schwarzinger
 M. Amiel
 Vladimir Martynov
 Stefano Taglietti
 Jeanne Landry
-Biréli Lagrène
 John Lanchbery
 Carmelo Saitta
 Paule Chaudat
@@ -18344,6 +22871,7 @@ Dom La Nena
 Giovan Battista Bartoli
 Petar Konjović
 Gilbert Autève
+Arthur Menrath
 Sherman Edwards
 Auguste de Morny
 Juliusz Łuciuk
@@ -18354,60 +22882,70 @@ Peter Christoskov
 Jean-Charles François
 Jimmy Cox
 Rufo Herrera
+Livio Torresan
 Edouard Croze-Magnan
 Flavio Orsini
-Livio Torresan
 Édouard-François Clairville
 Charles Ives / Henry Brant
-Adam Mickiewicz
+Nikolay Borchev
+Giovanni Felice Sances
 Daniel Casimir
 Ortensio Polidori
 P. P. Blattman
 J. Baradat
  Men At Work
-Katarina Jovanovic
+Duke Jordan
 Jeff Ramsey
 Marina Bower
-H. Degardé
 Franz Bonn
+H. Degardé
 L. Chastrète
 Francesca Campana
 Magne Amdahl
 Pierre-César Abeille
 Wagner / Liszt 
-Richard Rogers
+Daniel Lassalle
 Francisco Gomez Patudo
 Edmond Membrée
-Christian Gouinguené
  Schumann Robert/Franz Liszt
 Anna Louisa Karsch
+Rame Lahaj
+Jay Gorney
 Rui Coelho
+bernot jean michel
 Georges Lunghini
 Erzsébet Szőnyi
 Bruno Dandrimont
 Wilhelm Posse
-Denzil Best
 Eduard Konstantinovich Konyus
+Kiera Duffy
 Eve Beglarian
 Tannhäuser
 Gioseppe Caimo
+Chad Shelton
 Germain Cognito
 Alexandre Javault
 Georg‏ ‎ Brack
 Jean-Jacques Lafon
 Johann Ernst Bach
 E. de Bellecour
+Adolph Green
+Edith Myers
+Viên Châu
 Jean -Jacques Dreuilh
 Giovanni Cifolelli
+Zhengzhong Zhou
 Ch. Coquemer
 François Brassard
 Fausto Razzi
+Aga Mikolaj
+Olivier Bombrun
 James Moreau
 A. Roque
 Louis Robilliard
 Claude Herluyson
 Renzo Rota
-Norman Demuth
+Patty Hill
 Walter Ruttmann
 Gregoire Brayssing
 Mario Ficarelli
@@ -18416,6 +22954,7 @@ Octave Courvoisier
 Francisco Bonifacio Dominguez
 Theodor Däubler
 Michel Garnier
+malidin philippe
 Bânbasurengijn Sarav
 Gustav Mahler / Glen Cortese
 Lee Santana
@@ -18427,18 +22966,24 @@ Sławomir Czarnecki
 Stephen Dembski
 Tommaso Marchesi
 Johann Siebenkäs
+Sébastien Gaxie
 Louis Homet
 Agostino Soderini
 Henry Wernert
  Dame Oiseuse et les sirènes chantantes
+Pablo Karaman
 Teodor Leszetycki
-Marianna Pizzolato
+William Cornish
 Juan Fernández de Madrid
 Raoul Arondel
 Cesare Tudino
 Yéghiché Tcharents
-Tong Shang
+Michel Bouvard
 Gomay
+Tong Shang
+Alice Goodman
+Giacinto Andrea Cicognini
+Alejandro Tantanian
 Harry Barris
 Robert Truillard
 Ernst Mielck
@@ -18447,27 +22992,34 @@ Lucy Flint
 Maurice Dela
 Kathleen Brennan
 Thomas Turek
+George Cory
 Anne Mantaux
+Jean-Christophe Spinosi
 Enrique X. Macías Alonso
 Théodore Andrejevitch
 Charles-Alexandre Jollage
 Luc Martinez
 Gideon Lewensohn
+Marivi Blasco
 Jean-Marie Raoul
 Emanuel Aloys Förster
+Billy Eckstine
 John Ashbery
 Léon de Wailly
 James McAlister
+Larry Morey
 J. R. Henry-Chollet
-Hélène Fauchère
+lepeintre marie
+Eddie Harris
+Marie Chilemme
 Eugène Delahache
-Montarin
 Mauro d' Alai
+Montarin
 David Daurier
 Henri Bonnery
-Gillian Whitehead
 Brian Fennelly
 Michel Fusté-Lambezat
+Milko Kelemen
 Gad Avrahami
 Edwin Fissinger
 Max Meyer-Olbersleben
@@ -18475,21 +23027,28 @@ Antonio Masini
 Étienne Langton
 Hiroati Takaha
 Christoph Kuffner
-Paul Dresher
+Katja Stuber
  Radiohead
 Tor Erik Hermansen
+Ben Johnson
 Gausbert Amiel
+Raphaël Boulay
 Christiane Colleney
+Dermot O'Leary
+Carlos Osuna
 Redento Zardo
 Zéphirin Cornudard
 Cátulo Castillo
+Alonso Avila
 Philippe Legrandgérard
 G. Chassériaud
+Nathalie Fillion
 Jean-Pierre Cavallo
 Pekka Jalkanen
 Leandro Gallerano
 Martin Weyer
 Lucien Joseph Edouard Hillemacher
+Martyn Brabbins
 Justinus Kerner
 Nicolas-Médard Audinot
 Paul Bruneau
@@ -18497,11 +23056,10 @@ Tom Burns
  Duo 
 King Tubby
 Pierre Rapsat
-Kennedy Russell
 Francisco Manuel da Silva
+Kennedy Russell
 Pierre Porte
 Charles-F. Domergue
-Manuel Nùñez Camelino
 Montagu Slater
 Vladimir Vasilʹevič Stasov
 Fernand Desprez
@@ -18509,6 +23067,7 @@ Tristan Derème
 Leopold Ferdinand Christian
 Alonso de Toro
 Rolv Yttrehus
+Pierre-Louis Moline
 Valero Moreno Polo
 Elsie Brooke
 Wilhelm Goldner
@@ -18517,32 +23076,42 @@ Guido Santórsola
 Robert Elmore
 Gunild Keetman
 Georges Hamel
+Eva Karova
 Jean Sarment
+Peter Longauer
 Gustav Hägg
 Ethelbert Nevin
 Takashi Yoshimatsu
+Pieter Jelle De Boer
  Caetano Veloso / Gilberto Gil
 Vera Matson
+John Eliot Gardiner
 John Barnes Chance
+Vincent Telly
 Frédéric Jourdan
 Benedetto Micheli
-Osmo Vänskä
 Elizabeth Bishop
 Rolf Karlsen
+Frederik Sakham Lomborg
+Heime Müller
 Frédéric Gombert
+Dario Prola
 Andrea Degola
+Miguel Azguime
 C. Dufresne
  Fanfare traditionnelle des Balkans
 Frank O'Hara
 Camille Balonchard
 Gabriele Villani
+Rossi Franck
 Frédéric Pelletier
 Giambattista Giusti
 Bob Decout
 Gustave Sandré
+Valérie Philippin
+Tarass Chevtchenko
 Jean-Baptiste Masse
 Berthe Argento
-Émile Guimet
 Walter James
  Abraham Ellstein
 Petrus Roselli
@@ -18553,6 +23122,7 @@ Nathalie Pilant
 Abel Ballif
 M. Cabet-Vander-Haert
 Angela Morley
+David Thomson
 Mattéo Franceschini
 Nehama Reuben
 Saint-Yves Bax
@@ -18560,7 +23130,6 @@ Pompeo Cannicciari
 A. Cazaldo
 Jacques Desloges
 Auguste Bastin
-James Tenney
 François Borne
 Carole Mayran de Chamisso
 Henri Carol
@@ -18571,43 +23140,50 @@ Jean-Joseph Vadé
 Edward Fletcher
 Jean-François Oricelli
 R. Mendouze
+Hindley Paul Edouard
 Nikoġayos Tigranyan
+Michael Guttman
 Claude Barzotti
 Jean-Marc Pelatan
 Gustave Cirilli
 Roland Martin
 Mihail Goldstejn
 William Child
+Tzimon Barto
 Curt Langer
 Josep Casanovas
 Irving Caesar
+Olivier Bost
 Xaver Hammer
-Alejandro Meerapfel
 Milo Cipra
 Marc Hegenhauser
 Charles Le Corbeiller
 Takuzo Inagaki
 Julius Bittner
 Manuel Oscar Campoamor
+Jean Rouaud
 August Hermann Niemeyer
 Richard Smert
 Friedrich Wilhelm Weiskern
 Joseph Miroslav Weber
+Frédéric Kirch
 Sam Cooke
 Gustav Friedrichsohn
 Floriano Canale
+Christine Rice
 Heribert von Eichstätt
 L. B.
 Nelson Cavaquinho
+Gail Pearson
 Christian Friedrich Ruppe
-Lucio Dalla
 Camille Rocailleux
 Floro Manuel Ugarte
 Ittai Shapira
+Mirzahemedov Abduvahid
 Nicolás Dupont
-André Derain
 John N. Klohr
 Anton Arenski
+Paul Constantinescu
 Brian Boydell
 Mildred Jane Hill
 Antonín DvoŸák
@@ -18624,36 +23200,36 @@ Nicolaus Rosthius
 Vivien Valley
 Georges Daoud
 Hilding Hallnäs
+Andrea Leone Tottola
 Max Helfman
 Juan Esquivel
 Sonia Mokhtari
 Melissa Hui
+Bruno Maurice
 Paul Earls
-Angelo Corradini
 Rosario Castagnola
+Angelo Corradini
 Efrain Oscher
-Francesco Landini
 Luigi De Grassi
-Friedrich Richard Faltin
 André Simiot
+Friedrich Richard Faltin
+Saint Ambroise
 Pierre Crispi
 Katerine
 E. Böhm
-Vittorio Alfieri
 Antony Lamotte
 Derek Tywoniuk
 Jean Doué
 Jacques Larmanjat
 Pascal Saint-Léger
 Jean-Luc Peilhon
+Ted Fiorito
 Anthony Glise
 Charles-Louis Pothier
 Johann Joseph Roesler
-Louis Payen
 Joseph Ignaz Schnabel
 Victor-Marcel Bouis
 Honoré d' Ambruys
-François Charruyer
 Louis de Croze
 Ivor Novello
 Jean Rousée
@@ -18674,99 +23250,116 @@ Jeppe Aakjær
 Michel Carré
 Jacques Gaucheron
 Boris Ivanovic Fomin
-Rolf Ranehov
+Sergei Babayan
 Giulio Cesare Arresti
+Rolf Ranehov
 Albert Bonzans
-Pharoah Sanders
 Jean-Joseph Rodolphe
+Daniel Espasa
 Oscar de Lagoanère
 Henri Kéroul
 Cosmas Alder
 Frédéric Giroux
 Oliver Shaw
+Sónia Grané
+Travaldinha
 Georgi Tutev
-Antoine Bruhier
 Carlo Florindo Semini
 G. Capitani
 Herrade de Landsberg
-George Hurst
 Tullio Pinelli
-Federico Fellini
+Luigi Groto
 A. Ciardini
+Bruno Desmouilleres
 Hermann Wetzler
+Jean Xhonneux
 Olivier Boreau
 Christophe Henry
 Joseph Chalambel
 Philip Martin
+Pablo Sorozabal
 Anthony Cheung
 Franz von Schober
+DuBose Heyward
 Jan Goorissen
 Sigismund Bachrich
 Lucien Dubruille
+Thomas Piffka
+Bernard de Vienne
 Jean Baptiste Fauchard de Grand-Ménil
 Aïcha Redouane
 Mary Lynn Lightfoot
 Samuel Augustus Ward
 Norman Cocker
+Marco Sportelli
 Persis Vehar
 Giorgio Tosi
+Joelle Harvey
  Traditionnel argentin/colombien
 André Lodéon
 Gail Kubik
 Philippe Leduc
-Vesna Parun
 Hermann Finck
 Micha Passetchnik
+Eustache Deschamps
 Evelyn Ficarra
+Antonin Lugnier
 George Casper Hoderman
+Geoffrey Carey
+Andrea Marchiol
 Robert de Blois
+Trevor Scheunemann
 Elliott Shelling Schwartz
 Jeanne Courras
 Raoul Chantegrelet
+Alexey Sergunin
 Hélène Colombotti
-Giuseppe Antonio Brescianello
 Francesco Pasquale Ricci
-Gaston Brenta
+Giuseppe Antonio Brescianello
 Scott Hiltzik
 Nikita Koskin
-Paolo Fanale
 François Fouqué
 Girard
-Marzena Komsta
+Igor Raykhelson
+Andrew Watts
 Francisco José Martín-Jaime
 Len "Boogie" Sharp
 Anna Boursault
 Dumitru Kiriac-Georgescu
 Lorentz
-Vincent Planes
-William Hunnis
 contrafactum Martin le Béguin de Cambrai
+William Hunnis
 Manuel Hernandez
+Gatti Aurelio
+Thomas Weelkes
 Monsieur Colmart
 Monsieur de Bussy
 Marko Ristić
 Franz Bühler
 Henri Doyen
 Valentine de B.
-Carola Bauckholt
 Radamés Grattali
+Caroline Pichler
 Nelle Karajlić
 Leslie Bassett
 Linda Lyndell
+Reinhard Hagen
 Luis A. Torres
-Rezső Kókai
+Ivan Tourgueniev
 Eero Hameenniemi
+Rezső Kókai
 Ian Krouse
+Mike Hazlewood
 Honoré Langlé
 Regina Beretta
+Thomas d' Urfey
 Ernest Castro
-Hans Adolph Brorson
  Marquise de Travanet
 Eberhard Werdin
 Birouat
+Christiane Karg
  Albert Willemetz et Cami/Raoul Moretti
 Daniel Bjarnason
-Anna Dennis
 John Henry Newman
 Fr. Bruno
 Domineco Giorgis
@@ -18775,22 +23368,21 @@ Ralph Lalama
 José Manuel Berea Florez
 José de Juan Martinez
 Graham Joyce
+Peter Sonn
 George Tchlaidze
-Samson François
-Brindley Sherratt
 A. Noguera
 Alexandre Montfort
 Jonne Valtonen
 Pierre-Alexandre Huber
+Allan Holdsworth
 Eddie Palmieri
  Abbé Lusson
 Clifton Chase
 Francesco Manelli
-Miguel Medina Corpas
 Henrik Frendin
+Miguel Medina Corpas
 Lecoq
  Codex de Las Huelgas, 76, f. 73v
-Peter Sellars
 János Viski
 Aymar
 Jacques Ballue
@@ -18806,10 +23398,11 @@ Kjell Johnsen
 Nicolas Gigault
 Pauline Hall
 Joseph Schmitt
+Sergueï Ivanovitch Taneiev
 Nikolaï Rimsky-Korsakov
 John Patrick Millow
 E. Brun
-Antonio Lai
+Maxime Jacob
 Guy Matteoni
 Henry Walford Davies
 Béla Paulini
@@ -18819,22 +23412,21 @@ Lionel Lefranc
 René Lenormand
 Jean-Pierre Grédy
 Étienne de Meaux
-Alain Lubrano
+Jean Joseph Vadé
 Nat Farber
 Jean-Nicolas Marrigues
 Claude Vermorel
 Simon de Bonefont
 Thierry Caens
-Jacques Wildberger
  Claire Diterzi/Christine Payeux
  Makam
 Patrice Morandeau
-Marie-Ange Petit
 Rikako Watanabé
 Auguste Dupont
 Robert Favre Le Bret
 Amanda McBroom
 Jon Christopher Nelson
+Sandrine Buendia
 Roman Statkowski
 Deborah Harry Giorgio Moroder, 
 G. M. Bernard
@@ -18842,14 +23434,17 @@ Ján Levoslav Bella
 Joachim Decker
 W. Ward-Higgs
 Peter Leisegang
+Giovanni Filippo Appoloni
 Alphonse Perpignan
-Jean-Marc Laureau
 Jacques Auschitzky
 Jules Blanc
+Jean-Marie Delpas
+John Tessier
 Édouard Laparra
-Philippe Perrin
+Steven Beard
 Francesco Alborea
 Christoph Wünsch
+Stefano Felis
 Johann Ernst Rieck
 Hélène Breschand
 Sabreen Staples
@@ -18857,52 +23452,62 @@ Michael Berkeley
 Capitaine Tobias Hume
 Luigi Orselli
 Agustín Moreto
-Jacques Lacarrière
-Zbigniew Karkowski
+Johannes Vincenet
 Jean D. Barlan
+Zbigniew Karkowski
+Alessandra Rizzello
 Agustín Valdivieso de Ceballos
 Serge Lécussant
 Luigi Manzotti
 David Wessel
+Silvia Careddu
+Loukas Panourgias
+Raymond Very
 Georges Guillaume
+Irving Gordon
 Charles-Marie  Widor
+Jean-Charles François
 Augusta Read Thomas
 Éloge de la Folie Érasme
 Louis-Nicolas  Clérambault
-Takayuki Rai
 Jaime Bosch
+Takayuki Rai
 Ellis Gibbons
 Vicenç Acuña
-Pablo Ferrández
 Francisco Alongi
  George Gershwin / Jascha Heifetz
 Jacques-Simon Mangot
+Paola Munari
 Pantaleon Roskovsky
 Thomas Hardy
-Juliana Hodkinson
 Snoop Dogg
+David Hendry
 Hector Zazou
+Heinrich Kipper
 Paolo Fodale
 Paul Poirson
 Armas Toivo Valdemar Maasalo
 S. Augier
-Theo Bonheur
+Istvan Szecsi
 Nadir Vassena
+Theo Bonheur
+Ramon Vargas
 Jean Hotteterre
 Otto Ketting
 Stéphane Gourdon
 A. Laroche
 Claude Dubuis
 Guy Besançon
-Rolando Villazón
 Bela Bartok
+Giovanni Domenico da Nola
 Franz Volkert
-Jean-Philippe Navarre
+Rodion Chedrine
 Aloys Weissenbach
-Martina Serafin
 V. Bacca
 Christian Ludwig Boxberg
 Dominique A.
+Sebastiano Baldini
+Adolf Strauss
 Pierre Cougny
 Jaan Rääts
 Laurent Delebecque
@@ -18916,27 +23521,35 @@ Nyoman Sulasih
 Vincenzo Fiocchi
 Georges Courtois
 Christian Favre
+Johann Woltz
+Szabolcs Brickner
+Rinaldo Da Capua
 Nathalie Nabert
 Rahul Dev Burman
 Francesca Perissinotto
+Hanna-Elisabeth Müller
 Éloy d' Amerval
 Marcello Benedetto
 A. Bardet
+Giacomo Maccari
 Marcel Hurstemans
+Gilles d'Orléans
 Albert Streich
 Christophe Perez
+Francesco Ellero d'Artegna
+Robert Bridges
+Isabelle Limousin
 Gustave Roche
 Ludwig Gossner
 Veniamin Iosifovič Flejšman
-Michel Pozmanter
 Aleksandr Fëdorovic Gedike
  Tannhäuser (fin du 13° siècle)
+Luciana D' Intino
 Cameron Brown
 Simon Rackham
 Paul Turok
 Ramon Gimenez
 Andreas Pflüger
-Samantha Montgomery
 Emanuele Biletta
 Francisco Chiaffitelli
 Stan Lewis
@@ -18944,6 +23557,7 @@ Erhard Karkoschka
 Hans Fryba
 Ricardo Salinas
 Edgar Bainton
+Ann Murray
 Ravi Kumar
 Dámaso Zabalza
 Augustin Plattner
@@ -18952,29 +23566,32 @@ Rudolph Wurlitzer
 Robert HP Platz
 John Adson
 Paul Auriat
-Angelo Maria Benincori
 Julia Charlier
 Qalmurat Ryskulov
 Philippe Duchesne
+Peter Von Winter
 Nicolas-Jean Lefroid de Mereaux
 Cottignies
 John Aylward
 A. C.
 Frederick Corder
+Tomasz Konieczny
 François Le Fégueux
-Henri Vieuxtemps
 Robert Schumann / Claude Debussy
 Juliette Baudin
-M. Deceduher
+Laurent Dupéré
+Diógenes Randes
+Stefano Barneschi
 Jean-Pierre Lensen
+M. Deceduher
 Coenemery
 Max Janowski
 Giovanni Nicola Fabio Fruttaldi
 Johannes Fritsch
 Walter De La Mare
-Olav Berg
 Saša Černyj
 Enzo Gieco
+Frano Parac
 Makiko Kinoshita
 Alfred Bryan
 Edwin Hawkins
@@ -18983,38 +23600,42 @@ Henry Loosemore
 Henry Eymieu
 Agostino Scozzese
 Joseph Mayseder
+Etienne Bultingaire
 Jean-Paul Penin
-Kudsi Erguner
 Nicholas Strogers
 Clément
 Vicente Garrido
+Patrick Bolleire
 Luisa Indovini Beretta
 Raphael Courteville
 Robert Henderson
 Pietro Terziani
 Anatasio Bello Montero
+Hashimi Siar
 Micaël Cortone d'Amore
 Acace d' Albiac
 Vincent Breton
+Antoine Rigot
 Claude-Michel Schönberg / Alain Boublil
-Georg Büchner
+June Anderson
 Massah Miksch Warner
 Russ Gurshow
 Harvey Sollberger
+Anton Scharinger
 Małgorzata Hillar
 Hans Sturzenegger
 Ro Ogura
+Marc Bouchkov
 Léo Latil
 Supa Dave West
 Isabelle Chauvallon
 Galina Ustwolskaja
+Patrice Muller
 Christopher Knowles
-Smagul Umbetbaev
 Maxime Duhem
-Peter Kember
 Raffaele Ascolese
+Peter Kember
 Pykini
-Pietro Borradori
 Anthoni Van Noordt
 Pascal Diez
 Don Aronowicz
@@ -19025,10 +23646,12 @@ Bert Poulheim
 Jorge Portugal
 Gustavo Kantor
 Georges Carel
+Cindy McTee
 Henri Berton
+Willem Pijper
+Jean-Pierre Furlan
 Anatole France
 Raphaël Charpentier
-Stéphane Caillat
 Louis Nidermeyer
 Ignazio Gerace
 Rudolf Moser
@@ -19036,40 +23659,50 @@ François Gabriel Grast
 Ramón Barce
 Radul Saddick
 Gabriel Charpentier
+Christian L'Egru
+Lorenzo Regazzo
+Charles Mackerras
 Saúl Cosentino
-José Afonso
 Antonio Barrière
+Jean-Yves Ravoux
 Eliseo Canton
 Thibaut Vuillermet
 Christian August Goermar
+Viniciu Moroianu
 Sedano
+Juan Carlos Cobian
 Claude Tricot
 César Artok
 Ferdinand Bailly
 Dumaniant
 Klabund
+John L Golden
 Peter Paul Olejar
-Marc Garcia Vitoria
+Zoltan Kocsis
 Andrea Gabrieli /  Giovanni Gabrieli
-Denis Bosse
 Rainer Killius
+Lilli Paasikivi
 Lee Wall
 Hannes Meyer
 Joseph Alois Gleich
-Guido Menasci
  Georgius/Pierre Chagnon
 Joseph La Calle
+Carola Höhn
  Codex de Las Huelgas, 104a, f. 102v
+Anne Kingsmill
 Erhard Bodenschatz
+Andrew Richards
 Herbert Henck
-Dan Bigras
+William Congreve
 Pierre Bertouy
 Jane M. Clift
 Julien Cellario
 Niklas Rådström
 Frédo Gardoni
 Robert Cundick
+Gaetano dEspinosa
 Hermann Keller
+Harold de Bozy
 Marco D'Arienzo
 Giuseppe Giamberti
 John Bacchus Dykes
@@ -19077,12 +23710,13 @@ Diego Fernandez De Huete
 Brian Graiser
 Gustave Clétiez
 Thomas Morgan
+Karen Harnay
 Feofanʹ
 Emile Bouvier
 Pascal Duc
+Alexandre Raskatov
 Paco Carmona
 Walter Marks
-Svetla Vassileva
 Étienne Micard
 Erik Mikael Karlsson
 Paolo Santoni
@@ -19090,12 +23724,15 @@ J. S. Charles Calegary
 Francesco Maria Rascarini
 Lucien Pipon
 Ad. Bazin
-Florent Renard-Payen
+Maja Pavlovska
 Joseph Lupo
 Tom Armstrong
 Ramon Ramos
 Vladimir Peskin
+Esther Zaglia
+THUAU Benjamin
 Emile Germain
+Plotin
 Franz Furrer-Münch
 E. Decerf
 Aleksej Semënovic Zivotov
@@ -19103,17 +23740,21 @@ Wojciech Lukaszewski
 Maistre Gosse
 Philippe Missir
 James Romig
+Hichem Takaoute
 Hae-Sik Lee
 Henrik Frisk
 George Hespe
+Ana Maria Martinez
+Joël Castaingts
+Martin Crimp
 Silvia Sommer
 Emilio Balcarce
 Csembò
 Will Smith
 Jacky Delance
 Favier
-Fred Adison
 Paul Barnaby
+Nicolas Sani
 Sylvain Kuntzmann
 Adeline-Marguerite-Marie Lesueur
 Makar Ekmalean
@@ -19122,37 +23763,40 @@ Jonathan Sharp
 Luigi Felice Rossi
 Séverin Moisse
 John David Edwards
-David Willcocks
 Reijo Kekkonen
 Joseph Stone
 Carlos Tuxen-Bang
+Neyko Bodurov
+Samuel Domergue
 Nicholas White
 Laurent P. Berger
 Ulises Bastanzio
-Grazio Braccioli
 Louis-Félix Despréaux
 Sébastien Currier
 Julius Brammer
-Louis Alter
 Mohamed Mbwana Shigoo
 Odile Reibel-Théobald
 Rogelio Huguet
 Bragado
 Henry de Berne
-David Chaillou
+Robert Lloyd
 Henriette Ancelin
-Marc Battier
+Jacob Garchik
 David Reiland
-José Manuel López López
+Marc Battier
+Bryan Hymel
+Rafik Mecheri
 Elliot Goldenthal
 L. T. Lambert
 Achille Longo
 Victor- Adolphe Herpin
-Michelle Tellier
 Ferdinand Langlé
 Luis Maria Serra
+Laurent Boukobza
 Auguste Colpaert
 Marcus Miller
+Thuong-Maï Tran
+Fflur Wyn
 Hedwig Michel
 Elie Leserre
 Johan Nicolaas Lentz
@@ -19162,47 +23806,54 @@ Franz Winkler
 Jean Chabrut
 Antoine Calvière
 S. Calegari
+Pierre Cussac
 Francesco Venturini
-Amédée de Beauplan
 P. Champion
-Michael Edwards
+Ralph Rainger
 Carlo Domeniconi
+Alberto Parma
 Louis Marischal
 Nikolaus Piltz
+Lew Pollack
 Giulio Abondante
 Gérard Labady
 Emmanuel Ménis
 Anatole Delacourt
 Henri Altès
 Isidore Bertheaume
+Claude Salmieri
 Francesco Bianchini
-Tadeusz Jarecki
 Garnier
+Tadeusz Jarecki
 Paul Pörtner
 Jean-Pierre Calvet
 Carlo Baldi
 M. Bruel
-Eduard Stucken
 Philip Moore
+Eduard Stucken
 John Gildon
 Dieter Acker
 Yasaburo
-Adrian Grigor'evic Saposnikov
 Jüri Reinvere
+Adrian Grigor'evic Saposnikov
 André Decaye, Lucien Carol / Vincent Scotto
+Johannes Reson
 Jean-Baptiste Cupis
 Francesco Zappa
 Jean Guitton
 Giuseppe Tricarico
+Andrei Tepliakov
 Giancarlo Bigazzi
 Ming-Chi Chan
 Francesco Pastacaldi
+Stuart Neill
+Anett Fritsch
+Virginia Morley
 Térence Cros
 Paolo Aralla
 Olivier André
 Miyan Tansen
 Juan Arroyo
-Lucien Capet
 Camille Bleuse
 Suva Devi
 Atli Heimir Sveinsson
@@ -19211,11 +23862,12 @@ Maria Brunetti
 Miroslav Krejčí
 G. Cerizay
 Flavio Colusso
+Gleb Nikolski
 Michel Torreilles
 Jorge Liderman
 Pierre "Tiboum" Guignon
-Lyle Mays
 Louis-Jérôme Gohier
+Lyle Mays
 George Jackson
 Pêteris Barisons
  Phylo/Gaston Gabaroche et Fred Pearly
@@ -19223,11 +23875,8 @@ Richard Crashaw
 Rip
 Paolo Giorza
 Roger Bourdin
-Roy Hargrove
 James Miller
-Piers Hellawell
 Francisco Olivares
-Mária Celeng
 Tauno Aints
 Kenneth MacMillan
 Zbynek Mateju
@@ -19235,7 +23884,12 @@ Bartomeu Cárceres
 Marc Roger Normand
 Jacques Bouffil
 Oscar Levant
+Manuel Günther
+Nozomi Nakagiri
+Christian Mason
 Marcel Ciampi
+Jean François Regnard
+Barbara Senator
 Joseph-Georges Erb
 François Van Campenhout
 Claudine Banton
@@ -19254,30 +23908,31 @@ Bertil Palmar Johansen
 Lou De Prick
 Fëdor Fëdorovic Keneman
 Ferit Tüzün
-Edvard Munch
  Stavil/Gonella
 Yoris d' Hansewick
 Henri Chopy
 Georges Chevignard
 Franz Ries
-Alan Bush
 Ch. M. Constantin
+Joël Pommerat
 A. J. Cauvy
 Julien Clerc
 Vincent Bruley
 Carlos López Buchardo, Alberto Ginastera Carlos Guastavino,
 Jean-Baptiste Blanc
-Hubert Nyssen
+Leo Nucci
 Carlo Boller
 Gaston Couté
+Adam Fischer
 Joseph Dahan
 Jean-Louis Croze
-Jan Truhlar
+Yuriy Mynenko
 Albert Houfflack
 Albert Lavignac
 Shunshu
+Jean Sablon
+Du Bose Heyward
 Pierre-Antoine Poidevin
-Jacopo Peri
  Paul Colline/Maurice Roget
 Violet Alford
 Piero Calabrese
@@ -19288,57 +23943,57 @@ Benedetto Iunck
 Giulio Cesare Arresti
  Paul de Kock/Yvette Guilbert
 Javier Navarrete
+Charles D'orleans
 Pearl Bills Barrett
 Francesco Antonioni
-Willem Jeths
-Eugène Champein
 Henri-Charles de Senneterre
+Eugène Champein
 Violette Wanty
 Georg Vogelhuber
 Moisés Moleiro
 Raymond Adnot
 Werner Kaegi
-Christophe Fel
 Cipriani Potter
-Pierre Favre
 Bernard Faguet
 Art Hickman
 Georg Caspar Schürmann
 Bobby Hutcherson
 Franck Mauris Demourioux
+Marina Lapina
 Walter Baer
 Romain Humeau
+Nicolas Guillen
 Karl Erik Gustafsson
 Gaspar  Fernandes (Catedral de Oaxaca, México)
 C. Blanc de Fontbelle
 Joe Duddell
 Nick Jago
+Valeri Brioussov
+Georges Catoire
 Avelino Valenti
 Esteban Ponce de León
 Adolphe Gauwin
 Marie Bonaparte
+Ortensio Mauro
 Johannes Hermann Ernst Koch
 Anthony Heilbut
-Vincent Novello
 Elias Tanenbaum
 Kadek Sri Yuliastini
-Klaus Ager
-Jean-Bernard Dartigolles
+Claude Lévi-Strauss
 William Tans'ur
 Auguste Le Guennant
 Robert Carr
-Jacques Champion de Chambonnières
-Francesco Sacrati
 Asim Horozic
 Reinmar von Brennenberg
 Andor Kovách
 Gabriele Leone
+Pierre Bleuse
 Emil Petrovics
 Edouard Barrat
 Richard Hageman
 Clemente Barrachina
-F. D. Mouchy
 John C. Ward
+F. D. Mouchy
 Ernest Charles
   Quatuor Pavel Haas
 Thorkell Sigurbjörnsson
@@ -19348,26 +24003,30 @@ Ed. Chevreux
 Charles Deip
 Alejandro Guarello
 Renaud de Jouvenel
+Charles-Simon Catel
 Guirne Creith
 Pete Rose
+Juan de Lienas
 Théophile de Wallensbourg
 Roger Wolfe Kahn
 Paul Lacome
 Manuel Y. Ferrer
 Paul Mathey
 Juan I. Arana
-Georg Kaiser
 L. L. Lynde
 Antonio Fanzaglia
 Castet
 Alex Nante
 Mikhail Zeiger
 Rick Wakeman
+Lucio Demare
 Christopher Blake
 Conrad Baden
 Albert Larrieu
+Moro Mauritio
 Jonas Lüscher
 Aleksandar Obradovic
+Azarova Svitlana
  Musique traditionnelle de la province du Shan Dong
 Henrique Régo
  Rodriguez
@@ -19377,22 +24036,17 @@ Marcel Courmes
 Miguel Melanco
 Manohar Singh
 Qi-Gang Chen
-Jean Epstein
 Michael Adamis
 Christian Arabian
-Suzanne Stephens
 Claudius Blanc
+Nika Guliashvili
 Otto Matthäus Zykan
-Homero Expósito
 Honoré Duveyrier
 María de Alvear
 Jean Ritchie
-Patrick Doyle
 Guilherme Bauer
-Elisabeth Hauptmann
 René Matthes
 Paul Creuse
-Claudy Malherbe
 Emile Spencer
 Johannes Mangon
 Heinrich Reinhardt
@@ -19402,42 +24056,53 @@ William Hunnis
 Mihály Hajdú
 Rafael Díaz
 Wizlâv von Rügen
+Rota Ernesta
+Philippe Maillard
 Giuseppe Calegari
 Auguste Coquelin
 Angiolo Gagni
 Alain Labarsouque
+Marc Valéro
 Pietro Gianotti
 Josef Braun
+Livingston Gearhart
 Petros Korelis
+Hildegarde Von Bingen
 Olivier Caudron
 Kay Swift
+Ekaterina Isachenko
 Etz Boded
+Guillaume Minoret
 Samuel M. Johnson
 Francesco Antonio Vallotti
 Raphael Seguinier
 Howard Whitaker
 Alfredo Keil
+Sieur de Machy
+maniere jean michel
+Daniela Pini
 E. Colombé
 Patrick Jacques
  Anonyme (Regensburg, 13° siècle)
+David Delacroix
 David Max
 Moniot d'Arras
 Lazare Perruchot
+Sayed Darwich
 Pasquale De Filippis
-Jörgen Van Rijen
 Nehemiah Shumway
 Betty Boutelle
-Chris Potter
 Alfred Uhl
 James F. Hanley
 Giuseppe Grimaldi
+Ivan Charbit
 Dorothy Leigh Sayers
 Barna Kováts
 Innocentius Dammonis
 Roy Douglas
 Anibal Carmelo Triolo
 Paul Segnitz
-Zsolt Durkó
+Nadja Michael
 Shuso
 Luc Guilloré
 Antonín Kammel
@@ -19450,23 +24115,28 @@ Bonaventura Terreni
 Liu Sola
 Michel Armengot
 Chris Watson
+Michael Parsons
 Tofig Guliyev
 Adam Boyette
 Paul de Schlözer
+Everhard von Wampen
 Ivan Markovitch
 Evgenij Aleksandrovič Evtušenko
+Maximo Diego Pujol
 Francesco Feroci
 Eric Ewasen
+Vercors
 Joseph Mikel
 Georges Lewis
 Bernardino Mezzanotte
 Gilles Mureau
 Olivier Vonderscher
 Joseph Alois Holzmann
+Daniel Augusto D'Adamo
 Mike Schoenmehl
-Hossam Mahmoud
 Gottfried Kirchhoff
 Marc de Barry
+Ana Dezman
 Petrus
 Rudi Spring
 Bruno Lecoeur
@@ -19476,42 +24146,59 @@ Salomon Hermann Mosenthal
 Raguvamsa Sudha
 Thoma Simaku
 André Grassi
+Vaclav Jan Tomasek
 André Danican Philidor
 Rainer Bischof
 Michel Schwingrouber
 Charles Chivot
+Barbara Frittoli
 Pierre Bernard
+Jay Alanski
 T. Alvar-Garnier
+Manfred Hemm
+Augusto de Campos
+Lucia Peralta
 Fred Blondin
+Marlon Titre
 Révérend, Père Crame
 Carlo Coccia
+William Wordsworth
 Rogier Michael
+Bill Carey
+Eric Caravaca
 F. Chacón
-Eric Banks
 Xavier Vidic
+Eric Banks
 Jean-Jacques Dalmayrac
 Manu Eveno
 Joseph Bouglia
-Zoltán Peskó
+Antoine Busnois
 Tristan Clais
 Adolphe Guiol
 Lothar Voigtländer
+Müller Heiner
 Rocco Trimarchi
 M. S. Albaniz
-Olivier Marron
 Antonio Gala
+Petrus Herbert
 Bernardo Schmid
 Ana Torres
+Sonny Rollins
+Francisco Tarrega
 Jan Krzywicki
 André Astier
 Giulio Belli
+Nikolai Andrei Schukoff
 Armand Canfora
-Alejo Carpentier
+Annick Massis
+Anne Villette
 Jeff Christie
 Anders Eliasson
 Conrad Aiken
 Léon Bournigal
+Camille Mauclair
 E. Brown
+Keith Jarrett
 James Hotchkiss Rogers
 Antonio Paso
 Giovanni Battista Moscaglia
@@ -19521,16 +24208,15 @@ Domenico Caudioso
 John Cole
 Frédéric Bonnange
 Théobald, Philémon Anatol Adriet
-Michael Jackson
+Blanche Staffe
 Lucinda Childs
 Jules Bailac
  The Who
 Mireille Kyrou
-Pigault-Lebrun
 Francesco Terrore
 Sergius Kagen
-Pierre Bouteiller
 Günther Ramin
+Carlos Oscar Carabajal
 François Guillemot
 Éléonore de Vaulabelle
 Robert Lopez / Kristen Anderson-Lopez
@@ -19539,23 +24225,32 @@ Henriette Adelaïde Villard de Beaumesnil
 Johann Sigismund Weiss
 Andreas Hallen
 Georg Christoph Bach
+Brian Sheridan
  G. Giménez
 Louis Poterat
 Christian Geist
 Luis de Narvaez
+Elena Maximova
 Sasha Johnson Manning
-Lionel Bord
+Michel Deltruc
+Richard Carpenter
 Wayan David Ariesta
+MERSCHEN Philippe
+Sylvain Darrifourcq
+Serena Malfi
 Edgar Bainton
 Giovanni Battista Ferrini
+Paul Desmond
 Guido Cavalcanti
 Georg Kröll
+Enrico Rava
 Pascal Georges
+Louis Béraud
 Christian Escaffre
 Edward Coleman
-Gyula David
 Gustav Lewin
 John C. Spikes
+Félix Dahn
 Robert Alexander Bohnke
 Dylan Thomas
 Émile Martin
@@ -19563,11 +24258,12 @@ Paul Lannin
 Victor Alard
 Carl Teike
 Barry Ries
+Hyacinth Freiherr von Weiser
 Nicolo Pifaro
 Haseo Sugiyama
 Jules Mouquet
-Gérard Layani
 Jean-Marc Mandelli
+Simon Bode
 J. Christopher Pardini
 Jules Alary
 Hermannus Contractus
@@ -19575,19 +24271,19 @@ Antonio José
 Dominique Barthassat
 Adam Stanbie
 Antonio Del Gaudio
-Roland Lebrun
 Ludwig Fassbaender
+Roland Lebrun
 Jérôme Cotta
 Arnaud Fusté-Lambezat
 Jo Moutet
 Gilberto Valdés
 Norman Lloyd
 Fenxun Wang
+David Robinson
 Thomas Beimel
 Johannes Verhulst
+Etienne Durand
 Federico Ibarra
-Emile Prudent
-Louis Diémer
 Oskar Sala
 José Del Rosario Iriarte
 Juan Antonio de Vargas y Guzmán
@@ -19595,8 +24291,12 @@ Charles Cabrol de l'Enclos
 Luis Nos
 David Froom
 Dorothée Daniel
+Roland Dandaleix
 John Kinsella
+Mathieu Genet
 Samuel Martin-Galter
+Giovan Gualberto Bottarelli
+Anton Pavlovitch Tchekhov
 Charles Morac
 Nicolas Roze
 Hannes Heher
@@ -19609,17 +24309,22 @@ Mal Waldron
 Gioacchino Pizzi
 Donghoon Shin
 Léon Vasseur
-Ernst Bechert
 Francesco de Peraza
 Andrea Festa
+Homayoun Nasiri
 John Buckley
+Glafira Galina
+Yves Henry
 Sebastián López de Velasco
 Christophe Sinclair
+Alexander Kaimbacher
 John McLeod
+Marc Olivier de Nattes
 Arthur Blythe
 Aleksis Kivi
 Masahiro Ishijima
 Elisabeth Curlier
+Ronald Miller
 Emmanuel d' Astier de La Vigerie
 Der Unverzagte
 Nikolaj Kompanejskij
@@ -19627,6 +24332,8 @@ Yori-Aki Matsudaira
 Léo-Louis Barbès
 Hélène Codjo
 Theo Bruins
+Comte de Ségur
+Sjon
 Jonas Franke-Blom
 Kurt Fiebig
 Hermeto Pascoal
@@ -19634,40 +24341,45 @@ Marthe Henriod Bracquemond
 Agathe Berman
 Robert de Reims
 M. Aragon de Fondclair
-Denis de Rougemont
 Juan Pablo Del Medico
 Yiqiang Sun
 Jean Canivet
 Flaminio Corradi
 Lucien Boyer
 Antiquus episcopus Beneventinus
-William Cobbold
 Walford Davies
+William Cobbold
 M. de Colas
-Richard Wernick
 Bernie Miller
 Robert Hall Lewis
 Daniel Stirn
+Michaela Schuster
 Anthony Falaro
 Peter von Arberg
-Isabel Soccoja
-Sara Hershkowitz
+Théodor Coman
 Jean-Claude Vannier /  Serge Gainsbourg
 Philippe Dugué
 Francon de Cologne
+Gevorg Grigoryan
 Antoine Hugot
 Nicolas de Fontenailles
 Quixada
 Jeremie Schellaert
 Viktor Yevseyevich Suslin
 Wilhelm Friedrich Ernst Bach
+Garoux Arnaud
 Luis Resto
+Juyoung Park
 Caro
 George Alexander Osborne
 René Richard Castel
 M. de Contades
+Davy Cornillot
 Jean-Philippe Dragon
+John Woolrich
+Stéphane Freiss
 Johann Friedrich Grenser
+Jean-Luc Hervé
 Dan Yuhas
 Claude Thomas Smith
 Joseph August Eckschlager
@@ -19688,16 +24400,20 @@ Emil Abel Chizat
 Olmas Rasular
 Maximilien Carlier
 Renato Zanella
+Areg Ghaghramanyan
 Luis Llach
+Keren Motseri
 Michel Legrand 
 Filippo Vignato
+Klaus Badelt
 Bee Tiack
 Marc-Antoine Millon
-William Mathias
 Luciano González Sarmiento
 Albert-Maxime Baudard
+Jean Guy Godin
 Elisabeth Lutyens
  Anonyme portugais
+Cy Coleman
 Eduardo Martín
 L. Beaumont
 Hongjun Liu
@@ -19707,6 +24423,7 @@ Bernhard Lewkovitch
 Paul Klee
 Yvonne Aaron
 Gaetano Del Ricco
+Capucine Keller
 Al Lirvat
 Mary Frierson
 James Pierpont
@@ -19718,10 +24435,10 @@ Fabrice Martin
 John Hebden
 Carl Baermann
 Paul Ferraris
-Fernando Fiszbein
 Irène Andrews
  s t a  r  g a z e
 Joseph Hélitas de Meun
+Mimi Godebska
 Nikolaj Tolstâkov
 Bernardo Mengozzi
 contrafactum prose anonyme "Letabundus"
@@ -19736,39 +24453,50 @@ Bernard Noël
 Adolf Brunner
 Daniel-Paul Chappuzeau de Baugé
 Madame Clara
-Zdenek Lukas
 Josselin Vinay
 Jean-Baptiste Dutartre
 Abel Hermant
 Madame Edmond Benard
 Edmundo Vásquez
 Michel Jouveaux
+Elsa Maurus
+Erasme
+Hélène Lelardoux
 Elias Manoel
+Martin Frost
 Tassi Dôni Super Biton National de Segou
  Rip/Fred Pearly et Pierre Chagnon
 Andrea Puja
+Nicolai Znaider
 Kenneth Hesbeth
+Jake Arditti
 Marianne Van Kerkhoven
 Jean Hanelle
 Alan Jay Lerner
 Tracy L. Petersen
+Anne-Françoise Benhamou
  Manuale ad sacramenta (Japon, 1549)
+Joshua Ellicott
 Octave Gastineau
+Sébastien Wohlfart
 Julian Prieto
 Giselle Wyers
+Pavel Baransky
 Domenico Luchese
+Natalya Tymchenko
 Nicolas Vandooren
 Maria David
 Michel Prophette
+Mantan Parat
 Pedro Barabino
 Bruno Monsaingeon
-Paul de Musset
 John Alden
 Maurice Fanon
 Theo Mackeben
+Andrew Kennedy
 Nikolaj Pejko
-Cassandre
 Madame Louis Caussade
+Ekaterina Sementchouk
 I-Ruhi Ayangil
 Fred Mélé
 Marguerite Camalet
@@ -19777,14 +24505,16 @@ Sigmund Hemmel
 Giovanni Ferretti
 Bernat Icart
 Michael Ellison
+Jean-Féry Rebel
+Ryo Sakamoto
  György Ligeti
 Rafael Calleja
 Ballard MacDonald
 A. Christin
  Moe Jaffe & Nat Bonx
 Adolphe Blondeau
-Dominique-Charles Planchet
 Laura Elise Schwendinger
+Dominique-Charles Planchet
 Clément Loret
 Joseph Herrick
 Clemens Krauss
@@ -19792,22 +24522,23 @@ Juan F. Acosta
 Jan Astriab
 James Curnow
 Caroline Charrière
-Jean Paul
+Benjamin Perru
 Domenico Dall'Oglio
 Arif Melikov
 Ángel Peinado
+Dunk Rod
 Gacha Empega
 Joseph Boulogne chevalier de Saint-Georges
+Vincenzo Di Donato
 Jürg Kindle
 Donald Swann
-Frédéric Macarez
-Paul-Heinz Dittrich
 Matthias Eckel
 Alessandro Felici
 Camille Fagès
 Ernest d' Agrèves
 Viktor Poltoracskij
 Arthur Chaudoir
+Ray Noble
 Raymond Roze
 Carter Pann
 Wilhelm Maler
@@ -19815,14 +24546,12 @@ Franciscus Schola
 Miguel Zamacoïs
 François David
 Girolamo Giuliani
+Simon Van Hoecke
  Jacques-Charles/Albert Willemetz/Maurice Yvain
 André Velter
 Carlo Hemmerling
-Lewis Allan
 Eddie Sauter
-Dizu Plaatjies
 Jacky Merit
-Romain Champion
 Henry F. Gilbert
 Heinrich Valentin Beck
 Obo Addy
@@ -19830,16 +24559,19 @@ Severo Giussani
 Caius Coelius Sedulius
 Hippolyte Chauffert
 Antonio Cebrián
+Jérémy Duffau
 Carlos Fernández-Shaw
 Tomas Lestan
 J. Arnold
 Karl Suessdorf
 Geoffrey Keating
+Sainte-Colombe
 Igmar Alderete Acosta
+Piotr Kirievski
 Salvador Romero
+Béatrice Linon
 Isidore Bourdeau
 Tom Delaney
-Pierre-Jean Croset
 David Gow
 Graeme Koehne
 Hubert Katzenbeier
@@ -19850,18 +24582,19 @@ Enrico Cannio
 Luigi Platone
 Roland-Bernard Thomas
 Edouard Ben
+Slawomir Szychowiak
 Daniel Dahl
 Luis Pulido
 Virginie Schaeffer
 J. Cornu
-Carine Séchaye
+Adam Diegel
 Lasse O'Månsson
 Roland Gérin
 Miquel Martí i Pol
 Pedro Arañaz y Vides
 Stepan Chakarian
 Paul Sargent
-Jeff Ballard
+Hermann Allmers
 Friedrich Schmidtmann
 Albert Sarda
 Mari Kamimoto
@@ -19874,11 +24607,13 @@ Delafont
 Huon de Saint-Quentin
 Young Chul Koo
 Francisco González
+Juan Carlos Benitez
  Mss. de Firenze P9, StV 3,2, f. 270v
 L. Bossi
+Michele Scott
 Aymeric Avice
 François Delor
-Jérôme Combier
+Jean Daufresne
 Joep Straesser
 M. A. Reichert
 Giovanni Ferrio
@@ -19886,22 +24621,31 @@ Suzanne Coquelin
 Michael Frank
 Comtesse d' Alton-Shée
 Stephen Johns
+Nancy Bush
 Syl Johnson
 Maria Rodrigo
 Ayalew Abbèbè
 Pierre Braunstein
 Jean Eichelberger Ivey
+Hugo Reinhart
 Fabrice François
 Cesare Bendinelli
 Pierre Marie Gimet
 Petr Pokorny
 François Le Cocq
+Pierre Charvet
+Becourt
+Christiane Libor Gutrune
 Guido De Angelis
 Théodore-Jean Tarade
+Romain Lenoir
 J. E. Jonasson
 Damian Le Gassick
+Heinrich Hart
 Ferdinando Bustamente
 Mouhamadou Gueye
+Kasif Demiröz
+Marie Karall
 Ryszard Sielicki
 Alex Shapiro
 Stéphane Lopez
@@ -19911,9 +24655,9 @@ Dizzy  Gillespie
 Antonio Galanti
 Joseph Stalder
 Ludovic Barnier
-Philippe Hériat
 James Burton
 Christian Gotthilf Tag
+Blandine Arnould
 Rodolfo Falvo
 Robert Hunter
 Dave West
@@ -19921,28 +24665,33 @@ Asger Lund Christiansen
 Georges Bizet / Rodion Shchedrin
 Edward Cohen
 Colin Mawby
+Maria Sabina
 Bernard Cioja
-Adam Cioffari
 Pedro Tintorer
+Tim Vogler
 Philippe Carson
 Jean-Michel Trotoux
 Jean Jourdan
 Marcel Berhaim
-Takayoshi Yoshioka
 Marthe Lacloche
+Takayoshi Yoshioka
 J. Cotarelo
 Mauro D'Alay
 El Chino
+Marie Stuart
 Noël Rota
+Bartlomiej Pekiel
 Filo Adinolfi
 Humberto Lami
 Louis Closset
 Koide Ichijyūrō
 Areski Belkacem
 Pascal Delalée
+John Lewis
 Shike Driz
  Traditional Jarocho
 Didier Matry
+Teodora Gheorghiu
 Eef van Breen
 Billy Arnold
 Antoine de Cousu
@@ -19956,10 +24705,15 @@ Sally Albrecht
 Craig Galbraith
 Antoine Maurel
 Fodé Lassana Diabaté
+Séneque
 Antoinette d' Harcourt
+Michel Souza de
 Félix-Jean Prot
+Alfredo Poesina
 F. Chevalley
 Théo Charlier
+Sidney Hodkinson
+Mirco Palazzi
 Armin Schibler
 Richard Blackford
 Mihaly Sipos
@@ -19989,12 +24743,15 @@ Francisco Balaguer
 Antoine Marmontel
 A. L.
 Yvon Ouazana
+Charrial Pierre
 Jacques d' Arlincourt
 Dimiter Hristov
 Auguste Sérieyx
 Georges Courbière
 Véronique Tadjo
+Veronika Dzhioeva
 Francesco de Guarnieri
+Luciano Montanaro
 Nikolaj Dmitrievič Volkov
  René Pujol/Fred Pearly et Pierre Chagnon
 Idil Özkan
@@ -20003,60 +24760,64 @@ Hokan
 Aloysio Mataron
 Robert de Reims La Chievre
 Patnam Subramonia Iyer
-Luigi Tenco
+Sacha Tchiorny
 Kazimiera Iłłakowiczówna
 Rosita Melo
+Denis Quilliard
 Francescantonio Signoretti
 Joaquin Valverde
+Eckart Heiligers
 Victor Hely-Hutchinson
 Nastasia Simonnet
-Émilie Nicot
 Brian Wright
 Joaquín Gaztambide
 Bolesław Wallek-Walewski
+Evez Abdulla
 Johann Rudolph Ahle
-Richard Perrin
 Max Andrel
 Cristian Carrera
 Franz Schubert / Angela Da Ponte
 Amédée  Thuillier
 Alan Bjelinski
 Robert Schumann /  Claude Debussy
+Philippe Blard
 Eugène Demolder
 Christian Ritter
 Emmanuel Moire
+Ali Alaoui
 Robert Chauvelot
 César Casella
 Henri Porte
 Johann Decker-Schenk
 Charles-Wilfrid Bériot
-Rodney Gilfry
+Eric Daubresse
 Jean-Michel Davis
 Johann Sebastian Bach /  Ottorino Respighi
+David Maquet
 Louis
-Émile Damais
 Luchas
 Benjamin Boretz
 David McIntyre
 Julián Romea
+David Riviere
 Anabel Fernandez
+Felix Luna
 Bruno Fontaine
 Guy Magenta
 Marko Nikodijevic - Robert Henke
 Guy William Lawrence
 Juan Carlos Muñoz
-Mario Bua
 Mario Costa
 Baron
 Marie Augrain
 Pedro López
 Sheldon Silverstein
 Benito Canonico
+Alwyn Mellor
+Louis Dusapin
 Isabelle Frouvelle
-Eric Martin
 Filippo Colonnese
 William Collins
-Serge Rezvani
 Guy Mardel
 Thomas Thaarup
 Adalgiso Ferraris
@@ -20065,8 +24826,11 @@ Gustavo Becerra-Schmidt
 Mike Curtis
 Bruno Nicolini
 Philippe Verkaeren
+Stavros Nikolaou
+Ilaria Zanetti
 Girolamo Tonioli
 David Jones
+Jean-Sébastien Nicolas
 Milos Raickovic
 Mack Rice
 Filippo Vitali
@@ -20074,13 +24838,15 @@ Henri de Cerné
 Ludwig Christoph Heinrich Hölty
 Amy Langley
 Baldjiano Petriaki
-Vestard Shimkus
 Gerald Resch
+Vestard Shimkus
+Pierre Henri
 Jean-Louis Domalain
 Thomas Karagiannis
 Henri Audonnet
 Enrico Pedicone
 Elias Bronnemüller
+Enzo Carniel
 Jean Guy Bailly
 Jérôme Cassou
 Louis Detry
@@ -20095,6 +24861,7 @@ Charles Bugnot
 Hans Heinz Stuckenschmidt
 Chuck Harmon
 Christine Jeandroz
+Mogan Cornebert
 George Balint
 Julien Perrichon
 Antoine Golea
@@ -20103,6 +24870,9 @@ Philippe Limoge
 Andrés Maupoint
 Claire Mortier
 Michel Chebrou
+Yannick Monnot
+Armando Neves
+ALAIN Duchemin
 Hélène Chauvin
 Diogenio Bigaglia
 Paul Beck
@@ -20111,32 +24881,32 @@ Giovanni Battista Bottalino
 Neal Hefti
 Simon Steen-Andersen
 Gilles Dervieux
-Brett Polegato
 Edmond Got
 Carme Fernandez Vidal
 Simon Christensen
-Denis Diderot
+Christine Busch
 Wenjing Guo
 Charles Fouque
 Augusta Read Thomas
 Homer Herpol
 Cataldo Amodei
-Robert-Charles Martin
  Bertal et Maubon/Jean Lenoir
+Robert-Charles Martin
 Nicola Beregan
 Lodovico Lazzaroni
+Kai Rüütel
 Pierre Jacquet
-Louis-Emmanuel Jadin
+Thomas Walker
 David Leisner
 Jean-Paul Davédral
 Daniel Chenevez
 Gottfried Rudinger
-Lou Harrison
-Gaspard Ferret
 Pierre Relkin
+Lou Harrison
 Simon Holt
 Jacob French
 Francisco Zubieta
+Vlad Maistorovici
 Pierre Baurans
 Georges Augier
 Daniel Kaiser
@@ -20145,22 +24915,21 @@ Juan de Dios Filiberto
 Andrew Carwood
 Thomas Lee
 Marie Vassiliu
-Ira Gershwin
+Razek François Bitar
 Barry Bermange
 Saint-Yves Bax
+nicolas Lapère
 Martino Bitti
+Etienne de Beaumont
 Heinrich Reimann
 Jean-Louis Gand
 Elmer Schoebel
 Roland Schoelinck
-Robert Pinget
 Balthasar Arthopius
-Philippe Perrin
 Oliver
 André Lepitre
 Michel Sadanowsky
 Fred Raymond
-Francesco Demuro
 Raphaël Beauchesne
 Uri Caine
 Gareth Loy
@@ -20172,15 +24941,21 @@ Alexandre Béon
 Pär Frid
 Michel Beretti
 A. Cazau
+Willie Thomas
+Yahia Bouchala
 Joseph
+De Olague Bertolomeu
 Berthold Tuercke
-Pierre Perret
 Camille Combret
 Maja Solveig Kjelstrup  Ratkje
+Jean Pierre Bourtayre
+Marc-André Fabre
 E. Gaudin
 Antonio Croci
+Marco Blaauw
 Anton Wilhelm Leupold
-Édouard Montagne
+Jon Hendricks
+Zuzana Marcova
 Viktor Ernst Nessler
 Roberto Caamaño
 Michel Chapuis
@@ -20190,7 +24965,9 @@ Domenico Balsano
 Jummei Suzuki
 A. Capronnier-Courtois
 Perino Fiorentino
+Constance Ronzatti
 James Rolfe
+Vahagn Babloyan
 Salvatore Cardillo
 Marcel Orban
 Mikkel Storleer Eriksen
@@ -20206,8 +24983,12 @@ von Tittl
 Filipe Pires
 Hugh McAmis
 Andy Scott
-Jean de La Ville de Mirmont
+Pierre-Yves Plat
+Robert Morton
 Lamberto Alberti
+Alessandro Stradella
+Lambert Michel
+Svetlana Lifar
 Francisco Ximeno
 Bachir Mokari
 Serranito
@@ -20215,6 +24996,7 @@ Michael Bulyowsky
 Paul Achard
 Yves Barbieux
 Lucien Auduc
+leroux mathieu
 John Reid
 Friedrich Seitz
 Constant Badiali
@@ -20222,32 +25004,39 @@ Ed Hughes
 Tommaso Prota
  Al-Farabi
 Romuald Vandelle
+Philip Sheffield
 Don Black
 Adrien Moreau
+Geoffroy Heurard
 Armine Hayrapetyan
 Pavel Aleksandrovič Viskovatov
 P. Arié
 L. Martine
 Julio Toledo
 Ernesto Tagliaferri
+James Rado
+Kai-Uwe Jirka
 Phil Barney
-A. Kramer
 Daniele Zanettovich
+A. Kramer
+Nicolas Saboly
+Magali Arnault Stanczak
 Cocquerest
+Cyndi Lauper
 Katarina Leyman
 Jérémie Tschanz
+Amanda Squitieri
 François Sarhan
  Simon & Garfunkel
 Marcel Rémy
 Helen Prejean
-Barbara Vignudelli
-Domenico Gallo
+Elena Kakaliagou
 Coxsone  Dodd
+Gürer Aykal
 Adolfo Mindlin
 Charles Beauquier
 Joseph Creac'Headic
 Marie —ervinková-Riegrová
-Stephan Van Dyck
 Edmund Angerer
 Gustav Adolf Heinze
 Georges Chimier
@@ -20261,33 +25050,43 @@ Prosper de Ginestet
 Alain Bonnard
 Giuseppe Maria Pagnini
  Codex de Las Huelgas, 3, f. 2v
+Gundars Dzilums
+Martin Jahn
 Ricardo Monasterio
+baudry ives
+Evelyn Herlitzius
 Danièle Paris
 Carlo Carlini
 Stein
 Willie Mitchell
 Philibert Delavigne
 Werner Jacob
-Hugo Schwantzer
+Georg Philipp Schmidt von Lubeck
 Virtue Millard
+Hugo Schwantzer
 Fray Gerónimo
 André Chéron
 Claude Lapham
 Nikolaï Rimski-Korsakov / Maurice Ravel
+Juan Pujol
 Henri Canaple
 Francis Pott
 Derrick Harriott
 P. Holloway
 Francesco Antonio di Bagnacavallo
+Bertel Gripenberg
 José Melchor Gomis
-Ingrid Perruche
+Francisco Silvani
 Goscalch
 Henry Farmer
 Bartolomeo degli Organi
 Julien Jalâl al-Dîn Weiss
+Anaïs Constans
+Manon Morris
 Pierre Borjon de Scellery
 Mihail Aleksandrovič Marutaev
 Johann Georg Benda
+Andriy Gnatiuk
 Einar A. Swan
 Pascal Villière
 Adolf von Doss
@@ -20297,8 +25096,10 @@ Bjørnstjerne Bjørnson
 Aleksej Konstantinovič Tolstoj
 Ľudovít Rajter
 Clarence Mak
+Javier Torres Maldonado
 Joseph Franck
 Âkov Semenovič Soloduho
+Félix Schumann
 Joseph Bengraf
 Sophie Gail
 Elie Armand
@@ -20307,16 +25108,24 @@ Michel Chanard
 Mathieu Ben Hassen
 Nicolas Giemza
 Francesco Perneckher
+Milan Polak
 David Nixon
+Jacques Dor
 Sly Stone
 Stéphane Kregar
+Alfred Tennyson
 Dorothy Rudd Moore
 Raffaele Sargenti
 Bohuslav Rehor
+Felix Mottl
 Ladislav Kubik
+Albert Ayler
 Otto Benzon
+Laurent Bracchia
 David Ward-Steinman
+Bernard Legac
 Gaston Bélier
+Jeanette Vecchione
 Wilhelm Bednarz
 Adelberg
 Arthur Corroyer
@@ -20328,37 +25137,47 @@ Carlos Baudouin
 Christian Siméon
 Gaspar Sanz/Traditional Llanero
 Amélie Barnichon
+Matteo Mezzaro
 George Draga
+Wolfgang Bankl
 Leander Kaiser
+Benoît Gigout
 Ìvan Fedorovic Karabìc
 Picander
-Burrill Phillips
 Moniot d'Arras
 Girolamo Ferrari
 Charles Haenni
 Victor Bardout
 Baptiste-Florian Marle-Ouvrard
 Rubino Bonaventura
+Gregory Warren
 Julius Chajes
 Bernhard van den Sigtenhorst Meyer
 Eva-Tshiela Gysel
+Lisa Larsson
 Jack Strachey
  Ten Years After
 Laurent Colin
+Barbara Morihien
 Rita Marley
 Per Christian Jacobsen
 Henri Degrange
 Steve Marin
 Aurelio Samori
+Vicente Huidobro
 Johann Bernhard Staudt
 Louis Moyse
+Mathieu Turbé
 Antonio Neumane
-Al Ginter
+Frank Van Aken
 Christian Blom
+Al Ginter
 Jean d' Estrée
+Nicolas Miribel
 Richard Markowitz
 Raphael Courteville
 Rodney K. Mathews
+David Nasser
 Jean-Pierre Ferland
 Kuldar Sink
 Maurice Imbert
@@ -20368,6 +25187,8 @@ Sarah Cracknell
 Tetsuji Emura
 Claudio Ambrosini
 Newburgh Hamilton
+Christopher Ainslie
+Riccardo Zanellato
 Chin-Yow Lin
 Wendelin Hueber
 B. Vidal
@@ -20375,6 +25196,8 @@ Bernard Estardy
 Ludwig Lenel
 Gioseffo Zamponi
 A. Beyer
+Konstantin Gorny
+Spyros Sakkas
 Cinira Polonio
 Ambrosio Cotes
 Kapinga Gysel Eva Tshiela Gysel
@@ -20383,11 +25206,14 @@ Alphonse de Riquet
 Emmanuel Césaire
 Jacques Perron
  Leadbelly
+Howard Joines
+Christophe Poncet
 Eliza Gilkyson
 Evgenij Mihajlovič Botârov
+Francisco Manuel Da Silva
 Angelo Gilardino
-Marie-Louise Bischofberger
 Jean-Aimé Vernier
+Yegor Rosen
 Arthur Wing Pinero
 Jules Goudareau
 George Wither
@@ -20395,23 +25221,29 @@ Mercedes Sánchez Lucena
 E. Canard
 Carl Davis
 Eduardo Angulo
-David Patrois
 Henriette Chardonneau
 Roberto Victório
+Andrew Lloyd Webber
+Robin Adams
 Marc Schaefer
 Kazuhiko Hattori
 Antoine Stefanidis
 Alexander Vladimirovich Tchaikowsky
 Mikkyo
-Larry Shay
+Cécile Dibon-Lafarge
+Jérôme Thomas
 Willie Lamothe
+Larry Shay
+Vladimir Mendelssohn
 Filippo Gragnani
 François de Orador
 Vadim Nikolaevic Salmanov
-David Wikander
+Frédéric Pattar
+charby ivan
+Rainer Zaun
 Léon Couturaud
 Louis Lajtaï
-Hermann Zilcher
+Camille Roux
 Wolfgang Ebner
 Auguste Fauchard
 Carlo Arnese
@@ -20421,20 +25253,25 @@ André Hornez / Francis Lopez
 Philippe Gonin
 Jozsef Bengraf
 Harry Decosta
+Hanna Eimermacher
+Kenny Dorham
 Vittorio  Monti
 Joël Hérissé
-Jean
 Henry George Ley
 Kengyo Yoshizawa
 Youenn Rohaut
 Stéphane Grapelli
-Élie Wiesel
+Jae-Yeon Won
 Auguste-Joseph Franchomme
+Ledu Arnaud
 Victor Leclerc
 Nils Tykesson
+Giuseppe Filianoti
 Daniel Frantisek Alois Milcinsky
 Martin Wendel
 Anita Vallejo
+Paata Burchuladze
+Friedemann Röhlig
 Johann Ludwig Casper
 Raymond Hubbell
 Jeanne Cristofari
@@ -20443,33 +25280,42 @@ Junior Costa
 Georges Alsen
 Claudio Casciolini
 Johann Andreas Joseph Giulini
+Gabriel Pierné
 Carl Amand Mangold
 Gordon Clifford
 Simón Madera
 Andrés Sas
+André Gailhard
 Renny Carré
 Ivan Aleksandrovič Vsevoložskij
+Jacob Obrecht
 Johann Georg Lang
 Mesias Maiguashca
 Antonio Jero
+Eric Dierks-Hagen
 Dany Bedar
 Morris Barash
 Felix Mottl
 Matthieu Millischer
 Giovan Gualberto Brunetti
 Max Cottem
+François-Louis Gand Le Bland Du Roullet
 Enrico Toselli
 Billy Goldenberg
 Berislav Popovic
 Hakim Abdulsamad
 Kamilló Lendvay
 Kohei Amada
+Maurice de Marsan
+Giuseppina Bridelli
 A. Bérard
+Semyon Bychkov
 Angelina Chenu
 Jean Rohozinski
 Klement Slavický
 Fernand Brumagne
 Jean-Michel Cuvilliers
+Alfred Newman
 Euday L. Bowman
 Robert Ehle
 Roquelay
@@ -20478,24 +25324,33 @@ Pablo del Moral
 Jean-Baptiste Rey
 Lu Wang
 John Carr
+Kasimov Abbos
 C. R. Chauvet
 António Carreira
+Homayoun Shajarian
 Ernest Krähmer
 John Turner Layton
 David Baldwin
 Nathan Milstein
+Antonio Pappano
  Prière cathare
-Thomas Christian David
+Simone Schröder
 Heinrich Wohlfahrt
 Loïg Delanoy
 Aleksandr Manevic
 Arthur Dubois
 Arthur Seybold
 Christian Carey
+Philippe Faure
 Walter Kollo
+Maria Streijffert
+Pierre Loti
+Daniele Ficola
 Johann Philipp Neumann
 Jim Wise
+Luka Sorkocevic
 Antonio Pacini
+Caillet François Xavier
 Mireille Pinault
 Ed. Cottereau
 Lucia Campos
@@ -20505,7 +25360,6 @@ Jens Petersen
 Jean-Pierre Millers
 André Mérane
 Michel Chanard
-Henning Kaiser
 Karel Jaromír Erben
 Alexandru Flechtenmacher
 Carl Maria von Weber / Hector Berlioz
@@ -20523,8 +25377,9 @@ Jacques Berlinski
 Geoffrey Poole
 Michel Boëdec
 Barry Conyngham
+Conrad Paumann
 Boris Porena
-Arthur Dandelot
+Patrick Testard
  Anonyme (Inde, Goa)
 Richard Hammond
 Georges Plonquitte
@@ -20533,6 +25388,9 @@ Arnaud van Lancker
 Joaquim Couceiro
 Georges Courquin
 Ernst-Lothar von Knorr
+Giles Farnaby
+Adelbert von Chamisso de Boncourt
+Kyriaki Trochani
 Peter Bengtson
 François d'Agincourt
 Riccardo Rognoni
@@ -20552,13 +25410,13 @@ François Raffinot
 Pavel Blatny
 Johann Beck
 Sophie Gay
-Michel Follin
 Madame la princesse Julie Amatouny
 Lawrence Ball
 Alexandre Guéroult
 Joachim Antonio Barroso Neto
 Maia Ciobanu
 Norbert Ott
+Gilles Schuehmacher
 J. C. Kessler
 Louis Pouget
 Joan Haas
@@ -20568,7 +25426,9 @@ Samuel Pepys
 Richard Purvis
 Vangelis
 Eugénie Kuffler
+Ruggiero Leoncavallo
 Jean-Charles Robin
+Heinrich Schütz
 John Lennon /Paul McCartney
 Poul Schierbeck
 Vincenzo Amato
@@ -20576,28 +25436,33 @@ Jimmy Rowles
 Jean Cahen
 Eschyle
 Leslie Bridgewater
-Joseph Sulzer
 Carlo Verardi 
 Wolfgang Suppan
+Haven Gillespie
 Mario Giuseppe Genesi
 Josef Franz Wagner
-Pierre Chépélov
 Yann Orlarey
 A. Scard
 Wolfgang Liebhart
 Paul-Jean de Chauvenet
-Roger Waters
 Jan Karol Gall
+Apollon Nikolaevitch Maikov
 Simon Ives
+Elena Kelessidi
+Boris Begelman
 Adolfo Sarcoli
 Charles-René
+Félix Polet
  Suicide
+Antonio Corsano
 Timothy Dwight Edwards
 Albert Périlhou
+Laurent Durupt
 Krishna Levy
 Paul Fiévet
 Flemming Christian Hansen
 Willy Corrêa de Oliveira
+Victor Young
 Johann Christoph Pepusch
 Rupert Gottfried Frieberger
 Giuseppe Milano
@@ -20614,6 +25479,7 @@ Lorenzo Pelli
 Jean-François Baëz
 Friedrich Ernst Fesca
 Karol Lipiński
+Aleksander Antonenko
 Johann Heinrich Rolle
 Maestro Loayza
 Zequinha de Abreu
@@ -20622,10 +25488,11 @@ Josef Rudolf Lewy
 Jean Denis
 Henry Brenner
 Antonio Troilo
+Patrick Laviosa
 Edmond Courtois
 Clifton Williams
-Émilie Lesbros
 F. I. Mannu di Ozieri
+Demiri Kleoniki
 Komitas /  Goergy Saradjan 
 Cliff Burwell
 Joan Eche-Puig
@@ -20634,8 +25501,8 @@ Coriolano Montuoli
 Kane Mbaye
 Paul Reade
 Joaquin Antonio da Silva Callado
-Marcel Chastellier
 Walter Müller von Kulm
+Marcel Chastellier
 Diego Silva
 Jānis Mediņš
 Rosine de Cocq
@@ -20650,13 +25517,14 @@ Martin Laliberté
 Melchior Borchgrevinck
 Jon Hassell
 Péter Durko
-Christophe Grapperon
 Jean-Baptiste Bérault
 Jean-Jacques Griesser
-Antonio Sarrier
 Dominique Vasseur
+Gildas Pungier
 Remigio Renzi
+Thekla Lingen
 Rumelant
+Christine de Pisan
 José Herrando
 George Thalben-Ball
 Camille Chevillard
@@ -20665,6 +25533,7 @@ Sebastiano Festa
 Jean Ribbe
 René Bizet
 André Grétry
+François Rabelais
 Emilio Mateu
 Madame Constantin-Gilles
 Wilfried Jentzsch
@@ -20672,16 +25541,22 @@ Bubber Miley
 Joseph Bach
 Giovanni De Benedictis
 Lucian Meţianu
+Ildebrando Pizzetti
 Henry Busse
+Gerald Shapiro
+Vincent Lecornier
 Eugène Green
 Marcantonio Aldigiatti de Cesena
 Stéphane Rodesco
 Johannes Zahn
 Michael Leeson William Conti,
 Leopold Benedetto Vicenti
+Frédéric Bouteille
 Biasio Tomasi
 David Bixler
+Frédéric Cayrou
 Henry Bertold
+Jean-Paul Joly
 Paul Henrion
 David Sylvain Ryuchi Sakamoto,
 Cornelis Schuyt
@@ -20689,61 +25564,68 @@ Edouard Silas
 Mari Mezei
 Leonhard Schroeter
 Benedikt Anton Aufschnaiter
+Sergueï Voitenko
 Iakoff Bankir
 Musique traditionnelle jamaïcaine
 Karl Kempter
 Lorenzo Carminati
+Cornelia Oncioiu
 L. Coninx
 Philippe Barraqué
-Wataru Miyakawa
+Christophe Ventris
 Claude Fiévet
-Milton Ager
-Évelyne Girardon
+Wataru Miyakawa
 Samuel de Lange
 Defronciaco
  Codex de Las Huelgas, 55, f. 38v
 Klécius Caldas
 Valentín Ruiz-Aznar
 James Syler
+Lionardi Dati
 contrafactum Henri III duc de Brabant
+Vladislav Zolotarev
  Dimitri
 Saint-Yves
 Jan Podbielski
 Bruno Siberchicot
 André Burguin
 Francus de Insula
+Carl August Candidus
 John Backer-Lunde
 Rex Lawson
 Claude-François Fillette-Loraux
 Francisco Vallés
+Gareth Glyn
 Theodor Kullak
+Armen Badalyan
 Pénélope Marcelin
 Luigi Perrachio
 Caroline Cattaert
-Karim Kacel
 August Bournonville
-Michel Dillard
  Haxnikant-Pyarelal
+Michel Dillard
 Roberto Cantoral Garcia
-Johann Gabriel Meder
 Wayne Oquin
+Johann Gabriel Meder
 Lucas Fernández
 Albert Landry
 Jerry Estes
-Mary Webb
 Nicolas Lavaux
+Guillaume Pierlot
 Gustave Ferrari
 David P. Jones
 Anonyme (Japon traditionnel) 
-Rudi Goguel
 César Gattegno
+Rudi Goguel
+Julius Schubring
 Davorin Jenko
 Mio Minamikawa
 Olivier Mayran de Chamisso
 Madame S. Bernelle
 Jeff Mills /  Jacques Perconte
 Diana Simpson
-Erroll Garner
+george jeanfrancois
+Anouschka Lara
 Stanislas Makovskiy
 Bricon
 Fedor Ivanovič Tûtčev
@@ -20752,7 +25634,7 @@ Ciprien de Rore
 Thierry Leroy
 Simon Dufour
 Josef Casimir Hofmann
-Mikel Urquiza
+Jean Loup Longnon
 Max Wolff
 Raymond Lefèvre
 Bennie Andersson
@@ -20766,114 +25648,135 @@ Friedrich Franz Hurka
 Félix Lisiecki
 ****
 Wen  Deqing
+desmons stephane
+Clément Rivier
 Giuseppe Domenico De Totis
-Davide Bombana
 Adrien Avenel
+Davide Bombana
 Edward Morgan Forster
 Paola Ciarlantini
+Paul Fort
 J. V. Albertini
 Léon Keppler
 Celso Garrido-Lecca
+Mason Bates
 Jean Louis Dalang
 Gustav Wied
 Henri Bourtayre
 Félix Aerts
 Auguste Amadé
+Aoife O'Sullivan
 Yannick Le Goff
 Walter Decker
 Oteo Reyes
 Georges Hartmann
 Gavril Nikolaevic Popov
 Lourival Silvestre
+Jacob Huppmann
 Miguel Angel
 Bernardino Roncaglia
 Joan J. Olives
 Neneh Cherry
-Loys Masson
+Johannes Prinz
+Michael Fuerst
+Elise Deuve
 Matías Ruiz
 Benjamin Staern
 Fabrice Carré
-Th. Spamer
 Harry Archer
+Th. Spamer
 Eric Sweeney
 Christoph Daniel Ebeling
+Antoine Renard
 Marc Beaugrand
 Marie-Annick Retif
 Séverin Cornet
 Scott Richards
-Céline Bruneau
 Diana Ramirez
-Ayaléw Abèbè
+Penelope Appleyard
+Céline Bruneau
  Morrison/Densmore/Krieger/Manzarek
+Ayaléw Abèbè
+Edward Hayrapetyan
 Julien Omé
 Pascal Quignard
 Jörg Schönfelder
 O. de L'Arve
 Steve Nieve
 Marc-Olivier Dupin / Ivan Grinberg
-Geneviève Strosser
 P. J. Bricout
+Walter Frye
 Ragnar Althen
 Charles-Placide Caraffe
-Giovanni Targioni-Tozzetti
 Amédée David
 Flavia Coelho
-Pierre Certon
 Marcus Spalatensis Marulus
+Pierre Certon
 Ignasi Adiego
-Hilary Tann
 Alfred Pratt
+Hilary Tann
+Jean-Marc Fontana
 Marie Stuart
-Jean-Michel Ribes
+Daniel Kirch
 Franz Meixners
  Anonyme catalan
  Anonyme (Japon, musique sacrée)
+Valeria Kafelnikov
+Daniel Serfaty
 Pierre Labric
 Nodar Gabunija
 Antoine-Laurent Baudron
 Mentis Bostantzoglou
 Josip Slavenski
+BRAQ Cécile
 Souza Lima
 Robert McBride
 Raymond Poisson
-Alexander Briger
-Francis Burdett Money-Coutts
-Guy Marchand
 Pierrejean Gaucher
 G. Scherzatto
  Visite du cimetière d'amour
 Edgardo Donato
 Ferenc Kölcsey
 Karmella Tsepkolenko
-Xavier Boisselot
 Johann Georg Hoffmann
+John Tomlinson
 Evdokija Danajloska
 Philip Sidney
 Denis le Libéral
 Adam Feeney
 Herman Roelstraete
+Thomas Broughton
 Thomas Giles
-Janos Fusz
 Douglas Moore
+Janos Fusz
 Abraham Maxim
 Henri Carol
+Richard Tronc
 Orazio Grassi
+Lucas Peres
+Marija Jokovic
 Adam Xowdoyan
 Howard Brockway
+Benedetti Jacopo
 Pat Johnston
 Michel Tirabosco
 Franziska Lebrun
+Christina Rossetti
 Prosper François Gattermann
 Charles Hubans
+Yun Isang
 Andrea Clearfield
 Père Agatange
+Marek Rzepka
+Gianluca Ferrarini
 Edmond Maurat
+Werner van Mechelen
 Allan Willcocks
 Nicolas Gahery
  Lorentz
+David Witczak
 Lee Hyla
 Francesco Sbarra
-Ignaz Franz Castelli
 Nicole Philiba
 Gérard Parmentier
 Edward Jones
@@ -20885,7 +25788,6 @@ Gwen Harwood
 Eric Scrève
 Curtis Roads
 Richard Browne
-Luigi Bassi
 Jacob Kimball
 Francis Cowley Burnand
 Jean-René André
@@ -20896,50 +25798,55 @@ Christina Athinodorou
 Henri Cas
 Maurice Poté
 Louis Clerc
-Olivia Robinson
 Hippolyte Romand
-Ji-Min Park
 Harry Reser
 Alfred Margis
 P. A. Moureau
 Svitlana Azarova
+Jean-Willy Kunz
 Bartolomeo Ariberti
 Jean Crespel
 Georges Catherine
 Peters Couzier
 Jerzy Kolasinski
+Abbo Floriacensis
 Claire Bercioux
-Jean Mereu
+Jacques-Fromental Halévy
 Mathilde Malenfant
 David Salleras Quintana
 Esteban Pinto Gondim
 Julio Perceval
 Marin Goleminov
 Pierre-Nicolas André-Murville
+Charles Tournemire
 Robert Dieudonné
 Jacques Boselli
 Paul Lau
 Paul Armont
-Anna Destraël
 Pierre Nelson Labole
+Carl Faia
 Al. B. Ardini
 Helena Tulve
 Hugh Martin /  Ralph Blane
 William Parsons
 Marcel Bernay
+George von Bergen
 Ruth Watson Henserson
 Clint Ballard
 Moine de Saint-Denis
 N. Chakib Pacha
-Andrzej Krzanowski
 G. Bessou
+Andrzej Krzanowski
 Sesh Nath
 Andreas Sabelon
+Bob Haymes
 Andre Williams
  Oeuvre collective
 Marguerite Clerbout
-Roger Lersy
+Vojtech Semerad
 Bonifacius Amerbach
+Roger Lersy
+Etienne de Jouy
 José Barradas
 Pierre de Caillaux
 Bart von Lierde
@@ -20958,7 +25865,8 @@ Fernand Beissier
 Nikola Resanovic
 Konstantin Nikolaevich Shvedov
 Clive Carey
-Jean-Yves Ossonce
+Aude Camus
+Juan José Mosalini
 Johann Christian Friedrich Haeffner
 Antonio Cornazano
 Félix Ribeyre
@@ -20974,17 +25882,21 @@ Daniel Hardy
 Lucien Carbonnier
 J. M. Champel
 Wilhelm Gottfried Enderle
-Gabriel De Oliveira
 Egils Straume
+Gabriel De Oliveira
+Daniel Blinkhorn
 Peter Lundén
 Emil Stern
 Thomas Böhm-Christl
 Laurent Jacquier
+Edwin Berg
+Yuja Wang
 Januibe Tejera
 Mathieu Quinot
 Armand Foucher
 Antonio Campochiaro
 Dominique Delahoche
+Lenneke Ruiten
 Erik Axel Karlfeldt
 Raffaello De Banfield
 Stanley Bate
@@ -20996,31 +25908,35 @@ Dino Castro
 Jacques Widerkehr
 Hugh Kellyk
 Theodor Grigoriu
+Stanislav Prokudin
 Peter Jaffe
 Atay Ogombaev
  Fumard
+Niels Gade
+Gregorio Strozzi
 Blacasset
 Pierre Jaconelli
 François Cupis
 Raymond Clouet
 Walter Courvoisier
-Tyrone Downie
 Ian Wright
+Damien Pass
+Jaime Gonzalez
 Charles Allan
 Abraham Levitt
 André Trouttet
-Franck Leguérinel
 Lowell E. Shaw
 Sébastien Jacquet
 Phyllis Tate
-Alessandro Melchiorre
 René d' Avril
 Franz Joseph Oehlschlägel
+Carlo Sigismondo Capece
+Igor Maia
 Scipione Stella
 Ayser Vançin
-Laurence Cummings
 Francesco Severi
 Vilhelm From Bartrumsen
+Anne Chevallerau
 Tapani Länsiö
 Paul-Hippolyte Camus
 Anton Ferdinand Paris
@@ -21029,11 +25945,15 @@ Charles Chaix
 Maurizio Martusciello
 Felipe Lara
 Tamas Ungvary
+Christophe Deshayes
+Yuri Bashmet
 Menelik Wèsnatchèw
 Drew Neumann
+Mimi Perrin
 Alois Schreiber
 Raoul de Barde
 Hermance Barat
+Randle Edward
 Fermín María Alvarez
 Clarence Gaskill
 Johann Bernhard Logier
@@ -21048,39 +25968,49 @@ Gaston Knosp
 Qaramoldo Orozov
 Nikolaï Miaskovski
 Carin Bartosch Edström
+Placido Domingo
+Rodericus
 Roger Tabra
 René Castelain
-Vladimir Dukelsky
 Fernand Ochsé
 Svend Leopold
 A. Anemoyanni
 Olivier Capparos
+Bastien Varigaud
 Simone Verovio
-Dorothea Röschmann
 Robert Dick
 Eve De Castro Robinson
 Emmanuel Malherbe
 Françoise de Foix Châteaubriant
+Friedrich Heinrich Karl de La Motte Fouqué
 Arroyo y Vijaca
+Ochilov Jurabek
 Annie Cordie
 Felix Amaro
 Clifford Bax
 Guillaume Handel
 Manuel De Almeida
 David Saperstein
+Louis de Courmont
+Robert Louis Stevenson
 Allan Gray
+Brice Pichard
 Elizabeth Billington
 Antonio Maria Grazzini
 Marcel Kentsubitsch
 Pol Ettel
+Thibaut Maudry
 H. Amavet
 Tommaso Mariani
+Alexandre Baty
 Manfred Ebanda
 Serge de Laubier
 Miguel Angel Gris
+Lucas Vaillant
 Dominique Pankratoff
 Niels Møller
 Tiberiu Brediceanu
+Sophie Bissantz
 Joseph Bardanashvili
 Eugène Cailleux
 Fernand Jehin
@@ -21106,22 +26036,22 @@ Michael Costa
 Esther Scliar
 Edwin George Morgan
 Alf Hurum
+Bill Holcombe
 François de Roubaix
 A. Alessandri
 Antoine Légat de Furcy
 E. Benoît-Catelin
 Georg Riedel
-Florence Cioccolani
-Jun Chikuma
-Charles Zeuner
 Fannie Charles Dillon
+Charles Zeuner
+Jun Chikuma
 Jean Fessard
-Marcel Despard
 Alan Gray
 Domenico Scorpione
 E. Dérégnaucourt
 Gilles Gobert
 Florian Martinet
+Blagoje Bersa
 Christoph Nichelmann
 Morris Albert
 Ignace Vitzhumb
@@ -21134,39 +26064,51 @@ Swaroop Nath
 Raimbaut d'Orange
 Gérard Giroud
 Blaise Mettraux
-Henri Debs
 Pierre Chatton
 Claude Mainguy
+François Villon
 Pee Wee Maddux
 Louis Coenen
+Julius Drake
 Joseph Kerzkowsky
+Daniela Sindram
 Alexandre Adjemian
 Thibaud
 Juan Allende-Blin
 J. Lins
+Sumi Jo
+David Hal
+Katharina Peetz
 Karl von Ordonez
 Teofilo Chantre
 Jules de Creitschmann
 Moreno Barcons
+Urbani Loth
+Arvo Volmer
+Jonas Atlan
 Will Gregory
-Rossino Mantovano
+Gilles Grand
 Fabien Teigné
+Rossino Mantovano
 Adrian Huge
 Roger Carineau
-Zaza Fournier
 Claudio Bramieri
 Carlo Sernicola
 Nicolas-Vincent Levens
 Bernhard Schmid
+Herman Yablokoff
+Francesco d' Orazio
+Giordano Ferrari
 Anlun Huang
 Zbigniew Andrzej Lampart
+Thomas Morris
 Enrique Cofier
 Antoine de La Roque
 Santiago Howard
 Pedro Garcia-Velasquez
-Christophe Robert
 Anders Soldh
 Madame A. d' Alvim de Filgueiras
+Aubert Patrick Marie
 J. Bruno
 Frédéric Angel
 Albert Thiry
@@ -21174,14 +26116,18 @@ Pierre-Jean Gidon
 Jean-François Canape
 Sanae Ishida
 José Pomar
+Gaston Armand de Caillavet
 Alireza Mashayekhi
 Auguste Babillon
 Ertugrul Oguz Firat
+Eden Ahbez
 Emile-Xavier Rogé
-Guy Reibel
 Emilius Bangert
 Hedy Salquin
+Franz Michel
 David Mallet
+Yurdal Tockan
+Elodie Mechain
 Jeanne Descaves
 Yakov Gubanov
 Antonius Galli
@@ -21192,50 +26138,65 @@ Pierre Bigot
 Matteo Zocarini
 Makoto Moroi
 Léon Morand
-Pierre Beauchamps
+Louise Moaty
 Tyshawn Sorey
+Pierre Beauchamps
 Georges Aloy
+Sarah Chang
+Wei Wang
 Gustave Quinson
+Michael Laurenz
 Cyril Paulus
 Christian Winther Christensen
 E. Alonso
 Geneviève Calame
-Bernard De Bury
 Maurice Ravel / Modeste Moussorgski
 Kenneth Casey
 Martin Kalmanoff
+Adriano Morselli
 Alberto Blancafort Paris
 Wilhelm Lindemann
 Jean-Claude Capillon
 Papanasam Sivan
-Andrew Gourlay
 Gustave Kerker
+Jean de Castro
 Stéphane Borrel
+Grégoire Hetzel
 John Isham
+Droccos
 Andrus Kallastu
 Sergio Fidemraizer
 Pedro Lopes Nogueira
 Mark Warshavsky
 Pavel Zemek-Novák
+salem ibrahim
+Douglas Cross
 Giovanni Antiga
+Martin Susnik
 Julio César Oliva
 Kevin Oldham
 Elihu Carpenter
 Hans Studer
-Vincenzo Zitello
+Georgius
+José Lemos
 Hilarion de Croze
 Jacques François Fromental Élie Halévy
+Vincenzo Zitello
+Thomas Corneille
+Roger Gentis
 Michel Karren
 Naoki Sakata
 Bohdan Sehin
+Igor Mendjisky
 P. Campbell
 William Aguet
 Nikolaj Alekseevič Zabolockij
 Peter Heidorn
+Walter Benjamin
 L. S. Burridge Jeune
-Jacques Calatayud
-Roque Ceruti
+Louis Creac'h
 Edgar Sampson
+Roque Ceruti
 Luis Bedmar
 Frédéric Brisson
 Nick Peterson
@@ -21248,28 +26209,35 @@ Spyridon Samaras
 Eric Kalb
 Alfred Françaix
 Jean-Baptiste Ambard
+Pieter Schoeman
 Marcos García Gutiérrez
+Yvan Serouge
 Juan Garcia de Zéspedes/Traditional Tixla
-Henri Chesneau
 Lope Martinez
+Henri Chesneau
+Anna Tobella
+Alfredo Le Pera
+Mélanie Brégant
 Davis Mell
  Bilal
 Jorge Del Moral
 Eugène Bercioux
 A. Casirola
-John Nelson
 Tony Crétien
 L. Meinardi
 George Brunner
 Signor Pallucci
 Johann Gung'l
-Yann Orlarey
 Consuelo Díez Fernandez
 Johann Joachim Hoë
 Joaquim Antônio Barroso Neto
+Marco Zambelli
+Loleh Pottier
 Georges-Arthur Carpentier
 Willie Mc Tell
+Don Freund
 Johann Heinrich Karl Bornhardt
+Ferdinand Thieriot
 Hans Zimmer
 Jean-Jacques Leprince
 Thomas E. Barker
@@ -21277,44 +26245,55 @@ Yuxian Deng
 Jørgen Jersild
 Lucien David
 Baudime Jam
+Oscar Pettiford
 Michel de Bonneval
 Gabriel Plautzius
 La Crolle
 Bernard Haillant
+Iride Martinez
 Giovanni Gastone Boccherini
-Friedrich Halm
 Jihao Quan
 Auguste Joseph Franchomme
 Joseph Myerov
 Sean Dean
+Dutronc Thomas
 Rodolphe Adler
 Bruce MacCombie
+Lamine Lezghad
 Michel Berthon
+Johann Christoph Bach
 Albert Daulet
 Margret Stumpfögger
+Héléne Mourot
 Ǔrij Nikolaevič Grigorovič
+Adeliya Chamrina
 Antoine Chapuis
 Serge Fiori
 David Krivitsky
-Robert Kahn
 Robert d' Humières
+Walter Howard O'Brien
 Bruno Moyano
-Camille Joly
+Carlo Colombara
 Stephen Shao
+Camille Joly
 Mateusz Zwierzchowski
 Philip Green
 Jose Augusto Ferreira Veiga
 Julia Pello
 Giuseppe Pezzana
+Krisztian Cser
 Francesco Cerlone
 Thomas Strutz
 Charles Bouchard
 M. de Béthune
 F. Amavet
+Alasdair Elliott
 Gino Bellio
 Hippolyte Cournol
 M. Allemani
+Camille Marcella
 Charles Neustedt
+Dubose Heyward
 Isaac Tucker
 Michel Bourada
 Pauline Vasseur
@@ -21322,7 +26301,7 @@ Howard Lawrence
 Giovanni Andrea Bontempi
 Aleksandr Fëdorovic Gedike
 Grazyna Borowiecki
-Václav Dobiáš
+Erkki Melartin
 L. Darcier
 Kanshu
 Marie-Claudine Chargnioux
@@ -21333,40 +26312,51 @@ Carlo Mosso
 Michele Stratico
 Beatrice Mattei
 Gary White
+Thomas Crecquillon
 Jean Courtioux
 Renald Richard
+Milos Karadaglic
+Alexei Volodin
+Sona Hovhannisyan
 Brian Howard
-Jean-Luc Thonnerieux
+Christian Elsner
 Jean Le Capon
 Seisho
+Dan Dunkelblum
+Alexandre Billard
 Agnès Moyencourt
-Joris Verdin
-René Barbier
-Moises Simons
+Carmen Le François
+Jean Francois Bayard
+Jörg-Peter Weigle
+Marco Brolli
 Codex de Las Huelgas 189
-Alan Bergman
  Arrivée de Coeur au château de Courroux
-L. Peck
 Suganna Devi
+L. Peck
 Svend Simon Schultz
+Geoffrey Chaucer
 Adam Dołżycki
 Giacomo Insanguine
+Revaz Lagidze
 Steve Shehan
-Ernst Herbeck
 Charles Ravier
 Robert Kurka
 Sergej Protopopov
-Karen Tanaka
 John Duggan
+Gezim Myshketa
 Pierkin De Raedt
 Girolamo Polani
 Samuel Tupin
 Paul Rogey
 Anders Nordentoft
 Paul Agier
+Catherine-Anne Motuz
 François Chauffard
 Robert Craft
+Gaspare Spontini
 Georgios Lambelet
+Duncan Ban Mac Intyre
+Vivabiancaluna Biffi
 Anthon van der Horst
 Claude-Mathieu Pellegrin
 Miklos Plajner
@@ -21374,15 +26364,16 @@ Mechthild von Magdeburg
 Jean-Louis Murat
 Danielle Arrigoni
 Wolfgang Figulus
+Bertrand Chavarria-Aldrete
 Armand d' Artois
 Sylvain Guinet
-Hector-Auguste Charpentier
 Pistoleta
+Hector-Auguste Charpentier
 Manuel Martí Alonso
+Foucher Patrick
 Pierre Miermont
 Roberto De Simone 
 Jules Baur
-Gottfried Benn
 Nan-Pa Hong
 Antonio Bigatti
 Paul Drayton
@@ -21393,16 +26384,20 @@ Daniel A. D'Amado
 Paulo Pezzani
 Ch. Baulier
 Frédéric Chopinet
+Camille Chevillard
+Stephane Peter
+Joseph Shabalala
  Fleet Foxes
 Masayuki Nagatomi
+Marc Laho
 Forgelot
 Édouard Delale
+Julije Skjavetic
 Jeffrey Holmes
-Efrem Zimbalist
 Carlmann Kolb
 Laurent Marimbert
-Michel Prezman
 Maël Bailly
+Michel Prezman
 Julien-Jean-Henri Closset
 Martin-Pierre d' Almivare
 Francisco Uberto
@@ -21413,7 +26408,7 @@ Arthur Pryor
 Qing Yang
 Marc Feld
 Johann Arnold Ebert
-Marguerite Canal
+Hortense de Beauharnais
 Alexandre Kartzev
 Paul Griffiths
 Gotthard Odermatt
@@ -21422,67 +26417,82 @@ Philippe Chany
 Joachim Perinet
 Rita Cosentino
 Dario Candela
-Lewis Trondheim
 Aurélio Edler-Copes
 Mihail Goleminov
+Hanjani Pasha
 V. Bury
 Nathanael Baumgarten
+Feodor Sologub
 Slamet Abdul Sjukur
 Pierre-François de Rémusat
+Eberhard Friedrich
 Stan Friedman
+Arnulf de Louvain
 Francis Wheeler
 Lucien Béry
 Javier Reyes
+Michel Vinaver
 E. P. Baude
 Giambattista Neri
 Peter von Sachsen
 Traditionnel Arrangement Fowlis/Doyle/Doorley
+Letizia Giuliani
 Joseph F. Wagner
 H. Billeter
 Tomas Tranströmer
-Zazie
+Stefan Heibach
 Benjamin Rota
 Jean-René Mariani
+Sandro Penna
 Susanne Van Soldt
 Giovanni Bellone
-Antonio Machado
 Philippe Raynaud
 Johann Erasmus Kindermann
 Georg Leopold Fuhrmann
 Samuel Gardner
 Iacob Muresianu
 Adolf Micek
+Edouard Sabo
 Nikolaus von Krufft
 Patrice Guirao
+Riccardo Coelati Rama
+Yves Parmentier
 Mathieu Bonilla
 Gabriel Gilbert
+Averik Isaakian
  Bappi Lahiri
-Catherine Schneider
+Aaron Lebedeff
 Giovanni Buzzoleni
 Donald Freund
 R. Cox
-Romain Coolus
+Iestyn Davies
 Jan Müller-Wieland
 Pierre Minvieille-Sebastia
 Christian Padovan
 P. Coblence
+Tôn Thât Tiêt
 Saint-Georges de Bouhélier
+Armando Noguera
 Rafaele Mingardo
+Paul Francis Webster
 Alexandre Perrot
 Albert Runbäck
 Fermoselle
 Paolo Furlani
+Eduarda Melo
 Philipp Friedrich Buchner
 Reza Najfar
 A. Benfeld
+Mayumi Miyata
 Mathieu Sohier
 Benoît Cambreling
+Eva Ganizate
 Giovanni Battista Grillo
 Vinci Verginelli
 Manitas de Plata
 Anne Boyd
 Ferdinand Kriwet
-Pascal Charbonneau
+Akino Kamiya
 Leopold Eugen Mechura
 J.-B. Ahetz-Etcheber
 Joseph Hyacinthe Ferrand
@@ -21492,37 +26502,44 @@ Markella Hatziano
 Vadim Karassikov
 Werner Sander
 Petra Hoffmann
+Gevorg Avetisyan
 James Osbourne
-Françoise Sagan
+Luiza Borac
 Dalibor Cyril Vackár
+Toby Spence
 Gustavo Pittaluga
+Torleif Thedeen
 Labat
 Oscar Bianchi
+Narine Voskanyan
 Pierre Reverdy
 John Whitfield
  Charles Louis Pothier/A.Willemetz/Casimir Oberfeld
 Vulfran Samin
-Maurizio Naddeo
 Joseph Sulzer
 Victor Hely-Hutchinson
 Joseph Gehot
 Olivier Roinsol
 Ludwig Streicher
+Marianne Beate Kielland
 Edmund Hooper
 Tommaso Grandi
 Johann Christoph Kienlen
 Carlo Eustachio
 Tirso Duarte
+Anne Sofie von Otter
 Patrick Hardouineau
 Compay Segundo
 Eug. Barrême
 Pierre Van Dormael
+Pierre Turpin
  Traditionnel américain
 Aîné Carnaud
+Johann Gramann
 Jean-Guy Coulange
 Åke Hermanson
-P. Elias Guiterrez
 Casimir Renard
+Albert Lasry
 Jules Erlanger
 Robert Wylkynson
 Edith Södergran
@@ -21535,63 +26552,71 @@ Armando Albuquerque
 Ronald Stevenson
 Michelet
 Östen Sjöstrand
-Alain Kremski
+Michel Fau
 Guy Skornik
 Albert Henneberg
 Jeanne Herscher-Clément
 James Thomson
-Daniele Callegari
 Angelo Notari
 Guillaume Largillier
 Giuseppe Bres
 René Blin
+Manon Feubel
 Kanjuro Kiritake
+Fabrice Dalis
 Rosolino Di Salvo
 Didier Bégon
 Wilhelm Coppey
 Lorenz Maierhofer
+Marie Picaut
 Bruno Lorenzoni
+Clément Thibierge
 Vincent Friberg
 Paul Fauchet
+Eric Vagnon
+Thibaut Maillart
 C. Barda
 Philip Levine
+Eugeniusz Rudnik
 José Antonio Zambrano
 Heinrich Tellam
-Eugeniusz Rudnik
-Karel Boleslav Jirák
 Noriko Hisada
 Antoine Hugues
+Ying-Yu Chang
 Carl L. Sjöberg
 Cécile Le Prado
 Jacques Michon
 A. Baudin
 Robert Blum
-Jean-François Cavro
-Du Yun
-Steve Barakatt
+Bénédicte Pernet
+Cristobal de Morales
 Mario Ghisalberti
+Werner Van Mechelen
 Ciro Urbini
 Aram  Khatchaturian
 Antonio Maria Giuliani
 Jean-Loup Dehant
-Jorge Lavelli
 Léo Staats
+Regina Cristina di Svezia
 Jean-Jacques Daran
 Anthony Collins
 Nicole Regnes
 Anna Bonfill
-Lucas Osiander
+Alfonso Gomez
 Claude Debussy / Charles Koechlin
+Lucas Osiander
 Luigi Piccinni
 Bruno Lehner
-Dare Khan
+Richard B Smith
 Berthold Tours
+Dare Khan
+Sophie Karthaüser
 Harold Friedell
 Lydia Wolf
 Raymond Gram Swing
 Pierre-Joseph Bernard
 Wilhelm Ehlers
-Bernar Venet
+Lore Binon
 Philippe Sauvage
 Ludivine Sanchez
 Hario Tiraboschi
@@ -21606,19 +26631,21 @@ Vasilis Saleas
 Alfred Hollins
 Bojidar Spassov
 Jordi Alcaraz
+Lynton Black
 R. Kevin Paul
 Nestor Mili
- Chanson traditionnelle grecque (XVIIe s.)
 Mathieu Vibert
+ Chanson traditionnelle grecque (XVIIe s.)
+Barbara Probst
+Shin Jae Kim
 Eric Coates
 Marcin Józef Żebrowski
 Eddy Marnay
 Richard Turcotte
 Ted Snyder
 Yvan Ginoux
+Lefort David
 Franz Adolf Syberg
-Michel Fourgon
-Jean Pacalet
 Lara de Chaban
 Qanymgul Dosmambetova
 Emile Copel
@@ -21626,12 +26653,13 @@ Joseph Antzenberger
 Moïse Maïmonide
 Caspar Endres
 Hans Kox
+Hiroé Yasui-Souillart
 David August von Apell
 Sebastian Ochsenkun
 Traditionnel - Iles Shetland
 Jean-Baptiste Anet
 Eusébio Tavares Leroy
-Sunny Skylar
+Gene Kavadlo
 Lynn
 Marion Taillandier
 Félix Gray
@@ -21642,49 +26670,68 @@ L. Couturier
 Léonie Dufresne
 Johann Matthias Leffloth
 Charles-Samuel Bovy-Lysberg
-Emi Meyer
+Gabriel Robert
+Anne Alvaro
+Ted Koehler
 Rafael Anglés
+Emi Meyer
 John Arnold
 Ferdinand Albrecht
-Ingeborg Bachmann
+Stéphanie Pfister
 Holli Ross
 Gabriele Manca
+Alphonse Royer
+delafosse martin
 Con Conrad
 Giulio Zacchino
-Mark Abel
 Jimmy Mc Hugh
+Mark Abel
 David Buckley
 Kryštof  Maratka
+Soulkhan Tsintsadze
 Dolores Serrano Cueto
 Stanislas Renoult
 Martinet
 Harry Arbuthnot Acworth
 Giuseppe de Marzi
 Anatoly Kusyakov
+Tassis Christoyannis
+Csaba Somos
+Giovanni Maria Bonardo
 Jos. Bauwens
+Vahan Mardirossian
 Francesco Bellazzi
 Maïdi Roth
+Honoré D'Ambruys
+Stanislav Leontiev
 Richard Purvis
+Eric Maestri
 Johannes Galiot
-Christophe Gautier
 Ferdinand Raimund
 L. Bellando
 G. Bogaert
  Swerts
 Daniel Sergey
+Dragan Plamenac
 Michel Suffran
 Bengt Carlsson
+Lado Ataneli
 Antonio de Literes
+Bernard Félix
 Liviu Danceanu
 James Stephens
 Jérôme Dorival
+armain emmanuel
 Bob Brault
 L. Bloch
 Joseph Pain
+Jubilant Sykes
 Tito Ricordi
+Jules Bikoko Bi Njami
 Charles de Bez
 Pierre Vidal
 Sethus Calvisius
+Serpieri
 Marie-Andrée Morisset-Balier
 May Hannah Brahe
 Jacobus Peetrinus
@@ -21693,18 +26740,18 @@ Luc Plamondon
 Henri Bohlman
 Rika Zaraï
 Paul Andreani
-Rosalind Plowright
 Ulrich Baudach
-Luigi Gordigiani
  Albert Willemetz/Arthur Honegger
-Hermann Leopoldi
 Apostol Nikolayev-Strumsky
+Hermann Leopoldi
 Sophie Leclerc
 Anthony Mudge
 Dominique Starck
 Jacques Adolphe Miné
 Carl Macco
+Mikk Uleoja
 Abdoulaye Fontana
+Tansel Akzeybek
 Muthuswamy Dikshithar
 Friedrich Jeremias Witt
 Armando Rodrigues
@@ -21713,13 +26760,17 @@ Domenico Perelli
 Louis Emanuel
 Ronan Hardiman
 Eduardo López Juarranz
+Maxim Kuzmin-Karavaev
+Edouard Mirzoyan
 Paula af Malmborg Ward
 Bernat Bertran
 Pascal Fonteneau
 Marc-André Rappat
 Fedele Fenaroli
 Léon Delcroix
+James Miller
 Jules Cossas
+Marco Caria
 Wilfried Hiller
 Jorge Emilio Fadul
 Mark Minkov
@@ -21737,13 +26788,16 @@ María Luisa Ozaita
 Jules Jacob
 John Ferritto
 William Tuckey
-John J. Becker
+Henri Lemarchand
+Ramful Rayan
 Julien Martin
+Vergara Solange
 Jos Kunst
 John Moran
 Emilios Riadis
-Joann Sfar
+Anne-Fleur Inizan
 Takashi Fujii
+Aurélie Franck
 Filipe da Madre de Deus
 Skip Scarborough
 Gabriel Brncic
@@ -21751,9 +26805,9 @@ Eleanor Broadwater
 Pierre Letessier
 David Lan
 Charles Dehaynin
-Dobri Hristov
 Andrea Barbazza
 Jakub Reys
+Karl Müller-Berghaus
 Herbert Distel
 Jocelyne Binet
 Anne-Rosalie Bosisio
@@ -21764,32 +26818,35 @@ Ivan Solano
 Matt Johnson
 Jon Laukvik
 Fagen
-Arnaud Biscay
-Éphraïm Mikhaël
 Nikolaj Karpovič Čemberdži
 Mabon "Teenie" Hodges
 Giovanni Domenico Rognoni Taeggio
+Zoran Juranic
+Carlo Andrea Masciadri
 L. Chevalier
+Godeau
+Laurent Alvaro
 Marian Marciak
 Jakob Bölsche
 Claudio Scannavini
 Émile Bergerat
 Antonin Dalpayrat
+Salomé Haller
 Stefano Golinelli
 Sonic Youth
 Bertrand Merlier
 Edmond Daumas
 Christian Sarrel
-Ferdinand Fabre
 Robert Bodanzky
  Chassol
 Simon Waters
 Mariano San Miguel
 Warwick Palfray
-Franz Toussaint
 Chris Gendall
 Georges Lavaudant
+Jürgen Ruck
 Louis Adolphe Coerne
+Caroline Meng
 Orlando Gough
 André Innocent Adjiba
 Moishe Lewinsky
@@ -21799,6 +26856,7 @@ J. Chalanda
 Noël Alrit
 J. Perry
 Atsutada Otaka
+Luigi Battiferri
 Thomas Eisenhuet
 Thomas Mawdycke
 Lesâ Dičko
@@ -21808,29 +26866,37 @@ Gottlieb Heinrich Köhler
 René Doire
 Cécile Girard
 Alfred S.
+Lucija Brnadic
 Chalabreuil
+Laure Jung Lancrey
 Hans-Karsten Raecke
+Francis de Croisset
+Evgueni Dolmatovski
 Thad Jones
 Sudi Kalbelya
 James Alan Shelton
-Ottaviano Petrucci
 Gregor Piatigorsky
 Octave Arnoux
+Sylvie Malardenti
 Massimo Paris
 Hakon Børresen
 Martin Pfaff
 Thomas Fritsch
 Oddvar S. Kvam
+Erasmus Alberus
 Camargo Martinez
 Ferdinand Polâkin
 Francesco Marlocchi
+Dmitri Makhtin
 Emmanuel Moses
 Aleksandr Tihonovi˜ Gre˜aninov
 R. Arenal
 Ernest Putscher
 Cadenet
 Umid Turâbov
+Ingeborg Danz
 François Pezant
+Stephen Owen
 Donato Lovreglio
 Cécile Girard
 Johann Georg Heinrich Backofen
@@ -21840,15 +26906,16 @@ Michael Sturminger
 Georg von Pasterwiz
 Vladimir Georgievič Kastrioto-Skanderbek
 Massimo Nosetti
-Edouard Bruguière
 Alexander Campkin
+Edouard Bruguière
 Auguste-Louis Blondeau
-Dario Argento
 Marie Anziani
 Gabriel Sivak
 Henri le Bailly
 Guido Papini
 Gaston de Lille
+Julien Debordes
+Théophile Marion Dumersan
 Johann Christoph Monn
 Pablo Espinosa Romero
 John Major
@@ -21856,25 +26923,32 @@ Mladen Tarbuk
 Pierre Asinelli
 Flavien Bernezet
 Hjalmar Borgström
-Eric Ewazen
+Stephen Goss
+Enrico Iori
 Vincenzo Valente
 Williams Heathcote
 David Briggs
-Franz Kafka
 Philippus de Lurano
 Carol Washington
 Tom G. Febonio
 Hugo Wittmann
+Hagar Sharvit
 M. Chaves
+William Sheller
+Yousef Zayed
 Isabelle Bretaudeau
 Georg Philipp Harsdörfer
 B. Caillet
 Karl Wohlfart
+Joseph Christian von Zedlitz
+Christina Hess
 Herman Kolgen
 Garth Edmundson
+Johann Heermann
 Viktor Petrovic Pomozov
 Bernardo  Storace 
 Karel Sabina
+Fransico Rueda
  Prokofiev
 Eden Ahbez
 Valerʹan Fedorovič Širkov
@@ -21883,18 +26957,16 @@ Notis Mavroudis
 Máximo Ramón Ortiz
 Henri d' Ollone
 Philippe Lafontaine
-Wu Man
 André Georget
 Shu-san Chow
 Michał Bergson
 José Marquetti
+Ferreira Adriana
 Georges Friboulet
 Joel Harmon
 Eugène Berteaux
 Antonio Jacobbi
-Philippe Grisvard
 Alan Abbott
-Al Dubin
 Antonino Pasculli
 Peio Zabaleta
 Bo Rydberg
@@ -21904,21 +26976,29 @@ Raymond Lévesque
 Roshanne Etezady
 Ernest Bacquet
 Edmond Baur
-Cesar Bresgen
+Marie Desplechin
+Giuseppe Bardari
 A. Clasmet
 Walter Jurmann
+Matteo Peirone
+François Lemoine
 José Muniesa
 Paul Chabert des Nots
-Mateo Calvete
 Raymond Colcomb
+Mateo Calvete
 Vicente Coves
-Fernando Pessoa
 Madame Emile Bouchotte
 Jacques Debronkart
 Sungji Hong
-Christian Calon
+Gabriel Sarrazin
+Olga Borodina
+Mathieu Lecroart
+Laurent Campellone
+Renaud Machart
+Bert Kalmar
 Gaston d' Albano
 Odette Baert
+Boukhifa Tahar
 Alain Michel Riou
 Ioánnis Polémis
 R.E. Batho
@@ -21928,6 +27008,7 @@ Raffaello Rontani
 Jacques Salmon
 Marianne Camara Gomez
 Pedro Ontiveros
+Jukka Rasilainen
 Solomon Eckles
 Celso Lucio
 Marin Valtchanov
@@ -21936,10 +27017,10 @@ James DeMars
 Alain de Filippis
 Vivien Savage
 Patrick Roudier
+Antonio Allegretti
 Keren Ann Zeidel /Bardi Johannsson
 Francis Edward Bache
 Glauco Velásquez
-Paul de Kock
 Jan Nasco
 Laurent Rossi
 Antonio Santana
@@ -21948,10 +27029,12 @@ Pretor Part
 Joseph Broussard
 Mylène Farmer
 Robertus de Anglia
+Han-Na Chang
 Sebastian Virdung
 Fred Pearly
 P. Emile Béjot
 John Goss
+Rachel Harnisch
 Valéry Hussonmorel
 Charles Antropp
 A. Badier
@@ -21963,41 +27046,45 @@ Marion Ralincourt
 Cyrus Rezvani
 W. d' Ache
 Yasunori Mitsuda
+Camille Garcia
+Francis Rodière
 Alexander Yossifov
-Grégoire Lorieux
+Estelle Meyer
 C. Catzimbalis
 Claude Seurat
 René Christian-Frogé
+Bill Evans
 Raymond Murray Shafer
-Francis Burt
+Samani Bhena
 N. Ars
 Dr. Dre
 Hugues Chaffardon
 Raffaele Orgitano
 Édouard Adenis
 José Rolón
+Thomas Gounet
 Alessandro Nini
+Jonathan Lemalu
 Walter Dewgarde
 Adolphe Besoul
-Lucian Blaga
 Olof Åhlström
 P. de Crisenoy
-Michael Fabiano
 Francesco Petrobelli
 Francesco Corradini
 Arno Nadel
 Theodoricus Petri
+Nikolaus Selnecker
 Adolphe Brisson
 George Gershwin / Ira Gershwin
-Julián Bautista
-Emanuele Giannino
+Sydney Fierro
 Gabriele Fattorini
 Newman
 Placidus von Camerloher
 Daniel Wright
+Francis Dudziak
 Sebastián Raval
 Ad. Collinet
-Fanny Clamagirand
+François-Hippolyte Leroy
 Emile Caquelard
 Zenetudományi intézet
 Albert-Marie Guye
@@ -22008,26 +27095,27 @@ Ary de Bogota
 Hans Ulrich Staeps
 Fabrice Gratien
 Girolamo Giacobbi
-Jouko Linjama
 Giovanni Nicolò Mezzogorri
+Jouko Linjama
+Alexander Vinogradov
 Peter Eri
 Brigata Bucalossi
 José de Larranaga
 Marie Nageotte-Wilbouchewitch
+Francisco de Penalosa
 J.-D. Albert
 Stéphane Koedinger
 Marie-Jo Saury
 Jean Tardieu
 Michel Dintrich
 Lisa Randall
-Jacques Duvall
-Frédéric Rivoal
 Charles-François-Honoré Duquesnoy
 Alfred Jaëll
 André Hossein
 Louis Prodhomme
 Ye Xiaogang
 Valory
+Salomon
 Anton Georg Csermák
 Daniel Janin
 Julián Carrillo
@@ -22035,10 +27123,11 @@ Chantal Aubier
 Jeremy Drake
 Franz Alphons Wolpert
 Heinrich Aloys Praeger
-Daniel Seff
+Julien Hardy
 Albéric d' Alèbe
-Marquise E. de C.
+Vincent Scotto
 O. Brunetti
+Marquise E. de C.
 André Waignein
 Eugène Cerclier
 Antoine de Kontsky
@@ -22049,16 +27138,16 @@ Auguste Cook
 Louis-Charles Caigniez
 Rudolf Liechtenhan
 Rudolf Moser
+John Farmer
 Antoine Bessems
 A. Couchoud
 Clemens von Franckenstein
-Tamara Mumford
-François-Joseph Rauski
 Bernardo Pisano
+François-Joseph Rauski
 Chacón
-Caroline Loeb
 Eligio Vila
 Francisco Salinas
+Primo Levi
 Lucienne Barbirolli
 Nikolaus Duffek
 Lucien Bourgeois
@@ -22066,42 +27155,51 @@ Johann August Weppen
 Jordan Bonel
 Jo van den Booren
 Sébastien Rabiller
+John Gibson Lockhart
+Gwenola Sanquer
 Jean-Baptiste Bédard
+William Murdoch
 Maurice Audy
+Gabriella Fodor
 Raffaele Maneri
-Oleg Konstantinovic Ejges
+Francesco Palmieri
 Jean Berger
+Oleg Konstantinovic Ejges
 Johannes Möller
+Sebastian Noack
 Adolphe Dietrich
+Jahanbani Sina
 Richard Martin
 Brian Kelly
  Ladré
-Paolo Pandolfo
+Laurent Rannou
+Christophe Bernollin
 Francesco De Benedittis
 Rokuzaemon Kineya
 Jean Buffières
-Maurice Webster
 Louis Barisel
+Bastien Varigaut
+Henri Trianon
+Adolf Waterman
 Alfred Dauvergne
 Ambrose Field
-Adolf Waterman
 Henry Aymé
-Marie-Paule Nounou
-John Cale
 Rafael Martínez Valls
 Serge Belimov
 Emiliano Turi
 Monsieur Gosset
 Félicia Couturier
+Kate Goodebehere
 Vincent
 Jules Becht
 Hisatada Otaka
 Joseph-Marie Claudel
 Yau-sun Wong
 Paul Gilson
-Adrian Eröd
+Antonio Paso y Cano
+Francis Quarles
+Johanne Saunier
 Jean-Pierre Rolland
-Nicolas Ducloux
  Marc Hély/Jean Lenoir
 Bengt von Törne
 Babür Tongur
@@ -22112,31 +27210,37 @@ Jean-Paul Bottemanne
 Antonio Draghi
 Antoine Gautier de Montdorge
 Larry King
+Nathalie Steinberg
 Alfred Chaptal
+Herwig Pecoraro
 C. Delafosse
 Gasparo Visconti
-Francesco Salieri
+Erdem Cologlu
 Augustin de Piis
 Konono No.1
 Samir Bouchakara
+Bartolomeo Gottifredi
 Angelo Calamia
 Matthias Hermann
-Nadia Krasteva
 Arthur Kalkbrenner
 Armand Ferté
 Craig Sellar Lang
 Marie Bossu
 Emil Motia
 Albert Dangereux
-Bert Poulheim
 Pascal Charton
+Bert Poulheim
 Petrus de Domarto
+B.Y Forster
 Jean Gruault
+Carmen Giannattasio
 Emmanuel G. Capsambèli
 J. Gebauer
 Victor Gelu
+Pietro di Bianco
 Paul-Émile Debraux
 Marc Attali
+Jérôme Deschamps
 Nicolas Laoureux
 Daniéli
 Enrique Saavedra
@@ -22147,6 +27251,7 @@ Knud Jeppesen
 Manuel de Mesa
 Jacques-Simon Herz
  Sly and the Family Stone
+Hannah Weirich
 Luiz de Aquino
 Charles Nicosias
 David Guedj
@@ -22158,6 +27263,7 @@ Glenn Buhr
 Friedrich Hartmann Graf
 Étienne-Pierre Munier d'Haudimont
 M. De San Antonio
+Peter Sindhom
 Jean Cavignon
 Beniamino Cesi
 Johann Christian Brandes
@@ -22166,12 +27272,16 @@ Dominique Poutet
 Henri Burger
 Spooky Tooth
 Alexandre Bergès
+Joe Zawinul
 Julie Rousseau
-Wassily Kandinsky
+Lucile Tessier
 Louis Brunet
+Natalie Raybould
 Manuel Blanque
+adote ataah
 Joselito Fernandez
 Katharina Rosenberger
+Carlo Crivelli
 Georges Veyrat
 Maria Scibor
 Rodrigo Espinoza
@@ -22182,9 +27292,10 @@ Jean-Claude Buchard
 Alejandro Civilotti
 Arnold Massard
 Emile Bastin
+Nikolai Schukoff
 Umberto Bindi
 Joan Barter
-John Marsh
+Hacene Soudani
 Theo Brand
 Michael Altenburg
  DJ Spooky
@@ -22192,34 +27303,35 @@ Orfeo Vecchi
 Joannes Cuisean
 D. Owens
 Bernard Miller
+Markus Bruck
 C. G. Campagne
 Francisco Escalada
+Federico Longhi
 Sosho
 Arno  Babadjanian  
 Llorenç Barber
+Diego Salamanca
 Lutz-Werner Hesse
 Isaak Èmmanuilovič Babelʹ
-Salvatore Quasimodo
 P. Coutron
 Cesare Mazzonis
 John Travers
+Brett Dean
 John Paricelli
 Jennifer Glass
 J. Baume
-John Buller
 Patrick Poutoire
-Jean-Roger Caussimon
 Jacint Verdaguer
 Diederik Wissels
 Joseph Marie Piccini
 Donna McKevitt
 Frédéric Ricci
 Gerolamo Baruffaldi
-Arturo Gervasoni
 Jurgis Juozapaitis
 Wladyslava Markiewiczowna
 Louis Saladin
 Abel
+Colin aJudson
 F. Wilson
 Lucille Fletcher
 Daniel Stoppe
@@ -22228,6 +27340,7 @@ Scott Walker
 Giambattista Cimador
 Olov Helge
 Joseph Daussoigne-Méhul
+Peter Wagner
 Paul Colrat
 Jorge Nicolás Zulueta
 Emil Hartmann
@@ -22236,6 +27349,7 @@ Xavier Van Hooland
 Jean Berveiller
 Herbert Försch-Tenge
 Nils Björkander
+Vsevolod Grivnov
 Charles  Vanel
 Alfred Barbelet
 Wendelin Weissheimer
@@ -22246,10 +27360,13 @@ Louis Brassin
 Georges Bocuze
 Václav Kálik
 Pietro Ottoboni
+Bach Mai
+Johann Krieger
 Gaetano Pennino
 Abduhashin Isma'ilov
 Elias Dupré
 Roderik de Man
+Olivier Déjean
 Johann Gottfried Vierling
 Petrus Alamire
 Antoine Strub
@@ -22258,42 +27375,47 @@ Joan Ambrozio Dalza
 Jacques Lefebvre
 Bernardo Saddumene
 Jacque de Cysoing
+George Buchanan
 Ivan Doroschuk
 Salvador Guitierrez
 Marc Leprévost
 Arrangoïtz
 Camille de Sainte-Croix
-Alexina Louie
+Gilles Manney
 Junior Byles
 Gian Francesco, di Majo
 Lucinda Childs
-Matija Bravnicar
 Rita Strohl
 Marie-José Emery-Ledoux
 Raymond Chanoine-Davranches
+Alfredo Catalani
+Alexandre Durand
 George Posford
-Stéphane Jaouen
 Jordi Griso
 Bernfried E.G. Pröve
+Christian Lahondes
  Lauréats du concours Île-de-créations 2015
 Grigorij L'vovskij
 Matthew Curtis
-Paul de Senneville
+Marie-Laure Garnier
+Johann Christoph Vogel
+Julien Aléonard
 Jacopo Vittorelli
 Duplessis le cadet
 Honorina Caldas Barbosa
+Marin Bisson
 Sidney Homer
 Serge Ghisoland
 Ichiro Ishida
 Gina Beukes
 Héctor Quintanar
 Grammatio Metallo
-Sandor Veress
 Roger Bailly
 Nikolaj Nikolaevič Aseev
+Manfred Bittner
+Marta Graziolino
 Jacques-Antoine de Mignaux
 Mario Gautherat
-Patrick Zygmanowski
 A. Dardenne
 C. Andrea
 C. Arron-Leopré
@@ -22302,17 +27424,19 @@ Peter Child
 Nicolau Kokron
 Morton Subotnick
 Pierre-François-Alexandre Chevillard
+Francisco Salvador-Daniel
 Auguste Van Biene
 Hamid Medjebeur
+Adrian Clarke
 Jean-François Capony
 Alexandre Kosmicki
 Francesco Florimo
 Luther Ingram
 Olivier Rogg
-Denys Vinzant
 Paul Bouveret
 Pharrell Williams
 Stephen Jenks
+Antoine Garcin
 Mircea Basarab
 Enrique Villoldo
 Armando Cavalcanti
@@ -22320,9 +27444,11 @@ Celia Romero
 Joachim Bruel
 Antonio de Contreras
 Stefano Pesori
+Etienne Bazola
 Sangey Choden
  Santana
 Mats Ek
+Giorgio Mainerio
 Elizabeth Hoffman
 Matty Malneck
 Lucien Moraweck
@@ -22331,14 +27457,15 @@ Sylvain Gourlay
 Luis E. Nieto
 James Piorkowski
 Enrico Correggia
-Martin Haselböck
 René Herbin
 Numa Eveno
 Sergiu Natra
+Daniela Lehner
 Diana Salazar
 Gerome Ragni
 Paul Boistelle
  Codex de Las Huelgas, 72, f. 67v
+Miljenko Turk
 Charles Kienzl
 Roger Briand
 Jonathan Roberts
@@ -22348,19 +27475,18 @@ Thomas-Charles-Gaston Boissel de Monville
 Pierre-Francisque Caroubel
 Graham Powning
 Renaud Bastien
-George Harrison
-Andreas Burkhart
 Rémy Clavers
 Daude de Pradas
-Johann Ludwig Bach
 Noël Samyn
+Jean Daniel Hege
 Harry Kessler
-Giovanni Battista Spadi da Faenza
+zaley Daniel
 Nicola Campogrande
 Nikolaj Aleksandrovič Čaev
 Elmira Nazirova
 Johann August Just
-Christophe Willem
+Robert Hyman
+Raphaël Seguinier
 Salvador de Madariaga
 Roselyne Masset-Lecocq
 Berthold Damcke
@@ -22370,71 +27496,88 @@ Rose
 Sauveur Pichot
 François Damian
 J. B. Cerutti
+Amy Marcy Beach
 Anonyme (Autrichien ? c. 1670)
 Raoul d' Arnaud
 Robert Fripp
+Gregg Smith
 André Popp
 François de Lys
 Rosa Arban
 Wenceslas Cresté
+Alison Ascrizzi
 Fridolin Sicher
+Bryan Christian
 L. Ayre
 Frédéric Bérat
 Eugène Debouvre
 Dean C. Taylor
-Paul Burkhard
 Georg Friedrich Haendel  / Franz Liszt
 William Seymer
+Bonaventura Rubino
 Ed. Breniquet
 Jacques de Belleville
 Blanche de Castille
 Sergio Siaba
+Raquel Lojendio
 Armand Merck
 Luc Bergé
 Félix Hesse
+Thomas Tatzl
 Antonio Archilei
 Franck Christoph Yeznikian
 William Inglot
 Rinaldo Del Mel
+Christophe Henry
 Christophe Rodomisto
 Roberto Pineda
+Benjamin Glorieux
 Frances Brooke
 Giacomo Badoaro
-Arnaud Boukhitine
-Jean-Marie Frémeau
+Guido Loconsolo
 Youssef Khan Nazare-Aga
 Alamiro Giampieri
 Ioan Dumitru Chirescu
+Nicolas Sokolov
 Loys Bourgeois
 Edward Herbert Herbert of Cherbury
-Agostino Di Scipio
+Christophe Gay
 Sigurd Islandsmoen
+Agostino Di Scipio
+Claudia Barainsky
 Carlinhos Brown
 Pierre de Jélyotte
 Anaïs Croze
 Olivier Toussaint
+Sant'Angioli-Morbilli
 Jérôme Pigeon
 Maurice Jacobson
 C. Chatelin
 M. L.
+Yorck Felix Speer
 Lionel Sow
 Joo Kraus
+Elodie Adler
+Giuseppe Antonio Brescianello
 Luis Mariano de Larra
+Stéphane Touvenin
+Benjamin Bevan
 Carlo dell' Arpa
 John Caird
 Atli Ingolfsson
+Beat Furrer
 A. Brunel
 J. Boutnikoff
 David Martial
 Michel Suarez
 Paulo Vanzolini
-Flavio Ferri-Benedetti
 Christoph Sätzl
 Albert
 K. Chehab
 Innocent Lamparelli
 Léopold Sédar Senghor
 Simon Milton
+Pablo Sorazabal
 Gunnar Sonstevold
 Pongrác Kacsoh
 Louis Castel
@@ -22446,15 +27589,15 @@ Andrew Earle Simpson
  Patrimoine tunisien
 Konstantin Konstantinovič
 Stanislaw Niewiadomski
+Bernard Friot
 Patrick Cassidy
 Orazio Persiani
 Jean-François Guichard
-Gilbert Duprez
 Gunnar Törnvall
 Acho Manzi
 Robin Milford
 Virgilius Haugk
-Marcel Bitsch
+Léon Guillot De Saix
 Carlo Cozzi
 Pieter Alewynszoon De Vois
 Lily Bienvenu
@@ -22463,11 +27606,13 @@ Bonneau
 Diam's
 Milan Ristić
 Martial Caillebotte
-Kala Ramnath
+Victor Wilder
 Hippolyte Bis
 Jean-Serge Beltrando
+David Soley
 Nayi Osman Dede
 Kurt Schwaen
+Marcio Soares Holanda
 Wassim Halal
 Alice Sauvrezis
 Matilde Ardavani
@@ -22479,39 +27624,48 @@ Jan Čejka
 Peixun Chen
 Santos de Aliseda
 Joseph Zurkinden
+Ekaterina Semenchuk
+Stefan Vinke
 Charles Monzat
 Carlo Pedrotti
 Matthias Vanden Gheyn
-Friedrich Schenker
+Ali Akbar
+Michele Mascitti
 Juan Bautista Pla
 Auguste Kreutzer
 Eitan Steinberg
+Fabrice Lamarre
 Joan Verdalet
-Abdel Rahman el Bacha
 Julien Luchaire
 Bernard Malait
  Flower
-John Stevens
 Wilhelmine Friederike Sophie
 Charles de Lusse
-Horacio Ferrer
+Ulrich Löffler
 Raymond Touati
+Dario Castello
+Jaromir Klepac
+Sam Holcroft
 Bernie Hanighen
 Luigi Mosca
+Guillaume De Poitiers
 Joseph Tagliafico
 Kay Holmquist
 Salvator Rosa
 Lorenzo Fago
 Bruce Saylor
 Albert Renaud
+Weiss
 Nicolo Brocco
-Jean-Claude Gallotta
+Christina Athinodorou
 Jim Jacobs
+Nahuel Pierro Di
 Louis Lautrec
+Henri Viii
 Ramona Luengen
+Lefrançois Carmen
 Anonyme / Masque of Queens 1609
 Cornelius Heyns
-Moneim Adwan
 Joseph M. Daly
 Ralf Wehowsky
 José Viana da Mota
@@ -22524,6 +27678,7 @@ Miloslav Bureš
 Victor Martin
 Ottavio Durante
 Jenneval
+Joseph Chabanceau De La Barre
 J. Barcò
 Jean Barbou
  Anonyme (Mss. Las Huelgas)
@@ -22532,31 +27687,32 @@ Albert Carré
 Bühler
 Kim D. Sherman
 Ben Bernie & Maceo Pinkard
-Peter Pears
+Roberto Rizzi-Brignoli
 J. Clary-Aldringen
-Amaury Du Closel
+Guy de Mey
 Girolamo Galavotti
 Monsieur de Grigny
 Maxime Hoarau
 Sally Potter
 Jean-Étienne Marie
 Gunnar Germeten
-Friedrich von Matthisson
 Ndeye Mbaye Djinema-Djinema
 Leonardo Giliberto
 José Triguinho Ferreira
+Jean-Claude Velin
 Fred Ebb
 Roman Palester
 Bedrich Divis Weber
+Valentin Azan
 Richard Addinsell
 Juan Monton y Mallen
 Joseph Wackenthaler
 Alexandra Cserveny
+Simona Mihai
 Andrzej Kurylewicz
 Pedro Kröger
-P. Bernardini
 Sudha Mayee
-Maria Luigia Borsi
+P. Bernardini
 Vladimir Aleksandrovich Vlasov
 Ignazio Maria Mancini
 Dexter Morrill
@@ -22570,36 +27726,40 @@ Serge Di Mosole
 Wolfgang Motz
 Manuel Gaytán y Arteaga
 Antoine Fabre d'Olivet
+Robert Juel
 Louis Chantelat
 Eduard Birbaum
 Dieudonné-Pascal Pieltain
 Madame de Villeblanche
 Christoph-Willibald Gluck
+Maija Kovalevska
 Rudy Stevenson
 James James
 Eugène Poncin
 Jan Willem Frans Brandts Buys
 Miroslav Miletić
-Arturo Rossato
 Eugene O'Brien
+Arturo Rossato
 Zekarias Getahun
 Benjamin West
 Edwin Franko Goldman
 Toby Watkin
-R. Chateau
 Luis Martínez Román
+R. Chateau
+Frédéric Cuif
 Henry Creamer
 Marius Alonso
 Rockingham
 Louis de Serres
 Nadine von Kolowrat-Krakowsky
+Oleksiy Palchykov
+Frank Reinecke
 David Severac / Alexis Bocher
 Blazej Jicínsky
 Aurelian Octav Popa
 Pierre Luboshutz
 Alison Stephens
 Antonio Riganti
-Kent
 Heinz Reichert
 Dieter Schönbach
 Mathieu Lanes
@@ -22614,13 +27774,16 @@ Francisco Gil
 Fabio Maffei
 Thomas Puéchavy
 Hippolyte Cogniard
+Paul Eluard
 Matthew Barber
+Elena Tsallagova
+Agostino Piovene
 Harold Harlen
 Carlo Sturla
 Ernst Boucke
 Mihail Strokin
+Peter Schneider
 Luis Mercy
-Peter Sculthorpe
 Hans-Peter Stubbe Teglbjaerg
 Bartoletti
  Jane Bos
@@ -22628,7 +27791,6 @@ Herbert Murrill
 Antonius de Vinea
 Amédée Carbonnel
 Vincenzo Grimani
-Pierre-Henri Dutron
 Walter Steffens
 Édouard Schneider
 John F. Burrowes
@@ -22639,51 +27801,63 @@ Jianping Tang
 Johann Anton André
 Georges van Parys
 Barthélémy-Etienne Dumont
+Branger Ollivia
 Marie-Thérèse Charlet
 Vaclav Fomič Nižinskij
 Jean Pagot
 Clement Kong
-Christian Rivet
 Alain Renard
 Myrtil Boutier
-Olivier Regnault
+Romano Dal Zovo
 Manuel Mujica Láinez
+Olivier Regnault
+Judith Gauthier
 Auguste Schuller
 Johann Georg Christian Störl
 Johann Baptist Gänsbacher
 Rinaldo Rossi
+François-Xavier Phan
 Eugène Décory
 Antonio Il Verso
 Laurent  Katracazos
 Ferenc Szabó
+Stéphane Poidevin
 Robert Lafond
 Jacques David
-Roland Petit
 Jan Antoni Wichrowski
+Deborah Polaski
 Manuel Acuña
 Carola Bauckholt
 H. Berberian
-Luis Fernando Rizo-Salom
+Julien Hainsworth
  Manuscrit de San Juan del Monte
+Giacomo Badoaro
 Victor Rydberg
+Michiyoshi Inoue
+Enrique Barona
 Ronald Duncan
 J. C. Moller
 Paul Schott
 Luigi Lechi
 Barbara Strzelecka
 N. Rajam
+Maarten Lowel
 Louis Caussade
+Marcos Fink
 Giovanni Paolo Nodari
 Prosper Sain d'Arod
-Véronique Lafargue
+Vadim Zaplechny
 Frank Nuyts
+Philippe Bergère
 Johnny S. Black
+Carl Czerny
 Jacques Dupin
 Jehan Vaillant
 Paul Conty
 Fernando Ferandiere
 Gerhard Diessener
 M. de Rougemont
+Nathalie Stutzmann
 Isabelle Pignol
 Mihail Abramovič Červinskij
 Albert Bénard
@@ -22692,30 +27866,30 @@ Erik L. F. Contzius
 Amos Bull
 Andrieu Contredit
 Charlotte Seither
-Jean-François Delfour
 Anne Etevenon
 Stephen Darlington
 H. Trotère
 Giovanni de Bardi
-Morten Olsen
+Jean-Charles di Zazzo
 Alphonse de Liguori
 Robert Frost
 Charles Aulagnon
 Philippe Biclot
+Stephen Schwartz
 Max Eberwein
 Loris Talmart
 Charles Silver
-Roger Reynolds
 Mitchell Stecker
+Laura Bowler
 Don D. Robey
 Charlotte Daubry
 Giacomo Conterno
 David Nowakowsky
-Al Green
 Henri Boubal
 Christina Seifert
 Juan Jerónimo Charles
 Gemba Fujita
+Katarina Dalayman
 Georgius Victorinus
 Jose Serrano
 Theo Verbeij
@@ -22727,58 +27901,64 @@ James Lyon
 Pierre Albert Castanet
 Jean-Loup Longnon
 Jean-Pierre Mas
-Gilles Bugeaud
+Charles Auguste de Morny
 Christian Gottlieb Postel
 Marisa Manchado Torres
-Gustav Jenner
 Rémi Gousseau
 Emöke Tavassy
 Walter Taieb
-Henri Herz
+laurent CESAR
 Christopher Neame
 N. Louis
 Steve Cropper
 Guillaume de Ferrières
 Sjef van Balkom
 Tawasit Al-Hauj Mir Fakhruddin Ana
+Saïd Abou Saïd
 Pierre André Athané
+Ksenia Vyaznikova
 Fernand-Raoul Robert
 Joseph Coppey
 Reinhold Bartel
 Staffan Björklund
-Jean Giraudoux
 Pierre Baudouin-Bugnet
+Jorge Sanchez-Chiong
 Larry Sitsky
 Walter de Afogados
 Marc Franceries
-Christophe Ghristi
 Maurice Harrus
+Philippe Berrod
 Emelie Chouicha
 Paul Boisselot
 Bob Seger
 Guy Houllier
-Alexandre Beaumont
-Florentino Calvo
 Federico Benedetti
-Jochen Schmeckenbecher
 Giovan Leonardo Primavera
-André Chénier
 Hans Judenkünig
+Mario Lavista
 Jules Perrin
+Antal Endre Nagy
 L. Oscar Albertin
 Arthur Laurents
+Philip Addis
 Sean Heim
+Cristobal Galan
 Vincent Albe d'
+Malika Yessetova
+Percy Whitlock
 Pierre Droual / Hélène Labarrière
-Fabien Tehericsen
 Corigniani
 Osman Yurdal Tokcan
+Alphonse-Denis-Marie de Vismes
 Mathilde Wesendonk
+Ricardo Bernal
 Patrice Couineau
 Macy Carleton
 Paulo Da Fontoura
 Nicolas Piccini
+Tony Silvestri
 Danielle Salvignol
+Agata Schmidt
 Louis-Edme Dessaux
 Johannes Hanssen
 Italo Montemezzi
@@ -22788,29 +27968,31 @@ Grigoris Constantinidis
 Vinicius de Moraes
 Edouard Perrin
 Thomas Demenga
+Wang Lu
+Raphaëlle Delaunay
 Frank Paparelli
+Ute Gfrerer
 Benoît-Emmanuel Defrance
-Suzanne Pillevesse
 Joaquin Abati
+Suzanne Pillevesse
 Samuel Camp
 Claude Clément
 Leilei Tian
 Paolo Amiati
+Pierre Valleo
 Noel Bauldeweyn
+Alexei Parine
 Émile-Eugène Fournier-Allix
-Mathew Adkins
 Bernard Fleurette
 Charles Chaubet
 Igor Stravinski / Guido Agosti
 Johanna Carlos
 Alain Celo
-Bernadetta Matuszczak
 Jacques Robert
+Bernadetta Matuszczak
 Manuel Campillos
-Howard Shore
 Daniel Pearl
 William Brunson
-Paul Arène
 José Antonio Rincón
 Sir John Tavener
 Charles André
@@ -22820,9 +28002,11 @@ Malik Elmaghraoui
 Gilles Pauget
 Guy d' Alezac
 Patrick Coutin
+Emile Ronn
 Eleonore Fourniau
 Giuseppe Parini
 A.H. Schultzen
+Louis-Ferdinand Celine
 Jean Lapointe
 Konstantin Babic
 José Feliu y Codina
@@ -22830,32 +28014,32 @@ Jean-Michel Bardez
 E. Bardon
 Johann Georg Herzog
 Francis Antonetti
-Jorma Panula
 Basak Dilara Özdemir
 Louis Baldy
-Jean-Antoine Roucher
+Chloé Briot
 Ernst Raupach
 Philippe Verini
-Nick Cave
 Enrique de Melchor
 Franciszek Lessel
+Manfred Greiffenhagen
 Maria Konopnicka
+Donald Palumbo
 Gérard Devos
 Joan-Luis Moraleda
+Umberto Chiummo
 Henry Courbot
-David Bizic
 Rudolf Dellinger
 Manuel Villarroel
 Mina Small
+nouvelot chantal
 Sulho Ranta
 Osmonqul Bolobalaev
-Sylvain Richardot
 I. Alamir Foucart
-Jean-Marie Carlotti
 A. Beyermann
 Dietmar Polaczek
 David Sanford
 Gaston Nardon
+Marina Hands
 Guillaume Vautier
 Louise Charpentier
 Dimitri Basos
@@ -22865,30 +28049,37 @@ Daniel Burges
 D. Giuseppe Della Valle
 Miguel Angel Roig-Francoli
 De Lalo
-Clare Fisher
+Vaclav Pokorny
 Albert Schnelzer
 Charles N. Daniels
+piet alain
+Ivan Thirion
 Florentio Maschera
+Françoise Larrat
 Andreas Randel
-Jacqueline Batell
 Étienne de Liège
 Alfred Roland
+Johann Andreas Cramer
 William Tisdale
 William Saint-Val
 Heikki Aaltoila
+Geoffrey Parsons
 August Gottfried Ritter
 Théozed
-Geri Allen
 Hubert-Félix Thiéfaine
 Leif Solberg
 Marcin Błażewicz
+Antonia Contreras
 George Loosemore
+Samuel Youn
 Fabien Fons
+Nikita Koshkin
 Antón de España
 Adalbert Mercier
 Gustav Pfarrius
 Duplessis Lenoir
 Alex Augier
+Andreas Conrad
 Matthieu Fraysse
 Gregorios Protopsaltes
 Paul de Maleingreau
@@ -22900,12 +28091,13 @@ Benjamin Holt
 Sulchan Zinzadse
 Katsutoshi Nagasawa
 H. Dawid Korenchendler
-Guy Lafarge
 Michael Wise
 Johann Balthasar König
+Angel Corella
 André Engel
 Norbert Mateusz Kuźnik
 Fritz Jöde
+Corinne Marquet
 Hanus Barton
 François Carlot
 David Watkins
@@ -22913,23 +28105,28 @@ Mika Pelo
 Yasutarō Tsurusawa
 Odile Marcel
 Michel Vaucaire
+Francesco Antonioni
+Francesco-Bartolomeo Conti
 Farid Zehar
+Bernard Lagniel
 Vathapi Ganapathim
 William Drummond
 Rokusaburō Kineya
 E. Chutin
 Richard Sanderson
+Betty Comden
 Briquet
 Edouard Caby
+Stuart Skelton
 Pran Nath
 Paul Alday
 Vincenzo Fabrizi
+Artur Manukyan
 Guillerno Klein
 Thomas Packe
 Nicola Sani
 Paul Peuerl
 Leonhard Frischmuth
-Giuseppe Grazioli
 Emil Frantisek Burian
 Dallas Good
 Toqtogul Satylganov
@@ -22939,61 +28136,74 @@ Aida Khan
 Girolamo Castelli
 Michael Tilson Thomas
 Daniel Capelletti
+Hubert Parry
 Bernard Piris
 Philippot (attribué à) de Caserta
-Stefano Bollani
+Anatoli Konstantinovitch Liadov
+John Clifford
 Peter Wishart
 Fleury
 Hans Samuel
+Pierre de Larivey
+Lara Matteini
 Josef Labor
+Charles Henri Valentin Alkan
 William Wigthorpe
 Foday Musa Suso
 Paul Darbefeuille
 Lura
 Hamza al- Dîn
+Michelle Canniccioni
 Martin Smolka
 Johannes Zentner
+Andreas Früh
 Newton Armstrong
 G. Chastre
 Thomas Désy
-Yves Baudrier
 Victor Lefebvre
 Maria Theresa von Paradis
 Sergio Lanza
 Marcos Coelho Netto
 Garci Sánchez de Badajoz
+Laurie Anderson
 F. Astol
+Marie Pappenheim
 Anders Hultqvist
 Carlos Santos
 Jianer Zhu
 Boris Bergman
 Gérard Kawczynski
+Nestor Koukolnik
 Joe Henry
 Gino Samyn
 Fernand Coudrier
+T'ai Po Li
 Louis Bernard-Saraz
 Hans Oser
 Johann Sebastian Bach /   Ignaz Friedman
 Serafín Pro
 André Guigou
 Giulio Cesare Monteverdi
-Régis Poulain
 Joachim Stutschewsky
 Pierre Charpentier de Longchamps
 Gérard Authelain
 Antoine Chessex
 Domenico Alaleona
 Jörgen Dafgård
-Alfred Alessandrescu
 Vivian Ellis
+Tim Parkinson
 David Merrill
+Phillipe Favette Arcas
+Julia Kleiter
 Hanno Haag
 Milton Nascimento
 Antoine Sahler
 William Levi Dawson
 Paul Dazy
 Franz von Blon
+Rebecca Bottone
 Jorge Silva Melo
+SOL Marcus
 Richard Teitelbaum
 Antoine Schmitt
 Alain Morisot
@@ -23001,13 +28211,13 @@ Marcel Lefebvre
 Christine McVie
 Vincenzo Pace
 Supply Belcher
-Marcel Mihalovici
 Thomas Agerfeldt Olesen
-Philippe Blanchard
 Ernest Lefèvre-Dérodé
+Temirov Ulugbek
 Paul Wüst
 Jacques Rebour
 Jean Abauzit
+Malin Hartelius
 Anthony Payne
 Camillo Orlandi
 Claude Debussy / Robin Holloway
@@ -23016,26 +28226,33 @@ Nikolaj Andreevic Roslavec
 Gilles Millière
 Felipe Teixidor Latorre
 Justinian Tamusuza
-Peter Westergaard
+Thor-Harald Johnsen
 Christian Bobin
+Peter Westergaard
 Jane Vieu
 Kees Olthuis
 Emile Berny
 Praetorian Vlaiculescu
 Joseph Chevalier
+Alain Rigollet
 Henry Purcell / Benjamin Britten
 Giacomo Castrati
 Carl-Axel Dominique
-Rudolf Sieczynski
 Maxime Barat
 Jacques Bernard
+Laura Parra
+Carl Ditters von Dittersdorf
+Maryse Steiner-Morlot
 Ivan Vectomov
 Jean-Louis d' Onorio
+Charles De Coster
 Ed. Choquet
-Guillaume Gaveaux
+Walter Robert-Tornow
 Constantine Callinicos
+Guillaume Gaveaux
 Josefa Fernanda Luisa de Bourbon
 Calogero Maurici
+Erika Taube
 Thomas Preston
 Félix Boisson
 Noël Colombier
@@ -23044,7 +28261,6 @@ Lebo M
 Gaetano Nava
 Odile Duboc
 Richard Neville
-Barthélemy-Christophe Fagan
 Gabriel Valverde
 Giovanni Serragli
 Jean Della Valle
@@ -23053,43 +28269,57 @@ Suzanne Bergeon
 J. Baretta
 Italo Vescovo
 Martine Cadieu
-Maurice Franck
+Louise Héritte-Viardot
 Paul Puget
 André Sardou
 Sultan Ismail ogly Gadžibekov
 Joseph-Marie Louis
 Richard Carlton
+Jules Supervielle
+Daniel Auchincloss
 Maria Manuel Sid
 Camille Distel
 J. Faure
+Sophie Leleu
 Toshimitsu Tanaka
 Alberto Calzia
 Pol Steve
 A. Cloy
-Douglas J. Cuomo
+Manuel Lopez-Gomez
 Uc Brunenc
+Douglas J. Cuomo
 José Palomino
 Ney Rosauro
+Christophe Berner
 Jakob van Domselaer
-Maurice Hennequin
-John Stewart
 Domenico Maria Ferrabosco
 Shaffer Smith
 J.-Victor Dehurle
+Iain Paterson
 Aleksej Turenkov
+Claudio Achillini
 Thomas Wilson
 Mr. Hills
-Francis Courtot
+Mildred Hill
+Luca Antignani
+Andrea Arrivabene
 Gustav Peter
 Léopold Chibourg
 Émile Mariotte
+Brigitte Hool
 Johann Abraham Peter Schulz
 Paul Obermayer
+Riad El Sumbati
+Janja Vuletic
+Oriane Philippe
 Pierre Daulphin
 Johann Philipp Fortsch
+Rudolf Leopold
 Giovanni Domenico Ferrandini
 Luis Bernardo Jalón
 H. D. de Parviller
+Matthew Locke
+Aloys Wilhelm Schreiber
 Lawrence Inns
 Phil Boutelje
 Johannes Symonis Hasprois
@@ -23099,17 +28329,16 @@ José Martinez de Arce
 Witold Szalonek
  Robert de Flers/Francis de Croisset/Reynaldo Hahn
 Yannick Jory
-Kálmán Strausz
 José Civil
 Julio Monteiro
 Jenő Heltai
 Luis Capdevila
+Henry Kramer
 Maurice Blanchot
 Fritz Geissler
 Cyrille Hambli
-James Campbell
-Jordan Gudefin
 Pierick Houdy
+Jordan Gudefin
 Mihail Vasilʹevič Lomonosov
  Danses assises d'Aceh (Sumatra, Indonésie)
 Mikuláš Schneider-Trnavský
@@ -23118,6 +28347,7 @@ Dominique Gable
 Gil Shohat
 François-Xavier Dupas
 Fernando Ferrer Martinez
+Jean-François Marinello
 Margaret Allison
 Boris Benini
 Claude Chandon de Briailles
@@ -23126,16 +28356,16 @@ Aleksandr Aleksandrovič Šahovskoj
 K. Suni
 Filippo Cherubini
 La Barre
+Emanuele d' Astorga
 Barthélémi-Ambroise Planterre
-Elizabeth Calleo
 Jean-Marie Gagez
 Grenier
 Mark Campbell
 Maurice C. Whitney
-Marie-Ange Martin
 Niels Rønsholdt
 Luce Guéla
 Siegfried Strohbach
+Pierre Marcabru
 Torstein Angaard-Nilsen
 Nic Jodoin
 Yuquijiro Yocoh
@@ -23143,14 +28373,16 @@ Fabrizio Cassol
 Virginie Aster
 Mihail Arkadev
 Pablo Milanes
+Evgueni Evtouchenko
 Frédéric Pattar
 James Tenney
-Thierry Eliez
 Chris DeBlasio
 Christian Robert
 Etienne Arnaud
 Paul-Emile McCaughan
-Ronald Bruce Smith
 de Rancé
+Ronald Bruce Smith
 Frank W. Meacham
+Eric Brochard
+Alexei Tatarintsev
 Henry François de Gallot
