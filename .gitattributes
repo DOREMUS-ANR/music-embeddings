@@ -1,0 +1,4 @@
+artist.emb filter=lfs diff=lfs merge=lfs -text
+expression.emb filter=lfs diff=lfs merge=lfs -text
+artist.emb.long filter=lfs diff=lfs merge=lfs -text
+expression.emb.long filter=lfs diff=lfs merge=lfs -text

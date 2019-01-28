@@ -1,1 +1,2 @@
-*.emb
+*.emb_raw
+.DS_Store
