@@ -13,7 +13,7 @@ The embeddings have been computed on top of the [DOREMUS knowledge base](http://
 For each different concept, we provide 3 different files:
 - `*.emb.u` **URI file**, that contains the URIs of involved resources;
 - `*.emb.l` **Label file**, with the label in English (if present) or in any available language;
-- `*.emb.v` **Vector file**, which contains the embeddings as space-separated floats in the interval (-1, +1).
+- `*.emb` **Vector file**, which contains the embeddings in a [Gensim](https://radimrehurek.com/gensim/)-compatible format.
 
 For more complex concepts like artists and expressions, we provide also:
 - `*.emb.h` **Header file**, that contains the ordered list of involved sub-features with the relative number of related dimensions (i.e. in the `artist.emb.h`, the first 2 dimensions refer to the period).
